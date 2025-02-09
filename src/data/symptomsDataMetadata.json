@@ -1,0 +1,484 @@
+{
+  "sintomasMeta": {
+    "main": {
+      "title": "Síntomas - Dra. Martha Ruiz Peñaloza",
+      "description": "Información sobre síntomas relativos a alergología e inmunológicas tratadas por la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro.",
+      "openGraph": {
+        "title": "Síntomas relacionados a Alergología e Inmunológicas Pediátricas",
+        "description": "Conozca los síntomas relativos a alérgología e inmunológicas que tratamos en niños.",
+        "url": "https://www.alergologadramartharuiz.com/sintomas"
+      },
+      "alternates": {
+        "canonical": "https://www.alergologadramartharuiz.com/sintomas"
+      }
+    }
+  },
+  "symptoms": [
+    {
+      "id": "congestion-nasal-persistente",
+      "name": "Congestión Nasal Persistente",
+      "shortDescription": "Obtén tratamiento para la congestión nasal persistente en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
+      "description": "La congestión nasal persistente es una obstrucción o bloqueo continuo en las fosas nasales que dificulta la respiración y puede deberse a alergias, rinitis crónica o sinusitis.",
+      "causes": [
+        "Rinitis alérgica (polen, ácaros, caspa de mascotas)",
+        "Sinusitis crónica",
+        "Pólipos nasales",
+        "Desviación del tabique nasal",
+        "Irritantes ambientales (humo, polvo)"
+      ],
+      "relatedConditions": [
+        "Rinitis Alérgica",
+        "Sinusitis Alérgica Crónica",
+        "Rinoconjuntivitis Alérgica"
+      ],
+      "managementTips": [
+        "Realizar lavados nasales con solución salina",
+        "Evitar la exposición a alérgenos",
+        "Usar humidificadores en ambientes secos",
+        "Consultar a un especialista para evaluación integral"
+      ],
+      "ctaText": "No dejes que la congestión nasal persistente limite tu respiración diaria. Agenda una consulta con la Dra. Martha Ruiz Peñaloza y recupera tu bienestar respiratorio.",
+      "imageHome": "/images/symptoms/congestion-nasal-persistente.jpg",
+      "imageIndividual": "/images/symptoms/congestion-nasal-persistente.jpg",
+      "iconIndividual": "/images/icons/symptoms/congestion-nasal-persistente.svg",
+      "metadata": {
+        "title": "Tratamiento a Congestión Nasal Persistente en Santiago de Querétaro, Querétaro",
+        "description": "Obtén tratamiento para la congestión nasal persistente en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
+        "keywords": [
+          "Especialista en congestión nasal persistente en Santiago de Querétaro",
+          "Causas de congestión nasal persistente",
+          "El mejor tratamiento para congestión nasal persistente en Santiago de Querétaro",
+          "Tratamiento para congestión nasal persistente en Santiago de Querétaro",
+          "Experto en congestión nasal persistente en Santiago de Querétaro",
+          "Atención médica de congestión nasal persistente en Santiago de Querétaro",
+          "Quien atiende congestión nasal persistente en Santiago de Querétaro",
+          "Médico para congestión nasal persistente en Santiago de Querétaro",
+          "Qué doctor atiende congestión nasal persistente en Santiago de Querétaro",
+          "Cómo tratar congestión nasal persistente"
+        ],
+        "openGraph": {
+          "title": "Tratamiento a Congestión Nasal Persistente - Dra. Martha Ruiz Peñaloza",
+          "description": "Obtén tratamiento para la congestión nasal persistente en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
+          "url": "https://www.alergologadramartharuiz.com/sintomas/congestion-nasal-persistente"
+        },
+        "alternates": {
+          "canonical": "https://www.alergologadramartharuiz.com/sintomas/congestion-nasal-persistente"
+        }
+      }
+    },
+    {
+      "id": "estornudos-frecuentes",
+      "name": "Estornudos Frecuentes",
+      "shortDescription": "Recibe tratamiento para estornudos frecuentes en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
+      "description": "Los estornudos frecuentes pueden indicar una irritación nasal recurrente, generalmente por alergias ambientales o infecciones leves de vías respiratorias.",
+      "causes": [
+        "Alergias a pólenes, polvo o animales",
+        "Cambios bruscos de temperatura",
+        "Resfriados comunes",
+        "Exposición a irritantes como humo o perfumes"
+      ],
+      "relatedConditions": [
+        "Rinitis Alérgica",
+        "Resfriado Común",
+        "Rinoconjuntivitis Alérgica"
+      ],
+      "managementTips": [
+        "Mantener un ambiente libre de polvo",
+        "Usar antihistamínicos según indicación médica",
+        "Evitar perfumes o químicos fuertes",
+        "Lavar la nariz con suero fisiológico"
+      ],
+      "ctaText": "Despídete de los estornudos constantes. Agenda tu cita con la Dra. Martha Ruiz Peñaloza y mantén tu nariz libre de molestias.",
+      "imageHome": "/images/symptoms/estornudos-frecuentes.jpg",
+      "imageIndividual": "/images/symptoms/estornudos-frecuentes.jpg",
+      "iconIndividual": "/images/icons/symptoms/estornudos-frecuentes.svg",
+      "metadata": {
+        "title": "Tratamiento a Estornudos Frecuentes en Santiago de Querétaro, Querétaro",
+        "description": "Recibe tratamiento para estornudos frecuentes en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
+        "keywords": [
+          "Especialista en estornudos frecuentes en Santiago de Querétaro",
+          "Causas de estornudos frecuentes",
+          "El mejor tratamiento para estornudos frecuentes en Santiago de Querétaro",
+          "Tratamiento para estornudos frecuentes en Santiago de Querétaro",
+          "Experto en estornudos frecuentes en Santiago de Querétaro",
+          "Atención médica de estornudos frecuentes en Santiago de Querétaro",
+          "Quien atiende estornudos frecuentes en Santiago de Querétaro",
+          "Médico para estornudos frecuentes en Santiago de Querétaro",
+          "Qué doctor atiende estornudos frecuentes en Santiago de Querétaro",
+          "Cómo tratar estornudos frecuentes"
+        ],
+        "openGraph": {
+          "title": "Tratamiento a Estornudos Frecuentes - Dra. Martha Ruiz Peñaloza",
+          "description": "Recibe tratamiento para estornudos frecuentes en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
+          "url": "https://www.alergologadramartharuiz.com/sintomas/estornudos-frecuentes"
+        },
+        "alternates": {
+          "canonical": "https://www.alergologadramartharuiz.com/sintomas/estornudos-frecuentes"
+        }
+      }
+    },
+    {
+      "id": "dificultad-para-respirar",
+      "name": "Dificultad para Respirar",
+      "shortDescription": "Soluciona la dificultad para respirar en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
+      "description": "La dificultad para respirar (disnea) es una sensación de falta de aire o esfuerzo excesivo al inhalar. Puede presentarse en condiciones alérgicas, asma u otras enfermedades respiratorias.",
+      "causes": [
+        "Asma o broncoespasmo",
+        "Infecciones respiratorias",
+        "Rinitis o sinusitis severas",
+        "Ansiedad o estrés",
+        "Problemas cardíacos o pulmonares subyacentes"
+      ],
+      "relatedConditions": [
+        "Asma",
+        "Rinitis Alérgica",
+        "Anafilaxia (en casos agudos)",
+        "Infección de las Vías Respiratorias"
+      ],
+      "managementTips": [
+        "Utilizar inhaladores según prescripción",
+        "Evitar desencadenantes alérgicos",
+        "Practicar técnicas de respiración y relajación",
+        "Acudir al médico si la disnea empeora"
+      ],
+      "ctaText": "No dejes que la falta de aire limite tus actividades. Agenda tu consulta con la Dra. Martha Ruiz Peñaloza y respira con libertad.",
+      "imageHome": "/images/symptoms/dificultad-para-respirar.jpg",
+      "imageIndividual": "/images/symptoms/dificultad-para-respirar.jpg",
+      "iconIndividual": "/images/icons/symptoms/dificultad-para-respirar.svg",
+      "metadata": {
+        "title": "Tratamiento a Dificultad para Respirar en Santiago de Querétaro, Querétaro",
+        "description": "Soluciona la dificultad para respirar en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
+        "keywords": [
+          "Especialista en dificultad para respirar en Santiago de Querétaro",
+          "Causas de dificultad para respirar",
+          "El mejor tratamiento para dificultad para respirar en Santiago de Querétaro",
+          "Tratamiento para dificultad para respirar en Santiago de Querétaro",
+          "Experto en dificultad para respirar en Santiago de Querétaro",
+          "Atención médica de dificultad para respirar en Santiago de Querétaro",
+          "Quien atiende dificultad para respirar en Santiago de Querétaro",
+          "Médico para dificultad para respirar en Santiago de Querétaro",
+          "Qué doctor atiende dificultad para respirar en Santiago de Querétaro",
+          "Cómo tratar dificultad para respirar"
+        ],
+        "openGraph": {
+          "title": "Tratamiento a Dificultad para Respirar - Dra. Martha Ruiz Peñaloza",
+          "description": "Soluciona la dificultad para respirar en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
+          "url": "https://www.alergologadramartharuiz.com/sintomas/dificultad-para-respirar"
+        },
+        "alternates": {
+          "canonical": "https://www.alergologadramartharuiz.com/sintomas/dificultad-para-respirar"
+        }
+      }
+    },
+    {
+      "id": "tos-cronica",
+      "name": "Tos Crónica",
+      "shortDescription": "Obtén tratamiento para la tos crónica en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
+      "description": "La tos crónica es aquella que persiste durante semanas o meses, con causas que incluyen alergias, asma, reflujo gastroesofágico e infecciones de larga duración.",
+      "causes": [
+        "Asma no controlada",
+        "Rinitis posnasal o goteo nasal posterior",
+        "Reflujo ácido crónico",
+        "Bronquitis crónica o tabaquismo",
+        "Alergias a ácaros o irritantes"
+      ],
+      "relatedConditions": [
+        "Asma",
+        "Rinitis Alérgica",
+        "Infección de las Vías Respiratorias",
+        "Sinusitis Alérgica"
+      ],
+      "managementTips": [
+        "Mantener hidratación adecuada",
+        "Tratar la causa subyacente (asma, reflujo, etc.)",
+        "Evitar humo y contaminantes",
+        "Acudir a revisión médica si la tos persiste"
+      ],
+      "ctaText": "Controla esa tos crónica y recupera tu tranquilidad. Agenda una consulta con la Dra. Martha Ruiz Peñaloza para un abordaje personalizado.",
+      "imageHome": "/images/symptoms/tos-cronica.jpg",
+      "imageIndividual": "/images/symptoms/tos-cronica.jpg",
+      "iconIndividual": "/images/icons/symptoms/tos-cronica.svg",
+      "metadata": {
+        "title": "Tratamiento a Tos Crónica en Santiago de Querétaro, Querétaro",
+        "description": "Obtén tratamiento para la tos crónica en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
+        "keywords": [
+          "Especialista en tos crónica en Santiago de Querétaro",
+          "Causas de tos crónica",
+          "El mejor tratamiento para tos crónica en Santiago de Querétaro",
+          "Tratamiento para tos crónica en Santiago de Querétaro",
+          "Experto en tos crónica en Santiago de Querétaro",
+          "Atención médica de tos crónica en Santiago de Querétaro",
+          "Quien atiende tos crónica en Santiago de Querétaro",
+          "Médico para tos crónica en Santiago de Querétaro",
+          "Qué doctor atiende tos crónica en Santiago de Querétaro",
+          "Cómo tratar tos crónica"
+        ],
+        "openGraph": {
+          "title": "Tratamiento a Tos Crónica - Dra. Martha Ruiz Peñaloza",
+          "description": "Obtén tratamiento para la tos crónica en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
+          "url": "https://www.alergologadramartharuiz.com/sintomas/tos-cronica"
+        },
+        "alternates": {
+          "canonical": "https://www.alergologadramartharuiz.com/sintomas/tos-cronica"
+        }
+      }
+    },
+    {
+      "id": "ronchas",
+      "name": "Ronchas",
+      "shortDescription": "Recibe tratamiento para ronchas en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
+      "description": "Las ronchas o habones son lesiones en la piel que provocan picazón y pueden aparecer de forma aislada o en grupos. A menudo se asocian con urticaria o reacciones alérgicas.",
+      "causes": [
+        "Reacción alérgica a alimentos, medicamentos o picaduras",
+        "Estrés o cambios de temperatura",
+        "Contactos con químicos o irritantes",
+        "Infecciones virales y bacterianas"
+      ],
+      "relatedConditions": [
+        "Urticaria Aguda o Crónica",
+        "Dermatitis de Contacto",
+        "Anafilaxia (en casos graves)"
+      ],
+      "managementTips": [
+        "Aplicar lociones calmantes o antihistamínicas",
+        "Evitar rascado excesivo para prevenir lesiones",
+        "Identificar y evitar el desencadenante alérgico",
+        "Consultar a un alergólogo si las ronchas persisten"
+      ],
+      "ctaText": "No dejes que las ronchas interfieran con tu día a día. Programa una evaluación con la Dra. Martha Ruiz Peñaloza y recibe el alivio que necesitas.",
+      "imageHome": "/images/symptoms/ronchas.jpg",
+      "imageIndividual": "/images/symptoms/ronchas.jpg",
+      "iconIndividual": "/images/icons/symptoms/ronchas.svg",
+      "metadata": {
+        "title": "Tratamiento a Ronchas en Santiago de Querétaro, Querétaro",
+        "description": "Recibe tratamiento para ronchas en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
+        "keywords": [
+          "Especialista en ronchas en Santiago de Querétaro",
+          "Causas de ronchas",
+          "El mejor tratamiento para ronchas en Santiago de Querétaro",
+          "Tratamiento para ronchas en Santiago de Querétaro",
+          "Experto en ronchas en Santiago de Querétaro",
+          "Atención médica de ronchas en Santiago de Querétaro",
+          "Quien atiende ronchas en Santiago de Querétaro",
+          "Médico para ronchas en Santiago de Querétaro",
+          "Qué doctor atiende ronchas en Santiago de Querétaro",
+          "Cómo tratar ronchas"
+        ],
+        "openGraph": {
+          "title": "Tratamiento a Ronchas - Dra. Martha Ruiz Peñaloza",
+          "description": "Recibe tratamiento para ronchas en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
+          "url": "https://www.alergologadramartharuiz.com/sintomas/ronchas"
+        },
+        "alternates": {
+          "canonical": "https://www.alergologadramartharuiz.com/sintomas/ronchas"
+        }
+      }
+    },
+    {
+      "id": "picazon-en-la-piel",
+      "name": "Picazón en la Piel",
+      "shortDescription": "Soluciona la picazón en la piel en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
+      "description": "La picazón o prurito es una sensación molesta que provoca la necesidad de rascarse. Puede ser síntoma de alergias cutáneas, dermatitis o enfermedades sistémicas.",
+      "causes": [
+        "Dermatitis atópica o de contacto",
+        "Reacciones alérgicas a cosméticos o alimentos",
+        "Piel seca o eccema",
+        "Infecciones cutáneas como hongos"
+      ],
+      "relatedConditions": [
+        "Dermatitis Atópica",
+        "Dermatitis de Contacto",
+        "Urticaria",
+        "Eccema"
+      ],
+      "managementTips": [
+        "Mantener la piel hidratada",
+        "Usar jabones y productos hipoalergénicos",
+        "Evitar rascado excesivo para no dañar la piel",
+        "Consultar a un dermatólogo o alergólogo si el prurito persiste"
+      ],
+      "ctaText": "¿Cansado de la picazón constante? Consulta con la Dra. Martha Ruiz Peñaloza y encuentra el tratamiento adecuado para tu piel.",
+      "imageHome": "/images/symptoms/picazon-en-la-piel.jpg",
+      "imageIndividual": "/images/symptoms/picazon-en-la-piel.jpg",
+      "iconIndividual": "/images/icons/symptoms/picazon-en-la-piel.svg",
+      "metadata": {
+        "title": "Tratamiento a Picazón en la Piel en Santiago de Querétaro, Querétaro",
+        "description": "Soluciona la picazón en la piel en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
+        "keywords": [
+          "Especialista en picazón en la piel en Santiago de Querétaro",
+          "Causas de picazón en la piel",
+          "El mejor tratamiento para picazón en la piel en Santiago de Querétaro",
+          "Tratamiento para picazón en la piel en Santiago de Querétaro",
+          "Experto en picazón en la piel en Santiago de Querétaro",
+          "Atención médica de picazón en la piel en Santiago de Querétaro",
+          "Quien atiende picazón en la piel en Santiago de Querétaro",
+          "Médico para picazón en la piel en Santiago de Querétaro",
+          "Qué doctor atiende picazón en la piel en Santiago de Querétaro",
+          "Cómo tratar picazón en la piel"
+        ],
+        "openGraph": {
+          "title": "Tratamiento a Picazón en la Piel - Dra. Martha Ruiz Peñaloza",
+          "description": "Soluciona la picazón en la piel en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
+          "url": "https://www.alergologadramartharuiz.com/sintomas/picazon-en-la-piel"
+        },
+        "alternates": {
+          "canonical": "https://www.alergologadramartharuiz.com/sintomas/picazon-en-la-piel"
+        }
+      }
+    },
+    {
+      "id": "hinchazon-de-labios-parpados-o-extremidades",
+      "name": "Hinchazón de Labios, Párpados o Extremidades",
+      "shortDescription": "Obtén tratamiento para hinchazón de labios, párpados o extremidades en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
+      "description": "La hinchazón en zonas como labios, párpados o extremidades puede deberse a reacciones alérgicas (angioedema), traumatismos o retención de líquidos.",
+      "causes": [
+        "Angioedema alérgico por alimentos o medicamentos",
+        "Picaduras de insectos",
+        "Retención de líquidos o alteraciones hormonales",
+        "Herencia (angioedema hereditario)"
+      ],
+      "relatedConditions": [
+        "Angioedema",
+        "Anafilaxia",
+        "Urticaria",
+        "Dermatitis de Contacto"
+      ],
+      "managementTips": [
+        "Aplicar frío local para reducir inflamación",
+        "Tomar antihistamínicos recetados",
+        "Evitar el contacto con posibles desencadenantes",
+        "Acudir al servicio médico si compromete la respiración"
+      ],
+      "ctaText": "¿Sufres de hinchazón repentina en labios, párpados o extremidades? Consulta a la Dra. Martha Ruiz Peñaloza para un diagnóstico y tratamiento oportunos.",
+      "imageHome": "/images/symptoms/hinchazon-de-labios.jpg",
+      "imageIndividual": "/images/symptoms/hinchazon-de-labios.jpg",
+      "iconIndividual": "/images/icons/symptoms/ronchas.svg",
+      "metadata": {
+        "title": "Tratamiento a Hinchazón de Labios, Párpados o Extremidades en Santiago de Querétaro, Querétaro",
+        "description": "Obtén tratamiento para hinchazón de labios, párpados o extremidades en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
+        "keywords": [
+          "Especialista en hinchazón de labios, párpados o extremidades en Santiago de Querétaro",
+          "Causas de hinchazón de labios, párpados o extremidades",
+          "El mejor tratamiento para hinchazón de labios, párpados o extremidades en Santiago de Querétaro",
+          "Tratamiento para hinchazón de labios, párpados o extremidades en Santiago de Querétaro",
+          "Experto en hinchazón de labios, párpados o extremidades en Santiago de Querétaro",
+          "Atención médica de hinchazón de labios, párpados o extremidades en Santiago de Querétaro",
+          "Quien atiende hinchazón de labios, párpados o extremidades en Santiago de Querétaro",
+          "Médico para hinchazón de labios, párpados o extremidades en Santiago de Querétaro",
+          "Qué doctor atiende hinchazón de labios, párpados o extremidades en Santiago de Querétaro",
+          "Cómo tratar hinchazón de labios, párpados o extremidades"
+        ],
+        "openGraph": {
+          "title": "Tratamiento a Hinchazón de Labios, Párpados o Extremidades - Dra. Martha Ruiz Peñaloza",
+          "description": "Obtén tratamiento para hinchazón de labios, párpados o extremidades en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
+          "url": "https://www.alergologadramartharuiz.com/sintomas/hinchazon-de-labios-parpados-o-extremidades"
+        },
+        "alternates": {
+          "canonical": "https://www.alergologadramartharuiz.com/sintomas/hinchazon-de-labios-parpados-o-extremidades"
+        }
+      }
+    },
+    {
+      "id": "ojos-rojos-y-llorosos",
+      "name": "Ojos Rojos y Llorosos",
+      "shortDescription": "Soluciona ojos rojos y llorosos en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
+      "description": "Los ojos rojos y llorosos son un síntoma frecuente de conjuntivitis, alergias o irritación, que pueden afectar la visión y la comodidad diaria.",
+      "causes": [
+        "Conjuntivitis alérgica o infecciosa",
+        "Exposición a humo, polvo o contaminantes",
+        "Uso prolongado de pantallas o lentes de contacto",
+        "Reacción alérgica a cosméticos"
+      ],
+      "relatedConditions": [
+        "Conjuntivitis Alérgica",
+        "Rinoconjuntivitis Alérgica",
+        "Dermatitis de Párpados"
+      ],
+      "managementTips": [
+        "Aplicar compresas frías",
+        "Usar lágrimas artificiales o colirios específicos",
+        "Reducir la exposición a alérgenos",
+        "Consultar al oftalmólogo si los síntomas persisten"
+      ],
+      "ctaText": "No dejes que los ojos rojos y llorosos afecten tu vida diaria. Acude con la Dra. Martha Ruiz Peñaloza para una evaluación y tratamiento efectivos.",
+      "imageHome": "/images/symptoms/ojos-rojos-y-llorosos.jpg",
+      "imageIndividual": "/images/symptoms/ojos-rojos-y-llorosos.jpg",
+      "iconIndividual": "/images/icons/symptoms/ronchas.svg",
+      "metadata": {
+        "title": "Tratamiento a Ojos Rojos y Llorosos en Santiago de Querétaro, Querétaro",
+        "description": "Soluciona ojos rojos y llorosos en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
+        "keywords": [
+          "Especialista en ojos rojos y llorosos en Santiago de Querétaro",
+          "Causas de ojos rojos y llorosos",
+          "El mejor tratamiento para ojos rojos y llorosos en Santiago de Querétaro",
+          "Tratamiento para ojos rojos y llorosos en Santiago de Querétaro",
+          "Experto en ojos rojos y llorosos en Santiago de Querétaro",
+          "Atención médica de ojos rojos y llorosos en Santiago de Querétaro",
+          "Quien atiende ojos rojos y llorosos en Santiago de Querétaro",
+          "Médico para ojos rojos y llorosos en Santiago de Querétaro",
+          "Qué doctor atiende ojos rojos y llorosos en Santiago de Querétaro",
+          "Cómo tratar ojos rojos y llorosos"
+        ],
+        "openGraph": {
+          "title": "Tratamiento a Ojos Rojos y Llorosos - Dra. Martha Ruiz Peñaloza",
+          "description": "Soluciona ojos rojos y llorosos en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
+          "url": "https://www.alergologadramartharuiz.com/sintomas/ojos-rojos-y-llorosos"
+        },
+        "alternates": {
+          "canonical": "https://www.alergologadramartharuiz.com/sintomas/ojos-rojos-y-llorosos"
+        }
+      }
+    },
+    {
+      "id": "eccema",
+      "name": "Eccema",
+      "shortDescription": "Obtén tratamiento para el eccema en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
+      "description": "El eccema es un trastorno inflamatorio crónico de la piel caracterizado por enrojecimiento, sequedad, descamación y picazón intensa.",
+      "causes": [
+        "Dermatitis atópica hereditaria",
+        "Contacto con alérgenos o irritantes químicos",
+        "Estrés y factores emocionales",
+        "Disfunción en la barrera cutánea"
+      ],
+      "relatedConditions": [
+        "Dermatitis Atópica",
+        "Dermatitis de Contacto",
+        "Alergias Alimentarias"
+      ],
+      "managementTips": [
+        "Aplicar cremas hidratantes con frecuencia",
+        "Usar jabones suaves y sin fragancias",
+        "Evitar temperaturas extremas y telas sintéticas",
+        "Consultar al dermatólogo para medicación tópica o sistémica"
+      ],
+      "ctaText": "No permitas que el eccema afecte tu piel y tu calidad de vida. Agenda tu cita con la Dra. Martha Ruiz Peñaloza y recibe un tratamiento integral.",
+      "imageHome": "/images/symptoms/eccema.jpg",
+      "imageIndividual": "/images/symptoms/eccema.jpg",
+      "iconIndividual": "/images/icons/symptoms/eccema.svg",
+      "metadata": {
+        "title": "Tratamiento a Eccema en Santiago de Querétaro, Querétaro",
+        "description": "Obtén tratamiento para el eccema en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
+        "keywords": [
+          "Especialista en eccema en Santiago de Querétaro",
+          "Causas de eccema",
+          "El mejor tratamiento para eccema en Santiago de Querétaro",
+          "Tratamiento para eccema en Santiago de Querétaro",
+          "Experto en eccema en Santiago de Querétaro",
+          "Atención médica de eccema en Santiago de Querétaro",
+          "Quien atiende eccema en Santiago de Querétaro",
+          "Médico para eccema en Santiago de Querétaro",
+          "Qué doctor atiende eccema en Santiago de Querétaro",
+          "Cómo tratar eccema"
+        ],
+        "openGraph": {
+          "title": "Tratamiento a Eccema - Dra. Martha Ruiz Peñaloza",
+          "description": "Obtén tratamiento para el eccema en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
+          "url": "https://www.alergologadramartharuiz.com/sintomas/eccema"
+        },
+        "alternates": {
+          "canonical": "https://www.alergologadramartharuiz.com/sintomas/eccema"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1233 @@
+{
+  "enfermedadesMeta": {
+    "main": {
+      "title": "Enfermedades Tratadas - Dra. Martha Ruiz Peñaloza",
+      "description": "Información sobre las enfermedades alérgicas e inmunológicas tratadas por la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro.",
+      "openGraph": {
+        "title": "Enfermedades Alérgicas e Inmunológicas Pediátricas",
+        "description": "Conozca las enfermedades alérgicas e inmunológicas que tratamos en niños.",
+        "url": "https://www.alergologadramartharuiz.com/enfermedades"
+      },
+      "alternates": {
+        "canonical": "https://www.alergologadramartharuiz.com/enfermedades"
+      }
+    }
+  },
+  "diseases": [
+  {
+    "id": "alergia-al-latex",
+    "name": "Alergia al Látex",
+    "technicalName": "Hipersensibilidad al Látex",
+    "description": "La alergia al látex es una reacción inmunológica adversa a las proteínas presentes en el caucho natural. Se manifiesta cuando una persona sensibilizada entra en contacto con productos que contienen látex, como guantes, globos o bandas elásticas, desencadenando una respuesta alérgica que puede variar desde síntomas leves hasta reacciones severas.",
+    "shortDescription": "Reacción inmunológica a proteínas del caucho natural, que puede variar de síntomas leves a reacciones severas.",
+    "causes": [
+      "Exposición repetida al látex, especialmente en entornos médicos o industriales.",
+      "Contacto con productos cotidianos que contienen látex.",
+      "Antecedentes familiares de alergias."
+    ],
+    "symptoms": [
+      "Urticaria o ronchas en la piel.",
+      "Anafilaxia en casos graves."
+    ],
+    "complications": [
+      "Reacciones anafilácticas potencialmente mortales.",
+      "Dificultad para realizar actividades diarias por evitar productos con látex.",
+      "Infecciones secundarias por rascado."
+    ],
+    "riskFactors": [
+      "Profesionales de la salud expuestos frecuentemente al látex.",
+      "Personas con antecedentes de otras alergias.",
+      "Uso prolongado de productos de látex."
+    ],
+    "mexicoStats": "Se estima que aproximadamente el 1-6% de la población mexicana puede ser sensible al látex, con una prevalencia mayor en profesionales de la salud.",
+    "ctaText": "No permita que la alergia al látex afecte su salud y calidad de vida. Agende una consulta con la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro, Querétaro, para recibir un diagnóstico preciso y un tratamiento adecuado.",
+    "treatments": [
+      "Evitar el contacto con productos que contengan látex.",
+      "Utilizar guantes y equipos libres de látex.",
+      "Antihistamínicos y corticosteroides para reacciones leves.",
+      "Epinefrina inyectable en caso de anafilaxia grave."
+    ],
+    "imageHome": "/images/diseases/alergia-al-latex.jpg",
+    "imageIndividual": "/images/diseases/alergia-al-latex.jpg",
+    "metadata": {
+      "title": "Especialista en Alergia al Látex en Santiago de Querétaro, Querétaro",
+      "description": "Consulta sobre alergia al látex en Santiago de Querétaro, Querétaro. Dra. Martha Ruiz Peñaloza te ayuda a tratar tu alergia.",
+      "keywords": [
+        "Especialista en alergia al látex en Santiago de Querétaro",
+        "Clínica de alergia al látex en Santiago de Querétaro",
+        "Hospital de alergia al látex en Santiago de Querétaro",
+        "Tratamiento para alergia al látex en Santiago de Querétaro",
+        "Experto en alergia al látex en Santiago de Querétaro",
+        "Centro de alergia al látex en Santiago de Querétaro",
+        "Quien atiende alergia al látex en Santiago de Querétaro",
+        "Médico para alergia al látex en Santiago de Querétaro",
+        "Doctor que atiende alergia al látex en Santiago de Querétaro",
+        "Consulta médica de alergia al látex en Santiago de Querétaro"
+      ],
+      "openGraph": {
+        "title": "Especialista en Alergia al Látex - Dra. Martha Ruiz Peñaloza",
+        "description": "Consulta sobre alergia al látex en Santiago de Querétaro. Tratamiento especializado por la Dra. Martha Ruiz Peñaloza.",
+        "url": "https://www.alergologadramartharuiz.com/enfermedades/alergia-al-latex"
+      },
+      "alternates": {
+        "canonical": "https://www.alergologadramartharuiz.com/enfermedades/alergia-al-latex"
+      }
+    }
+  },
+  {
+    "id": "conjuntivitis-alergica",
+    "name": "Conjuntivitis Alérgica",
+    "technicalName": "Conjuntivitis Alérgica",
+    "description": "La conjuntivitis alérgica es una inflamación de la conjuntiva ocular causada por una reacción alérgica a alérgenos como el polen, el polvo, el moho o el pelo de animales. Se caracteriza por enrojecimiento, picazón intensa y secreción acuosa en los ojos, afectando la visión temporalmente.",
+    "shortDescription": "Inflamación ocular por reacción a alérgenos como polvo o polen, con ojos rojos y picazón intensa.",
+    "causes": [
+      "Exposición a alérgenos ambientales como polen, ácaros del polvo o moho.",
+      "Contacto con pelos de mascotas."
+    ],
+    "symptoms": [
+      "Ojos rojos y llorosos.",
+      "Picazón intensa en los ojos.",
+      "Sensación de arenilla o cuerpo extraño.",
+      "Hinchazón de los párpados."
+    ],
+    "complications": [
+      "Infecciones secundarias por rascado constante.",
+      "Irritación crónica de la conjuntiva.",
+      "Deterioro temporal de la visión.",
+      "Posible daño en la córnea secundario al rascado."
+    ],
+    "riskFactors": [
+      "Historia personal o familiar de alergias.",
+      "Exposición frecuente a ambientes con alto contenido de alérgenos."
+    ],
+    "mexicoStats": "La conjuntivitis alérgica afecta aproximadamente al 10-20% de la población mexicana, siendo más común durante las temporadas de alta concentración de polen.",
+    "ctaText": "No deje que la conjuntivitis alérgica interfiera con su vida diaria. Consulte a la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro, Querétaro, para recibir un diagnóstico preciso y un tratamiento eficaz.",
+    "treatments": [
+      "Evitar la exposición a alérgenos (polvo, polen, caspa de mascotas).",
+      "Aplicar compresas frías y usar gotas oftálmicas antihistamínicas.",
+      "Antihistamínicos orales o tópicos para el control de la picazón.",
+      "Corticoides oftálmicos en casos más severos, bajo supervisión médica."
+    ],
+    "imageHome": "/images/diseases/conjuntivitis-alergica.jpg",
+    "imageIndividual": "/images/diseases/conjuntivitis-alergica.jpg",
+    "metadata": {
+      "title": "Especialista en Conjuntivitis Alérgica en Santiago de Querétaro, Querétaro",
+      "description": "Tratamiento para conjuntivitis alérgica en Santiago de Querétaro, Querétaro. Dra. Martha Ruiz Peñaloza te ayuda a aliviar tus síntomas.",
+      "keywords": [
+        "Especialista en conjuntivitis alérgica en Santiago de Querétaro",
+        "Clínica de conjuntivitis alérgica en Santiago de Querétaro",
+        "Hospital de conjuntivitis alérgica en Santiago de Querétaro",
+        "Tratamiento para conjuntivitis alérgica en Santiago de Querétaro",
+        "Experto en conjuntivitis alérgica en Santiago de Querétaro",
+        "Centro de conjuntivitis alérgica en Santiago de Querétaro",
+        "Quien atiende conjuntivitis alérgica en Santiago de Querétaro",
+        "Médico para conjuntivitis alérgica en Santiago de Querétaro",
+        "Doctor que atiende conjuntivitis alérgica en Santiago de Querétaro",
+        "Consulta médica de conjuntivitis alérgica en Santiago de Querétaro"
+      ],
+      "openGraph": {
+        "title": "Especialista en Conjuntivitis Alérgica - Dra. Martha Ruiz Peñaloza",
+        "description": "Tratamiento para conjuntivitis alérgica en Santiago de Querétaro. Tratamiento especializado por la Dra. Martha Ruiz Peñaloza.",
+        "url": "https://www.alergologadramartharuiz.com/enfermedades/conjuntivitis-alergica"
+      },
+      "alternates": {
+        "canonical": "https://www.alergologadramartharuiz.com/enfermedades/conjuntivitis-alergica"
+      }
+    }
+  },
+  {
+    "id": "urticaria-cronica-o-aguda",
+    "name": "Urticaria Crónica o Aguda",
+    "technicalName": "Urticaria Aguda y Crónica",
+    "description": "La urticaria es una reacción de la piel que se caracteriza por la aparición de ronchas elevadas, rojas y pruriginosas. Se clasifica en aguda cuando dura menos de seis semanas y en crónica cuando persiste más de seis semanas. Las causas pueden variar desde alergias a factores no alérgicos.",
+    "shortDescription": "Reacción cutánea con ronchas rojas y picazón; puede durar de horas a semanas o volverse crónica.",
+    "causes": [
+      "Reacciones alérgicas a alimentos, medicamentos o picaduras.",
+      "Infecciones virales o bacterianas.",
+      "Estrés emocional o físico.",
+      "Exposición a factores físicos (agua, sol, vibración)."
+    ],
+    "symptoms": [
+      "Ronchas elevadas y rojas en la piel.",
+      "Picazón intensa.",
+      "Hinchazón de labios, ojos o cara.",
+      "Sensación de ardor en las áreas afectadas."
+    ],
+    "complications": [
+      "Angioedema (hinchazón profunda de la piel).",
+      "Dificultades respiratorias en casos severos.",
+      "Infecciones secundarias por rascado.",
+      "Estrés emocional por la incomodidad crónica."
+    ],
+    "riskFactors": [
+      "Infecciones recurrentes.",
+      "Alergias ambientales o alimentarias.",
+      "Enfermedades autoinmunes.",
+      "Estrés crónico."
+    ],
+    "mexicoStats": "La urticaria afecta aproximadamente al 20% de la población mexicana en algún momento de su vida, siendo más común en adultos jóvenes y personas con antecedentes de otras alergias.",
+    "ctaText": "Si sufre de urticaria persistente o recurrente, es crucial buscar ayuda profesional. Agende una consulta con la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro, Querétaro, para recibir un diagnóstico preciso y un tratamiento efectivo.",
+    "treatments": [
+      "Antihistamínicos no sedantes para controlar la picazón.",
+      "Corticoides sistémicos en casos agudos severos.",
+      "Identificar y evitar los desencadenantes.",
+      "Inmunomoduladores (omalizumab) en urticaria crónica refractaria."
+    ],
+    "imageHome": "/images/diseases/urticaria-cronica-o-aguda.jpg",
+    "imageIndividual": "/images/diseases/urticaria-cronica-o-aguda.jpg",
+    "metadata": {
+      "title": "Especialista en Urticaria en Santiago de Querétaro, Querétaro",
+      "description": "Tratamiento para urticaria crónica o aguda en Santiago de Querétaro, Querétaro. Dra. Martha Ruiz Peñaloza te ayuda a aliviar tus síntomas.",
+      "keywords": [
+        "Especialista en urticaria en Santiago de Querétaro",
+        "Clínica de urticaria en Santiago de Querétaro",
+        "Hospital de urticaria en Santiago de Querétaro",
+        "Tratamiento para urticaria en Santiago de Querétaro",
+        "Experto en urticaria en Santiago de Querétaro",
+        "Centro de urticaria en Santiago de Querétaro",
+        "Quien atiende urticaria en Santiago de Querétaro",
+        "Médico para urticaria en Santiago de Querétaro",
+        "Doctor que atiende urticaria en Santiago de Querétaro",
+        "Consulta médica de urticaria en Santiago de Querétaro"
+      ],
+      "openGraph": {
+        "title": "Especialista en Urticaria - Dra. Martha Ruiz Peñaloza",
+        "description": "Tratamiento para urticaria crónica o aguda en Santiago de Querétaro. Tratamiento especializado por la Dra. Martha Ruiz Peñaloza.",
+        "url": "https://www.alergologadramartharuiz.com/enfermedades/urticaria-cronica-o-aguda"
+      },
+      "alternates": {
+        "canonical": "https://www.alergologadramartharuiz.com/enfermedades/urticaria-cronica-o-aguda"
+      }
+    }
+  },
+  {
+    "id": "rinitis-alergica",
+    "name": "Rinitis Alérgica",
+    "technicalName": "Rinitis Alérgica",
+    "description": "La rinitis alérgica es una inflamación de la mucosa nasal causada por una reacción alérgica a alérgenos como el polen, los ácaros del polvo, el moho o el pelo de mascotas. Se manifiesta con congestión nasal, comezón nasal, estornudos frecuentes y secreción nasal acuosa.",
+    "shortDescription": "Inflamación de la mucosa nasal por exposición a alérgenos, con estornudos, congestión y goteo acuoso.",
+    "causes": [
+      "Exposición a polen durante primavera y verano.",
+      "Contacto con ácaros del polvo en el hogar.",
+      "Inhalación de esporas de moho en ambientes húmedos.",
+      "Contacto con pelos de animales domésticos."
+    ],
+    "symptoms": [
+      "Congestión nasal.",
+      "Estornudos frecuentes.",
+      "Secreción nasal acuosa.",
+      "Picazón en la nariz, ojos, oídos, paladar y garganta.",
+      "Ojos llorosos y enrojecidos."
+    ],
+    "complications": [
+      "Sinusitis recurrente.",
+      "Infecciones de oído.",
+      "Infecciones recurrentes de vías respiratorias.",
+      "Fatiga por sueño interrumpido."
+    ],
+    "riskFactors": [
+      "Historia familiar de alergias.",
+      "Exposición prolongada a alérgenos.",
+      "Padecer otras enfermedades alérgicas como asma o dermatitis.",
+      "Vivir en entornos con alta contaminación."
+    ],
+    "mexicoStats": "La rinitis alérgica afecta aproximadamente al 15-30% de la población mexicana, siendo más común en áreas urbanas con alta contaminación.",
+    "ctaText": "No permita que la rinitis alérgica limite su vida diaria. Consulte a la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro, Querétaro, para recibir un diagnóstico preciso y un tratamiento eficaz.",
+    "treatments": [
+      "Antihistamínicos orales y descongestionantes (uso moderado).",
+      "Corticoides nasales para disminuir la inflamación.",
+      "Lavados nasales con solución salina.",
+      "Inmunoterapia específica si las medidas farmacológicas no son suficientes."
+    ],
+    "imageHome": "/images/diseases/rinitis-alergica.jpg",
+    "imageIndividual": "/images/diseases/rinitis-alergica.jpg",
+    "metadata": {
+      "title": "Especialista en Rinitis Alérgica en Santiago de Querétaro, Querétaro",
+      "description": "Tratamiento para rinitis alérgica en Santiago de Querétaro, Querétaro. Dra. Martha Ruiz Peñaloza te ayuda a aliviar tus síntomas.",
+      "keywords": [
+        "Especialista en rinitis alérgica en Santiago de Querétaro",
+        "Clínica de rinitis alérgica en Santiago de Querétaro",
+        "Hospital de rinitis alérgica en Santiago de Querétaro",
+        "Tratamiento para rinitis alérgica en Santiago de Querétaro",
+        "Experto en rinitis alérgica en Santiago de Querétaro",
+        "Centro de rinitis alérgica en Santiago de Querétaro",
+        "Quien atiende rinitis alérgica en Santiago de Querétaro",
+        "Médico para rinitis alérgica en Santiago de Querétaro",
+        "Doctor que atiende rinitis alérgica en Santiago de Querétaro",
+        "Consulta médica de rinitis alérgica en Santiago de Querétaro"
+      ],
+      "openGraph": {
+        "title": "Especialista en Rinitis Alérgica - Dra. Martha Ruiz Peñaloza",
+        "description": "Tratamiento para rinitis alérgica en Santiago de Querétaro. Tratamiento especializado por la Dra. Martha Ruiz Peñaloza.",
+        "url": "https://www.alergologadramartharuiz.com/enfermedades/rinitis-alergica"
+      },
+      "alternates": {
+        "canonical": "https://www.alergologadramartharuiz.com/enfermedades/rinitis-alergica"
+      }
+    }
+  },
+  {
+    "id": "asma",
+    "name": "Asma",
+    "technicalName": "Asma Bronquial",
+    "description": "El asma es una enfermedad crónica de las vías respiratorias inferiores que causa inflamación y estrechamiento de los bronquios, dificultando la entrada y salida de aire. Se manifiesta con episodios recurrentes de sibilancias, dificultad para respirar, opresión en el pecho y tos.",
+    "shortDescription": "Enfermedad crónica de las vías respiratorias que provoca inflamación y episodios de dificultad para respirar.",
+    "causes": [
+      "Factores genéticos y antecedentes familiares.",
+      "Exposición a alérgenos como polvo, polen o moho.",
+      "Contaminación del aire y tabaquismo.",
+      "Infecciones respiratorias virales en la infancia.",
+      "Estrés emocional y ejercicio físico intenso."
+    ],
+    "symptoms": [
+      "Dificultad para respirar.",
+      "Sibilancias o respiración sibilante.",
+      "Tos persistente que aumenta con la actividad física.",
+      "Sensación de opresión en el pecho.",
+      "Fatiga y limitación en actividades físicas."
+    ],
+    "complications": [
+      "Ataques de asma severos potencialmente mortales.",
+      "Infecciones respiratorias recurrentes.",
+      "Reducción de la función pulmonar a largo plazo.",
+      "Disminución de la calidad de vida y limitación de actividades."
+    ],
+    "riskFactors": [
+      "Historia familiar de asma o alergias.",
+      "Exposición a contaminantes ambientales.",
+      "Tener otras enfermedades alérgicas como rinitis alérgica.",
+      "Obesidad.",
+      "Exposición al humo de tabaco."
+    ],
+    "mexicoStats": "Se estima que alrededor del 10-15% de la población mexicana sufre de asma, con mayor prevalencia en niños y adolescentes.",
+    "ctaText": "Controle su asma y mejore su calidad de vida con un tratamiento personalizado. Agende una consulta con la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro, Querétaro, para recibir un manejo efectivo de su asma.",
+    "treatments": [
+      "Broncodilatadores de rescate (inhaladores de acción rápida).",
+      "Corticosteroides inhalados para control a largo plazo.",
+      "Evitar desencadenantes ambientales y alérgenos.",
+      "Inmunoterapia o terapia biológica en casos específicos."
+    ],
+    "imageHome": "/images/diseases/asma.jpg",
+    "imageIndividual": "/images/diseases/asma.jpg",
+    "metadata": {
+      "title": "Especialista en Asma en Santiago de Querétaro, Querétaro",
+      "description": "Tratamiento para asma en Santiago de Querétaro, Querétaro. Dra. Martha Ruiz Peñaloza te ayuda a controlar tu asma.",
+      "keywords": [
+        "Especialista en asma en Santiago de Querétaro",
+        "Clínica de asma en Santiago de Querétaro",
+        "Hospital de asma en Santiago de Querétaro",
+        "Tratamiento para asma en Santiago de Querétaro",
+        "Experto en asma en Santiago de Querétaro",
+        "Centro de asma en Santiago de Querétaro",
+        "Quien atiende asma en Santiago de Querétaro",
+        "Médico para asma en Santiago de Querétaro",
+        "Doctor que atiende asma en Santiago de Querétaro",
+        "Consulta médica de asma en Santiago de Querétaro"
+      ],
+      "openGraph": {
+        "title": "Especialista en Asma - Dra. Martha Ruiz Peñaloza",
+        "description": "Tratamiento para asma en Santiago de Querétaro. Tratamiento especializado por la Dra. Martha Ruiz Peñaloza.",
+        "url": "https://www.alergologadramartharuiz.com/enfermedades/asma"
+      },
+      "alternates": {
+        "canonical": "https://www.alergologadramartharuiz.com/enfermedades/asma"
+      }
+    }
+  },
+  {
+    "id": "dermatitis-atopica-y-de-contacto",
+    "name": "Dermatitis Atópica y de Contacto",
+    "technicalName": "Dermatitis Atópica y Dermatitis de Contacto",
+    "description": "La dermatitis atópica es una enfermedad inflamatoria crónica de la piel que causa sequedad, enrojecimiento y picazón intensa. La dermatitis de contacto, por otro lado, es una reacción alérgica o irritante causada por el contacto directo con sustancias como productos químicos, jabones o metales. Ambas condiciones afectan significativamente la calidad de vida debido a la incomodidad y las lesiones cutáneas.",
+    "shortDescription": "Enfermedades inflamatorias de la piel caracterizadas por enrojecimiento, picazón y lesiones alérgicas o irritantes.",
+    "causes": [
+      "Dermatitis Atópica: Factores genéticos y desequilibrio de la barrera cutánea.",
+      "Dermatitis de Contacto: Exposición a sustancias irritantes o alérgenos específicos."
+    ],
+    "symptoms": [
+      "Piel seca y enrojecida con picazón intensa.",
+      "Ampollas, descamación y formación de costras.",
+      "Hinchazón y enrojecimiento en el caso de dermatitis de contacto."
+    ],
+    "complications": [
+      "Infecciones bacterianas secundarias por rascado.",
+      "Cicatrices y engrosamiento de la piel.",
+      "Impacto psicológico como ansiedad o depresión."
+    ],
+    "riskFactors": [
+      "Historia familiar de enfermedades alérgicas.",
+      "Exposición frecuente a irritantes o alérgenos.",
+      "Tener otras enfermedades alérgicas como asma o rinitis alérgica.",
+      "Uso de productos de cuidado personal agresivos."
+    ],
+    "mexicoStats": "La dermatitis atópica afecta aproximadamente al 10-20% de los niños y al 1-3% de los adultos en México. La dermatitis de contacto es común en personas expuestas a sustancias irritantes en el trabajo o el hogar.",
+    "ctaText": "No permita que la dermatitis afecte su bienestar. Consulte a la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro, Querétaro, para recibir un diagnóstico preciso y un tratamiento efectivo para la dermatitis atópica y de contacto.",
+    "treatments": [
+      "Uso de emolientes e hidratantes para proteger la barrera cutánea.",
+      "Corticoides tópicos o inhibidores de calcineurina para controlar la inflamación.",
+      "Evitar el alérgeno o irritante responsable.",
+      "Antihistamínicos orales para aliviar la picazón."
+    ],
+    "imageHome": "/images/diseases/dermatitis-atopica-y-de-contacto.jpg",
+    "imageIndividual": "/images/diseases/dermatitis-atopica-y-de-contacto.jpg",
+    "metadata": {
+      "title": "Especialista en Dermatitis Atópica y de Contacto en Santiago de Querétaro, Querétaro",
+      "description": "Tratamiento para dermatitis atópica y de contacto en Santiago de Querétaro, Querétaro. Dra. Martha Ruiz Peñaloza te ayuda a aliviar tus síntomas.",
+      "keywords": [
+        "Especialista en dermatitis atópica en Santiago de Querétaro",
+        "Clínica de dermatitis de contacto en Santiago de Querétaro",
+        "Hospital de dermatitis atópica en Santiago de Querétaro",
+        "Tratamiento para dermatitis de contacto en Santiago de Querétaro",
+        "Experto en dermatitis atópica en Santiago de Querétaro",
+        "Centro de dermatitis de contacto en Santiago de Querétaro",
+        "Quien atiende dermatitis atópica en Santiago de Querétaro",
+        "Médico para dermatitis de contacto en Santiago de Querétaro",
+        "Doctor que atiende dermatitis atópica en Santiago de Querétaro",
+        "Consulta médica de dermatitis de contacto en Santiago de Querétaro"
+      ],
+      "openGraph": {
+        "title": "Especialista en Dermatitis Atópica y de Contacto - Dra. Martha Ruiz Peñaloza",
+        "description": "Tratamiento para dermatitis atópica y de contacto en Santiago de Querétaro. Tratamiento especializado por la Dra. Martha Ruiz Peñaloza.",
+        "url": "https://www.alergologadramartharuiz.com/enfermedades/dermatitis-atopica-y-de-contacto"
+      },
+      "alternates": {
+        "canonical": "https://www.alergologadramartharuiz.com/enfermedades/dermatitis-atopica-y-de-contacto"
+      }
+    }
+  },
+  {
+    "id": "angioedema",
+    "name": "Angioedema",
+    "technicalName": "Angioedema",
+    "description": "El angioedema es una hinchazón rápida y severa de la piel y las membranas mucosas, particularmente en áreas como los labios, los ojos, la garganta y las extremidades. Puede ser una reacción alérgica a medicamentos, alimentos, picaduras de insectos o puede estar asociado a condiciones hereditarias o autoinmunes.",
+    "shortDescription": "Hinchazón aguda de la piel y mucosas que puede afectar labios, ojos y garganta, a menudo de origen alérgico.",
+    "causes": [
+      "Reacciones alérgicas a medicamentos o alimentos.",
+      "Picaduras de insectos.",
+      "Factores hereditarios o autoinmunes."
+    ],
+    "symptoms": [
+      "Hinchazón de labios, ojos, cara, garganta o extremidades.",
+      "Dificultad para respirar si la hinchazón afecta la garganta.",
+      "Dolor o comezón en las áreas hinchadas."
+    ],
+    "complications": [
+      "Obstrucción de las vías respiratorias en casos graves.",
+      "Desgaste emocional y psicológico por la incertidumbre de reacciones.",
+      "Cicatrices en áreas frecuentemente afectadas."
+    ],
+    "riskFactors": [
+      "Historia personal o familiar de angioedema.",
+      "Uso de ciertos medicamentos.",
+      "Exposición a alérgenos."
+    ],
+    "mexicoStats": "El angioedema es relativamente raro en México, afectando aproximadamente al 0.1-0.3% de la población, pero es más común en personas con antecedentes de alergias o condiciones genéticas.",
+    "ctaText": "Si experimenta hinchazón súbita y severa, busque atención médica inmediata. Agende una consulta con la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro, Querétaro, para recibir un diagnóstico y tratamiento adecuados para el angioedema.",
+    "treatments": [
+      "Antihistamínicos y corticosteroides para reacciones moderadas.",
+      "Epinefrina inyectable si existe compromiso respiratorio.",
+      "Terapias específicas en caso de angioedema hereditario.",
+      "Evitar desencadenantes conocidos y revisar medicamentos en uso."
+    ],
+    "imageHome": "/images/diseases/angioedema.jpg",
+    "imageIndividual": "/images/diseases/angioedema.jpg",
+    "metadata": {
+      "title": "Especialista en Angioedema en Santiago de Querétaro, Querétaro",
+      "description": "Tratamiento para angioedema en Santiago de Querétaro, Querétaro. Dra. Martha Ruiz Peñaloza te ayuda a manejar tus síntomas.",
+      "keywords": [
+        "Especialista en angioedema en Santiago de Querétaro",
+        "Clínica de angioedema en Santiago de Querétaro",
+        "Hospital de angioedema en Santiago de Querétaro",
+        "Tratamiento para angioedema en Santiago de Querétaro",
+        "Experto en angioedema en Santiago de Querétaro",
+        "Centro de angioedema en Santiago de Querétaro",
+        "Quien atiende angioedema en Santiago de Querétaro",
+        "Médico para angioedema en Santiago de Querétaro",
+        "Doctor que atiende angioedema en Santiago de Querétaro",
+        "Consulta médica de angioedema en Santiago de Querétaro"
+      ],
+      "openGraph": {
+        "title": "Especialista en Angioedema - Dra. Martha Ruiz Peñaloza",
+        "description": "Tratamiento para angioedema en Santiago de Querétaro. Tratamiento especializado por la Dra. Martha Ruiz Peñaloza.",
+        "url": "https://www.alergologadramartharuiz.com/enfermedades/angioedema"
+      },
+      "alternates": {
+        "canonical": "https://www.alergologadramartharuiz.com/enfermedades/angioedema"
+      }
+    }
+  },
+  {
+    "id": "anafilaxia",
+    "name": "Anafilaxia",
+    "technicalName": "Anafilaxia",
+    "description": "La anafilaxia es una reacción alérgica aguda y potencialmente mortal que afecta a múltiples sistemas del cuerpo, incluyendo el respiratorio, cardiovascular y cutáneo. Es una emergencia médica que requiere intervención inmediata para prevenir complicaciones graves y la muerte.",
+    "shortDescription": "Reacción alérgica grave y de rápida aparición que afecta múltiples sistemas del cuerpo y pone en riesgo la vida.",
+    "causes": [
+      "Picaduras de insectos (abejas o avispas).",
+      "Reacciones a medicamentos y alimentos.",
+      "Exposición a ciertos alérgenos ambientales."
+    ],
+    "symptoms": [
+      "Urticaria y enrojecimiento de la piel.",
+      "Hinchazón de la cara, labios o garganta.",
+      "Náuseas, vómitos y diarrea.",
+      "Dificultad para respirar y sibilancias.",
+      "Baja presión arterial y mareos."
+    ],
+    "complications": [
+      "Shock anafiláctico con riesgo de muerte.",
+      "Daño en órganos vitales por falta de oxígeno.",
+      "Reacciones tardías que complican el diagnóstico."
+    ],
+    "riskFactors": [
+      "Historia previa de anafilaxia.",
+      "Tener asma u otras condiciones alérgicas.",
+      "Exposición a alérgenos conocidos.",
+      "Uso de ciertos medicamentos."
+    ],
+    "mexicoStats": "La incidencia de anafilaxia en México es de aproximadamente 0.05-0.5 casos por 100,000 habitantes al año, con tendencia a un ligero aumento por el incremento en alergias alimentarias y medicamentosas.",
+    "ctaText": "La anafilaxia es una emergencia médica que requiere atención inmediata. Si usted o alguien cercano presenta síntomas de anafilaxia, busque ayuda médica o contacte a la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro, Querétaro, de inmediato.",
+    "treatments": [
+      "Administración de epinefrina intramuscular (inyección de emergencia).",
+      "Antihistamínicos y corticosteroides para manejar reacciones secundarias.",
+      "Soporte vital avanzado (oxígeno, líquidos IV).",
+      "Evitar el alérgeno y llevar siempre autoinyector de epinefrina."
+    ],
+    "imageHome": "/images/diseases/anafilaxia.jpg",
+    "imageIndividual": "/images/diseases/anafilaxia.jpg",
+    "metadata": {
+      "title": "Especialista en Anafilaxia en Santiago de Querétaro, Querétaro",
+      "description": "Tratamiento para anafilaxia en Santiago de Querétaro, Querétaro. Dra. Martha Ruiz Peñaloza te ayuda a manejar reacciones alérgicas severas.",
+      "keywords": [
+        "Especialista en anafilaxia en Santiago de Querétaro",
+        "Clínica de anafilaxia en Santiago de Querétaro",
+        "Hospital de anafilaxia en Santiago de Querétaro",
+        "Tratamiento para anafilaxia en Santiago de Querétaro",
+        "Experto en anafilaxia en Santiago de Querétaro",
+        "Centro de anafilaxia en Santiago de Querétaro",
+        "Quien atiende anafilaxia en Santiago de Querétaro",
+        "Médico para anafilaxia en Santiago de Querétaro",
+        "Doctor que atiende anafilaxia en Santiago de Querétaro",
+        "Consulta médica de anafilaxia en Santiago de Querétaro"
+      ],
+      "openGraph": {
+        "title": "Especialista en Anafilaxia - Dra. Martha Ruiz Peñaloza",
+        "description": "Tratamiento para anafilaxia en Santiago de Querétaro. Tratamiento especializado por la Dra. Martha Ruiz Peñaloza.",
+        "url": "https://www.alergologadramartharuiz.com/enfermedades/anafilaxia"
+      },
+      "alternates": {
+        "canonical": "https://www.alergologadramartharuiz.com/enfermedades/anafilaxia"
+      }
+    }
+  },
+  {
+    "id": "alergia-alimentaria",
+    "name": "Alergia Alimentaria",
+    "technicalName": "Hipersensibilidad Alimentaria",
+    "description": "La alergia alimentaria es una reacción adversa del sistema inmunológico a ciertos alimentos. Estas reacciones pueden variar desde síntomas leves como urticaria y estornudos hasta reacciones graves como anafilaxia. Los alimentos más comunes que causan alergias incluyen cacahuates, mariscos, leche, huevos, trigo y soja, pero cualquier alimento puede desencadenarla.",
+    "shortDescription": "Reacción adversa del sistema inmune a ciertos alimentos, que puede ser desde una erupción leve hasta anafilaxia grave.",
+    "causes": [
+      "Exposición a proteínas alimentarias que se confunden como amenazas.",
+      "Factores genéticos y antecedentes familiares de alergias.",
+      "Contaminación cruzada en alimentos procesados."
+    ],
+    "symptoms": [
+      "Urticaria y erupciones cutáneas.",
+      "Hinchazón de labios, lengua o garganta.",
+      "Estornudos, congestión nasal o dificultad respiratoria.",
+      "Náuseas, vómitos o diarrea.",
+      "Anafilaxia en casos severos."
+    ],
+    "complications": [
+      "Reacciones anafilácticas potencialmente mortales.",
+      "Ansiedad al comer fuera de casa.",
+      "Impacto en la calidad de vida y la socialización."
+    ],
+    "riskFactors": [
+      "Historia familiar de alergias alimentarias.",
+      "Presencia de otras enfermedades alérgicas (asma, dermatitis).",
+      "Exposición temprana a alimentos muy alergénicos.",
+      "Tener múltiples sensibilidades alimentarias."
+    ],
+    "mexicoStats": "Las alergias alimentarias afectan aproximadamente al 5-10% de la población mexicana, siendo cacahuates y mariscos los alérgenos más frecuentes.",
+    "ctaText": "Si sospecha que tiene una alergia alimentaria, es vital obtener un diagnóstico y un plan de manejo adecuados. Agende una consulta con la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro, Querétaro, para recibir ayuda especializada.",
+    "treatments": [
+      "Evitar estrictamente el alimento desencadenante.",
+      "Leer etiquetas y advertencias en productos alimenticios.",
+      "Tener autoinyector de epinefrina si existe riesgo de anafilaxia.",
+      "Educación dietética y asesoramiento nutricional."
+    ],
+    "imageHome": "/images/diseases/alergia-alimentaria.jpg",
+    "imageIndividual": "/images/diseases/alergia-alimentaria.jpg",
+    "metadata": {
+      "title": "Especialista en Alergia Alimentaria en Santiago de Querétaro, Querétaro",
+      "description": "Tratamiento para alergia alimentaria en Santiago de Querétaro, Querétaro. Dra. Martha Ruiz Peñaloza te ayuda a manejar tus alergias.",
+      "keywords": [
+        "Especialista en alergia alimentaria en Santiago de Querétaro",
+        "Clínica de alergia alimentaria en Santiago de Querétaro",
+        "Hospital de alergia alimentaria en Santiago de Querétaro",
+        "Tratamiento para alergia alimentaria en Santiago de Querétaro",
+        "Experto en alergia alimentaria en Santiago de Querétaro",
+        "Centro de alergia alimentaria en Santiago de Querétaro",
+        "Quien atiende alergia alimentaria en Santiago de Querétaro",
+        "Médico para alergia alimentaria en Santiago de Querétaro",
+        "Doctor que atiende alergia alimentaria en Santiago de Querétaro",
+        "Consulta médica de alergia alimentaria en Santiago de Querétaro"
+      ],
+      "openGraph": {
+        "title": "Especialista en Alergia Alimentaria - Dra. Martha Ruiz Peñaloza",
+        "description": "Tratamiento para alergia alimentaria en Santiago de Querétaro. Tratamiento especializado por la Dra. Martha Ruiz Peñaloza.",
+        "url": "https://www.alergologadramartharuiz.com/enfermedades/alergia-alimentaria"
+      },
+      "alternates": {
+        "canonical": "https://www.alergologadramartharuiz.com/enfermedades/alergia-alimentaria"
+      }
+    }
+  },
+  {
+    "id": "alergia-a-medicamentos",
+    "name": "Alergia a Medicamentos",
+    "technicalName": "Hipersensibilidad a Medicamentos",
+    "description": "La alergia a medicamentos es una reacción adversa del sistema inmunológico a fármacos específicos. Estas reacciones pueden variar desde leves erupciones cutáneas hasta reacciones severas como la anafilaxia. Los medicamentos más comunes que causan alergias incluyen antibióticos, analgésicos y anticonvulsivos.",
+    "shortDescription": "Reacción adversa del sistema inmune a fármacos, desde erupciones leves hasta anafilaxia severa.",
+    "causes": [
+      "Reacción inmunológica a ingredientes activos o inactivos del fármaco.",
+      "Uso prolongado o repetido de un mismo medicamento.",
+      "Sensibilización previa a medicamentos similares."
+    ],
+    "symptoms": [
+      "Erupciones cutáneas y urticaria.",
+      "Hinchazón de labios, lengua o garganta.",
+      "Dificultad para respirar y sibilancias.",
+      "Náuseas, vómitos o diarrea.",
+      "Anafilaxia en casos graves."
+    ],
+    "complications": [
+      "Reacciones anafilácticas potencialmente mortales.",
+      "Necesidad de limitar opciones de tratamiento farmacológico.",
+      "Ansiedad ante el uso de nuevos medicamentos."
+    ],
+    "riskFactors": [
+      "Historia previa de reacciones alérgicas a medicamentos.",
+      "Uso frecuente o simultáneo de varios medicamentos.",
+      "Presencia de otras enfermedades alérgicas."
+    ],
+    "mexicoStats": "La alergia a medicamentos representa alrededor del 10-15% de las reacciones alérgicas graves en México, siendo los antibióticos (penicilina) los más comunes.",
+    "ctaText": "Si sospecha que es alérgico a algún medicamento, es crucial obtener un diagnóstico y un plan de manejo. Consulte a la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro, Querétaro, para recibir una evaluación especializada.",
+    "treatments": [
+      "Suspender el medicamento sospechoso de causar alergia.",
+      "Antihistamínicos y corticoides para reacciones moderadas.",
+      "Epinefrina si hay signos de anafilaxia.",
+      "Desensibilización medicamentosa en casos necesarios."
+    ],
+    "imageHome": "/images/diseases/alergia-a-medicamentos.jpg",
+    "imageIndividual": "/images/diseases/alergia-a-medicamentos.jpg",
+    "metadata": {
+      "title": "Especialista en Alergia a Medicamentos en Santiago de Querétaro, Querétaro",
+      "description": "Tratamiento para alergia a medicamentos en Santiago de Querétaro, Querétaro. Dra. Martha Ruiz Peñaloza te ayuda a manejar tus alergias.",
+      "keywords": [
+        "Especialista en alergia a medicamentos en Santiago de Querétaro",
+        "Clínica de alergia a medicamentos en Santiago de Querétaro",
+        "Hospital de alergia a medicamentos en Santiago de Querétaro",
+        "Tratamiento para alergia a medicamentos en Santiago de Querétaro",
+        "Experto en alergia a medicamentos en Santiago de Querétaro",
+        "Centro de alergia a medicamentos en Santiago de Querétaro",
+        "Quien atiende alergia a medicamentos en Santiago de Querétaro",
+        "Médico para alergia a medicamentos en Santiago de Querétaro",
+        "Doctor que atiende alergia a medicamentos en Santiago de Querétaro",
+        "Consulta médica de alergia a medicamentos en Santiago de Querétaro"
+      ],
+      "openGraph": {
+        "title": "Especialista en Alergia a Medicamentos - Dra. Martha Ruiz Peñaloza",
+        "description": "Tratamiento para alergia a medicamentos en Santiago de Querétaro. Tratamiento especializado por la Dra. Martha Ruiz Peñaloza.",
+        "url": "https://www.alergologadramartharuiz.com/enfermedades/alergia-a-medicamentos"
+      },
+      "alternates": {
+        "canonical": "https://www.alergologadramartharuiz.com/enfermedades/alergia-a-medicamentos"
+      }
+    }
+  },
+  {
+    "id": "alergia-al-medio-de-contraste",
+    "name": "Alergia al Medio de Contraste",
+    "technicalName": "Hipersensibilidad al Medio de Contraste",
+    "description": "La alergia al medio de contraste es una reacción adversa del sistema inmunológico a los agentes utilizados para mejorar la visibilidad de estructuras internas durante estudios de imagen como tomografías computarizadas o resonancias magnéticas. Las reacciones pueden variar desde leves, como erupciones cutáneas, hasta severas, como anafilaxia.",
+    "shortDescription": "Reacción alérgica a contrastes usados en estudios de imagen, con síntomas leves o cuadros de anafilaxia.",
+    "causes": [
+      "Exposición previa a medios de contraste similares.",
+      "Uso de medios de contraste iodados o gadolinio.",
+      "Factores genéticos que predisponen a reacciones alérgicas."
+    ],
+    "symptoms": [
+      "Erupciones cutáneas y urticaria.",
+      "Hinchazón de labios, lengua o garganta.",
+      "Dificultad para respirar.",
+      "Mareos o desmayos.",
+      "Anafilaxia en casos graves."
+    ],
+    "complications": [
+      "Reacciones anafilácticas mortales si no se trata a tiempo.",
+      "Daño renal en pacientes con predisposición.",
+      "Miedo y ansiedad ante futuros estudios de imagen."
+    ],
+    "riskFactors": [
+      "Historia previa de reacciones al medio de contraste.",
+      "Enfermedades renales crónicas.",
+      "Uso de múltiples medicamentos sensibilizantes.",
+      "Exposición a otros alérgenos."
+    ],
+    "mexicoStats": "Las reacciones al medio de contraste oscilan entre 0.5-3% en pacientes expuestos. Aunque la mayoría son leves, una pequeña proporción puede ser severa.",
+    "ctaText": "Si ha tenido reacciones previas al medio de contraste o tiene inquietudes, consulte a la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro, Querétaro, para recibir un diagnóstico y un plan de manejo adecuados.",
+    "treatments": [
+      "Premedicación con antihistamínicos y corticoides para reducir el riesgo.",
+      "Uso de medios de contraste alternativos con menor perfil alergénico.",
+      "Monitorización estrecha durante y después del procedimiento.",
+      "Epinefrina en caso de anafilaxia."
+    ],
+    "imageHome": "/images/diseases/alergia-al-medio-de-contraste.jpg",
+    "imageIndividual": "/images/diseases/alergia-al-medio-de-contraste.jpg",
+    "metadata": {
+      "title": "Especialista en Alergia al Medio de Contraste en Santiago de Querétaro, Querétaro",
+      "description": "Tratamiento para alergia al medio de contraste en Santiago de Querétaro, Querétaro. Dra. Martha Ruiz Peñaloza te ayuda a manejar tus reacciones.",
+      "keywords": [
+        "Especialista en alergia al medio de contraste en Santiago de Querétaro",
+        "Clínica de alergia al medio de contraste en Santiago de Querétaro",
+        "Hospital de alergia al medio de contraste en Santiago de Querétaro",
+        "Tratamiento para alergia al medio de contraste en Santiago de Querétaro",
+        "Experto en alergia al medio de contraste en Santiago de Querétaro",
+        "Centro de alergia al medio de contraste en Santiago de Querétaro",
+        "Quien atiende alergia al medio de contraste en Santiago de Querétaro",
+        "Médico para alergia al medio de contraste en Santiago de Querétaro",
+        "Doctor que atiende alergia al medio de contraste en Santiago de Querétaro",
+        "Consulta médica de alergia al medio de contraste en Santiago de Querétaro"
+      ],
+      "openGraph": {
+        "title": "Especialista en Alergia al Medio de Contraste - Dra. Martha Ruiz Peñaloza",
+        "description": "Tratamiento para alergia al medio de contraste en Santiago de Querétaro. Tratamiento especializado por la Dra. Martha Ruiz Peñaloza.",
+        "url": "https://www.alergologadramartharuiz.com/enfermedades/alergia-al-medio-de-contraste"
+      },
+      "alternates": {
+        "canonical": "https://www.alergologadramartharuiz.com/enfermedades/alergia-al-medio-de-contraste"
+      }
+    }
+  },
+  {
+    "id": "alergia-a-mascotas",
+    "name": "Alergia a Mascotas",
+    "technicalName": "Hipersensibilidad a Mascotas",
+    "description": "La alergia a mascotas es una reacción alérgica a proteínas presentes en la piel, saliva o orina de animales como perros, gatos, roedores y aves. Estas alergias pueden causar síntomas respiratorios y cutáneos, afectando la calidad de vida de quienes conviven con mascotas a las que son alérgicos.",
+    "shortDescription": "Reacción alérgica a proteínas de la piel, saliva u orina de animales, con síntomas respiratorios y cutáneos.",
+    "causes": [
+      "Exposición a pelos, caspa o saliva de animales.",
+      "Contacto directo con mascotas.",
+      "Acumulación de alérgenos en espacios cerrados."
+    ],
+    "symptoms": [
+      "Congestión nasal y estornudos.",
+      "Ojos rojos, llorosos y picazón ocular.",
+      "Urticaria o erupciones en piel.",
+      "Dificultad para respirar o sibilancias.",
+      "Tos persistente."
+    ],
+    "complications": [
+      "Desarrollo o empeoramiento de asma.",
+      "Infecciones respiratorias recurrentes.",
+      "Impacto en la calidad de vida y convivencia con mascotas.",
+      "Estrés y ansiedad al limitar la convivencia con animales."
+    ],
+    "riskFactors": [
+      "Historia familiar de alergias.",
+      "Exposición frecuente a mascotas desde edad temprana.",
+      "Otras alergias como rinitis o dermatitis.",
+      "Vivir en ambientes con alta densidad de alérgenos de mascotas."
+    ],
+    "mexicoStats": "Aproximadamente el 10-20% de la población mexicana es alérgica a mascotas, siendo perros y gatos los más comunes.",
+    "ctaText": "Si sospecha que su alergia a mascotas está afectando su salud, agende una consulta con la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro, Querétaro, para recibir un diagnóstico preciso y un tratamiento adecuado.",
+    "treatments": [
+      "Mantener una buena higiene de la mascota y el hogar.",
+      "Filtración HEPA y aspirado frecuente para reducir alérgenos.",
+      "Antihistamínicos, esteroides inhalados o broncodilatadores si hay asma.",
+      "Inmunoterapia específica en alergia grave a epitelios de mascotas."
+    ],
+    "imageHome": "/images/diseases/alergia-a-mascotas.jpg",
+    "imageIndividual": "/images/diseases/alergia-a-mascotas.jpg",
+    "metadata": {
+      "title": "Especialista en Alergia a Mascotas en Santiago de Querétaro, Querétaro",
+      "description": "Tratamiento para alergia a mascotas en Santiago de Querétaro, Querétaro. Dra. Martha Ruiz Peñaloza te ayuda a manejar tus alergias.",
+      "keywords": [
+        "Especialista en alergia a mascotas en Santiago de Querétaro",
+        "Clínica de alergia a mascotas en Santiago de Querétaro",
+        "Hospital de alergia a mascotas en Santiago de Querétaro",
+        "Tratamiento para alergia a mascotas en Santiago de Querétaro",
+        "Experto en alergia a mascotas en Santiago de Querétaro",
+        "Centro de alergia a mascotas en Santiago de Querétaro",
+        "Quien atiende alergia a mascotas en Santiago de Querétaro",
+        "Médico para alergia a mascotas en Santiago de Querétaro",
+        "Doctor que atiende alergia a mascotas en Santiago de Querétaro",
+        "Consulta médica de alergia a mascotas en Santiago de Querétaro"
+      ],
+      "openGraph": {
+        "title": "Especialista en Alergia a Mascotas - Dra. Martha Ruiz Peñaloza",
+        "description": "Tratamiento para alergia a mascotas en Santiago de Querétaro. Tratamiento especializado por la Dra. Martha Ruiz Peñaloza.",
+        "url": "https://www.alergologadramartharuiz.com/enfermedades/alergia-a-mascotas"
+      },
+      "alternates": {
+        "canonical": "https://www.alergologadramartharuiz.com/enfermedades/alergia-a-mascotas"
+      }
+    }
+  },
+  {
+    "id": "alergia-a-picadura-de-insectos",
+    "name": "Alergia a Picadura de Insectos",
+    "technicalName": "Hipersensibilidad a Picaduras de Insectos",
+    "description": "La alergia a picaduras de insectos es una reacción inmunológica adversa a las toxinas y enzimas presentes en la saliva de insectos como abejas, avispas, hormigas y mosquitos. Estas reacciones pueden variar desde leves molestias hasta reacciones severas como la anafilaxia.",
+    "shortDescription": "Reacción inmune a toxinas de insectos (abejas, avispas, hormigas, mosquitos) con desde inflamación local hasta anafilaxia.",
+    "causes": [
+      "Picaduras repetidas de insectos alergénicos.",
+      "Exposición a diferentes tipos de insectos.",
+      "Factores genéticos que predisponen a reacciones."
+    ],
+    "symptoms": [
+      "Dolor y enrojecimiento en el sitio de la picadura.",
+      "Hinchazón local o generalizada.",
+      "Urticaria y erupciones cutáneas.",
+      "Dificultad para respirar y sibilancias.",
+      "Anafilaxia en casos graves."
+    ],
+    "complications": [
+      "Reacciones anafilácticas que pueden ser mortales.",
+      "Infecciones secundarias por rascar la zona.",
+      "Ansiedad y temor a futuras picaduras."
+    ],
+    "riskFactors": [
+      "Historia personal o familiar de alergias.",
+      "Exposición frecuente a insectos alergénicos.",
+      "Tener otras enfermedades alérgicas como asma o rinitis.",
+      "Edad temprana de exposición repetida."
+    ],
+    "mexicoStats": "La alergia a picaduras de insectos afecta alrededor del 3-5% de la población mexicana, con mayor incidencia en adultos jóvenes y personas con antecedentes alérgicos.",
+    "ctaText": "No subestime las reacciones a picaduras de insectos. Consulte a la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro, Querétaro, para un diagnóstico preciso y tratamiento adecuado.",
+    "treatments": [
+      "Limpieza de la zona y aplicación de frío local.",
+      "Antihistamínicos o corticoides orales para reducir la inflamación.",
+      "Epinefrina en caso de anafilaxia.",
+      "Inmunoterapia con veneno de insectos en casos graves."
+    ],
+    "imageHome": "/images/diseases/alergia-a-picadura-de-insectos.jpg",
+    "imageIndividual": "/images/diseases/alergia-a-picadura-de-insectos.jpg",
+    "metadata": {
+      "title": "Especialista en Alergia a Picadura de Insectos en Santiago de Querétaro, Querétaro",
+      "description": "Tratamiento para alergia a picaduras de insectos en Santiago de Querétaro, Querétaro. Dra. Martha Ruiz Peñaloza te ayuda a manejar tus alergias.",
+      "keywords": [
+        "Especialista en alergia a picadura de insectos en Santiago de Querétaro",
+        "Clínica de alergia a picadura de insectos en Santiago de Querétaro",
+        "Hospital de alergia a picadura de insectos en Santiago de Querétaro",
+        "Tratamiento para alergia a picadura de insectos en Santiago de Querétaro",
+        "Experto en alergia a picadura de insectos en Santiago de Querétaro",
+        "Centro de alergia a picadura de insectos en Santiago de Querétaro",
+        "Quien atiende alergia a picadura de insectos en Santiago de Querétaro",
+        "Médico para alergia a picadura de insectos en Santiago de Querétaro",
+        "Doctor que atiende alergia a picadura de insectos en Santiago de Querétaro",
+        "Consulta médica de alergia a picadura de insectos en Santiago de Querétaro"
+      ],
+      "openGraph": {
+        "title": "Especialista en Alergia a Picadura de Insectos - Dra. Martha Ruiz Peñaloza",
+        "description": "Tratamiento para alergia a picaduras de insectos en Santiago de Querétaro. Tratamiento especializado por la Dra. Martha Ruiz Peñaloza.",
+        "url": "https://www.alergologadramartharuiz.com/enfermedades/alergia-a-picadura-de-insectos"
+      },
+      "alternates": {
+        "canonical": "https://www.alergologadramartharuiz.com/enfermedades/alergia-a-picadura-de-insectos"
+      }
+    }
+  },
+  {
+    "id": "sindrome-de-dress",
+    "name": "Síndrome de Dress",
+    "technicalName": "Síndrome de Drug Reaction with Eosinophilia and Systemic Symptoms",
+    "description": "El síndrome de Dress, también conocido como DRESS (Drug Reaction with Eosinophilia and Systemic Symptoms), es una reacción adversa grave a medicamentos que se caracteriza por fiebre, erupciones cutáneas extensas, eosinofilia y afectación de órganos sistémicos como hígado, riñones o corazón.",
+    "shortDescription": "Reacción adversa grave a medicamentos, con fiebre, erupción extensa, eosinofilia y compromiso multiorgánico.",
+    "causes": [
+      "Uso de ciertos medicamentos que desencadenan hipersensibilidad.",
+      "Combinación de múltiples fármacos.",
+      "Susceptibilidad genética a reacciones graves."
+    ],
+    "symptoms": [
+      "Fiebre alta.",
+      "Erupciones cutáneas extensas y pruriginosas.",
+      "Aumento de eosinófilos en la sangre.",
+      "Compromiso hepático, renal o cardíaco.",
+      "Fatiga y malestar general."
+    ],
+    "complications": [
+      "Insuficiencia orgánica por afectación sistémica.",
+      "Riesgo de infecciones secundarias.",
+      "Deterioro de la función hepática o renal.",
+      "Alta morbilidad y mortalidad si no se trata."
+    ],
+    "riskFactors": [
+      "Uso prolongado de medicamentos desencadenantes.",
+      "Historia previa de alergias a fármacos.",
+      "Infecciones virales concomitantes (ej. herpes humano).",
+      "Factores genéticos que predisponen a reacciones severas."
+    ],
+    "mexicoStats": "El síndrome de Dress es poco frecuente en México, con una incidencia de 1-2 casos por cada 100,000 personas expuestas a fármacos desencadenantes, principalmente en adultos jóvenes.",
+    "ctaText": "Si ha presentado una reacción severa a medicamentos, busque ayuda inmediata. Agende una consulta con la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro, Querétaro, para recibir un diagnóstico y tratamiento adecuados para el síndrome de Dress.",
+    "treatments": [
+      "Suspender de inmediato el fármaco causante.",
+      "Corticosteroides sistémicos para controlar la inflamación.",
+      "Monitoreo estrecho de la función hepática y renal.",
+      "Soporte de órganos afectados y evaluación de posibles complicaciones."
+    ],
+    "imageHome": "/images/diseases/sindrome-de-dress.jpg",
+    "imageIndividual": "/images/diseases/sindrome-de-dress.jpg",
+    "metadata": {
+      "title": "Especialista en Síndrome de Dress en Santiago de Querétaro, Querétaro",
+      "description": "Tratamiento para síndrome de Dress en Santiago de Querétaro, Querétaro. Dra. Martha Ruiz Peñaloza te ayuda a manejar tus reacciones a medicamentos.",
+      "keywords": [
+        "Especialista en síndrome de Dress en Santiago de Querétaro",
+        "Clínica de síndrome de Dress en Santiago de Querétaro",
+        "Hospital de síndrome de Dress en Santiago de Querétaro",
+        "Tratamiento para síndrome de Dress en Santiago de Querétaro",
+        "Experto en síndrome de Dress en Santiago de Querétaro",
+        "Centro de síndrome de Dress en Santiago de Querétaro",
+        "Quien atiende síndrome de Dress en Santiago de Querétaro",
+        "Médico para síndrome de Dress en Santiago de Querétaro",
+        "Doctor que atiende síndrome de Dress en Santiago de Querétaro",
+        "Consulta médica de síndrome de Dress en Santiago de Querétaro"
+      ],
+      "openGraph": {
+        "title": "Especialista en Síndrome de Dress - Dra. Martha Ruiz Peñaloza",
+        "description": "Tratamiento para síndrome de Dress en Santiago de Querétaro. Tratamiento especializado por la Dra. Martha Ruiz Peñaloza.",
+        "url": "https://www.alergologadramartharuiz.com/enfermedades/sindrome-de-dress"
+      },
+      "alternates": {
+        "canonical": "https://www.alergologadramartharuiz.com/enfermedades/sindrome-de-dress"
+      }
+    }
+  },
+  {
+    "id": "sindrome-de-stevens-johnson",
+    "name": "Síndrome de Stevens-Johnson",
+    "technicalName": "Síndrome de Stevens-Johnson",
+    "description": "El síndrome de Stevens-Johnson es una reacción cutánea severa y rara que generalmente es causada por medicamentos o infecciones. Se caracteriza por la formación de ampollas en la piel y las membranas mucosas, lo que puede llevar a la descamación extensa y daños a órganos vitales.",
+    "shortDescription": "Reacción cutánea grave causada por medicamentos o infecciones, con ampollas en piel y mucosas, potencialmente mortal.",
+    "causes": [
+      "Uso de ciertos medicamentos (anticonvulsivos, antibióticos).",
+      "Infecciones virales concomitantes.",
+      "Factores genéticos que predisponen a reacciones severas."
+    ],
+    "symptoms": [
+      "Fiebre alta y malestar general.",
+      "Erupciones cutáneas necróticas de rápida propagación.",
+      "Formación de ampollas y úlceras en piel y mucosas.",
+      "Dolor intenso en las áreas afectadas."
+    ],
+    "complications": [
+      "Infecciones secundarias graves.",
+      "Insuficiencia orgánica por afectación sistémica.",
+      "Cicatrización extensa y formación de cicatrices.",
+      "Elevado riesgo de mortalidad si no se trata con rapidez."
+    ],
+    "riskFactors": [
+      "Uso de medicamentos desencadenantes.",
+      "Historia previa de reacciones cutáneas severas.",
+      "Infecciones virales concomitantes.",
+      "Predisposición genética."
+    ],
+    "mexicoStats": "Este síndrome es extremadamente raro en México, con una incidencia estimada de menos de 1 caso por millón de habitantes. Su alta mortalidad subraya la importancia de un tratamiento inmediato.",
+    "ctaText": "Si presenta síntomas graves de reacciones cutáneas, busque atención médica urgente. Agende una consulta con la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro, Querétaro, para recibir diagnóstico y tratamiento adecuados.",
+    "treatments": [
+      "Suspender de inmediato el medicamento sospechoso.",
+      "Atención hospitalaria en unidades de cuidados intensivos o quemados.",
+      "Corticosteroides sistémicos o inmunoglobulinas IV según valoración médica.",
+      "Manejo del dolor y protección de mucosas afectadas."
+    ],
+    "imageHome": "/images/diseases/sindrome-de-stevens-johnson.jpg",
+    "imageIndividual": "/images/diseases/sindrome-de-stevens-johnson.jpg",
+    "metadata": {
+      "title": "Especialista en Síndrome de Stevens-Johnson en Santiago de Querétaro, Querétaro",
+      "description": "Tratamiento para síndrome de Stevens-Johnson en Santiago de Querétaro, Querétaro. Dra. Martha Ruiz Peñaloza te ayuda a manejar tus reacciones severas.",
+      "keywords": [
+        "Especialista en síndrome de Stevens-Johnson en Santiago de Querétaro",
+        "Clínica de síndrome de Stevens-Johnson en Santiago de Querétaro",
+        "Hospital de síndrome de Stevens-Johnson en Santiago de Querétaro",
+        "Tratamiento para síndrome de Stevens-Johnson en Santiago de Querétaro",
+        "Experto en síndrome de Stevens-Johnson en Santiago de Querétaro",
+        "Centro de síndrome de Stevens-Johnson en Santiago de Querétaro",
+        "Quien atiende síndrome de Stevens-Johnson en Santiago de Querétaro",
+        "Médico para síndrome de Stevens-Johnson en Santiago de Querétaro",
+        "Doctor que atiende síndrome de Stevens-Johnson en Santiago de Querétaro",
+        "Consulta médica de síndrome de Stevens-Johnson en Santiago de Querétaro"
+      ],
+      "openGraph": {
+        "title": "Especialista en Síndrome de Stevens-Johnson - Dra. Martha Ruiz Peñaloza",
+        "description": "Tratamiento para síndrome de Stevens-Johnson en Santiago de Querétaro. Tratamiento especializado por la Dra. Martha Ruiz Peñaloza.",
+        "url": "https://www.alergologadramartharuiz.com/enfermedades/sindrome-de-stevens-johnson"
+      },
+      "alternates": {
+        "canonical": "https://www.alergologadramartharuiz.com/enfermedades/sindrome-de-stevens-johnson"
+      }
+    }
+  },
+  {
+    "id": "sinusitis-alergica-cronica",
+    "name": "Sinusitis Alérgica Crónica",
+    "technicalName": "Sinusitis Alérgica Crónica",
+    "description": "La sinusitis alérgica crónica es una inflamación prolongada de los senos paranasales causada por alergias persistentes. Se manifiesta con síntomas como congestión nasal, dolor facial, secreción nasal y pérdida del sentido del olfato, afectando la calidad de vida y las actividades diarias.",
+    "shortDescription": "Inflamación crónica de los senos paranasales por alergias persistentes, causando congestión, dolor facial y secreción nasal.",
+    "causes": [
+      "Exposición continua a alérgenos (polen, ácaros, moho).",
+      "Infecciones bacterianas secundarias.",
+      "Anomalías anatómicas en la cavidad nasal.",
+      "Uso prolongado de descongestionantes nasales."
+    ],
+    "symptoms": [
+      "Congestión nasal persistente.",
+      "Dolor y presión facial.",
+      "Secreción nasal espesa y descolorida.",
+      "Pérdida del sentido del olfato.",
+      "Fatiga y dolor de cabeza."
+    ],
+    "complications": [
+      "Infecciones sinusales recurrentes.",
+      "Propagación de la infección a ojos y cerebro en casos severos.",
+      "Desarrollo de pólipos nasales.",
+      "Disminución de la calidad de vida y productividad."
+    ],
+    "riskFactors": [
+      "Historia personal o familiar de alergias.",
+      "Exposición frecuente a ambientes con alto contenido de alérgenos.",
+      "Tener otras enfermedades alérgicas como rinitis alérgica o asma.",
+      "Fumar o convivir con humo de tabaco."
+    ],
+    "mexicoStats": "La sinusitis alérgica crónica afecta a aproximadamente el 5-10% de la población mexicana, con mayor prevalencia en áreas urbanas y alta contaminación.",
+    "ctaText": "No permita que la sinusitis alérgica crónica afecte su bienestar diario. Consulte a la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro, Querétaro, para recibir un diagnóstico preciso y un tratamiento eficaz.",
+    "treatments": [
+      "Corticoides nasales y antihistamínicos.",
+      "Lavados nasales con solución salina.",
+      "Antibióticos en caso de infección bacteriana asociada.",
+      "Cirugía endoscópica nasal si existe obstrucción anatómica o pólipos."
+    ],
+    "imageHome": "/images/diseases/sinusitis-alergica-cronica.jpg",
+    "imageIndividual": "/images/diseases/sinusitis-alergica-cronica.jpg",
+    "metadata": {
+      "title": "Especialista en Sinusitis Alérgica Crónica en Santiago de Querétaro, Querétaro",
+      "description": "Tratamiento para sinusitis alérgica crónica en Santiago de Querétaro, Querétaro. Dra. Martha Ruiz Peñaloza te ayuda a manejar tus síntomas.",
+      "keywords": [
+        "Especialista en sinusitis alérgica crónica en Santiago de Querétaro",
+        "Clínica de sinusitis alérgica crónica en Santiago de Querétaro",
+        "Hospital de sinusitis alérgica crónica en Santiago de Querétaro",
+        "Tratamiento para sinusitis alérgica crónica en Santiago de Querétaro",
+        "Experto en sinusitis alérgica crónica en Santiago de Querétaro",
+        "Centro de sinusitis alérgica crónica en Santiago de Querétaro",
+        "Quien atiende sinusitis alérgica crónica en Santiago de Querétaro",
+        "Médico para sinusitis alérgica crónica en Santiago de Querétaro",
+        "Doctor que atiende sinusitis alérgica crónica en Santiago de Querétaro",
+        "Consulta médica de sinusitis alérgica crónica en Santiago de Querétaro"
+      ],
+      "openGraph": {
+        "title": "Especialista en Sinusitis Alérgica Crónica - Dra. Martha Ruiz Peñaloza",
+        "description": "Tratamiento para sinusitis alérgica crónica en Santiago de Querétaro. Tratamiento especializado por la Dra. Martha Ruiz Peñaloza.",
+        "url": "https://www.alergologadramartharuiz.com/enfermedades/sinusitis-alergica-cronica"
+      },
+      "alternates": {
+        "canonical": "https://www.alergologadramartharuiz.com/enfermedades/sinusitis-alergica-cronica"
+      }
+    }
+  },
+  {
+    "id": "infeccion-de-las-vias-respiratorias",
+    "name": "Infección de las Vías Respiratorias",
+    "technicalName": "Infecciones de las Vías Respiratorias",
+    "description": "Las infecciones de las vías respiratorias son enfermedades causadas por virus, bacterias u otros microorganismos que afectan las partes del sistema respiratorio, incluyendo la nariz, la garganta, los bronquios y los pulmones. Estas infecciones pueden ser agudas o crónicas y varían en severidad desde leves resfriados hasta enfermedades graves como la neumonía.",
+    "shortDescription": "Enfermedades respiratorias causadas por virus, bacterias u otros microorganismos, que pueden ser leves o graves.",
+    "causes": [
+      "Virus como rinovirus, influenza o coronavirus.",
+      "Bacterias como Streptococcus pneumoniae, Haemophilus influenzae.",
+      "Contaminación del aire y tabaquismo.",
+      "Sistema inmunológico debilitado."
+    ],
+    "symptoms": [
+      "Congestión nasal y secreción.",
+      "Tos persistente.",
+      "Fiebre y escalofríos.",
+      "Dolor de garganta.",
+      "Dificultad para respirar en casos graves."
+    ],
+    "complications": [
+      "Neumonía o bronquitis crónica.",
+      "Infecciones secundarias.",
+      "Agravamiento de asma u otras condiciones respiratorias."
+    ],
+    "riskFactors": [
+      "Edad (niños y ancianos).",
+      "Exposición a ambientes contaminados.",
+      "Sistema inmunológico comprometido.",
+      "Tabaquismo activo o pasivo."
+    ],
+    "mexicoStats": "Las infecciones de las vías respiratorias son una de las principales causas de consulta médica en México, afectando a millones de personas cada año, especialmente en temporadas de frío.",
+    "ctaText": "Si presenta síntomas de infección de las vías respiratorias, busque atención médica oportuna. Agende una consulta con la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro, Querétaro, para recibir un diagnóstico y tratamiento adecuados.",
+    "treatments": [
+      "Reposo e hidratación adecuada.",
+      "Medicamentos antipiréticos o analgésicos para aliviar síntomas.",
+      "Antibióticos solo en caso de infección bacteriana confirmada.",
+      "Soporte respiratorio si la dificultad para respirar es severa."
+    ],
+    "imageHome": "/images/diseases/infeccion-de-las-vias-respiratorias.jpg",
+    "imageIndividual": "/images/diseases/infeccion-de-las-vias-respiratorias.jpg",
+    "metadata": {
+      "title": "Especialista en Infecciones de las Vías Respiratorias en Santiago de Querétaro, Querétaro",
+      "description": "Tratamiento para infecciones de las vías respiratorias en Santiago de Querétaro, Querétaro. Dra. Martha Ruiz Peñaloza te ayuda a manejar tus síntomas.",
+      "keywords": [
+        "Especialista en infecciones de las vías respiratorias en Santiago de Querétaro",
+        "Clínica de infecciones de las vías respiratorias en Santiago de Querétaro",
+        "Hospital de infecciones de las vías respiratorias en Santiago de Querétaro",
+        "Tratamiento para infecciones de las vías respiratorias en Santiago de Querétaro",
+        "Experto en infecciones de las vías respiratorias en Santiago de Querétaro",
+        "Centro de infecciones de las vías respiratorias en Santiago de Querétaro",
+        "Quien atiende infecciones de las vías respiratorias en Santiago de Querétaro",
+        "Médico para infecciones de las vías respiratorias en Santiago de Querétaro",
+        "Doctor que atiende infecciones de las vías respiratorias en Santiago de Querétaro",
+        "Consulta médica de infecciones de las vías respiratorias en Santiago de Querétaro"
+      ],
+      "openGraph": {
+        "title": "Especialista en Infecciones de las Vías Respiratorias - Dra. Martha Ruiz Peñaloza",
+        "description": "Tratamiento para infecciones de las vías respiratorias en Santiago de Querétaro. Tratamiento especializado por la Dra. Martha Ruiz Peñaloza.",
+        "url": "https://www.alergologadramartharuiz.com/enfermedades/infeccion-de-las-vias-respiratorias"
+      },
+      "alternates": {
+        "canonical": "https://www.alergologadramartharuiz.com/enfermedades/infeccion-de-las-vias-respiratorias"
+      }
+    }
+  },
+  {
+    "id": "rinoconjuntivitis-alergica",
+    "name": "Rinoconjuntivitis Alérgica",
+    "technicalName": "Rinoconjuntivitis Alérgica",
+    "description": "La rinoconjuntivitis alérgica es una condición que combina la rinitis alérgica con la conjuntivitis alérgica. Se caracteriza por inflamación de la nariz y los ojos debido a la exposición a alérgenos como el polen, ácaros del polvo, moho o pelos de animales. Los síntomas incluyen congestión nasal, estornudos, ojos rojos y llorosos.",
+    "shortDescription": "Combinación de rinitis y conjuntivitis por alérgenos, con congestión nasal, estornudos y ojos irritados.",
+    "causes": [
+      "Exposición a polen, ácaros del polvo o moho.",
+      "Contacto con pelos de mascotas.",
+      "Inhalación de contaminantes del aire.",
+      "Predisposición genética a las alergias."
+    ],
+    "symptoms": [
+      "Congestión nasal y secreción acuosa.",
+      "Estornudos frecuentes.",
+      "Picazón en nariz, ojos y garganta.",
+      "Ojos rojos, llorosos y arenilla.",
+      "Fatiga por la incomodidad constante."
+    ],
+    "complications": [
+      "Sinusitis recurrente y sinusitis alérgica crónica.",
+      "Infecciones oculares secundarias.",
+      "Dificultad para concentrarse por los síntomas persistentes."
+    ],
+    "riskFactors": [
+      "Historia familiar de alergias.",
+      "Exposición frecuente a ambientes con alérgenos.",
+      "Tener otras enfermedades alérgicas (asma, dermatitis).",
+      "Vivir en áreas urbanas con alta contaminación."
+    ],
+    "mexicoStats": "La rinoconjuntivitis alérgica afecta alrededor del 10-15% de la población mexicana, con mayor prevalencia en áreas urbanas y temporadas de polinización alta.",
+    "ctaText": "No permita que la rinoconjuntivitis alérgica limite su vida diaria. Consulte a la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro, Querétaro, para recibir un diagnóstico preciso y un tratamiento eficaz.",
+    "treatments": [
+      "Antihistamínicos orales y colirios para aliviar picazón y enrojecimiento.",
+      "Corticoides nasales para reducir la congestión.",
+      "Lavados nasales con solución salina.",
+      "Inmunoterapia en casos crónicos o severos."
+    ],
+    "imageHome": "/images/diseases/rinoconjuntivitis-alergica.jpg",
+    "imageIndividual": "/images/diseases/rinoconjuntivitis-alergica.jpg",
+    "metadata": {
+      "title": "Especialista en Rinoconjuntivitis Alérgica en Santiago de Querétaro, Querétaro",
+      "description": "Tratamiento para rinoconjuntivitis alérgica en Santiago de Querétaro, Querétaro. Dra. Martha Ruiz Peñaloza te ayuda a manejar tus síntomas.",
+      "keywords": [
+        "Especialista en rinoconjuntivitis alérgica en Santiago de Querétaro",
+        "Clínica de rinoconjuntivitis alérgica en Santiago de Querétaro",
+        "Hospital de rinoconjuntivitis alérgica en Santiago de Querétaro",
+        "Tratamiento para rinoconjuntivitis alérgica en Santiago de Querétaro",
+        "Experto en rinoconjuntivitis alérgica en Santiago de Querétaro",
+        "Centro de rinoconjuntivitis alérgica en Santiago de Querétaro",
+        "Quien atiende rinoconjuntivitis alérgica en Santiago de Querétaro",
+        "Médico para rinoconjuntivitis alérgica en Santiago de Querétaro",
+        "Doctor que atiende rinoconjuntivitis alérgica en Santiago de Querétaro",
+        "Consulta médica de rinoconjuntivitis alérgica en Santiago de Querétaro"
+      ],
+      "openGraph": {
+        "title": "Especialista en Rinoconjuntivitis Alérgica - Dra. Martha Ruiz Peñaloza",
+        "description": "Tratamiento para rinoconjuntivitis alérgica en Santiago de Querétaro. Tratamiento especializado por la Dra. Martha Ruiz Peñaloza.",
+        "url": "https://www.alergologadramartharuiz.com/enfermedades/rinoconjuntivitis-alergica"
+      },
+      "alternates": {
+        "canonical": "https://www.alergologadramartharuiz.com/enfermedades/rinoconjuntivitis-alergica"
+      }
+    }
+  },
+  {
+    "id": "inmunodeficiencias-primarias",
+    "name": "Inmunodeficiencias Primarias",
+    "technicalName": "Inmunodeficiencias Primarias",
+    "description": "Las inmunodeficiencias primarias son un grupo de trastornos genéticos que afectan el funcionamiento del sistema inmunológico, disminuyendo su capacidad para combatir infecciones. Estas deficiencias pueden predisponer a los pacientes a infecciones recurrentes, enfermedades autoinmunes y ciertos tipos de cáncer.",
+    "shortDescription": "Trastornos genéticos que afectan la función inmune, ocasionando infecciones recurrentes y mayor riesgo de complicaciones.",
+    "causes": [
+      "Mutaciones genéticas que alteran la producción o función de células inmunes.",
+      "Trastornos hereditarios transmitidos de padres a hijos.",
+      "Deficiencias específicas de anticuerpos, células T u otros componentes del sistema inmune."
+    ],
+    "symptoms": [
+      "Infecciones recurrentes y severas en vías respiratorias, oídos, piel y tracto gastrointestinal.",
+      "Falta de respuesta adecuada a vacunas.",
+      "Cansancio excesivo y pérdida de peso.",
+      "Desarrollo de enfermedades autoinmunes."
+    ],
+    "complications": [
+      "Infecciones crónicas con daño orgánico.",
+      "Enfermedades autoinmunes secundarias.",
+      "Mayor riesgo de ciertos tipos de cáncer (linfoma).",
+      "Dependencia de tratamientos inmunológicos continuos."
+    ],
+    "riskFactors": [
+      "Historia familiar de inmunodeficiencias.",
+      "Presencia de otras enfermedades autoinmunes.",
+      "Diagnóstico temprano en la infancia.",
+      "Exposición a ambientes con alto riesgo de infecciones."
+    ],
+    "mexicoStats": "Las inmunodeficiencias primarias son poco comunes en México, con una incidencia estimada de 1-3 casos por cada 100,000 habitantes. Generalmente se diagnostican en la infancia por la severidad de las infecciones.",
+    "ctaText": "Si usted o su hijo presentan infecciones recurrentes o signos de inmunodeficiencia, consulte a la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro, Querétaro, para recibir un diagnóstico y tratamiento especializados.",
+    "treatments": [
+      "Terapia con inmunoglobulinas para reforzar la defensa inmune.",
+      "Uso de antibióticos profilácticos en casos de infecciones crónicas.",
+      "Vacunas especiales o refuerzos adecuados.",
+      "Trasplante de médula ósea en inmunodeficiencias graves."
+    ],
+    "imageHome": "/images/diseases/inmunodeficiencias-primarias.jpg",
+    "imageIndividual": "/images/diseases/inmunodeficiencias-primarias.jpg",
+    "metadata": {
+      "title": "Especialista en Inmunodeficiencias Primarias en Santiago de Querétaro, Querétaro",
+      "description": "Tratamiento para inmunodeficiencias primarias en Santiago de Querétaro, Querétaro. Dra. Martha Ruiz Peñaloza te ayuda a manejar tu condición.",
+      "keywords": [
+        "Especialista en inmunodeficiencias primarias en Santiago de Querétaro",
+        "Clínica de inmunodeficiencias primarias en Santiago de Querétaro",
+        "Hospital de inmunodeficiencias primarias en Santiago de Querétaro",
+        "Tratamiento para inmunodeficiencias primarias en Santiago de Querétaro",
+        "Experto en inmunodeficiencias primarias en Santiago de Querétaro",
+        "Centro de inmunodeficiencias primarias en Santiago de Querétaro",
+        "Quien atiende inmunodeficiencias primarias en Santiago de Querétaro",
+        "Médico para inmunodeficiencias primarias en Santiago de Querétaro",
+        "Doctor que atiende inmunodeficiencias primarias en Santiago de Querétaro",
+        "Consulta médica de inmunodeficiencias primarias en Santiago de Querétaro"
+      ],
+      "openGraph": {
+        "title": "Especialista en Inmunodeficiencias Primarias - Dra. Martha Ruiz Peñaloza",
+        "description": "Tratamiento para inmunodeficiencias primarias en Santiago de Querétaro. Tratamiento especializado por la Dra. Martha Ruiz Peñaloza.",
+        "url": "https://www.alergologadramartharuiz.com/enfermedades/inmunodeficiencias-primarias"
+      },
+      "alternates": {
+        "canonical": "https://www.alergologadramartharuiz.com/enfermedades/inmunodeficiencias-primarias"
+      }
+    }
+  }
+]
+}

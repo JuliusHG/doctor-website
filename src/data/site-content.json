@@ -1,0 +1,386 @@
+{
+  "doctorInfo": {
+    "name": "Dra Martha Ruiz Peñaloza",
+    "specialty": "Alergología e Inmunología Pediátrica",
+    "specialtyShort": "Alergología e Inmunología Pediátrica",
+    "specialist": "Alergóloga e Inmunóloga Pediatra",
+    "address": "Calle Privada Ignacio Zaragoza 16, Villas Del Refugio, Santiago de Querétaro",
+    "phone": "+52 442 129 7416",
+    "whatsapp": "+52 442 129 7416",
+    "email": "martha.rpz22@gmail.com",
+    "cedProf": "10902414, UAQ",
+    "cedEsp": "14052385, UNAM",
+    "websiteUrl": "https://www.alergologadramartharuiz.com",
+    "facebookLink": "",
+    "instagramLink": "",
+    "linkedinLink": "",
+    "xLink": "",
+    "twitterLink": "",
+    "youtubeLink": "",
+    "googleMapsLink": "https://maps.app.goo.gl/qBEkCMCc7fC959ra9",
+    "doctoraliaLink": "https://www.doctoralia.com.mx/martha-ruiz-penaloza/alergologo-inmunologo/santiago-de-queretaro",
+    "doctoraliaReviewsLink": "https://www.doctoralia.com.mx/martha-ruiz-penaloza/alergologo-inmunologo/san-juan-del-rio#profile-reviews",
+    "logoPath": "/images/logos/DraMarthaRuiz_Logo.png",
+    "logoHeight": 150,
+    "favicon": ""
+  },
+  "doctorWorkInfo": {
+    "avisoCofepris": "XXXXXXXXXXXXXXXXX",
+    "consultingHeader":"Consultorio",
+    "consultingAddress":"Calle Privada Ignacio Zaragoza 16, Villas Del Refugio, Santiago de Querétaro",
+    "consultingHoursDaysHeader":"Horario",
+    "consultingHoursDaysSubheader1":"Lunes a Viernes",
+    "consultingHours1":"9:30 a 13:00 y 16:30 a 20:00 horas",
+    "consultingHoursDaysSubheader2":"Sábados",
+    "consultingHours2":"10:00 a 13:00",
+    "consultingPhonesHeader":"Teléfonos",
+    "consultingSchedulePhonesSubheader": "Citas",
+    "consultingSchedulePhone":"442 129 7416",
+    "consultingUrgenciesPhonesSubheader": "Urgencias",
+    "consultingUrgenciesPhone":"442 129 7416",
+    "hospitalHeader": "Hospital H+ (Complejo Tec 100)",
+    "hospitalAddress": "Calle Privada Ignacio Zaragoza 16, Villas Del Refugio, Santiago de Querétaro",
+    "hospitalHoursDaysHeader": "Horario",
+    "hospitalHoursDaysSubheader1": "Lunes a Viernes",
+    "hospitalHours1":"9:30 a 13:00 y 16:30 a 20:00 horas",
+    "hospitalHoursDaysSubheader2":"Sábados",
+    "hospitalHours2":"10:00 a 13:00",
+    "hospitalPhonesHeader":"Teléfonos",
+    "hospitalSchedulePhonesSubheader": "Citas",
+    "hospitalSchedulePhone":"442 129 7416",
+    "hospitalUrgenciesPhonesSubheader": "Urgencias",
+    "hospitalUrgenciesPhone":"442 129 7416"
+  },
+  "heroSection": {
+    "heroSectionHeight": 600,
+    "mainImage": "/images/hero_background.jpg",
+    "logoHeight": 350,
+    "backgroundHeroImage": "/images/DraMarthaRuiz_HS.png",
+    "backgroundHeroImageHeightPercent": 100,
+    "foregroundHeroImage": "/assets/maskHero-itechie6.webp",
+    "foregroundHeroImageHeightPercent" : 90,
+    "overlayColor": "rgba(255, 192, 203, 0.0)",
+    "overlayOpacity": 0.1,
+    "subTitle": "Hero SubTitle: You are my hero!",
+    "title": "¿Tienes problemas de alergias?",
+    "description": "Hero description: This is my description of a Hero in the Hero description"
+  },
+  "navMenu": [
+    { "label": "Inicio", "path": "/" },
+    { "label": "Servicios", "path": "/servicios" },
+    { "label": "Enfermedades", "path": "/enfermedades" },
+    { "label": "Síntomas", "path": "/sintomas" },
+    { "label": "Contacto", "path": "/contacto" }
+  ],
+  "certifications": {
+    "sectionTitle": "Certificaciones profesionales",
+    "entities": [
+      {
+        "nameTitle" : "Certificación",
+        "name": "Consejo Mexicano de Inmunología Clínica y Alergia A.C.",
+        "imagePath": "/images/certifications/CMICA.png",
+        "visible": true
+      },
+      {
+        "nameTitle" : "Certificación",
+        "name": "Colegio Mexicano de Pediatría",
+        "imagePath": "/images/certifications/CMCP.png",
+        "visible": true
+      },
+      {
+        "nameTitle" : "Diplomado de Alergia Alimentaria",
+        "name": "Universidad Miguel de Cervantes, Valencia, España",
+        "imagePath": "/images/certifications/UEMC.png",
+        "visible": true
+      },
+      {
+        "nameTitle" : "Capacitación en Alergia Molecular",
+        "name": "Hospital Universitario de la FE, Valencia, España",
+        "imagePath": "/images/certifications/LaFe.png",
+        "visible": true
+      }
+    ],
+    "documents": [
+      {
+        "nameTitle" : "Diploma",
+        "name": "Diploma",
+        "imagePath": "/images/certifications/documento1.jpg",
+        "visible": false
+      },
+      {
+        "nameTitle" : "Acreditación",
+        "name": "Acreditación",
+        "imagePath": "/images/certifications/documento2.jpg",
+        "visible": false
+      },
+      {
+        "nameTitle" : "Cédula Especialidad",
+        "name": "Cédula Especialidad",
+        "imagePath": "/images/certifications/documento3.jpg",
+        "visible": false
+      },
+      {
+        "nameTitle" : "Título Profesional",
+        "name": "Título Profesional",
+        "imagePath": "/images/certifications/documento4.jpg",
+        "visible": false
+      }
+    ]
+  },
+  "experience": {
+    "sectionTitle": "Experiencia",
+    "sectionSubtitle": "Estadísticas que me respaldan",
+    "entities": [
+      {
+        "icon": "/images/icons/experiencia.svg",
+        "value": "5+",
+        "label": "Años de experiencia"
+      },
+      {
+        "icon": "/images/icons/paciente.svg",
+        "value": "10,000+",
+        "label": "Pacientes atendidos"
+      },
+      {
+        "icon": "/images/icons/reconocimiento.svg",
+        "value": "25+",
+        "label": "Reconocimientos"
+      }
+    ],
+    "itemFrame": "/assets/experience-items-frame.svg"
+  },
+  "aboutUs": {
+    "sectionTitle": "Sobre mí",
+    "imagePath": "/images/AboutMe.jpg",
+    "backgroundImagePath": "/images/aboutus-bg.jpg",
+    "title": "Dra. Martha Ruiz Peñaloza",
+    "description": 
+      "Soy la Dra. Martha Ruiz Peñaloza, profesional médico especialista en el manejo de enfermedades alérgicas e inmunológicas en pacientes pediátricos y adultos. Cuento con cursos de alta especialización en alergia molecular  y alergia alimentaria. Estoy certificada por el Consejo Mexicano de Alergia e Inmunología Clínica y el Consejo Mexicano de Pediatría. Me comprometo a brindar un servicio de excelencia, con un trato cercano y personalizado, siempre basado en evidencia científica y enfocado en el bienestar integral de cada paciente. "
+    ,
+    "yearsOfExperience": 8
+  },
+  "purpose": {
+    "sectionTitle": "Mi Propósito",
+    "sectionSubtitle": "Te acompaño en el proceso",
+    "sectionText": "Como profesional de la salud, mi compromiso es contigo para brindarte darte la mejor atención y el tratamiento adecuado",
+    "entities": [
+      {
+        "icon": "Target",
+        "title": "Cuidarte es mi misión",
+        "description": "Estoy aquí para ayudarte a dejar atrás las molestias de las alergias y disfrutar cada momento con bienestar y tranquilidad.",
+        "imagePath": ""
+      },
+      {
+        "icon": "Scale",
+        "title": "Te escucho, te entiendo",
+        "description": "Sé lo importante que es sentirse comprendido. Quiero conocer cómo te sientes para encontrar juntos el mejor tratamiento para ti.",
+        "imagePath": ""
+      },
+      {
+        "icon": "Heart",
+        "title": "Siempre a tu lado",
+        "description": "Mi compromiso es acompañarte en cada etapa de tu tratamiento, con empatía y un enfoque profesional que haga la diferencia.",
+        "imagePath": ""
+      }
+    ]
+  },
+  "services": {
+    "sectionTitle": "Mis Servicios",
+    "sectionSubtitle": "Servicios en consultorio",
+    "sectionText": "Conoce algunos de los servicios que ofrezco en mi consultorio",
+    "linkText": "Saber más",
+    "buttonText": "Ver más servicios",
+    "page": {
+      "backgroundImage": "/images/services-bg.jpg",
+      "pageTitle": "Mis Servicios de Alergología",
+      "sectionTitle": "Servicios que Ofrezco",
+      "sectionSubtitle": "Conoce los procedimientos especializados para el tratamiento de las alergias"
+    },
+    "individualPage": {
+      "contactButton": {
+        "title": "¿Interesado en este servicio?",
+        "text": "Agenda una Consulta"
+      },
+      "returnButton": {
+        "text": "Volver a Servicios"
+      }
+    }
+  },
+  "symptoms": {
+    "sectionTitle": "Síntomas comunes",
+    "sectionSubtitle": "Algunas molestias relacionadas",
+    "sectionText": "Conoce cuáles son los síntomas a los que debes prestar atención.",
+    "linkText": "Leer más",
+    "buttonText": "Ver todos los síntomas",
+    "page": {
+      "backgroundImage": "/images/symptoms-bg.jpg",
+      "pageTitle": "Síntomas relacionados con alergias",
+      "sectionTitle": "Síntomas que atiendo",
+      "sectionSubtitle": "Conoce los síntomas asociados a las alergias que puedo ayudar a manejar y tratar"
+    },
+    "individualPage": {
+      "contactButton": {
+        "title": "¿Necesitas ayuda profesional?",
+        "text": "Agenda una Consulta"
+      },
+      "returnButton": {
+        "text": "Volver a Síntomas"
+      }
+    }
+  },
+  "photosGallery": {
+    "sectionTitle": "Galería de Fotos"
+  },
+  "diseasesSection": {
+    "sectionTitle": "Patologías comunes",
+    "sectionSubtitle": "Enfermedades que atiendo en consulta",
+    "linkText": "Saber más",
+    "buttonText": "Ver todas las Enfermedades",
+    "page": {
+      "backgroundImage": "/images/diseases-bg.jpg",
+      "pageTitle": "Enfermedades relacionadas con Alergias",
+      "sectionTitle": "Condiciones que atiendo",
+      "sectionSubtitle": "Conoce las enfermedades asociadas a las alergias que puedo ayudar a manejar y tratar"
+    },
+    "individualPage": {
+      "contactButton": {
+        "title": "¿Necesitas más información?",
+        "text": "Contáctanos"
+      },
+      "returnButton": {
+        "text": "Volver a Enfermedades"
+      }
+    }
+  },
+  "callToAction": {
+    "title": "Agenda tu cita y recibe la atención especializada que mereces.",
+    "description": "Con mi experiencia en alergología e inmunología, me comprometo con tu bienestar integral.",
+    "backgroundImage": "/images/CtA.jpg"
+  },
+  "callToActionIndividual": {
+    "backgroundImage": "/images/CtA.jpg"
+  },
+  "testimonials": {
+    "sectionTitle": "Testimonios",
+    "sectionDescription": "Lo que opinan mis pacientes",
+    "sectionBackground": "/images/testimonials-background.jpg",
+    "linkText": "Ver más",
+    "dataBlocks": {
+      "procedure": "Procedimiento",
+      "weightLoss": "Peso perdido",
+      "timeElapsed": "Tiempo transcurrido"
+    }
+  },
+  "payments": {
+    "sectionTitle": "Métodos de Pago",
+    "sectionSubtitle": "Elige la opción que mejor se adapte a ti",
+    "methods": [
+      {
+        "name": "Visa",
+        "iconPath": "/images/payment/visa.svg",
+        "visible": false
+      },
+      {
+        "name": "Mastercard",
+        "iconPath": "/images/payment/mastercard.svg",
+        "visible": false
+      },
+      {
+        "name": "American Express",
+        "iconPath": "/images/payment/amex.svg",
+        "visible": false
+      },
+      {
+        "name": "PayPal",
+        "iconPath": "/images/payment/paypal.svg",
+        "visible": false
+      },
+      {
+        "name": "Efectivo",
+        "iconPath": "/images/payment/cash.svg",
+        "visible": false
+      },
+      {
+        "name": "Transferencia Bancaria",
+        "iconPath": "/images/payment/bank-transfer.svg",
+        "visible": false
+      },
+      {
+        "name": "Pago en Efectivo",
+        "iconPath": "/images/payment/pago-en-efectivo.svg",
+        "visible": true
+      },
+      {
+        "name": "Tarjetas de Crédito",
+        "iconPath": "/images/payment/tarjetas-de-credito.svg",
+        "visible": true
+      },
+      {
+        "name": "Tarjetas de Débito",
+        "iconPath": "/images/payment/tarjetas-de-debito.svg",
+        "visible": true
+      }
+    ],
+    "additionalInfo": "Opciones de pago flexibles y planes de financiamiento. Consulta con nuestro equipo para más detalles."
+  },
+  "insurances": {
+    "sectionTitle": "Seguros Aceptados",
+    "companies": [
+      {
+        "name": "GNP Seguros",
+        "logoPath": "/images/insurance/gnp.svg",
+        "visible": true
+      },
+      {
+        "name": "AXA Seguros",
+        "logoPath": "/images/insurance/axa.svg",
+        "visible": true
+      },
+      {
+        "name": "MetLife",
+        "logoPath": "/images/insurance/metlife.svg",
+        "visible": true
+      },
+      {
+        "name": "Mapfre",
+        "logoPath": "/images/insurance/mapfre.svg",
+        "visible": true
+      },
+      {
+        "name": "Allianz",
+        "logoPath": "/images/insurance/allianz.svg",
+        "visible": true
+      },
+      {
+        "name": "Zurich",
+        "logoPath": "/images/insurance/zurich.svg",
+        "visible": true
+      }
+    ],
+    "additionalInfo": "Trabajo con las principales aseguradoras. Si no ves tu seguro listado, por favor contáctame para verificar la cobertura."
+  },
+  "footer": {
+    "backgroundImage": "/images/footer/footer_bg_cripar.jpg"
+  },
+  "generalCallToAction": {
+    "sectionBackground":"/images/CtA_Doctoralia.jpg",
+    "title": "Agenda tu consulta",
+    "description": "Recibe la atención especializada que mereces. Con mi experiencia en alergología e inmunología, me comprometo con su bienestar integral."
+  },
+  "contact": {
+    "page": {
+      "backgroundImage": "/images/contact-bg.jpg",
+      "pageTitle": "Contacto"
+    }
+  },
+  "schedule": {
+    "page": {
+      "backgroundImage": "schedule-bg.jpg",
+      "pageTitle": "Agendar consulta"
+    }
+  },
+  "buttons": {
+    "btnCallText": "Llama ahora",
+    "btnMessageText": "Envía mensaje"
+  }
+}

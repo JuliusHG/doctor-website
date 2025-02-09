@@ -1,0 +1,633 @@
+{
+    "serviciosMeta": {
+      "main": {
+        "title": "Servicios - Dra. Martha Ruiz Peñaloza",
+        "description": "Información sobre servicios de Alergología e Inmunología Clínica proporcionados por la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro.",
+        "openGraph": {
+          "title": "Servicios proporcionados de Alergología e Inmunología Clínica",
+          "description": "Conozca los servicios de Alergología e Inmunología Clínica que tratamos.",
+          "url": "https://www.alergologadramartharuiz.com/servicios"
+        },
+        "alternates": {
+          "canonical": "https://www.alergologadramartharuiz.com/servicios"
+        }
+      }
+    },
+    "services": [
+      {
+        "id": "diagnostico-de-patologia-alergica",
+        "title": "Diagnóstico de Patología Alérgica",
+        "description": "El diagnóstico de patología alérgica es el proceso mediante el cual se identifican y evalúan las alergias que afectan a un paciente mediante historial clínico, examen físico y pruebas específicas.",
+        "imageHome": "/images/services/diagnostico-de-patologia-alergica.jpg",
+        "imageIndividual": "/images/services/diagnostico-de-patologia-alergica.jpg",
+        "benefits": [
+          "Identificación precisa de alérgenos",
+          "Desarrollo de tratamientos personalizados",
+          "Reducción de síntomas y mejora de la salud general"
+        ],
+        "process": [
+          "Evaluación clínica (historial y examen físico)",
+          "Pruebas de laboratorio (anticuerpos específicos)",
+          "Pruebas cutáneas de alergia (prick test)"
+        ],
+        "types": [
+          "Evaluación Clínica",
+          "Pruebas de Laboratorio",
+          "Pruebas Cutáneas de Alergia"
+        ],
+        "painful": "Generalmente no es doloroso; las pruebas cutáneas pueden causar ligera picazón.",
+        "forWhat": "Identificar las causas de las reacciones alérgicas y diseñar un plan de tratamiento efectivo.",
+        "myths": [
+          "Mito: Las alergias solo se deben al polen.",
+          "Realidad: Pueden ser causadas por alimentos, ácaros, moho, etc."
+        ],
+        "hospitalOrAmbulatory": "Ambulatorio",
+        "procedureTime": "30 minutos a 1 hora, según las pruebas realizadas",
+        "anesthesia": "No requiere anestesia",
+        "recoveryTime": "No se requiere tiempo de recuperación",
+        "postProcedureRecommendations": [
+          "Evitar rascarse o frotarse las áreas evaluadas",
+          "Reportar cualquier reacción tardía al especialista"
+        ],
+        "ctaText": "No espere más para identificar sus alergias. Agende una consulta con la Dra. Martha Ruiz Peñaloza y mejore su calidad de vida.",
+        "metadata": {
+          "title": "Diagnóstico de Patología Alérgica en Santiago de Querétaro, Querétaro",
+          "description": "Realiza tu diagnóstico de patología alérgica en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
+          "keywords": [
+            "Especialista en diagnóstico de patología alérgica en Santiago de Querétaro",
+            "Dónde puedo realizarme diagnóstico de patología alérgica en Santiago de Querétaro",
+            "Precio de diagnóstico de patología alérgica en Santiago de Querétaro",
+            "Para qué sirve diagnóstico de patología alérgica",
+            "Experto en diagnóstico de patología alérgica en Santiago de Querétaro",
+            "Cuidados después de diagnóstico de patología alérgica",
+            "Quien realiza diagnóstico de patología alérgica en Santiago de Querétaro",
+            "Ventajas y beneficios de diagnóstico de patología alérgica",
+            "Tiempo de recuperación de diagnóstico de patología alérgica",
+            "Tipos de diagnóstico de patología alérgica"
+          ],
+          "openGraph": {
+            "title": "Diagnóstico de Patología Alérgica - Dra. Martha Ruiz Peñaloza",
+            "description": "Realiza tu diagnóstico de patología alérgica en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
+            "url": "https://www.alergologadramartharuiz.com/servicios/diagnostico-de-patologia-alergica"
+          },
+          "alternates": {
+            "canonical": "https://www.alergologadramartharuiz.com/servicios/diagnostico-de-patologia-alergica"
+          }
+        }
+      },
+      {
+        "id": "pruebas-cutaneas-de-alergia",
+        "title": "Pruebas Cutáneas de Alergia: Prick Test y Pruebas Intradérmicas",
+        "description": "Procedimientos para identificar alérgenos específicos que causan reacciones en el paciente, mediante la exposición controlada de la piel a distintas sustancias.",
+        "imageHome": "/images/services/pruebas-cutaneas-de-alergia.jpg",
+        "imageIndividual": "/images/services/pruebas-cutaneas-de-alergia.jpg",
+        "benefits": [
+          "Identificación precisa de alérgenos",
+          "Procedimiento rápido y seguro",
+          "Resultados casi inmediatos",
+          "Ayuda a personalizar el tratamiento"
+        ],
+        "process": [
+          "Aplicación de gotas de alérgenos y punción leve (Prick Test)",
+          "Inyección superficial de alérgeno (Pruebas Intradérmicas)",
+          "Observación de la reacción cutánea"
+        ],
+        "types": [
+          "Prick Test",
+          "Pruebas Intradérmicas"
+        ],
+        "painful": "Mínimamente doloroso, sensación similar a un leve pinchazo.",
+        "forWhat": "Determinar con exactitud a qué sustancias es alérgico el paciente.",
+        "myths": [
+          "Mito: Son siempre dolorosas.",
+          "Realidad: La molestia es mínima y muy tolerable."
+        ],
+        "hospitalOrAmbulatory": "Ambulatorio",
+        "procedureTime": "Entre 30 minutos a 1 hora",
+        "anesthesia": "No requiere anestesia",
+        "recoveryTime": "No se necesita recuperación",
+        "postProcedureRecommendations": [
+          "Evitar frotar o rascar las áreas de prueba",
+          "Notificar al médico si hay hinchazón excesiva"
+        ],
+        "ctaText": "Identifique sus alérgenos y alivie sus síntomas. Agende su prueba cutánea hoy mismo.",
+        "metadata": {
+          "title": "Pruebas Cutáneas de Alergia en Santiago de Querétaro, Querétaro",
+          "description": "Realiza pruebas cutáneas de alergia en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
+          "keywords": [
+            "Especialista en pruebas cutáneas de alergia en Santiago de Querétaro",
+            "Dónde puedo realizarme pruebas cutáneas de alergia en Santiago de Querétaro",
+            "Precio de pruebas cutáneas de alergia en Santiago de Querétaro",
+            "Para qué sirven pruebas cutáneas de alergia",
+            "Experto en pruebas cutáneas de alergia en Santiago de Querétaro",
+            "Cuidados después de pruebas cutáneas de alergia",
+            "Quien realiza pruebas cutáneas de alergia en Santiago de Querétaro",
+            "Ventajas y beneficios de pruebas cutáneas de alergia",
+            "Tiempo de recuperación de pruebas cutáneas de alergia",
+            "Tipos de pruebas cutáneas de alergia"
+          ],
+          "openGraph": {
+            "title": "Pruebas Cutáneas de Alergia - Dra. Martha Ruiz Peñaloza",
+            "description": "Realiza pruebas cutáneas de alergia en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
+            "url": "https://www.alergologadramartharuiz.com/servicios/pruebas-cutaneas-de-alergia"
+          },
+          "alternates": {
+            "canonical": "https://www.alergologadramartharuiz.com/servicios/pruebas-cutaneas-de-alergia"
+          }
+        }
+      },
+      {
+        "id": "vacunacion-de-alergias",
+        "title": "Vacunación de Alergias",
+        "description": "La vacunación de alergias o inmunoterapia específica consiste en administrar dosis progresivas del alérgeno para desensibilizar el sistema inmunológico y reducir reacciones a largo plazo.",
+        "imageHome": "/images/services/vacunacion-de-alergias.jpg",
+        "imageIndividual": "/images/services/vacunacion-de-alergias.jpg",
+        "benefits": [
+          "Reducción sostenida de los síntomas alérgicos",
+          "Disminución de la necesidad de medicamentos",
+          "Mejora notable en la calidad de vida"
+        ],
+        "process": [
+          "Evaluación inicial y confirmación de alérgenos",
+          "Administración de dosis crecientes del alérgeno",
+          "Mantenimiento de la dosis durante el tiempo indicado"
+        ],
+        "types": [
+          "Inmunoterapia Subcutánea",
+          "Inmunoterapia Oral (tabletas o gotas)"
+        ],
+        "painful": "Las inyecciones subcutáneas pueden causar ligera molestia en el sitio de aplicación.",
+        "forWhat": "Desensibilizar al sistema inmune y prevenir reacciones alérgicas futuras.",
+        "myths": [
+          "Mito: Cura definitivamente todas las alergias.",
+          "Realidad: Disminuye significativamente los síntomas, pero no siempre es una cura absoluta."
+        ],
+        "hospitalOrAmbulatory": "Ambulatorio",
+        "procedureTime": "Sesiones de 30 minutos (inyecciones) o administración oral diaria",
+        "anesthesia": "No requiere anestesia",
+        "recoveryTime": "No se requiere. Se aconseja observación de 30 min post-inyección.",
+        "postProcedureRecommendations": [
+          "Evitar ejercicio intenso tras la inyección",
+          "Monitorear posibles reacciones locales o sistémicas"
+        ],
+        "ctaText": "Reduzca sus síntomas y viva sin limitaciones. Inicie su vacunación de alergias con la Dra. Martha Ruiz Peñaloza.",
+        "metadata": {
+          "title": "Vacunación de Alergias en Santiago de Querétaro, Querétaro",
+          "description": "Recibe vacunación de alergias en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
+          "keywords": [
+            "Especialista en vacunación de alergias en Santiago de Querétaro",
+            "Dónde puedo realizarme vacunación de alergias en Santiago de Querétaro",
+            "Precio de vacunación de alergias en Santiago de Querétaro",
+            "Para qué sirve vacunación de alergias",
+            "Experto en vacunación de alergias en Santiago de Querétaro",
+            "Cuidados después de vacunación de alergias",
+            "Quien realiza vacunación de alergias en Santiago de Querétaro",
+            "Ventajas y beneficios de vacunación de alergias",
+            "Tiempo de recuperación de vacunación de alergias",
+            "Tipos de vacunación de alergias"
+          ],
+          "openGraph": {
+            "title": "Vacunación de Alergias - Dra. Martha Ruiz Peñaloza",
+            "description": "Recibe vacunación de alergias en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
+            "url": "https://www.alergologadramartharuiz.com/servicios/vacunacion-de-alergias"
+          },
+          "alternates": {
+            "canonical": "https://www.alergologadramartharuiz.com/servicios/vacunacion-de-alergias"
+          }
+        }
+      },
+      {
+        "id": "inmunoterapia-sublingual",
+        "title": "Inmunoterapia Sublingual",
+        "description": "Tratamiento en forma de gotas o tabletas que se administra bajo la lengua para desensibilizar al organismo frente a alérgenos específicos.",
+        "imageHome": "/images/services/inmunoterapia-sublingual.jpg",
+        "imageIndividual": "/images/services/inmunoterapia-sublingual.jpg",
+        "benefits": [
+          "Fácil administración en casa",
+          "Menor riesgo de reacciones sistémicas",
+          "Efectividad similar a la inmunoterapia subcutánea"
+        ],
+        "process": [
+          "Evaluación del paciente y elección del alérgeno",
+          "Administración diaria de tabletas o gotas sublinguales",
+          "Seguimiento médico periódico para ajustar el tratamiento"
+        ],
+        "types": [
+          "Dosis Líquidas",
+          "Tabletas Sublinguales"
+        ],
+        "painful": "No es doloroso; puede existir un leve cosquilleo o sabor particular.",
+        "forWhat": "Tratar alergias estacionales y perennes, reduciendo la sensibilidad del organismo.",
+        "myths": [
+          "Mito: Es menos efectiva que la terapia inyectada.",
+          "Realidad: Ofrece resultados comparables en muchos casos."
+        ],
+        "hospitalOrAmbulatory": "Ambulatorio",
+        "procedureTime": "Minutos al día para la administración",
+        "anesthesia": "No requiere anestesia",
+        "recoveryTime": "Inmediato; no se necesita reposo",
+        "postProcedureRecommendations": [
+          "No comer ni beber por 10 minutos tras la aplicación",
+          "Reportar reacciones o molestias anormales"
+        ],
+        "ctaText": "Opte por un método cómodo y eficaz para controlar sus alergias. Agende su valoración para inmunoterapia sublingual.",
+        "metadata": {
+          "title": "Inmunoterapia Sublingual en Santiago de Querétaro, Querétaro",
+          "description": "Recibe inmunoterapia sublingual en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
+          "keywords": [
+            "Especialista en inmunoterapia sublingual en Santiago de Querétaro",
+            "Dónde puedo realizarme inmunoterapia sublingual en Santiago de Querétaro",
+            "Precio de inmunoterapia sublingual en Santiago de Querétaro",
+            "Para qué sirve inmunoterapia sublingual",
+            "Experto en inmunoterapia sublingual en Santiago de Querétaro",
+            "Cuidados después de inmunoterapia sublingual",
+            "Quien realiza inmunoterapia sublingual en Santiago de Querétaro",
+            "Ventajas y beneficios de inmunoterapia sublingual",
+            "Tiempo de recuperación de inmunoterapia sublingual",
+            "Tipos de inmunoterapia sublingual"
+          ],
+          "openGraph": {
+            "title": "Inmunoterapia Sublingual - Dra. Martha Ruiz Peñaloza",
+            "description": "Recibe inmunoterapia sublingual en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
+            "url": "https://www.alergologadramartharuiz.com/servicios/inmunoterapia-sublingual"
+          },
+          "alternates": {
+            "canonical": "https://www.alergologadramartharuiz.com/servicios/inmunoterapia-sublingual"
+          }
+        }
+      },
+      {
+        "id": "tratamiento-de-anafilaxia",
+        "title": "Tratamiento de Anafilaxia",
+        "description": "Intervención de emergencia destinada a revertir reacciones alérgicas graves que afectan la vía aérea, la circulación y sistemas corporales múltiples.",
+        "imageHome": "/images/services/tratamiento-de-anafilaxia.jpg",
+        "imageIndividual": "/images/services/tratamiento-de-anafilaxia.jpg",
+        "benefits": [
+          "Detiene rápidamente la reacción potencialmente mortal",
+          "Evita complicaciones severas de la anafilaxia",
+          "Aumenta significativamente las probabilidades de recuperación"
+        ],
+        "process": [
+          "Administración inmediata de epinefrina",
+          "Soporte respiratorio y circulatorio",
+          "Observación en un entorno hospitalario"
+        ],
+        "types": [
+          "Administración de Epinefrina",
+          "Soporte Respiratorio",
+          "Soporte Circulatorio"
+        ],
+        "painful": "La inyección de epinefrina puede causar ardor en el sitio de aplicación, pero es bien tolerada.",
+        "forWhat": "Salvar la vida del paciente durante una reacción anafiláctica y estabilizar sus funciones vitales.",
+        "myths": [
+          "Mito: Solo las personas con alergia diagnosticada sufren anafilaxia.",
+          "Realidad: Puede ocurrir en cualquier individuo expuesto a un alérgeno potente."
+        ],
+        "hospitalOrAmbulatory": "Hospitalario (emergencia)",
+        "procedureTime": "Inicio inmediato, con monitoreo por varias horas",
+        "anesthesia": "No requiere anestesia",
+        "recoveryTime": "Puede variar de horas a días según la gravedad",
+        "postProcedureRecommendations": [
+          "Permanecer bajo observación médica",
+          "Evitar futuros contactos con el alérgeno",
+          "Llevar autoinyector de epinefrina si está indicado"
+        ],
+        "ctaText": "La anafilaxia requiere atención inmediata. Si sospechas una reacción grave, busca ayuda médica o comunícate con un especialista urgentemente.",
+        "metadata": {
+          "title": "Tratamiento de Anafilaxia en Santiago de Querétaro, Querétaro",
+          "description": "Recibe tratamiento de anafilaxia en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
+          "keywords": [
+            "Especialista en tratamiento de anafilaxia en Santiago de Querétaro",
+            "Dónde puedo realizarme tratamiento de anafilaxia en Santiago de Querétaro",
+            "Precio de tratamiento de anafilaxia en Santiago de Querétaro",
+            "Para qué sirve tratamiento de anafilaxia",
+            "Experto en tratamiento de anafilaxia en Santiago de Querétaro",
+            "Cuidados después de tratamiento de anafilaxia",
+            "Quien realiza tratamiento de anafilaxia en Santiago de Querétaro",
+            "Ventajas y beneficios de tratamiento de anafilaxia",
+            "Tiempo de recuperación de tratamiento de anafilaxia",
+            "Tipos de tratamiento de anafilaxia"
+          ],
+          "openGraph": {
+            "title": "Tratamiento de Anafilaxia - Dra. Martha Ruiz Peñaloza",
+            "description": "Recibe tratamiento de anafilaxia en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
+            "url": "https://www.alergologadramartharuiz.com/servicios/tratamiento-de-anafilaxia"
+          },
+          "alternates": {
+            "canonical": "https://www.alergologadramartharuiz.com/servicios/tratamiento-de-anafilaxia"
+          }
+        }
+      },
+      {
+        "id": "desensibilizacion-de-medicamentos",
+        "title": "Desensibilización de Medicamentos",
+        "description": "Proceso controlado que permite a pacientes alérgicos a un fármaco recibirlo de manera segura mediante la administración gradual de dosis crecientes.",
+        "imageHome": "/images/services/desensibilizacion-de-medicamentos.jpg",
+        "imageIndividual": "/images/services/desensibilizacion-de-medicamentos.jpg",
+        "benefits": [
+          "Facilita el uso de medicamentos esenciales sin reacciones graves",
+          "Evita sustituir el fármaco por uno menos efectivo",
+          "Mejora la adherencia a tratamientos necesarios"
+        ],
+        "process": [
+          "Evaluación del paciente y del medicamento",
+          "Administración progresiva de dosis bajo vigilancia",
+          "Monitoreo continuo de signos vitales y reacciones"
+        ],
+        "types": [
+          "Desensibilización Oral",
+          "Desensibilización Intravenosa"
+        ],
+        "painful": "Puede haber ligeras molestias al iniciar cada dosis, pero el procedimiento en sí no es doloroso.",
+        "forWhat": "Permitir la administración de un fármaco al que el paciente presenta alergia, siempre que sea clínicamente imprescindible.",
+        "myths": [
+          "Mito: Siempre provoca reacciones graves.",
+          "Realidad: Bajo supervisión adecuada, el riesgo es controlado."
+        ],
+        "hospitalOrAmbulatory": "Según gravedad; puede ser en hospital o ambulatorio",
+        "procedureTime": "Varias horas a un día, dependiendo del protocolo",
+        "anesthesia": "No requiere anestesia",
+        "recoveryTime": "Generalmente se retoman actividades normales tras el procedimiento",
+        "postProcedureRecommendations": [
+          "Seguir exactamente las indicaciones médicas",
+          "Vigilar signos de reacciones alérgicas posteriores",
+          "Continuar el tratamiento sin interrupciones para mantener la desensibilización"
+        ],
+        "ctaText": "Si necesitas un medicamento esencial pero presentas alergia, la desensibilización puede ser tu solución. Agenda una consulta para evaluarlo.",
+        "metadata": {
+          "title": "Desensibilización de Medicamentos en Santiago de Querétaro, Querétaro",
+          "description": "Recibe desensibilización de medicamentos en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
+          "keywords": [
+            "Especialista en desensibilización de medicamentos en Santiago de Querétaro",
+            "Dónde puedo realizarme desensibilización de medicamentos en Santiago de Querétaro",
+            "Precio de desensibilización de medicamentos en Santiago de Querétaro",
+            "Para qué sirve desensibilización de medicamentos",
+            "Experto en desensibilización de medicamentos en Santiago de Querétaro",
+            "Cuidados después de desensibilización de medicamentos",
+            "Quien realiza desensibilización de medicamentos en Santiago de Querétaro",
+            "Ventajas y beneficios de desensibilización de medicamentos",
+            "Tiempo de recuperación de desensibilización de medicamentos",
+            "Tipos de desensibilización de medicamentos"
+          ],
+          "openGraph": {
+            "title": "Desensibilización de Medicamentos - Dra. Martha Ruiz Peñaloza",
+            "description": "Recibe desensibilización de medicamentos en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
+            "url": "https://www.alergologadramartharuiz.com/servicios/desensibilizacion-de-medicamentos"
+          },
+          "alternates": {
+            "canonical": "https://www.alergologadramartharuiz.com/servicios/desensibilizacion-de-medicamentos"
+          }
+        }
+      },
+      {
+        "id": "diagnostico-y-tratamiento-de-errores-innatos-de-la-inmunidad",
+        "title": "Diagnóstico y Tratamiento de Errores Innatos de la Inmunidad",
+        "description": "Aborda deficiencias genéticas que impactan el sistema inmunológico, predisponiendo a infecciones graves o recurrentes y enfermedades autoinmunes.",
+        "imageHome": "/images/services/diagnostico-y-tratamiento-de-errores-innatos-de-la-inmunidad.jpg",
+        "imageIndividual": "/images/services/diagnostico-y-tratamiento-de-errores-innatos-de-la-inmunidad.jpg",
+        "benefits": [
+          "Identificación precisa de la deficiencia inmunológica",
+          "Tratamiento personalizado que mejora la función inmune",
+          "Prevención de infecciones recurrentes y complicaciones"
+        ],
+        "process": [
+          "Evaluación clínica y antecedentes familiares",
+          "Pruebas genéticas y de laboratorio especializadas",
+          "Aplicación de terapias inmunológicas (inmunoglobulinas, etc.)"
+        ],
+        "types": [
+          "Deficiencias de Células Inmunitarias",
+          "Deficiencias del Complemento",
+          "Trastornos de Regulación Inmunológica"
+        ],
+        "painful": "Algunas pruebas requieren extracciones de sangre; el tratamiento suele ser poco doloroso.",
+        "forWhat": "Prevenir y controlar infecciones graves o recurrentes, y mejorar la calidad de vida en personas con errores innatos de la inmunidad.",
+        "myths": [
+          "Mito: Solo aparecen en la infancia.",
+          "Realidad: Pueden diagnosticarse en cualquier etapa de la vida."
+        ],
+        "hospitalOrAmbulatory": "Puede ser hospitalario o ambulatorio según la terapia",
+        "procedureTime": "Las evaluaciones genéticas pueden tardar semanas; el tratamiento es continuo.",
+        "anesthesia": "No suele requerirse anestesia, salvo procedimientos específicos",
+        "recoveryTime": "Variable según el tipo de inmunodeficiencia y el tratamiento aplicado",
+        "postProcedureRecommendations": [
+          "Seguir el esquema de inmunizaciones correspondiente",
+          "Mantener controles regulares con el especialista",
+          "Procurar hábitos de vida saludables"
+        ],
+        "ctaText": "Si presentas infecciones recurrentes o sospechas de inmunodeficiencia, agenda tu evaluación con la Dra. Martha Ruiz Peñaloza.",
+        "metadata": {
+          "title": "Diagnóstico y Tratamiento de Errores Innatos de la Inmunidad en Santiago de Querétaro, Querétaro",
+          "description": "Recibe diagnóstico y tratamiento de errores innatos de la inmunidad en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
+          "keywords": [
+            "Especialista en errores innatos de la inmunidad en Santiago de Querétaro",
+            "Dónde puedo realizarme diagnóstico de errores innatos de la inmunidad en Santiago de Querétaro",
+            "Precio de diagnóstico de errores innatos de la inmunidad en Santiago de Querétaro",
+            "Para qué sirve tratamiento de errores innatos de la inmunidad",
+            "Experto en errores innatos de la inmunidad en Santiago de Querétaro",
+            "Cuidados después de tratamiento de errores innatos de la inmunidad",
+            "Quien realiza diagnóstico de errores innatos de la inmunidad en Santiago de Querétaro",
+            "Ventajas y beneficios de tratamiento de errores innatos de la inmunidad",
+            "Tiempo de recuperación de tratamiento de errores innatos de la inmunidad",
+            "Tipos de errores innatos de la inmunidad"
+          ],
+          "openGraph": {
+            "title": "Diagnóstico y Tratamiento de Errores Innatos de la Inmunidad - Dra. Martha Ruiz Peñaloza",
+            "description": "Recibe diagnóstico y tratamiento de errores innatos de la inmunidad en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
+            "url": "https://www.alergologadramartharuiz.com/servicios/diagnostico-y-tratamiento-de-errores-innatos-de-la-inmunidad"
+          },
+          "alternates": {
+            "canonical": "https://www.alergologadramartharuiz.com/servicios/diagnostico-y-tratamiento-de-errores-innatos-de-la-inmunidad"
+          }
+        }
+      },
+      {
+        "id": "consulta-de-alergia-e-inmunologia",
+        "title": "Consulta de Alergia e Inmunología",
+        "description": "Evaluación clínica especializada que abarca tanto las alergias como los trastornos del sistema inmunológico, mediante pruebas diagnósticas y tratamientos individualizados.",
+        "imageHome": "/images/services/consulta-de-alergia-e-inmunologia.jpg",
+        "imageIndividual": "/images/services/consulta-de-alergia-e-inmunologia.jpg",
+        "benefits": [
+          "Diagnóstico preciso de alergias e inmunodeficiencias",
+          "Tratamientos personalizados y efectivos",
+          "Prevención de complicaciones y mejor calidad de vida"
+        ],
+        "process": [
+          "Historial médico detallado",
+          "Examen físico orientado a alergia e inmunología",
+          "Pruebas diagnósticas específicas (cutáneas, laboratorio)"
+        ],
+        "types": [
+          "Evaluación de Alergias Ambientales",
+          "Evaluación de Alergias Alimentarias",
+          "Evaluación de Inmunodeficiencias"
+        ],
+        "painful": "Pruebas cutáneas pueden generar una ligera picazón; la consulta en sí no es dolorosa.",
+        "forWhat": "Identificar y manejar alergias e inmunodeficiencias, optimizando la salud y reduciendo riesgos.",
+        "myths": [
+          "Mito: Solo se consulta si los síntomas son graves.",
+          "Realidad: Incluso síntomas leves pueden empeorar sin manejo adecuado."
+        ],
+        "hospitalOrAmbulatory": "Ambulatorio",
+        "procedureTime": "1 hora en la consulta inicial (puede variar)",
+        "anesthesia": "No requiere",
+        "recoveryTime": "No se necesita tiempo de recuperación",
+        "postProcedureRecommendations": [
+          "Seguir las indicaciones del especialista",
+          "Evitar alérgenos identificados",
+          "Asistir a citas de control si se pauta"
+        ],
+        "ctaText": "No dejes que las alergias afecten tu vida. Agenda una consulta de alergia e inmunología para recibir atención especializada.",
+        "metadata": {
+          "title": "Consulta de Alergia e Inmunología en Santiago de Querétaro, Querétaro",
+          "description": "Programa tu consulta de alergia e inmunología en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
+          "keywords": [
+            "Especialista en consulta de alergia e inmunología en Santiago de Querétaro",
+            "Dónde puedo realizarme consulta de alergia e inmunología en Santiago de Querétaro",
+            "Precio de consulta de alergia e inmunología en Santiago de Querétaro",
+            "Para qué sirve consulta de alergia e inmunología",
+            "Experto en consulta de alergia e inmunología en Santiago de Querétaro",
+            "Cuidados después de consulta de alergia e inmunología",
+            "Quien realiza consulta de alergia e inmunología en Santiago de Querétaro",
+            "Ventajas y beneficios de consulta de alergia e inmunología",
+            "Tiempo de recuperación de consulta de alergia e inmunología",
+            "Tipos de consulta de alergia e inmunología"
+          ],
+          "openGraph": {
+            "title": "Consulta de Alergia e Inmunología - Dra. Martha Ruiz Peñaloza",
+            "description": "Programa tu consulta de alergia e inmunología en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
+            "url": "https://www.alergologadramartharuiz.com/servicios/consulta-de-alergia-e-inmunologia"
+          },
+          "alternates": {
+            "canonical": "https://www.alergologadramartharuiz.com/servicios/consulta-de-alergia-e-inmunologia"
+          }
+        }
+      },
+      {
+        "id": "consulta-de-pediatria",
+        "title": "Consulta de Pediatría",
+        "description": "Evaluación especializada en alergia e inmunología pediátrica para diagnosticar y tratar afecciones alérgicas e inmunodeficiencias en niños.",
+        "imageHome": "/images/services/consulta-de-pediatria.jpg",
+        "imageIndividual": "/images/services/consulta-de-pediatria.jpg",
+        "benefits": [
+          "Diagnóstico temprano y preciso en población infantil",
+          "Tratamientos adaptados a las necesidades de los niños",
+          "Prevención de complicaciones y mejora del bienestar infantil"
+        ],
+        "process": [
+          "Historia clínica completa enfocada en alergias infantiles",
+          "Pruebas cutáneas y de laboratorio adaptadas a la edad",
+          "Diseño de un plan de tratamiento seguro y efectivo"
+        ],
+        "types": [
+          "Evaluación de Alergias Alimentarias en Niños",
+          "Evaluación de Asma Infantil",
+          "Evaluación de Inmunodeficiencias Congénitas"
+        ],
+        "painful": "Las pruebas cutáneas pueden ocasionar leve molestia, bien tolerada por los niños.",
+        "forWhat": "Identificar y manejar alergias e inmunodeficiencias en niños, garantizando un desarrollo saludable.",
+        "myths": [
+          "Mito: Los niños siempre superan las alergias.",
+          "Realidad: Algunas persisten y requieren manejo continuo."
+        ],
+        "hospitalOrAmbulatory": "Ambulatorio",
+        "procedureTime": "1 hora aproximadamente en la primera visita",
+        "anesthesia": "No se requiere",
+        "recoveryTime": "No necesita periodo de recuperación",
+        "postProcedureRecommendations": [
+          "Evitar alérgenos detectados",
+          "Cumplir con el tratamiento y revisiones periódicas",
+          "Mantener buena comunicación con el pediatra"
+        ],
+        "ctaText": "Cuida la salud de tus hijos. Agenda una consulta pediátrica en alergia e inmunología para un diagnóstico preciso.",
+        "metadata": {
+          "title": "Consulta de Pediatría en Santiago de Querétaro, Querétaro",
+          "description": "Programa tu consulta de pediatría en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
+          "keywords": [
+            "Especialista en consulta de pediatría en Santiago de Querétaro",
+            "Dónde puedo realizarme consulta de pediatría en Santiago de Querétaro",
+            "Precio de consulta de pediatría en Santiago de Querétaro",
+            "Para qué sirve consulta de pediatría",
+            "Experto en consulta de pediatría en Santiago de Querétaro",
+            "Cuidados después de consulta de pediatría",
+            "Quien realiza consulta de pediatría en Santiago de Querétaro",
+            "Ventajas y beneficios de consulta de pediatría",
+            "Tiempo de recuperación de consulta de pediatría",
+            "Tipos de consulta de pediatría"
+          ],
+          "openGraph": {
+            "title": "Consulta de Pediatría - Dra. Martha Ruiz Peñaloza",
+            "description": "Programa tu consulta de pediatría en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
+            "url": "https://www.alergologadramartharuiz.com/servicios/consulta-de-pediatria"
+          },
+          "alternates": {
+            "canonical": "https://www.alergologadramartharuiz.com/servicios/consulta-de-pediatria"
+          }
+        }
+      },
+      {
+        "id": "tratamiento-de-asma",
+        "title": "Tratamiento de Asma",
+        "description": "Conjunto de estrategias médicas para controlar y reducir los síntomas del asma, prevenir crisis y mejorar la función pulmonar mediante medicamentos y educación al paciente.",
+        "imageHome": "/images/services/tratamiento-de-asma.jpg",
+        "imageIndividual": "/images/services/tratamiento-de-asma.jpg",
+        "benefits": [
+          "Mejora de la capacidad respiratoria",
+          "Reducción de la frecuencia y severidad de las crisis",
+          "Mayor independencia y calidad de vida"
+        ],
+        "process": [
+          "Diagnóstico y clasificación del asma",
+          "Uso de medicación de control (corticoides inhalados)",
+          "Educación en el uso de inhaladores y plan de acción",
+          "Seguimiento y ajustes según evolución"
+        ],
+        "types": [
+          "Medicación de Control",
+          "Medicación de Alivio Rápido",
+          "Terapias Adicionales (Inmunoterapia)"
+        ],
+        "painful": "No es doloroso; la administración de inhaladores puede causar leve irritación en la garganta.",
+        "forWhat": "Controlar los síntomas de asma, evitando ataques y mejorando la función respiratoria a largo plazo.",
+        "myths": [
+          "Mito: El asma solo se presenta en la infancia.",
+          "Realidad: Puede manifestarse a cualquier edad."
+        ],
+        "hospitalOrAmbulatory": "Ambulatorio, salvo crisis severas que requieran hospitalización",
+        "procedureTime": "Consultas de 30-60 minutos; terapia continua a largo plazo",
+        "anesthesia": "No requiere",
+        "recoveryTime": "No aplica; el paciente vive con asma y lo controla",
+        "postProcedureRecommendations": [
+          "Usar inhaladores según indicaciones",
+          "Evitar desencadenantes (humo, polvos, alérgenos)",
+          "Revisiones periódicas para ajustar la medicación"
+        ],
+        "ctaText": "Mantén tu asma bajo control y mejora tu calidad de vida. Agenda una consulta para un tratamiento personalizado.",
+        "metadata": {
+          "title": "Tratamiento de Asma en Santiago de Querétaro, Querétaro",
+          "description": "Recibe tratamiento de asma en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
+          "keywords": [
+            "Especialista en tratamiento de asma en Santiago de Querétaro",
+            "Dónde puedo realizarme tratamiento de asma en Santiago de Querétaro",
+            "Precio de tratamiento de asma en Santiago de Querétaro",
+            "Para qué sirve tratamiento de asma",
+            "Experto en tratamiento de asma en Santiago de Querétaro",
+            "Cuidados después de tratamiento de asma",
+            "Quien realiza tratamiento de asma en Santiago de Querétaro",
+            "Ventajas y beneficios de tratamiento de asma",
+            "Tiempo de recuperación de tratamiento de asma",
+            "Tipos de tratamiento de asma"
+          ],
+          "openGraph": {
+            "title": "Tratamiento de Asma - Dra. Martha Ruiz Peñaloza",
+            "description": "Recibe tratamiento de asma en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
+            "url": "https://www.alergologadramartharuiz.com/servicios/tratamiento-de-asma"
+          },
+          "alternates": {
+            "canonical": "https://www.alergologadramartharuiz.com/servicios/tratamiento-de-asma"
+          }
+        }
+      }
+    ]
+  }
+  

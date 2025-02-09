@@ -1,0 +1,76 @@
+[
+    {
+      "id": 1,
+      "name": "Isabel",
+      "image": "/images/testimonials/maria.jpg",
+      "shortTestimonial": "Muy amable muy buena atención y explicado paso a paso el tratamiento y cualquier duda que tenga siempre ella muy atenta gracias",
+      "fullTestimonial": "Muy amable muy buena atención y explicado paso a paso el tratamiento y cualquier duda que tenga siempre ella muy atenta gracias",
+      "procedure": "",
+      "weightLoss": "",
+      "timeElapsed": "",
+      "rating": 5,
+      "visible": true
+    },
+    {
+      "id": 2,
+      "name": "Victor Hugo Bautista",
+      "image": "/images/testimonials/carlos.jpg",
+      "shortTestimonial": "Excelente alergóloga súper amable atenta hace muy Bien su trabajo",
+      "fullTestimonial": "Excelente alergóloga súper amable atenta hace muy Bien su trabajo",
+      "procedure": "Manga Gástrica",
+      "weightLoss": "30 kg",
+      "timeElapsed": "8 meses",
+      "rating": 5,
+      "visible": true
+    },
+    {
+      "id": 3,
+      "name": "Ilse Gabriela",
+      "image": "/images/testimonials/ana.jpg",
+      "shortTestimonial": "Resolvió mis dudas y el tratamiento otorgado es acorde a la condición que se presentaba, tendremos una segunda visita de seguimiento.",
+      "fullTestimonial": "Resolvió mis dudas y el tratamiento otorgado es acorde a la condición que se presentaba, tendremos una segunda visita de seguimiento.",
+      "procedure": "Bypass Gástrico",
+      "weightLoss": "25 kg",
+      "timeElapsed": "6 meses",
+      "rating": 5,
+      "visible": true
+    },
+    {
+      "id": 4,
+      "name": "Ma. del Pueblo Estrada",
+      "image": "/images/testimonials/ana.jpg",
+      "shortTestimonial": "Es una doctora atenta, que explica al paciente lo que tiene y el tratamiento que se le dará. Así también siempre está al pendiente, dando seguimiento vía telefónica, en caso de ser necesario.",
+      "fullTestimonial": "Es una doctora atenta, que explica al paciente lo que tiene y el tratamiento que se le dará. Así también siempre está al pendiente, dando seguimiento vía telefónica, en caso de ser necesario.",
+      "procedure": "Bypass Gástrico",
+      "weightLoss": "25 kg",
+      "timeElapsed": "6 meses",
+      "rating": 5,
+      "visible": true
+    },
+    {
+      "id": 5,
+      "name": "Caty Vargas",
+      "image": "/images/testimonials/ana.jpg",
+      "shortTestimonial": "Buena valoración .. atención a todas las dudas amable.. y profesional.. explicación detallada.",
+      "fullTestimonial": "Buena valoración .. atención a todas las dudas amable.. y profesional.. explicación detallada.",
+      "procedure": "Bypass Gástrico",
+      "weightLoss": "25 kg",
+      "timeElapsed": "6 meses",
+      "rating": 5,
+      "visible": true
+    },
+    {
+      "id": 6,
+      "name": "Ana Martínez",
+      "image": "/images/testimonials/ana.jpg",
+      "shortTestimonial": "Excelente atención, puntualidad y explicación detallada. Trato muy amable.",
+      "fullTestimonial": "Excelente atención, puntualidad y explicación detallada. Trato muy amable.",
+      "procedure": "Bypass Gástrico",
+      "weightLoss": "25 kg",
+      "timeElapsed": "6 meses",
+      "rating": 5,
+      "visible": true
+    }
+  ]
+  
+  

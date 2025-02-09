@@ -1,0 +1,70 @@
+{
+  "Header": {
+    "component": "Header-_default.tsx",
+    "display": true
+  },
+  "NavMenu": {
+    "component": "NavMenu-_default.tsx",
+    "display": true
+  },
+  "Hero": {
+    "component": "Hero-default-drimage.tsx",
+    "display": true
+  },
+  "Certifications": {
+    "component": "Certifications-_default-static.tsx",
+    "display": true
+  },
+  "AboutUs": {
+    "component": "AboutUs-2.tsx",
+    "display": true
+  },
+  "Experience": {
+    "component": "Experience-cripar-home1.tsx",
+    "display": true
+  },
+  "Services": {
+    "component": "Services2.tsx",
+    "display": true
+  },
+  "CallToAction": {
+    "component": "CallToAction-_default.tsx",
+    "display": true
+  },
+  "Purpose": {
+    "component": "Purpose-itechie-home5.tsx",
+    "display": true
+  },
+  "Testimonials": {
+    "component": "Testimonials2.tsx",
+    "display": true
+  },
+  "Symptoms": {
+    "component": "Symptoms-itechie-home5.tsx",
+    "display": true
+  },
+  "PhotosGallery": {
+    "component": "PhotosGallery-_default.tsx",
+    "display": false
+  },
+  "Diseases": {
+    "component": "Diseases2.tsx",
+    "display": true
+  },
+  "PaymentMethods": {
+    "component": "PaymentMethods-_default-static.tsx",
+    "display": true
+  },
+  "Insurance": {
+    "component": "Insurance-_default-slider.tsx",
+    "display": false
+  },
+  "GeneralCallToAction": {
+    "component": "GeneralCallToAction.tsx",
+    "display": true
+  },
+  "Footer": {
+    "component": "Footer-cripar-home2.tsx",
+    "display": true
+  }
+}

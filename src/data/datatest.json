@@ -1,0 +1,80 @@
+{
+    "enfermedadesMeta": {
+      "main": {
+        "title": "Enfermedades Tratadas - Dra. Martha Ruiz Peñaloza",
+        "description": "Información sobre las enfermedades alérgicas e inmunológicas tratadas por la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro.",
+        "openGraph": {
+          "title": "Enfermedades Alérgicas e Inmunológicas Pediátricas",
+          "description": "Conozca las enfermedades alérgicas e inmunológicas que tratamos en niños.",
+          "url": "https://www.dramartharuiz.com/enfermedades"
+        },
+        "alternates": {
+          "canonical": "https://www.dramartharuiz.com/enfermedades"
+        }
+      }
+    },
+    "diseases": [
+        {
+            "id": "alergia-al-latex",
+            "name": "Alergia al Látex",
+            "technicalName": "Hipersensibilidad al Látex",
+            "description": "La alergia al látex es una reacción inmunológica adversa a las proteínas presentes en el caucho natural. Se manifiesta cuando una persona sensibilizada entra en contacto con productos que contienen látex, como guantes, globos o bandas elásticas, desencadenando una respuesta alérgica que puede variar desde síntomas leves hasta reacciones severas.",
+            "shortDescription": "Reacción inmunológica a proteínas del caucho natural, que puede variar de síntomas leves a reacciones severas.",
+            "causes": [
+                "Exposición repetida al látex, especialmente en entornos médicos o industriales.",
+                "Contacto con productos cotidianos que contienen látex.",
+                "Antecedentes familiares de alergias."
+            ],
+            "symptoms": [
+                "Urticaria o ronchas en la piel.",
+                "Anafilaxia en casos graves."
+            ],
+            "complications": [
+                "Reacciones anafilácticas potencialmente mortales.",
+                "Dificultad para realizar actividades diarias por evitar productos con látex.",
+                "Infecciones secundarias por rascado."
+            ],
+            "riskFactors": [
+                "Profesionales de la salud expuestos frecuentemente al látex.",
+                "Personas con antecedentes de otras alergias.",
+                "Uso prolongado de productos de látex."
+            ],
+            "mexicoStats": "Se estima que aproximadamente el 1-6% de la población mexicana puede ser sensible al látex, con una prevalencia mayor en profesionales de la salud.",
+            "ctaText": "No permita que la alergia al látex afecte su salud y calidad de vida. Agende una consulta con la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro, Querétaro, para recibir un diagnóstico preciso y un tratamiento adecuado.",
+            "treatments": [
+                "Evitar el contacto con productos que contengan látex.",
+                "Utilizar guantes y equipos libres de látex.",
+                "Antihistamínicos y corticosteroides para reacciones leves.",
+                "Epinefrina inyectable en caso de anafilaxia grave."
+            ],
+            "imageHome": "",
+            "imageIndividual": "",
+            "metadata": {
+                "title": "Especialista en Alergia al Látex en Santiago de Querétaro, Querétaro",
+                "description": "Consulta sobre alergia al látex en Santiago de Querétaro, Querétaro. Dra. Martha Ruiz Peñaloza te ayuda a tratar tu alergia.",
+                "keywords": [
+                    "Especialista en alergia al látex en Santiago de Querétaro",
+                    "Clínica de alergia al látex en Santiago de Querétaro",
+                    "Hospital de alergia al látex en Santiago de Querétaro",
+                    "Tratamiento para alergia al látex en Santiago de Querétaro",
+                    "Experto en alergia al látex en Santiago de Querétaro",
+                    "Centro de alergia al látex en Santiago de Querétaro",
+                    "Quien atiende alergia al látex en Santiago de Querétaro",
+                    "Médico para alergia al látex en Santiago de Querétaro",
+                    "Doctor que atiende alergia al látex en Santiago de Querétaro",
+                    "Consulta médica de alergia al látex en Santiago de Querétaro"
+                ],
+                "openGraph": {
+                    "title": "Especialista en Alergia al Látex - Dra. Martha Ruiz Peñaloza",
+                    "description": "Consulta sobre alergia al látex en Santiago de Querétaro. Tratamiento especializado por la Dra. Martha Ruiz Peñaloza.",
+                    "url": "https://www.dramartharuiz.com/enfermedades/alergia-al-latex"
+                },
+                "alternates": {
+                "canonical": "https://www.dramartharuiz.com/enfermedades/alergia-al-latex"
+                }
+            }
+        }
+        
+    ]
+}
+  

@@ -1,0 +1,223 @@
+{
+  "Header": [
+    {
+      "file": "Header-_default.tsx",
+      "imagePath": "Header-_default.jpg",
+      "description": "Default para Header (jh) Aviso cofepris arriba, logo y NavMenu dinámico."
+    }
+  ],
+  "NavMenu": [
+    {
+      "file": "NavMenu-_default.tsx",
+      "imagePath": "NavMenu-_default.jpg",
+      "description": null
+    }
+  ],
+  "Hero": [
+    {
+      "file": "Hero-3.tsx",
+      "imagePath": null,
+      "description": null
+    },
+    {
+      "file": "Hero-4.tsx",
+      "imagePath": null,
+      "description": null
+    },
+    {
+      "file": "Hero-default-drimage.tsx",
+      "imagePath": "Hero-default-drimage.jpg",
+      "description": "Hero default (jh) con imagen para una silueta recortada del médico."
+    },
+    {
+      "file": "Hero-itechie-home1.tsx",
+      "imagePath": "Hero-itechie-home1.jpg",
+      "description": "Hero section adaptada de itechie home 1. Tiene info, máscara de recorte con parallax y movimiento con framer-motion."
+    },
+    {
+      "file": "Hero-_default.tsx",
+      "imagePath": "Hero-_default.jpg",
+      "description": "Primera Hero section diseñada (j), como default. Contiene la información básica, botones y una imagen de fondo."
+    }
+  ],
+  "Certifications": [
+    {
+      "file": "Certifications-_default-slider.tsx",
+      "imagePath": "Certifications-_default-slider.jpg",
+      "description": "Certificaciones con slider (jh), puede moverse con el mouse o con el dedo."
+    },
+    {
+      "file": "Certifications-_default-static.tsx",
+      "imagePath": "Certifications-_default-static.jpg",
+      "description": "Certificaciones sección estática (jh) - default."
+    },
+    {
+      "file": "Certifications2.tsx",
+      "imagePath": "Certifications2.jpg",
+      "description": "Certificaciones (experimental/demostrativa), sólo se hizo para mostrar que puede seleccionarse uno de los elementos y mostrarlo a la derecha y/o en una lightbox."
+    }
+  ],
+  "AboutUs": [
+    {
+      "file": "AboutUs-2.tsx",
+      "imagePath": "AboutUs-2.jpg",
+      "description": null
+    },
+    {
+      "file": "AboutUs-3.tsx",
+      "imagePath": "AboutUs-3.jpg",
+      "description": "Sección AboutMe muy sencilla, título de sección, título y descripción, con una imagen de fondo que desvanece a blancos a la derecha. Puede invertirse en espejo."
+    },
+    {
+      "file": "AboutUs-_default.tsx",
+      "imagePath": "AboutUs-_default.jpg",
+      "description": null
+    }
+  ],
+  "Experience": [
+    {
+      "file": "Experience-cripar-home1.tsx",
+      "imagePath": "Experience-cripar-home1.jpg",
+      "description": null
+    },
+    {
+      "file": "Experience.tsx",
+      "imagePath": "Experience.jpg",
+      "description": null
+    }
+  ],
+  "Purpose": [
+    {
+      "file": "Purpose-2.tsx",
+      "imagePath": "Purpose-2.jpg",
+      "description": null
+    },
+    {
+      "file": "Purpose-itechie-home5.tsx",
+      "imagePath": "Purpose-itechie-home5.jpg",
+      "description": null
+    },
+    {
+      "file": "Purpose-_default.tsx",
+      "imagePath": "Purpose-_default.jpg",
+      "description": null
+    }
+  ],
+  "CallToAction": [
+    {
+      "file": "CallToAction-_default.tsx",
+      "imagePath": "CallToAction-_default.jpg",
+      "description": null
+    }
+  ],
+  "Services": [
+    {
+      "file": "Services-_default.tsx",
+      "imagePath": "Services-_default.jpg",
+      "description": null
+    },
+    {
+      "file": "Services2.tsx",
+      "imagePath": "Services2.jpg",
+      "description": null
+    }
+  ],
+  "Symptoms": [
+    {
+      "file": "Symptoms-itechie-home5.tsx",
+      "imagePath": "Symptoms-itechie-home5.jpg",
+      "description": null
+    },
+    {
+      "file": "Symptoms-_default.tsx",
+      "imagePath": "Symptoms-_default.jpg",
+      "description": null
+    }
+  ],
+  "Diseases": [
+    {
+      "file": "Diseases.tsx",
+      "imagePath": "Diseases.jpg",
+      "description": null
+    },
+    {
+      "file": "Diseases2.tsx",
+      "imagePath": "Diseases2.jpg",
+      "description": null
+    }
+  ],
+  "Testimonials": [
+    {
+      "file": "Testimonials-itechie-home5.tsx",
+      "imagePath": "Testimonials-itechie-home5.jpg",
+      "description": null
+    },
+    {
+      "file": "Testimonials-_default.tsx",
+      "imagePath": "Testimonials-_default.jpg",
+      "description": null
+    },
+    {
+      "file": "Testimonials2.tsx",
+      "imagePath": "Testimonials2.jpg",
+      "description": null
+    }
+  ],
+  "PhotosGallery": [
+    {
+      "file": "PhotosGallery-_default.tsx",
+      "imagePath": "PhotosGallery-_default.jpg",
+      "description": null
+    }
+  ],
+  "PaymentMethods": [
+    {
+      "file": "PaymentMethods-_default-static.tsx",
+      "imagePath": "PaymentMethods-_default-static.jpg",
+      "description": "Sección Métodos de pago default (jh), estática, solo muestra los iconos y el nombre."
+    },
+    {
+      "file": "PaymentMethods2-_default-slider.tsx",
+      "imagePath": "PaymentMethods2-_default-slider.jpg",
+      "description": null
+    }
+  ],
+  "Insurance": [
+    {
+      "file": "Insurance-_default-slider.tsx",
+      "imagePath": "Insurance-_default-slider.jpg",
+      "description": null
+    },
+    {
+      "file": "Insurance-_default-static.tsx",
+      "imagePath": "Insurance-_default-static.jpg",
+      "description": null
+    }
+  ],
+  "GeneralCallToAction": [
+    {
+      "file": "GeneralCallToAction.tsx",
+      "imagePath": null,
+      "description": null
+    }
+  ],
+  "CallToActionIndividual": [
+    {
+      "file": "CallToActionIndividual-_default.tsx",
+      "imagePath": null,
+      "description": null
+    }
+  ],
+  "Footer": [
+    {
+      "file": "Footer-cripar-home2.tsx",
+      "imagePath": "Footer-cripar-home2.jpg",
+      "description": null
+    },
+    {
+      "file": "Footer-_default.tsx",
+      "imagePath": "Footer-_default.jpg",
+      "description": null
+    }
+  ]
+}

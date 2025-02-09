@@ -1,0 +1,144 @@
+{
+  "title": "Dra. Martha Ruiz Peñaloza",
+  "description": "Especialista en Alergología e Inmunología Pediátrica en Santiago de Querétaro, Querétaro. Atención especializada para niños con alergias y problemas inmunológicos.",
+  "keywords": [
+    "alergología pediátrica",
+    "inmunología pediátrica",
+    "especialista",
+    "tuxtla gutierrez",
+    "chiapas",
+    "alergias infantiles",
+    "asma",
+    "dermatitis atópica"
+  ],
+  "author": "Guia Salud Mx",
+  "language": "es",
+  "openGraph": {
+    "title": "Dra. Martha Ruiz Peñaloza - Alergóloga e Inmunóloga Pediátrica",
+    "description": "Atención especializada en alergias e inmunología para niños en Tuxtla Gutiérrez. Tratamientos avanzados y personalizados.",
+    "url": "https://www.alergologadramartharuiz.com",
+    "siteName": "Consultorio Dra. Martha Ruiz Peñaloza",
+    "images": [
+      {
+        "url": "https://www.alergologadramartharuiz.com/og-image.jpg",
+        "width": 1200,
+        "height": 630,
+        "alt": "Dra. Martha Ruiz Peñaloza en su consultorio"
+      }
+    ],
+    "locale": "es_MX",
+    "type": "website"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "site": "@DraMartha_Ruiz",
+    "creator": "@DraMartha_Ruiz"
+  },
+  "robots": {
+    "index": true,
+    "follow": true,
+    "googleBot": {
+      "index": true,
+      "follow": true,
+      "noimageindex": false,
+      "max-video-preview": -1,
+      "max-image-preview": "large",
+      "max-snippet": -1
+    }
+  },
+  "icons": {
+    "icon": "/favicon.ico",
+    "shortcut": "/favicon-16x16.png",
+    "apple": "/apple-touch-icon.png"
+  },
+  "manifest": "/site.webmanifest",
+  "alternates": {
+    "canonical": "https://www.alergologadramartharuiz.com"
+  },
+  "verification": {
+    "google": "google-site-verification-code",
+    "yandex": "yandex-verification-code",
+    "bing": "bing-verification-code"
+  },
+  "locationSchema": {
+    "@context": "https://schema.org",
+    "@type": "MedicalBusiness",
+    "name": "Consultorio Dra. Martha Ruiz Peñaloza",
+    "description": "Especialista en Alergología e Inmunología Pediátrica",
+    "url": "https://www.alergologadramartharuiz.com",
+    "telephone": "+52-442-129-7416",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Pendiente",
+      "addressLocality": "Santiago de Querétaro",
+      "addressRegion": "Querétaro",
+      "postalCode": "XXXXX",
+      "addressCountry": "MX"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "XX.XXXXX",
+      "longitude": "-XX.XXXXX"
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "09:00",
+        "closes": "18:00"
+      }
+    ],
+    "sameAs": [
+      "https://www.facebook.com/DraMartha_Ruiz"
+    ]
+  },
+  "serviciosMeta": {
+    "title": "Servicios - Dra. Martha Ruiz Peñaloza",
+    "description": "Servicios de alergología e inmunología pediátrica ofrecidos por la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro.",
+    "openGraph": {
+      "title": "Servicios de Alergología e Inmunología Pediátrica",
+      "description": "Tratamientos especializados para alergias y problemas inmunológicos en niños.",
+      "url": "https://www.alergologadramartharuiz.com/servicios"
+    },
+    "alternates": {
+      "canonical": "https://www.alergologadramartharuiz.com/servicios"
+    }
+  },
+  "enfermedadesMeta": {
+    "title": "Enfermedades Tratadas - Dra. Martha Ruiz Peñaloza",
+    "description": "Información sobre las enfermedades alérgicas e inmunológicas tratadas por la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro.",
+    "openGraph": {
+      "title": "Enfermedades Alérgicas e Inmunológicas Pediátricas",
+      "description": "Conozca las enfermedades alérgicas e inmunológicas que tratamos en niños.",
+      "url": "https://www.alergologadramartharuiz.com/enfermedades"
+    },
+    "alternates": {
+      "canonical": "https://www.alergologadramartharuiz.com/enfermedades"
+    }
+  },
+  "sintomasMeta": {
+    "title": "Síntomas de Alergias - Dra. Martha Ruiz Peñaloza",
+    "description": "Guía de síntomas comunes de alergias e inmunología en niños. Consulte a la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro.",
+    "openGraph": {
+      "title": "Síntomas de Alergias e Inmunología en Niños",
+      "description": "Identifique los síntomas de alergias y problemas inmunológicos en niños.",
+      "url": "https://www.alergologadramartharuiz.com/sintomas"
+    },
+    "alternates": {
+      "canonical": "https://www.alergologadramartharuiz.com/sintomas"
+    }
+  },
+  "contactoMeta": {
+    "title": "Contacto - Dra. Martha Ruiz Peñaloza",
+    "description": "Contacte a la Dra. Martha Ruiz Peñaloza, especialista en alergología e inmunología pediátrica en Santiago de Querétaro.",
+    "openGraph": {
+      "title": "Contacte a la Dra. Martha Ruiz Peñaloza",
+      "description": "Agende una cita con nuestra especialista en alergología e inmunología pediátrica.",
+      "url": "https://www.alergologadramartharuiz.com/contacto"
+    },
+    "alternates": {
+      "canonical": "https://www.alergologadramartharuiz.com/contacto"
+    }
+  }
+}
+
