@@ -3,7 +3,7 @@ import SiteInfoForm from '../../../app/sections/admin/SiteInfoForm'
 
 export const metadata: Metadata = {
   title: 'Site Info Form | Admin',
-  description: 'Update site information for Dr. Julius Hernández González website',
+  description: 'Update site information',
 }
 
 export default function SiteInfoPage() {

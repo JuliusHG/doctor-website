@@ -1,9 +1,4 @@
-// @ts-nocheck
-// Este archivo no está en uso y necesita actualizarse.
-// Pertenece al formulario de recolección de datos del sitio.
-// Se mantiene para no perder su funcionalidad. Será trasladado después.
-
-import type { SiteContent } from "../../../interfaces/SiteContent"
+import type { SiteContent } from "../../../interfaces/SiteContent";
 
 export const initialFormData: SiteContent = {
   doctorInfo: {
@@ -15,9 +10,9 @@ export const initialFormData: SiteContent = {
     phone: "",
     whatsapp: "",
     email: "",
-    mainImagePath: "",
-    logoPath: "",
-    logoHeight: 100, // Default value
+    cedProf: "",
+    cedEsp: "",
+    websiteUrl: "",
     facebookLink: "",
     instagramLink: "",
     linkedinLink: "",
@@ -25,9 +20,14 @@ export const initialFormData: SiteContent = {
     twitterLink: "",
     youtubeLink: "",
     googleMapsLink: "",
-    googleMapsLink2: "",
+    doctoraliaLink: "",
+    doctoraliaReviewsLink: "",
+    logoPath: "",
+    logoHeight: 100, // Valor por defecto
+    favicon: "",
   },
   doctorWorkInfo: {
+    avisoCofepris: "",
     consultingHeader: "",
     consultingAddress: "",
     consultingHoursDaysHeader: "",
@@ -54,9 +54,21 @@ export const initialFormData: SiteContent = {
     hospitalUrgenciesPhone: "",
   },
   heroSection: {
-    heroSectionHeight: 400, // Default value
+    heroSectionHeight: 400, // Valor por defecto
+    mainImage: "",
+    logoHeight: 350,
+    backgroundHeroImage: "",
+    backgroundHeroImageHeightPercent: 100,
+    foregroundHeroImage: "",
+    foregroundHeroImageHeightPercent: 90,
+    overlayColor: "",
+    overlayOpacity: 0.1,
+    subTitle: "",
+    title: "",
+    description: "",
   },
   navMenu: [
+    // Puedes ajustarlos a los del JSON o dejarlos así:
     { label: "INICIO", path: "/" },
     { label: "ENFERMEDADES", path: "/enfermedades" },
     { label: "SÍNTOMAS", path: "/sintomas" },
@@ -66,26 +78,34 @@ export const initialFormData: SiteContent = {
   certifications: {
     sectionTitle: "",
     entities: [],
+    documents: [],
   },
   experience: {
     sectionTitle: "",
+    sectionSubtitle: "",
     entities: [],
+    itemFrame: "",
   },
   aboutUs: {
     sectionTitle: "",
     imagePath: "",
+    backgroundImagePath: "",
     title: "",
     description: "",
-    yearsOfExperience: 0,
+    yearsOfExperience: 5, // Valor por defecto
   },
   purpose: {
     sectionTitle: "",
+    sectionSubtitle: "",
+    sectionText: "",
     entities: [],
   },
   services: {
     sectionTitle: "",
+    sectionSubtitle: "",
+    sectionText: "",
     linkText: "",
-    entities: [], // Add this line
+    buttonText: "",
     page: {
       backgroundImage: "",
       pageTitle: "",
@@ -102,11 +122,63 @@ export const initialFormData: SiteContent = {
       },
     },
   },
+  servicesDataMetadata: {
+    serviciosMeta: {
+      main: {
+        title: "",
+        description: "",
+        openGraph: {
+          title: "",
+          description: "",
+          url: "",
+        },
+        alternates: {
+          canonical: "",
+        },
+      },
+    },
+    services: [
+      // Ejemplo vacío según la estructura deseada
+      {
+        id: "",
+        title: "",
+        description: "",
+        imageHome: "",
+        imageIndividual: "",
+        benefits: [],
+        process: [],
+        types: [],
+        painful: "",
+        forWhat: "",
+        myths: [],
+        hospitalOrAmbulatory: [],
+        procedureTime: "",
+        anesthesia: "",
+        recoveryTime: "",
+        postProcedureRecommendations: [],
+        ctaText: "",
+        metadata: {
+          title: "",
+          description: "",
+          keywords: [],
+          openGraph: {
+            title: "",
+            description: "",
+            url: "",
+          },
+          alternates: {
+            canonical: "",
+          },
+        },
+      },
+    ],
+  },
   symptoms: {
     sectionTitle: "",
+    sectionSubtitle: "",
+    sectionText: "",
     linkText: "",
     buttonText: "",
-    entities: [], // Add this line
     page: {
       backgroundImage: "",
       pageTitle: "",
@@ -122,15 +194,59 @@ export const initialFormData: SiteContent = {
         text: "",
       },
     },
+  },
+  symptomsDataMetadata: {
+    sintomasMeta: {
+      main: {
+        title: "",
+        description: "",
+        openGraph: {
+          title: "",
+          description: "",
+          url: "",
+        },
+        alternates: {
+          canonical: "",
+        }
+      }
+    },
+    symptoms: [
+      {
+      id: "",
+      name: "",
+      shortDescription: "",
+      description: "",
+      causes: [],
+      relatedConditions: [],
+      managementTips: [],
+      ctaText: "",
+      imageHome: "",
+      imageIndividual: "",
+      iconIndividual: "",
+      metadata: {
+        title: "",
+        description: "",
+        keywords: [],
+        openGraph: {
+          title: "",
+          description: "",
+          url: "",
+        },
+        alternates: {
+          canonical: "",
+        }
+      }
+    }
+    ],
   },
   photosGallery: {
     sectionTitle: "",
   },
-  diseases: {
+  diseasesSection: {
     sectionTitle: "",
+    sectionSubtitle: "",
     linkText: "",
     buttonText: "",
-    entities: [], // Add this line
     page: {
       backgroundImage: "",
       pageTitle: "",
@@ -147,26 +263,75 @@ export const initialFormData: SiteContent = {
       },
     },
   },
+  diseasesDataMetadata: {
+    enfermedadesMeta: {
+      main: {
+        title: "",
+        description: "",
+        openGraph: {
+          title: "",
+          description: "",
+          url: "",
+        },
+        alternates: {
+          canonical: "",
+        }
+      }
+    },
+    diseases: [
+      {
+      id: "",
+      name: "",
+      technicalName: "",
+      description: "",
+      shortDescription: "",
+      causes: [],
+      symptoms: [],
+      complications: [],
+      riskFactors: [],
+      mexicoStats: "",
+      ctaText: "",
+      treatments: [],
+      imageHome: "",
+      imageIndividual: "",
+      metadata: {
+        title: "",
+        description: "",
+        keywords: [],
+        openGraph: {
+          title: "",
+          description: "",
+          url: "",
+        },
+        alternates: {
+          canonical: "",
+        }
+      }
+    }
+  ]
+  },
   callToAction: {
     title: "",
     description: "",
-    buttons: {
-      call: "",
-      schedule: "",
-    },
+    backgroundImage: "",
+  },
+  callToActionIndividual: {
+    backgroundImage: "",
   },
   testimonials: {
     sectionTitle: "",
+    sectionDescription: "",
+    sectionBackground: "",
     linkText: "",
-    entities: [],
     dataBlocks: {
       procedure: "",
-      weightLoss: "",
+      weightLoss:"",
       timeElapsed: "",
     },
   },
   payments: {
     sectionTitle: "",
+    sectionSubtitle: "",
     methods: [],
     additionalInfo: "",
   },
@@ -176,20 +341,12 @@ export const initialFormData: SiteContent = {
     additionalInfo: "",
   },
   footer: {
-    contactInfo: {
-      address: "",
-      phone: "",
-      email: "",
-    },
+    backgroundImage: "",
   },
   generalCallToAction: {
+    sectionBackground: "",
     title: "",
-    consultationText: "",
-    buttons: {
-      call: "",
-      schedule: "",
-      whatsapp: "",
-    },
+    description: "",
   },
   contact: {
     page: {
@@ -197,11 +354,8 @@ export const initialFormData: SiteContent = {
       pageTitle: "",
     },
   },
-  schedule: {
-    page: {
-      backgroundImage: "",
-      pageTitle: "",
-    },
-  },
-}
-
+  buttons: {
+     btnCallText: "",
+     btnMessageText: "",
+ }
+};

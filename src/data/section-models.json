@@ -25,6 +25,11 @@
       "description": null
     },
     {
+      "file": "Hero-cleener-home2.tsx",
+      "imagePath": null,
+      "description": "Hero (cleener) con espacio para imagen en foreground, y texto descriptivo."
+    },
+    {
       "file": "Hero-default-drimage.tsx",
       "imagePath": "Hero-default-drimage.jpg",
       "description": "Hero default (jh) con imagen para una silueta recortada del médico."

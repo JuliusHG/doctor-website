@@ -3,8 +3,9 @@ import type React from "react"
 import { metadata as baseMetadata } from "../interfaces/metadata"
 import metadataJson from "../data/metadata.json"
 import { importSection, getSelectedSections } from "@/src/app/utils/sectionsImports"
-import { montserrat } from "@/fonts"
+import { teko, nunitoSans } from "@/fonts"
 import FloatingButtons from "./sections/common/FloatingButtons"
+import { Toaster } from "@/components/ui/toaster"
 
 // Extend the base metadata with favicon information
 export const metadata = {
@@ -48,7 +49,7 @@ export default async function RootLayout({
   console.log("Footer component:", FooterComponent)
 
   return (
-    <html lang={metadataJson.language} className={`${montserrat.variable} font-sans`}>
+    <html lang={metadataJson.language} className={`${teko.variable} ${nunitoSans.variable}`}>
       <head>
         <script
           type="application/ld+json"
@@ -58,6 +59,7 @@ export default async function RootLayout({
       <body>
         {HeaderComponent && <HeaderComponent />}
         <main>{children}</main>
+        <Toaster />
         {FooterComponent && <FooterComponent />}
         <FloatingButtons />
       </body>

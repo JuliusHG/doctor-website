@@ -89,7 +89,7 @@ export default function Footer() {
                 {/* Column 2 */}
                 <div className="flex flex-col items-center mb-2 md:items-center md:border-r-2 border-pink-700/25">
                     <div className="mb-8">
-                        <Image src="/images/logos/DraMarthaRuiz_Logo_bco.png" alt={doctorInfo.name} width={400} height={150} />
+                        {/* <Image src="null" alt={doctorInfo.name} width={400} height={150} /> */}
                     </div>
                     <div className="flex justify-center items-center space-x-4 mb-4">
                         <a
@@ -122,7 +122,7 @@ export default function Footer() {
                         rel="noopener noreferrer"
                         className="bg-white/10 rounded-md p-2 hover:bg-pink-600 transition-colors duration-200"
                         >
-                        <Image src="/images/icons/facebook.svg" alt="Doctoralia" width={20} height={20} />
+                        <Image src="/images/icons/doctoralia.svg" alt="Doctoralia" width={20} height={20} />
                         </a>
                     </div>
                 </div>

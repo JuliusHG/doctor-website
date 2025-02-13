@@ -10,6 +10,7 @@ export interface SiteContent {
     email: string
     cedProf: string // Puede incluir entidad, por ejemplo "38700183 UNAM"
     cedEsp: string // Puede incluir entidad, por ejemplo "38700183 UAQ"
+    websiteUrl: string
     facebookLink: string
     instagramLink: string
     linkedinLink: string
@@ -362,12 +363,6 @@ export interface SiteContent {
     description: string
   }
   contact: {
-    page: {
-      backgroundImage: string
-      pageTitle: string
-    }
-  }
-  schedule: {
     page: {
       backgroundImage: string
       pageTitle: string

@@ -72,7 +72,7 @@ export default function HeroSection() {
               height={logoHeight}
               className="mb-4"
             /> */}
-            <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold text-white text-center w-full">
+            <h1 className="text-3xl md:text-4xl lg:text-5xl uppercase text-white text-center w-full">
               {content.doctorInfo.name}
             </h1>
             <p className="text-lg md:text-xl lg:text-2xl text-white">{content.doctorInfo.specialty}</p>

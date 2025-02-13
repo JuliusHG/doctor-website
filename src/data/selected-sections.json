@@ -8,7 +8,7 @@
     "display": true
   },
   "Hero": {
-    "component": "Hero-default-drimage.tsx",
+    "component": "Hero-cleener-home2.tsx",
     "display": true
   },
   "Certifications": {

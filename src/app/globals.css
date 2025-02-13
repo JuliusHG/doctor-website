@@ -11,6 +11,7 @@
 body {
   color: rgb(var(--foreground-rgb));
   background: rgb(var(--background-start-rgb));
+  @apply font-sans;
 }
 
 h1,
@@ -19,7 +20,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-weight: 700;
+  /* font-weight: 500; */
+  @apply font-heading;
 }
 
 @layer base {
@@ -68,17 +70,7 @@ h6 {
     --input: 217.2 32.6% 17.5%;
     --ring: 224.3 76.3% 48%;
   }
-
-  /* .font-sans { border: 2px solid red; } */
-
   
-  .group:hover span[data-hover-style] {
-    clip-path: polygon(0% 100%, 100% 0%, 100% 100%, 0% 100%) !important;
-  }
-
-  .group:hover span[style*="clip-path"] {
-    clip-path: polygon(0 100%, 100% 0, 100% 100%, 0 100%) !important;
-  }
 }
 
 @layer base {

@@ -1,22 +1,19 @@
-import { Inter, Lato, Montserrat, Ballet } from "next/font/google"
+import { Oswald, Teko, Nunito_Sans } from "next/font/google"
 
-export const lato = Lato({
+export const oswald = Oswald({
   subsets: ["latin"],
-  weight: ["400", "700"],
-  variable: "--font-lato",
+  display: "swap",
+  variable: "--font-oswald"
 })
 
-export const montserrat = Montserrat({
+export const teko = Teko({
   subsets: ["latin"],
-  variable: "--font-montserrat"
+  display: "swap",
+  variable: "--font-teko"
 })
 
-export const inter = Inter({
+export const nunitoSans = Nunito_Sans({
   subsets: ["latin"],
-  variable: "--font-inter",
-})
-
-export const ballet = Ballet({
-  subsets: ["latin"],
-  variable: "--font-ballet",
+  display: "swap",
+  variable: "--font-nunito-sans"
 })

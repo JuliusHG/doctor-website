@@ -10,7 +10,10 @@ const config: Config = {
   theme: {
     extend: {
       fontFamily: {
-        sans: ["var(--font-montserrat)", "sans-serif"],
+        sans: ["var(--font-nunito-sans)", "sans-serif"],
+        heading: ["var(--font-teko)", "sans-serif"],
+        teko: ["var(--font-teko)", "sans-serif"],
+        "nunito-sans": ["var(--font-nunito-sans)", "sans-serif"],
       },
       colors: {
         border: "hsl(var(--border))",

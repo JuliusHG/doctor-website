@@ -1,55 +1,55 @@
 {
   "doctorInfo": {
-    "name": "Dra Martha Ruiz Peñaloza",
-    "specialty": "Alergología e Inmunología Pediátrica",
-    "specialtyShort": "Alergología e Inmunología Pediátrica",
-    "specialist": "Alergóloga e Inmunóloga Pediatra",
-    "address": "Calle Privada Ignacio Zaragoza 16, Villas Del Refugio, Santiago de Querétaro",
-    "phone": "+52 442 129 7416",
-    "whatsapp": "+52 442 129 7416",
-    "email": "martha.rpz22@gmail.com",
-    "cedProf": "10902414, UAQ",
-    "cedEsp": "14052385, UNAM",
-    "websiteUrl": "https://www.alergologadramartharuiz.com",
-    "facebookLink": "",
-    "instagramLink": "",
+    "name": "Dr. Gabriel Gómez Palacios",
+    "specialty": "Medicina Interna - Medicina Crítica",
+    "specialtyShort": "Medicina Interna - Medicina Crítica",
+    "specialist": "Medicina Interna - Medicina Crítica",
+    "address": "C. Guanajuato #253 Entre C. Querétaro y C. Oaxaca Colonia Residencial Hacienda. CP. 29030 Tuxtla Gutiérrez, Chiapas.",
+    "phone": "+529613171735",
+    "whatsapp": "+529613171735",
+    "email": "",
+    "cedProf": "10305657 Med. Gral.",
+    "cedEsp": "13574194 Med. Int. 13323211 Med. Crítica",
+    "websiteUrl": "drgabrielgomezpalacios.com",
+    "facebookLink": "https://www.facebook.com/DrGabrielPalaciosMedInterna/",
+    "instagramLink": "https://www.instagram.com/dr_gabriel_gomez.med.interna/",
     "linkedinLink": "",
     "xLink": "",
     "twitterLink": "",
     "youtubeLink": "",
-    "googleMapsLink": "https://maps.app.goo.gl/qBEkCMCc7fC959ra9",
-    "doctoraliaLink": "https://www.doctoralia.com.mx/martha-ruiz-penaloza/alergologo-inmunologo/santiago-de-queretaro",
-    "doctoraliaReviewsLink": "https://www.doctoralia.com.mx/martha-ruiz-penaloza/alergologo-inmunologo/san-juan-del-rio#profile-reviews",
-    "logoPath": "/images/logos/DraMarthaRuiz_Logo.png",
-    "logoHeight": 150,
+    "googleMapsLink": "https://g.page/r/CSgPH6326xdQEBM/",
+    "doctoraliaLink": "",
+    "doctoraliaReviewsLink": "",
+    "logoPath": "/images/logos/logo-drgabriel1.jpg",
+    "logoHeight": 120,
     "favicon": ""
   },
   "doctorWorkInfo": {
     "avisoCofepris": "XXXXXXXXXXXXXXXXX",
-    "consultingHeader":"Consultorio",
-    "consultingAddress":"Calle Privada Ignacio Zaragoza 16, Villas Del Refugio, Santiago de Querétaro",
-    "consultingHoursDaysHeader":"Horario",
-    "consultingHoursDaysSubheader1":"Lunes a Viernes",
-    "consultingHours1":"9:30 a 13:00 y 16:30 a 20:00 horas",
-    "consultingHoursDaysSubheader2":"Sábados",
-    "consultingHours2":"10:00 a 13:00",
-    "consultingPhonesHeader":"Teléfonos",
+    "consultingHeader": "MÉDICA MEDERI, PISO 1",
+    "consultingAddress": "Guanajuato #253 entre Querétaro y Oaxaca, Colonia Residencial Hacienda. CP. 29030 Tuxtla Gutiérrez, Chiapas",
+    "consultingHoursDaysHeader": "Horario",
+    "consultingHoursDaysSubheader1": "Lunes a Jueves",
+    "consultingHours1": "3:00 P.M. a 8:00 P.M.",
+    "consultingHoursDaysSubheader2": "",
+    "consultingHours2": "",
+    "consultingPhonesHeader": "Teléfonos",
     "consultingSchedulePhonesSubheader": "Citas",
-    "consultingSchedulePhone":"442 129 7416",
+    "consultingSchedulePhone": "+529613171735",
     "consultingUrgenciesPhonesSubheader": "Urgencias",
-    "consultingUrgenciesPhone":"442 129 7416",
-    "hospitalHeader": "Hospital H+ (Complejo Tec 100)",
-    "hospitalAddress": "Calle Privada Ignacio Zaragoza 16, Villas Del Refugio, Santiago de Querétaro",
-    "hospitalHoursDaysHeader": "Horario",
-    "hospitalHoursDaysSubheader1": "Lunes a Viernes",
-    "hospitalHours1":"9:30 a 13:00 y 16:30 a 20:00 horas",
-    "hospitalHoursDaysSubheader2":"Sábados",
-    "hospitalHours2":"10:00 a 13:00",
-    "hospitalPhonesHeader":"Teléfonos",
-    "hospitalSchedulePhonesSubheader": "Citas",
-    "hospitalSchedulePhone":"442 129 7416",
-    "hospitalUrgenciesPhonesSubheader": "Urgencias",
-    "hospitalUrgenciesPhone":"442 129 7416"
+    "consultingUrgenciesPhone": "+529613171735",
+    "hospitalHeader": "",
+    "hospitalAddress": "",
+    "hospitalHoursDaysHeader": "",
+    "hospitalHoursDaysSubheader1": "",
+    "hospitalHours1": "",
+    "hospitalHoursDaysSubheader2": "",
+    "hospitalHours2": "",
+    "hospitalPhonesHeader": "",
+    "hospitalSchedulePhonesSubheader": "",
+    "hospitalSchedulePhone": "",
+    "hospitalUrgenciesPhonesSubheader": "",
+    "hospitalUrgenciesPhone": ""
   },
   "heroSection": {
     "heroSectionHeight": 600,
@@ -58,43 +58,58 @@
     "backgroundHeroImage": "/images/DraMarthaRuiz_HS.png",
     "backgroundHeroImageHeightPercent": 100,
     "foregroundHeroImage": "/assets/maskHero-itechie6.webp",
-    "foregroundHeroImageHeightPercent" : 90,
+    "foregroundHeroImageHeightPercent": 90,
     "overlayColor": "rgba(255, 192, 203, 0.0)",
     "overlayOpacity": 0.1,
-    "subTitle": "Hero SubTitle: You are my hero!",
-    "title": "¿Tienes problemas de alergias?",
-    "description": "Hero description: This is my description of a Hero in the Hero description"
+    "subTitle": "¡Eres mi héroe!",
+    "title": "Cuida tu salud y acude al médico a la primera",
+    "description": "Si experimentas pérdida de consciencia o desmayos, la Medicina Crítica acude en tu ayuda. No desestimes los cuidados que te ofrece."
   },
   "navMenu": [
-    { "label": "Inicio", "path": "/" },
-    { "label": "Servicios", "path": "/servicios" },
-    { "label": "Enfermedades", "path": "/enfermedades" },
-    { "label": "Síntomas", "path": "/sintomas" },
-    { "label": "Contacto", "path": "/contacto" }
+    {
+      "label": "Inicio",
+      "path": "/"
+    },
+    {
+      "label": "Servicios",
+      "path": "/servicios"
+    },
+    {
+      "label": "Enfermedades",
+      "path": "/enfermedades"
+    },
+    {
+      "label": "Síntomas",
+      "path": "/sintomas"
+    },
+    {
+      "label": "Contacto",
+      "path": "/contacto"
+    }
   ],
   "certifications": {
     "sectionTitle": "Certificaciones profesionales",
     "entities": [
       {
-        "nameTitle" : "Certificación",
+        "nameTitle": "Certificación",
         "name": "Consejo Mexicano de Inmunología Clínica y Alergia A.C.",
         "imagePath": "/images/certifications/CMICA.png",
         "visible": true
       },
       {
-        "nameTitle" : "Certificación",
+        "nameTitle": "Certificación",
         "name": "Colegio Mexicano de Pediatría",
         "imagePath": "/images/certifications/CMCP.png",
         "visible": true
       },
       {
-        "nameTitle" : "Diplomado de Alergia Alimentaria",
+        "nameTitle": "Diplomado de Alergia Alimentaria",
         "name": "Universidad Miguel de Cervantes, Valencia, España",
         "imagePath": "/images/certifications/UEMC.png",
         "visible": true
       },
       {
-        "nameTitle" : "Capacitación en Alergia Molecular",
+        "nameTitle": "Capacitación en Alergia Molecular",
         "name": "Hospital Universitario de la FE, Valencia, España",
         "imagePath": "/images/certifications/LaFe.png",
         "visible": true
@@ -102,25 +117,25 @@
     ],
     "documents": [
       {
-        "nameTitle" : "Diploma",
+        "nameTitle": "Diploma",
         "name": "Diploma",
         "imagePath": "/images/certifications/documento1.jpg",
         "visible": false
       },
       {
-        "nameTitle" : "Acreditación",
+        "nameTitle": "Acreditación",
         "name": "Acreditación",
         "imagePath": "/images/certifications/documento2.jpg",
         "visible": false
       },
       {
-        "nameTitle" : "Cédula Especialidad",
+        "nameTitle": "Cédula Especialidad",
         "name": "Cédula Especialidad",
         "imagePath": "/images/certifications/documento3.jpg",
         "visible": false
       },
       {
-        "nameTitle" : "Título Profesional",
+        "nameTitle": "Título Profesional",
         "name": "Título Profesional",
         "imagePath": "/images/certifications/documento4.jpg",
         "visible": false
@@ -133,7 +148,7 @@
     "entities": [
       {
         "icon": "/images/icons/experiencia.svg",
-        "value": "5+",
+        "value": "2+",
         "label": "Años de experiencia"
       },
       {
@@ -150,13 +165,11 @@
     "itemFrame": "/assets/experience-items-frame.svg"
   },
   "aboutUs": {
-    "sectionTitle": "Sobre mí",
+    "sectionTitle": "Acerca de mí",
     "imagePath": "/images/AboutMe.jpg",
     "backgroundImagePath": "/images/aboutus-bg.jpg",
-    "title": "Dra. Martha Ruiz Peñaloza",
-    "description": 
-      "Soy la Dra. Martha Ruiz Peñaloza, profesional médico especialista en el manejo de enfermedades alérgicas e inmunológicas en pacientes pediátricos y adultos. Cuento con cursos de alta especialización en alergia molecular  y alergia alimentaria. Estoy certificada por el Consejo Mexicano de Alergia e Inmunología Clínica y el Consejo Mexicano de Pediatría. Me comprometo a brindar un servicio de excelencia, con un trato cercano y personalizado, siempre basado en evidencia científica y enfocado en el bienestar integral de cada paciente. "
-    ,
+    "title": "Dr. Gabriel Gómez Palacios",
+    "description": "Soy el Dr. Gabriel Gómez Palacios, soy especialista en medicina  interna y medicina crítica. Mi formación como médico internista abarca el diagnóstico y tratamiento de enfermedades complejas en pacientes adultos, incluyendo padecimientos como insuficiencia cardíaca, neumonías graves, alteraciones metabólicas, infecciones severas y el manejo integral de enfermedades crónicas.\n\nAdemás de mi práctica diaria en medicina interna, atiendo situaciones críticas que requieren vigilancia estrecha, así como procedimientos especializados para el manejo de condiciones agudas. Si requieres una valoración o seguimiento médico, o si enfrentas un problema de salud que demanda atención minuciosa, estoy a tu disposición para acompañarte en todo el proceso y guiarte hacia tu recuperación.\n\nMi compromiso con la salud de mis pacientes se basa en ofrecer una atención médica personalizada y de alta calidad, adaptada a cada necesidad. Te invito a agendar una consulta para resolver tus inquietudes y diseñar juntos un plan de atención que mejore tu calidad de vida.",
     "yearsOfExperience": 8
   },
   "purpose": {
@@ -363,7 +376,7 @@
     "backgroundImage": "/images/footer/footer_bg_cripar.jpg"
   },
   "generalCallToAction": {
-    "sectionBackground":"/images/CtA_Doctoralia.jpg",
+    "sectionBackground": "/images/CtA_Doctoralia.jpg",
     "title": "Agenda tu consulta",
     "description": "Recibe la atención especializada que mereces. Con mi experiencia en alergología e inmunología, me comprometo con su bienestar integral."
   },
@@ -371,12 +384,6 @@
     "page": {
       "backgroundImage": "/images/contact-bg.jpg",
       "pageTitle": "Contacto"
-    }
-  },
-  "schedule": {
-    "page": {
-      "backgroundImage": "schedule-bg.jpg",
-      "pageTitle": "Agendar consulta"
     }
   },
   "buttons": {
