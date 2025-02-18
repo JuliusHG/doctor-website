@@ -35,26 +35,29 @@ export default function AboutUsSection() {
   const formattedDescription = aboutUs.description.replace("{yearsOfExperience}", aboutUs.yearsOfExperience.toString())
 
   return (
-    <section className="py-16 bg-gradient-to-b from-white to-pink-50">
+    <section className="py-16 bg-gradient-to-b from-white to-green-50">
       <div className="container mx-auto px-4">
         <div className="flex flex-col md:flex-row items-center gap-12">
-          <div className="w-full md:w-1/2 relative">
-            <div className="relative overflow-hidden aspect-[4/3]">
+        <div className="w-full md:w-1/2 relative">
+            <div className="relative h-[600px]">
+              
               <Image
                 src={aboutUs.imagePath || "/placeholder.svg"}
                 alt="Doctor consultation"
-                width={600}
-                height={450}
-                layout="responsive"
-                objectFit="cover"
+                fill
+                style={{ objectFit: "contain" }}
                 className="rounded-xl"
               />
             </div>
           </div>
           <div className="w-full md:w-1/2">
-            <h5 className="text-lg font-bold text-green-700 mb-2">{aboutUs.sectionTitle}</h5>
-            <h3 className="text-3xl md:text-4xl lg:text-5xl font-extrabold mb-6 text-black-600">{aboutUs.title}</h3>
-            <p className="text-gray-800 text-base md:text-lg leading-relaxed">{formattedDescription}</p>
+            {/* <h5 className="text-lg font-bold text-dw-dark mb-2">{aboutUs.sectionTitle}</h5> */}
+            <h3 className="text-3xl md:text-4xl lg:text-5xl font-extrabold mb-6 text-dw-darker cleener-bullets">{aboutUs.title}</h3>
+            {formattedDescription.split("\n\n").map((paragraph, index) => (
+              <p key={index} className="text-gray-800 text-base md:text-lg leading-relaxed mb-4">
+                {paragraph}
+              </p>
+            ))}
           </div>
         </div>
       </div>

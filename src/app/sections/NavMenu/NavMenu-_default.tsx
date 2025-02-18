@@ -1,12 +1,12 @@
 "use client"
-
+//TODO Poner el menú sticky
 import Link from "next/link"
 import { useState, useEffect, useRef } from "react"
 import { Menu, X, ChevronDown } from "lucide-react"
 import { usePathname } from "next/navigation"
 import diseasesData from "../../../data/diseasesDataMetadata.json"
 import symptomsData from "../../../data/symptomsDataMetadata.json"
-import servicesData from "../../../data/services.json"
+import servicesData from "../../../data/servicesDataMetadata.json"
 
 interface NavMenuProps {
   hideHome?: boolean
@@ -40,6 +40,8 @@ const Dropdown: React.FC<{ item: MenuItem }> = ({ item }) => {
     }
   }, [])
 
+  const displayedSubItems = item.submenu?.slice(0, 5) || []
+
   return (
     <div
       className="relative group"
@@ -49,7 +51,7 @@ const Dropdown: React.FC<{ item: MenuItem }> = ({ item }) => {
     >
       <Link
         href={item.path}
-        className="flex items-center text-black hover:bg-pink-600 hover:text-white transition-colors duration-300 font-semibold text-sm uppercase tracking-wide px-3 py-2 rounded-md"
+        className="flex items-center text-dw-dark hover:bg-dw-dark hover:text-white transition-colors duration-300 font-semibold text-sm uppercase tracking-wide px-3 py-2 rounded-md"
       >
         {item.label}
         <ChevronDown className="ml-1 h-4 w-4" />
@@ -57,16 +59,24 @@ const Dropdown: React.FC<{ item: MenuItem }> = ({ item }) => {
       {isOpen && (
         <ul className="absolute left-0 top-full z-50 w-48 bg-white rounded-md shadow-lg">
           <div className="absolute -top-1 left-0 right-0 h-2 bg-transparent" />
-          {item.submenu?.map((subItem) => (
+          {displayedSubItems.map((subItem) => (
             <li key={subItem.path}>
               <Link
                 href={subItem.path}
-                className="block px-4 py-2 text-sm text-gray-700 hover:bg-pink-600 hover:text-white"
+                className="block px-4 py-2 text-sm text-dw-dark hover:bg-dw-dark hover:text-white"
               >
                 {subItem.name}
               </Link>
             </li>
           ))}
+          <li>
+            <Link
+              href={item.path}
+              className="block px-4 py-2 text-xs text-dw-dark hover:bg-dw-dark hover:text-white font-semibold"
+            >
+              Ver todos...
+            </Link>
+          </li>
         </ul>
       )}
     </div>
@@ -114,7 +124,7 @@ export default function NavMenu({ hideHome = false }: NavMenuProps) {
               return {
                 ...item,
                 path: "/servicios",
-                submenu: servicesData.map((service) => ({
+                submenu: servicesData.services.map((service) => ({
                   name: service.title,
                   path: `/servicios/${service.id}`,
                 })),
@@ -157,7 +167,7 @@ export default function NavMenu({ hideHome = false }: NavMenuProps) {
     <nav className="relative">
       {/* Mobile menu button */}
       <button className="md:hidden" onClick={toggleMenu}>
-        {isMenuOpen ? <X className="text-black" /> : <Menu className="text-black" />}
+        {isMenuOpen ? <X className="text-dw-dark" /> : <Menu className="text-dw-dark" />}
       </button>
 
       {/* Navigation menu */}
@@ -174,7 +184,7 @@ export default function NavMenu({ hideHome = false }: NavMenuProps) {
               ) : (
                 <Link
                   href={item.path}
-                  className="text-black hover:bg-pink-600 hover:text-white transition-colors duration-300 font-semibold text-sm uppercase tracking-wide px-3 py-2 rounded-md"
+                  className="text-dw-dark hover:bg-dw-dark hover:text-white transition-colors duration-300 font-semibold text-sm uppercase tracking-wide px-3 py-2 rounded-md"
                   onClick={() => setIsMenuOpen(false)}
                 >
                   {item.label}
@@ -187,4 +197,3 @@ export default function NavMenu({ hideHome = false }: NavMenuProps) {
     </nav>
   )
 }
-

@@ -22,6 +22,8 @@ export interface SiteContent {
     doctoraliaReviewsLink: string
     logoPath: string // Ruta del logo principal
     logoHeight: number // Después se moverá a header si salen más propiedades
+    logoHorizPath: string
+    logoHorizHeight: number
     favicon: string
   }
   doctorWorkInfo: {
@@ -154,15 +156,17 @@ export interface SiteContent {
       id: string
       title: string
       description: string
+      shortDescription: string
       imageHome: string
       imageIndividual: string
+      iconIndividual: string
       benefits: string[]
       process: string[]
       types: string[]
       painful: string
       forWhat: string
       myths: string[]
-      hospitalOrAmbulatory: string[]
+      hospitalOrAmbulatory: string
       procedureTime: string
       anesthesia: string
       recoveryTime: string
@@ -253,6 +257,7 @@ export interface SiteContent {
   diseasesSection: {
     sectionTitle: string
     sectionSubtitle: string
+    sectionText: string
     linkText: string
     buttonText: string
     page: {
@@ -301,6 +306,7 @@ export interface SiteContent {
       treatments: string[]
       imageHome: string
       imageIndividual: string
+      iconIndividual: string
       metadata: {
         title: string
         description: string
@@ -323,11 +329,14 @@ export interface SiteContent {
   }
   callToActionIndividual: {
     backgroundImage: string
+    ctaIndivHeader: string
   }
   testimonials: {
     sectionTitle: string
+    sectionSubtitle: string
     sectionDescription: string
     sectionBackground: string
+    testimonialsImage: string
     linkText: string
     dataBlocks: {
       procedure: string
@@ -356,6 +365,7 @@ export interface SiteContent {
   }
   footer: {
     backgroundImage: string
+    logoFooter: string
   }
   generalCallToAction: {
     sectionBackground: string

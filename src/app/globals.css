@@ -2,10 +2,21 @@
 @tailwind components;
 @tailwind utilities;
 
+@import './custom-styles.css';
+
 :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 255, 255, 255;
   --background-end-rgb: 255, 255, 255;
+  /* Custom color variables */
+  --dw-dark: 184 30% 43%;
+  --dw-darker: 192 11% 37%;
+  --dw-soft: 177 53% 47%;
+
+  /* Filter values for SVGs */
+  --filter-dw-dark: invert(48%) sepia(13%) saturate(1066%) hue-rotate(140deg) brightness(92%) contrast(87%);
+  --filter-dw-darker: invert(35%) sepia(9%) saturate(709%) hue-rotate(147deg) brightness(94%) contrast(89%);
+  --filter-dw-soft: invert(69%) sepia(78%) saturate(380%) hue-rotate(133deg) brightness(89%) contrast(84%);
 }
 
 body {

@@ -39,7 +39,7 @@ export default function CallToAction() {
   const { btnCallText, btnMessageText } = content.buttons
 
   return (
-    <section className="py-16 bg-pink-600 text-white"
+    <section className="py-16 bg-dw-dark text-white"
     style={{
       backgroundImage: `url(${content.callToAction.backgroundImage})`,
       backgroundSize: "cover",
@@ -47,8 +47,8 @@ export default function CallToAction() {
     }}>
       <div className="container mx-auto px-4">
         <div className="max-w-3xl mx-auto text-center">
-          <h2 className="text-4xl font-bold mb-6">{title}</h2>
-          <p className="text-base mb-8">{description}</p>
+          <h2 className="text-5xl font-bold mb-6">{title}</h2>
+          <p className="text-2xl mb-8">{description}</p>
           <div className="flex flex-col sm:flex-row justify-center gap-4">
             <ButtonCallNow phone={content.doctorInfo.phone} defaultText={btnCallText} />
             <ButtonWhatsapp whatsapp={content.doctorInfo.whatsapp} defaultText={btnMessageText} />

@@ -264,7 +264,7 @@ export default function SiteInfoForm() {
                         : section === "aboutUs"
                           ? "Acerca de mí"
                           : section}
-            </TabsTrigger>
+            </TabsTrigger> //TODO Fix this with V0, Tabs don't change to bold when selected. Chat is "Fixing site infor form"
           ))}
         </TabsList>
         {Object.keys(customFieldInfo).map((section) => (

@@ -1,3 +1,5 @@
+//TODO David: Will this section change to vertical?
+
 "use client"
 
 import { useState, useEffect } from "react"
@@ -40,7 +42,7 @@ export default function GeneralCallToAction() {
 
   return (
     <section
-      className="py-12 bg-pink-600 text-white"
+      className="py-12 bg-dw-dark text-white"
       style={{
         backgroundImage: `url(${generalCallToAction.sectionBackground})`,
         backgroundSize: "cover",
@@ -48,8 +50,8 @@ export default function GeneralCallToAction() {
       }}
     >
       <div className="container mx-auto px-4 text-center">
-        <h2 className="text-3xl md:text-4xl font-bold mb-4 md:mb-8">{generalCallToAction.title}</h2>
-        <h3 className="text-lg md:text-xl mb-6 md:mb-8 mx-4 md:mx-12 lg:mx-48">{generalCallToAction.description}</h3>
+        <h2 className="text-3xl md:text-5xl font-bold mb-4 md:mb-8">{generalCallToAction.title}</h2>
+        <h3 className="text-4xl md:text-4xl mb-6 md:mb-8 mx-4 md:mx-12 lg:mx-48">{generalCallToAction.description}</h3>
         <div className="flex flex-col sm:flex-row justify-center gap-4">
           <ButtonCallNow phone={doctorInfo.phone} defaultText={buttons.btnCallText} />
           <ButtonWhatsapp whatsapp={doctorInfo.whatsapp} defaultText={buttons.btnMessageText} />

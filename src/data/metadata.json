@@ -1,6 +1,6 @@
 {
-  "title": "Dra. Martha Ruiz Peñaloza",
-  "description": "Especialista en Alergología e Inmunología Pediátrica en Santiago de Querétaro, Querétaro. Atención especializada para niños con alergias y problemas inmunológicos.",
+  "title": "Dr. Gabriel Gómez Palacios",
+  "description": "Especialista en Medicina Interna y Medicina Crítica.",
   "keywords": [
     "alergología pediátrica",
     "inmunología pediátrica",
@@ -14,16 +14,16 @@
   "author": "Guia Salud Mx",
   "language": "es",
   "openGraph": {
-    "title": "Dra. Martha Ruiz Peñaloza - Alergóloga e Inmunóloga Pediátrica",
-    "description": "Atención especializada en alergias e inmunología para niños en Tuxtla Gutiérrez. Tratamientos avanzados y personalizados.",
+    "title": "Dr. Gabriel Gómez Palacios - Medicina Interna y Medicina Crítica",
+    "description": "Atención especializada en Medicina Interna y Medicina Crítica en Tuxtla Gutiérrez. Tratamientos avanzados y personalizados.",
     "url": "https://www.alergologadramartharuiz.com",
-    "siteName": "Consultorio Dra. Martha Ruiz Peñaloza",
+    "siteName": "Consultorio Dr. Gabriel Gómez Palacios",
     "images": [
       {
         "url": "https://www.alergologadramartharuiz.com/og-image.jpg",
         "width": 1200,
         "height": 630,
-        "alt": "Dra. Martha Ruiz Peñaloza en su consultorio"
+        "alt": "Dr. Gabriel Gómez Palacios en su consultorio"
       }
     ],
     "locale": "es_MX",
@@ -31,8 +31,8 @@
   },
   "twitter": {
     "card": "summary_large_image",
-    "site": "@DraMartha_Ruiz",
-    "creator": "@DraMartha_Ruiz"
+    "site": "@DrGabrielGomezP",
+    "creator": "@DrGabrielGomezP"
   },
   "robots": {
     "index": true,
@@ -63,15 +63,15 @@
   "locationSchema": {
     "@context": "https://schema.org",
     "@type": "MedicalBusiness",
-    "name": "Consultorio Dra. Martha Ruiz Peñaloza",
-    "description": "Especialista en Alergología e Inmunología Pediátrica",
+    "name": "Consultorio Dr. Gabriel Gómez Palacios",
+    "description": "Especialista en Medicina Interna y Medicina Crítica.",
     "url": "https://www.alergologadramartharuiz.com",
     "telephone": "+52-442-129-7416",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "Pendiente",
-      "addressLocality": "Santiago de Querétaro",
-      "addressRegion": "Querétaro",
+      "addressLocality": "Tuxtla Gutiérrez",
+      "addressRegion": "Chiapas",
       "postalCode": "XXXXX",
       "addressCountry": "MX"
     },
@@ -89,15 +89,15 @@
       }
     ],
     "sameAs": [
-      "https://www.facebook.com/DraMartha_Ruiz"
+      "https://www.facebook.com/xxxxxxxxxxxx"
     ]
   },
   "serviciosMeta": {
-    "title": "Servicios - Dra. Martha Ruiz Peñaloza",
-    "description": "Servicios de alergología e inmunología pediátrica ofrecidos por la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro.",
+    "title": "Servicios - Dr. Gabriel Gómez Palacios",
+    "description": "Servicios de Medicina Interna y Medicina Crítica ofrecidos por el Dr. Gabriel Gómez Palacios en Tuxtla Gutiérrez.",
     "openGraph": {
-      "title": "Servicios de Alergología e Inmunología Pediátrica",
-      "description": "Tratamientos especializados para alergias y problemas inmunológicos en niños.",
+      "title": "Servicios de Medicina Interna y Medicina Crítica",
+      "description": "Tratamientos especializados en Medicina Interna y Medicina Crítica.",
       "url": "https://www.alergologadramartharuiz.com/servicios"
     },
     "alternates": {
@@ -105,11 +105,11 @@
     }
   },
   "enfermedadesMeta": {
-    "title": "Enfermedades Tratadas - Dra. Martha Ruiz Peñaloza",
-    "description": "Información sobre las enfermedades alérgicas e inmunológicas tratadas por la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro.",
+    "title": "Enfermedades Tratadas - Dr. Gabriel Gómez Palacios",
+    "description": "Información sobre las enfermedades relacionadas con Medicina Interna y Medicina Crítica tratadas por el Dr. Gabriel Gómez Palacios en Tuxtla Gutiérrez.",
     "openGraph": {
-      "title": "Enfermedades Alérgicas e Inmunológicas Pediátricas",
-      "description": "Conozca las enfermedades alérgicas e inmunológicas que tratamos en niños.",
+      "title": "Enfermedades relacionadas con Medicina Interna y Medicina Crítica",
+      "description": "Conozca las enfermedades que tratamos",
       "url": "https://www.alergologadramartharuiz.com/enfermedades"
     },
     "alternates": {
@@ -117,11 +117,11 @@
     }
   },
   "sintomasMeta": {
-    "title": "Síntomas de Alergias - Dra. Martha Ruiz Peñaloza",
-    "description": "Guía de síntomas comunes de alergias e inmunología en niños. Consulte a la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro.",
+    "title": "Síntomas - Dr. Gabriel Gómez Palacios",
+    "description": "Guía de síntomas comunes. Consulte al Dr. Gabriel Gómez Palacios en Tuxtla Gutiérrez.",
     "openGraph": {
-      "title": "Síntomas de Alergias e Inmunología en Niños",
-      "description": "Identifique los síntomas de alergias y problemas inmunológicos en niños.",
+      "title": "Síntomas",
+      "description": "Identifique los síntomas relacionados con Medicina Interna y Medicina Crítica.",
       "url": "https://www.alergologadramartharuiz.com/sintomas"
     },
     "alternates": {
@@ -129,11 +129,11 @@
     }
   },
   "contactoMeta": {
-    "title": "Contacto - Dra. Martha Ruiz Peñaloza",
-    "description": "Contacte a la Dra. Martha Ruiz Peñaloza, especialista en alergología e inmunología pediátrica en Santiago de Querétaro.",
+    "title": "Contacto - Dr. Gabriel Gómez Palacios",
+    "description": "Contacte al Dr. Gabriel Gómez Palacios, especialista en Medicina Interna y Medicina Crítica en Santiago de Querétaro.",
     "openGraph": {
-      "title": "Contacte a la Dra. Martha Ruiz Peñaloza",
-      "description": "Agende una cita con nuestra especialista en alergología e inmunología pediátrica.",
+      "title": "Contacte al Dr. Gabriel Gómez Palacios",
+      "description": "Agende una cita con nuestro especialista en Medicina Interna y Medicina Crítica.",
       "url": "https://www.alergologadramartharuiz.com/contacto"
     },
     "alternates": {

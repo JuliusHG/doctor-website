@@ -1,6 +1,6 @@
 {
   "Header": {
-    "component": "Header-_default.tsx",
+    "component": "Header-_sticky.tsx",
     "display": true
   },
   "NavMenu": {
@@ -20,11 +20,11 @@
     "display": true
   },
   "Experience": {
-    "component": "Experience-cripar-home1.tsx",
+    "component": "Experience-cleener-dark.tsx",
     "display": true
   },
   "Services": {
-    "component": "Services2.tsx",
+    "component": "Services-cleener.tsx",
     "display": true
   },
   "CallToAction": {
@@ -32,15 +32,15 @@
     "display": true
   },
   "Purpose": {
-    "component": "Purpose-itechie-home5.tsx",
+    "component": "Purpose-cleener.tsx",
     "display": true
   },
   "Testimonials": {
-    "component": "Testimonials2.tsx",
+    "component": "Testimonials-cleener.tsx",
     "display": true
   },
   "Symptoms": {
-    "component": "Symptoms-itechie-home5.tsx",
+    "component": "Symptoms-cleener.tsx",
     "display": true
   },
   "PhotosGallery": {
@@ -48,7 +48,7 @@
     "display": false
   },
   "Diseases": {
-    "component": "Diseases2.tsx",
+    "component": "Diseases-cleener.tsx",
     "display": true
   },
   "PaymentMethods": {
@@ -60,11 +60,14 @@
     "display": false
   },
   "GeneralCallToAction": {
-    "component": "GeneralCallToAction.tsx",
+    "component": "GeneralCallToAction-cleener.tsx",
     "display": true
   },
   "Footer": {
-    "component": "Footer-cripar-home2.tsx",
+    "component": "Footer-cleener.tsx",
     "display": true
+  },
+  "CallToActionIndividual": {
+    "component": "CallToActionIndividual-cleener-vertical.tsx"
   }
 }

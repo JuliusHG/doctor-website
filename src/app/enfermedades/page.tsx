@@ -35,7 +35,7 @@ export default function DiseasesPage() {
                     className="w-full h-48 object-cover"
                   />
                   <div className="p-6">
-                    <h3 className="text-xl font-semibold mb-2">{disease.name}</h3>
+                    <h3 className="text-2xl text-dw-dark font-semibold mb-2">{disease.name}</h3>
                     <p className="text-gray-600">{disease.shortDescription}</p>
                   </div>
                 </div>

@@ -1,1233 +1,1434 @@
 {
   "enfermedadesMeta": {
     "main": {
-      "title": "Enfermedades Tratadas - Dra. Martha Ruiz Peñaloza",
-      "description": "Información sobre las enfermedades alérgicas e inmunológicas tratadas por la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro.",
+      "title": "Enfermedades tratadas - Dr. Gabriel Gómez Palacios",
+      "description": "Información sobre las enfermedades tratadas por el Dr. Gabriel Gómez Palacios en Tuxtla Gutiérrez, Chiaps.",
       "openGraph": {
-        "title": "Enfermedades Alérgicas e Inmunológicas Pediátricas",
-        "description": "Conozca las enfermedades alérgicas e inmunológicas que tratamos en niños.",
-        "url": "https://www.alergologadramartharuiz.com/enfermedades"
+        "title": "Enfermedades tratadas por Dr. Gabriel Gómez Palacios en Medicina Interna y Medicina Crítica",
+        "description": "Conozca las enfermedades tratadas por Dr. Gabriel Gómez Palacios en Medicina Interna y Medicina Crítica.",
+        "url": "https://www.drgabrielgomezp.com/enfermedades"
       },
       "alternates": {
-        "canonical": "https://www.alergologadramartharuiz.com/enfermedades"
+        "canonical": "https://www.drgabrielgomezp.com/enfermedades"
       }
     }
   },
   "diseases": [
-  {
-    "id": "alergia-al-latex",
-    "name": "Alergia al Látex",
-    "technicalName": "Hipersensibilidad al Látex",
-    "description": "La alergia al látex es una reacción inmunológica adversa a las proteínas presentes en el caucho natural. Se manifiesta cuando una persona sensibilizada entra en contacto con productos que contienen látex, como guantes, globos o bandas elásticas, desencadenando una respuesta alérgica que puede variar desde síntomas leves hasta reacciones severas.",
-    "shortDescription": "Reacción inmunológica a proteínas del caucho natural, que puede variar de síntomas leves a reacciones severas.",
-    "causes": [
-      "Exposición repetida al látex, especialmente en entornos médicos o industriales.",
-      "Contacto con productos cotidianos que contienen látex.",
-      "Antecedentes familiares de alergias."
-    ],
-    "symptoms": [
-      "Urticaria o ronchas en la piel.",
-      "Anafilaxia en casos graves."
-    ],
-    "complications": [
-      "Reacciones anafilácticas potencialmente mortales.",
-      "Dificultad para realizar actividades diarias por evitar productos con látex.",
-      "Infecciones secundarias por rascado."
-    ],
-    "riskFactors": [
-      "Profesionales de la salud expuestos frecuentemente al látex.",
-      "Personas con antecedentes de otras alergias.",
-      "Uso prolongado de productos de látex."
-    ],
-    "mexicoStats": "Se estima que aproximadamente el 1-6% de la población mexicana puede ser sensible al látex, con una prevalencia mayor en profesionales de la salud.",
-    "ctaText": "No permita que la alergia al látex afecte su salud y calidad de vida. Agende una consulta con la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro, Querétaro, para recibir un diagnóstico preciso y un tratamiento adecuado.",
-    "treatments": [
-      "Evitar el contacto con productos que contengan látex.",
-      "Utilizar guantes y equipos libres de látex.",
-      "Antihistamínicos y corticosteroides para reacciones leves.",
-      "Epinefrina inyectable en caso de anafilaxia grave."
-    ],
-    "imageHome": "/images/diseases/alergia-al-latex.jpg",
-    "imageIndividual": "/images/diseases/alergia-al-latex.jpg",
-    "metadata": {
-      "title": "Especialista en Alergia al Látex en Santiago de Querétaro, Querétaro",
-      "description": "Consulta sobre alergia al látex en Santiago de Querétaro, Querétaro. Dra. Martha Ruiz Peñaloza te ayuda a tratar tu alergia.",
-      "keywords": [
-        "Especialista en alergia al látex en Santiago de Querétaro",
-        "Clínica de alergia al látex en Santiago de Querétaro",
-        "Hospital de alergia al látex en Santiago de Querétaro",
-        "Tratamiento para alergia al látex en Santiago de Querétaro",
-        "Experto en alergia al látex en Santiago de Querétaro",
-        "Centro de alergia al látex en Santiago de Querétaro",
-        "Quien atiende alergia al látex en Santiago de Querétaro",
-        "Médico para alergia al látex en Santiago de Querétaro",
-        "Doctor que atiende alergia al látex en Santiago de Querétaro",
-        "Consulta médica de alergia al látex en Santiago de Querétaro"
+    {
+      "id": "hipertension-arterial",
+      "name": "Hipertensión Arterial",
+      "technicalName": "Hipertensión Arterial",
+      "description": "La hipertensión arterial es una condición crónica caracterizada por una elevación persistente de la presión de la sangre en las arterias. Esto fuerza al corazón a bombear con mayor esfuerzo y, con el tiempo, puede dañar diversos órganos y aumentar el riesgo de complicaciones cardiovasculares y cerebrovasculares.",
+      "shortDescription": "Elevación persistente de la presión arterial, incrementando el riesgo de daños cardiovasculares.",
+      "causes": [
+        "Genética y antecedentes familiares",
+        "Consumo excesivo de sal",
+        "Dieta alta en grasas saturadas y alimentos procesados",
+        "Falta de actividad física regular",
+        "Consumo excesivo de alcohol",
+        "Estrés crónico",
+        "Sobrepeso u obesidad"
       ],
-      "openGraph": {
-        "title": "Especialista en Alergia al Látex - Dra. Martha Ruiz Peñaloza",
-        "description": "Consulta sobre alergia al látex en Santiago de Querétaro. Tratamiento especializado por la Dra. Martha Ruiz Peñaloza.",
-        "url": "https://www.alergologadramartharuiz.com/enfermedades/alergia-al-latex"
-      },
-      "alternates": {
-        "canonical": "https://www.alergologadramartharuiz.com/enfermedades/alergia-al-latex"
+      "symptoms": [
+        "Dolor de cabeza constante",
+        "Mareos o sensación de inestabilidad",
+        "Visión borrosa",
+        "Zumbido en los oídos",
+        "Cansancio o fatiga inusual"
+      ],
+      "complications": [
+        "Enfermedad coronaria (infartos)",
+        "Insuficiencia cardiaca",
+        "Daño renal crónico",
+        "Accidentes cerebrovasculares",
+        "Deterioro de la visión",
+        "Problemas circulatorios en extremidades"
+      ],
+      "riskFactors": [
+        "Edad mayor de cuarenta años",
+        "Antecedentes familiares de presión alta",
+        "Alimentación poco saludable",
+        "Sedentarismo",
+        "Consumo de tabaco",
+        "Exceso de peso",
+        "Estrés mal gestionado"
+      ],
+      "ctaText": "Si presentas síntomas o deseas prevenir complicaciones, agenda una cita con el Dr. Gabriel Gómez Palacios en Tuxtla Gutiérrez, Chiapas, para un control integral de tu presión arterial.",
+      "mexicoStats": "",
+      "treatments": [],
+      "imageHome": "/images/diseases/hipertension-arterial.jpg",
+      "imageIndividual": "/images/diseases/hipertension-arterial.jpg",
+      "iconIndividual": "/images/diseases/icons/hipertension.svg",
+      "metadata": {
+        "title": "Tratamiento de Hipertensión Arterial en Tuxtla Gutiérrez, Chiapas",
+        "description": "La hipertensión arterial implica una elevación persistente de la presión sanguínea. Consulta al Dr. Gabriel Gómez Palacios para un control integral y prevenir complicaciones.",
+        "keywords": [],
+        "openGraph": {
+          "title": "Especialista en Hipertensión Arterial - Dr. Gabriel Gómez Palacios",
+          "description": "Conoce las causas, síntomas y complicaciones de la hipertensión arterial, y obtén un tratamiento completo en Tuxtla Gutiérrez.",
+          "url": "https://urldr/enfermedades/hipertension-arterial"
+        },
+        "alternates": {
+          "canonical": "https://urldr/enfermedades/hipertension-arterial"
+        }
+      }
+    },
+    {
+      "id": "diabetes-mellitus-tipo-2",
+      "name": "Diabetes Mellitus (Tipo 2)",
+      "technicalName": "Diabetes Mellitus Tipo 2",
+      "description": "La diabetes mellitus tipo 2 es un trastorno metabólico crónico en el que el cuerpo desarrolla resistencia a la insulina o no produce suficiente insulina, elevando los niveles de azúcar en la sangre. Con un manejo adecuado, se pueden evitar complicaciones de salud a largo plazo.",
+      "shortDescription": "Trastorno crónico de la regulación del azúcar en la sangre por resistencia a la insulina o producción insuficiente.",
+      "causes": [
+        "Predisposición genética y antecedentes familiares",
+        "Sobrepeso u obesidad",
+        "Alimentación elevada en azúcares y grasas",
+        "Falta de actividad física",
+        "Factores hormonales y metabólicos"
+      ],
+      "symptoms": [
+        "Sed excesiva y micción frecuente",
+        "Fatiga constante",
+        "Hambre excesiva",
+        "Visión borrosa",
+        "Pérdida de peso inexplicable",
+        "Infecciones frecuentes (piel, encías, vías urinarias)"
+      ],
+      "complications": [
+        "Enfermedad cardiovascular",
+        "Daño renal",
+        "Neuropatía periférica",
+        "Retinopatía (posible ceguera)",
+        "Infecciones graves",
+        "Úlceras en pies y riesgo de amputaciones"
+      ],
+      "riskFactors": [
+        "Sedentarismo",
+        "Dieta desequilibrada",
+        "Obesidad o sobrepeso",
+        "Edad mayor de cuarenta años",
+        "Antecedentes familiares de diabetes",
+        "Hipertensión arterial y colesterol elevado"
+      ],
+      "ctaText": "Si presentas síntomas o riesgo de diabetes tipo 2, agenda una cita con el Dr. Gabriel Gómez Palacios para un plan integral de control y prevención de complicaciones.",
+      "mexicoStats": "",
+      "treatments": [],
+      "imageHome": "/images/diseases/diabetes-mellitus.jpg",
+      "imageIndividual": "/images/diseases/diabetes-mellitus.jpg",
+      "iconIndividual": "/images/diseases/icons/diabetes.svg",
+      "metadata": {
+        "title": "Tratamiento de Diabetes Mellitus Tipo 2 en Tuxtla Gutiérrez, Chiapas",
+        "description": "La diabetes mellitus tipo 2 puede manejarse con cambios de estilo de vida y medicación adecuada. Conoce más con el Dr. Gabriel Gómez Palacios.",
+        "keywords": [],
+        "openGraph": {
+          "title": "Especialista en Diabetes Tipo 2 - Dr. Gabriel Gómez Palacios",
+          "description": "Descubre cómo prevenir y controlar la diabetes tipo 2 a través de un manejo integral en Tuxtla Gutiérrez.",
+          "url": "https://urldr/enfermedades/sdiabetes-mellituslug"
+        },
+        "alternates": {
+          "canonical": "https://urldr/enfermedades/diabetes-mellitus"
+        }
+      }
+    },
+    {
+      "id": "hipotiroidismo",
+      "name": "Hipotiroidismo",
+      "technicalName": "Hipotiroidismo",
+      "description": "El hipotiroidismo ocurre cuando la glándula tiroides produce una cantidad insuficiente de hormonas tiroideas, ocasionando una ralentización de los procesos metabólicos. Esto provoca síntomas como cansancio, aumento de peso y sensibilidad al frío.",
+      "shortDescription": "Producción insuficiente de hormonas tiroideas, ralentizando el metabolismo y disminuyendo la energía.",
+      "causes": [
+        "Trastornos autoinmunitarios (tiroiditis de Hashimoto)",
+        "Cirugías o tratamientos de la glándula tiroides",
+        "Falta de yodo en la alimentación",
+        "Medicamentos que interfieren en la función tiroidea",
+        "Alteraciones en la hipófisis o el hipotálamo"
+      ],
+      "symptoms": [
+        "Cansancio crónico",
+        "Aumento de peso",
+        "Intolerancia al frío",
+        "Cabello frágil y piel reseca",
+        "Estreñimiento",
+        "Ritmo cardíaco lento",
+        "Cambios de ánimo o depresión"
+      ],
+      "complications": [
+        "Bocio (agrandamiento de la tiroides)",
+        "Problemas cardiacos",
+        "Trastornos de fertilidad",
+        "Colesterol alto",
+        "Mixedema (forma grave de hipotiroidismo)"
+      ],
+      "riskFactors": [
+        "Ser mujer y mayor de cuarenta años",
+        "Antecedentes familiares de enfermedades tiroideas",
+        "Trastornos autoinmunitarios",
+        "Falta de yodo en la dieta",
+        "Exposición a radiación en cuello"
+      ],
+      "ctaText": "Si presentas síntomas de hipotiroidismo, consulta al Dr. Gabriel Gómez Palacios en Tuxtla Gutiérrez para un diagnóstico oportuno y un manejo adecuado de tu función tiroidea.",
+      "mexicoStats": "",
+      "treatments": [],
+      "imageHome": "/images/diseases/enf-tiroides.jpg",
+      "imageIndividual": "/images/diseases/enf-tiroides.jpg",
+      "iconIndividual": "/images/diseases/icons/hipotiroidismo.svg",
+      "metadata": {
+        "title": "Tratamiento de Hipotiroidismo en Tuxtla Gutiérrez, Chiapas",
+        "description": "El hipotiroidismo desacelera tu metabolismo y puede ocasionar múltiples molestias. Visita al Dr. Gabriel Gómez Palacios para un control efectivo.",
+        "keywords": [],
+        "openGraph": {
+          "title": "Especialista en Hipotiroidismo - Dr. Gabriel Gómez Palacios",
+          "description": "Conoce causas y síntomas del hipotiroidismo y recibe atención especializada en Tuxtla Gutiérrez.",
+          "url": "https://urldr/enfermedades/enf-tiroides"
+        },
+        "alternates": {
+          "canonical": "https://urldr/enfermedades/enf-tiroides"
+        }
+      }
+    },
+    {
+      "id": "hipertiroidismo",
+      "name": "Hipertiroidismo",
+      "technicalName": "Hipertiroidismo",
+      "description": "El hipertiroidismo aparece cuando la glándula tiroides produce hormonas tiroideas en exceso, acelerando el metabolismo y provocando síntomas como palpitaciones, nerviosismo y pérdida de peso.",
+      "shortDescription": "Exceso de producción de hormonas tiroideas que acelera el metabolismo y desencadena diversas molestias.",
+      "causes": [
+        "Enfermedad de Graves (autoinmunitaria)",
+        "Bocio multinodular tóxico",
+        "Adenoma tóxico de la tiroides",
+        "Tiroiditis con liberación de hormonas",
+        "Consumo excesivo de yodo"
+      ],
+      "symptoms": [
+        "Pérdida de peso rápida",
+        "Frecuencia cardíaca acelerada",
+        "Sensación de calor y sudoración excesiva",
+        "Temblores en las manos",
+        "Ansiedad e irritabilidad",
+        "Insomnio",
+        "Diarrea o evacuaciones frecuentes"
+      ],
+      "complications": [
+        "Problemas cardíacos (arritmias)",
+        "Crisis tiroidea grave",
+        "Descalcificación ósea y osteoporosis",
+        "Alteraciones oculares (enfermedad de Graves)",
+        "Problemas de fertilidad"
+      ],
+      "riskFactors": [
+        "Antecedentes familiares de hipertiroidismo",
+        "Ser mujer en edad adulta",
+        "Otros trastornos autoinmunitarios",
+        "Exceso de yodo en la dieta",
+        "Uso de fármacos que alteren la función tiroidea"
+      ],
+      "ctaText": "Si detectas signos de hipertiroidismo, agenda tu valoración con el Dr. Gabriel Gómez Palacios para un abordaje integral de tu salud tiroidea.",
+      "mexicoStats": "",
+      "treatments": [],
+      "imageHome": "/images/diseases/enf-tiroides.jpg",
+      "imageIndividual": "/images/diseases/enf-tiroides.jpg",
+      "iconIndividual": "/images/diseases/icons/hipertiroidismo.svg",
+      "metadata": {
+        "title": "Tratamiento de Hipertiroidismo en Tuxtla Gutiérrez, Chiapas",
+        "description": "El hipertiroidismo acelera tu metabolismo y puede generar palpitaciones y nerviosismo. Consulta al Dr. Gabriel Gómez Palacios para un manejo adecuado.",
+        "keywords": [],
+        "openGraph": {
+          "title": "Especialista en Hipertiroidismo - Dr. Gabriel Gómez Palacios",
+          "description": "Descubre los síntomas y factores de riesgo del hipertiroidismo y recibe atención en Tuxtla Gutiérrez.",
+          "url": "https://urldr/enfermedades/enf-tiroides"
+        },
+        "alternates": {
+          "canonical": "https://urldr/enfermedades/enf-tiroides"
+        }
+      }
+    },
+    {
+      "id": "hipercolesterolemia",
+      "name": "Hipercolesterolemia",
+      "technicalName": "Hipercolesterolemia",
+      "description": "La hipercolesterolemia consiste en un nivel elevado de colesterol en sangre, especialmente del tipo LDL. Con el tiempo, el exceso de colesterol puede acumularse en las arterias y aumentar el riesgo de desarrollar enfermedades cardiovasculares.",
+      "shortDescription": "Exceso de colesterol LDL que incrementa el riesgo de placas en las arterias y complicaciones cardíacas.",
+      "causes": [
+        "Dieta rica en grasas saturadas y trans",
+        "Predisposición genética",
+        "Falta de actividad física",
+        "Sobrepeso u obesidad",
+        "Condiciones médicas como hipotiroidismo",
+        "Tabaco y alcohol en exceso"
+      ],
+      "symptoms": [
+        "Generalmente asintomática en fases iniciales",
+        "Dolores en el pecho en etapas avanzadas",
+        "Xantomas (depósitos de grasa en piel o tendones)"
+      ],
+      "complications": [
+        "Formación de placas de ateroma",
+        "Enfermedades coronarias e infartos",
+        "Accidentes cerebrovasculares",
+        "Hipertensión arterial secundaria",
+        "Arteriosclerosis prematura"
+      ],
+      "riskFactors": [
+        "Edad avanzada",
+        "Antecedentes familiares de enfermedades cardiovasculares",
+        "Dieta inadecuada (exceso de grasas, azúcares, sal)",
+        "Estilo de vida sedentario",
+        "Tabaquismo",
+        "Estrés crónico"
+      ],
+      "ctaText": "Si sospechas niveles altos de colesterol, agenda una cita con el Dr. Gabriel Gómez Palacios para evaluar tu perfil lipídico y cuidar tu salud cardiovascular.",
+      "mexicoStats": "",
+      "treatments": [],
+      "imageHome": "/images/diseases/hipercolesterolemia.jpg",
+      "imageIndividual": "/images/diseases/hipercolesterolemia.jpg",
+      "iconIndividual": "/images/diseases/icons/hipercolesterolemia.svg",
+      "metadata": {
+        "title": "Tratamiento de Hipercolesterolemia en Tuxtla Gutiérrez, Chiapas",
+        "description": "La hipercolesterolemia eleva el riesgo de enfermedades cardiovasculares. Consulta al Dr. Gabriel Gómez Palacios para un control efectivo.",
+        "keywords": [],
+        "openGraph": {
+          "title": "Especialista en Hipercolesterolemia - Dr. Gabriel Gómez Palacios",
+          "description": "Controla tus niveles de colesterol y prevén complicaciones cardíacas con un manejo adecuado en Tuxtla Gutiérrez.",
+          "url": "https://urldr/enfermedades/hipercolesterolemia"
+        },
+        "alternates": {
+          "canonical": "https://urldr/enfermedades/hipercolesterolemia"
+        }
+      }
+    },
+    {
+      "id": "dislipidemias",
+      "name": "Dislipidemias",
+      "technicalName": "Dislipidemias",
+      "description": "Las dislipidemias abarcan alteraciones en los niveles de lípidos en la sangre (colesterol total, LDL, HDL y triglicéridos). Este desequilibrio puede pasar inadvertido, pero eleva el riesgo de problemas cardiovasculares a largo plazo si no se corrige.",
+      "shortDescription": "Desequilibrios en los niveles de colesterol y triglicéridos que comprometen la salud cardiovascular.",
+      "causes": [
+        "Herencia o predisposición genética",
+        "Dieta rica en grasas y azúcares refinados",
+        "Obesidad y sobrepeso",
+        "Sedentarismo",
+        "Alcohol en exceso",
+        "Trastornos hormonales o tiroideos"
+      ],
+      "symptoms": [
+        "Generalmente silenciosas en fases iniciales",
+        "Dolor torácico por mala circulación en etapas avanzadas",
+        "Depósitos grasos en ojos o tendones (xantomas)"
+      ],
+      "complications": [
+        "Mayor riesgo de infartos y accidentes cerebrovasculares",
+        "Arteriosclerosis",
+        "Hipertensión arterial secundaria",
+        "Daños en hígado o páncreas por triglicéridos altos"
+      ],
+      "riskFactors": [
+        "Historia familiar de dislipidemias",
+        "Alimentación desequilibrada",
+        "Sedentarismo",
+        "Estrés y hábitos no saludables",
+        "Consumo de tabaco y alcohol"
+      ],
+      "ctaText": "Si deseas mejorar tu perfil lipídico o tienes factores de riesgo, agenda tu consulta con el Dr. Gabriel Gómez Palacios para una evaluación integral y un plan personalizado.",
+      "mexicoStats": "",
+      "treatments": [],
+      "imageHome": "/images/diseases/hipercolesterolemia.jpg",
+      "imageIndividual": "/images/diseases/hipercolesterolemia.jpg",
+      "iconIndividual": "/images/diseases/icons/dislipidemias.svg",
+      "metadata": {
+        "title": "Tratamiento de Dislipidemias en Tuxtla Gutiérrez, Chiapas",
+        "description": "Las dislipidemias elevan el riesgo de complicaciones cardíacas. Conoce cómo controlarlas con el Dr. Gabriel Gómez Palacios.",
+        "keywords": [],
+        "openGraph": {
+          "title": "Especialista en Dislipidemias - Dr. Gabriel Gómez Palacios",
+          "description": "Descubre cómo manejar tus niveles de colesterol y triglicéridos para proteger tu salud cardiovascular.",
+          "url": "https://urldr/enfermedades/dislipidemias"
+        },
+        "alternates": {
+          "canonical": "https://urldr/enfermedades/dislipidemias"
+        }
+      }
+    },
+    {
+      "id": "gastritis",
+      "name": "Gastritis",
+      "technicalName": "Gastritis",
+      "description": "La gastritis es la inflamación de la mucosa que recubre el estómago. Puede presentarse de forma aguda o crónica y suele relacionarse con infección por Helicobacter pylori, uso prolongado de medicamentos, alimentos irritantes o alcohol.",
+      "shortDescription": "Inflamación de la mucosa estomacal que causa ardor, dolor y molestias digestivas.",
+      "causes": [
+        "Infección por Helicobacter pylori",
+        "Uso crónico de AINEs o analgésicos",
+        "Consumo excesivo de alcohol o tabaco",
+        "Obesidad y comidas copiosas",
+        "Hernia hiatal",
+        "Estrés crónico"
+      ],
+      "symptoms": [
+        "Dolor o ardor en la parte superior del abdomen",
+        "Náuseas, vómitos y eructos",
+        "Acidez o pirosis",
+        "Regurgitación de alimentos o ácidos",
+        "Dificultad al tragar en casos severos"
+      ],
+      "complications": [
+        "Úlceras y erosiones en mucosa gástrica o esofágica",
+        "Hemorragias digestivas",
+        "Esofagitis erosiva",
+        "Esófago de Barrett",
+        "Mayor riesgo de cáncer gástrico o esofágico"
+      ],
+      "riskFactors": [
+        "Estrés físico o emocional constante",
+        "Malos hábitos alimenticios",
+        "Obesidad o sobrepeso",
+        "Exceso de alcohol y tabaco",
+        "Embarazo (por presión intraabdominal)",
+        "Antecedentes familiares de trastornos digestivos"
+      ],
+      "ctaText": "Si sufres de acidez estomacal o dolores recurrentes, reserva una cita con el Dr. Gabriel Gómez Palacios para un diagnóstico y tratamiento oportuno.",
+      "mexicoStats": "",
+      "treatments": [],
+      "imageHome": "/images/diseases/gastritis.jpg",
+      "imageIndividual": "/images/diseases/gastritis.jpg",
+      "iconIndividual": "/images/diseases/icons/gastritis.svg",
+      "metadata": {
+        "title": "Tratamiento de Gastritis en Tuxtla Gutiérrez, Chiapas",
+        "description": "La gastritis puede generar dolor y ardor estomacal persistente. Consulta al Dr. Gabriel Gómez Palacios para detectar y tratar sus causas.",
+        "keywords": [],
+        "openGraph": {
+          "title": "Especialista en Gastritis - Dr. Gabriel Gómez Palacios",
+          "description": "Aprende a manejar la gastritis y evita complicaciones digestivas con atención especializada en Tuxtla Gutiérrez.",
+          "url": "https://urldr/enfermedades/gastritis"
+        },
+        "alternates": {
+          "canonical": "https://urldr/enfermedades/gastritis"
+        }
+      }
+    },
+    {
+      "id": "reflujo-gastroesofagico",
+      "name": "Reflujo gastroesofágico (ERGE)",
+      "technicalName": "Reflujo Gastroesofágico (ERGE)",
+      "description": "El reflujo gastroesofágico ocurre cuando el contenido ácido del estómago regresa al esófago de forma recurrente. Esta situación provoca acidez, ardor y posibles complicaciones si no se trata.",
+      "shortDescription": "Retorno del ácido estomacal al esófago, causando acidez, ardor y posibles complicaciones.",
+      "causes": [
+        "Infección por Helicobacter pylori",
+        "Uso crónico de AINEs o analgésicos",
+        "Consumo excesivo de alcohol o tabaco",
+        "Obesidad y comidas copiosas",
+        "Hernia hiatal",
+        "Estrés crónico"
+      ],
+      "symptoms": [
+        "Dolor o ardor en la parte superior del abdomen",
+        "Náuseas, vómitos y eructos",
+        "Acidez o pirosis",
+        "Regurgitación de alimentos o ácidos",
+        "Dificultad al tragar en casos severos"
+      ],
+      "complications": [
+        "Úlceras y erosiones en mucosa gástrica o esofágica",
+        "Hemorragias digestivas",
+        "Esofagitis erosiva",
+        "Esófago de Barrett",
+        "Mayor riesgo de cáncer gástrico o esofágico"
+      ],
+      "riskFactors": [
+        "Estrés físico o emocional constante",
+        "Malos hábitos alimenticios",
+        "Obesidad o sobrepeso",
+        "Exceso de alcohol y tabaco",
+        "Embarazo (por presión intraabdominal)",
+        "Antecedentes familiares de trastornos digestivos"
+      ],
+      "ctaText": "Si sufres de acidez estomacal constante o regurgitación, consulta al Dr. Gabriel Gómez Palacios para un manejo integral del reflujo gastroesofágico.",
+      "mexicoStats": "",
+      "treatments": [],
+      "imageHome": "/images/diseases/gastritis.jpg",
+      "imageIndividual": "/images/diseases/gastritis.jpg",
+      "iconIndividual": "/images/diseases/icons/reflujo-gastroesofagico.svg",
+      "metadata": {
+        "title": "Tratamiento de Reflujo Gastroesofágico (ERGE) en Tuxtla Gutiérrez, Chiapas",
+        "description": "El reflujo gastroesofágico causa ardor y malestar tras las comidas. Acude al Dr. Gabriel Gómez Palacios para evitar complicaciones mayores.",
+        "keywords": [],
+        "openGraph": {
+          "title": "Especialista en ERGE - Dr. Gabriel Gómez Palacios",
+          "description": "Conoce las causas y síntomas del reflujo gastroesofágico y evita daños esofágicos a largo plazo con un tratamiento adecuado.",
+          "url": "https://urldr/enfermedades/gastritis"
+        },
+        "alternates": {
+          "canonical": "https://urldr/enfermedades/gastritis"
+        }
+      }
+    },
+    {
+      "id": "sindrome-metabolico",
+      "name": "Síndrome Metabólico",
+      "technicalName": "Síndrome Metabólico",
+      "description": "El síndrome metabólico es un conjunto de alteraciones que incluyen hipertensión arterial, hiperglucemia, triglicéridos elevados, bajo colesterol HDL y exceso de grasa abdominal, aumentando el riesgo de desarrollar enfermedades cardiovasculares y diabetes.",
+      "shortDescription": "Conjunto de alteraciones que elevan el riesgo de diabetes y problemas cardiovasculares.",
+      "causes": [
+        "Dieta alta en azúcares, grasas saturadas y exceso calórico",
+        "Falta de actividad física",
+        "Predisposición genética",
+        "Estrés crónico y malos hábitos de sueño",
+        "Factores hormonales o metabólicos"
+      ],
+      "symptoms": [
+        "Presión arterial elevada",
+        "Aumento de la circunferencia de la cintura",
+        "Fatiga y resistencia a la insulina",
+        "Dificultad para la movilidad",
+        "Apnea del sueño y sudoración excesiva"
+      ],
+      "complications": [
+        "Enfermedades cardiovasculares",
+        "Diabetes mellitus tipo 2",
+        "Hígado graso no alcohólico",
+        "Artrosis y desgaste articular",
+        "Apnea obstructiva del sueño"
+      ],
+      "riskFactors": [
+        "Sedentarismo",
+        "Dieta inadecuada y alta en calorías",
+        "Antecedentes familiares de obesidad o diabetes",
+        "Estrés y malos hábitos de sueño",
+        "Falta de controles médicos regulares"
+      ],
+      "ctaText": "Si notas un aumento de peso difícil de controlar o alteraciones metabólicas, agenda tu cita con el Dr. Gabriel Gómez Palacios para un enfoque integral en Tuxtla Gutiérrez.",
+      "mexicoStats": "",
+      "treatments": [],
+      "imageHome": "/images/diseases/obesidad.jpg",
+      "imageIndividual": "/images/diseases/obesidad.jpg",
+      "iconIndividual": "/images/diseases/icons/sindrome-metabolico.svg",
+      "metadata": {
+        "title": "Tratamiento de Síndrome Metabólico en Tuxtla Gutiérrez, Chiapas",
+        "description": "El síndrome metabólico combina factores de riesgo que incrementan la posibilidad de sufrir diabetes y cardiopatías. Consulta al Dr. Gabriel Gómez Palacios.",
+        "keywords": [],
+        "openGraph": {
+          "title": "Especialista en Síndrome Metabólico - Dr. Gabriel Gómez Palacios",
+          "description": "Identifica y controla los factores del síndrome metabólico para mejorar tu salud a largo plazo.",
+          "url": "https://urldr/enfermedades/sindrome-metabolico"
+        },
+        "alternates": {
+          "canonical": "https://urldr/enfermedades/sindrome-metabolico"
+        }
+      }
+    },
+    {
+      "id": "obesidad",
+      "name": "Obesidad",
+      "technicalName": "Obesidad",
+      "description": "La obesidad se caracteriza por un exceso de grasa corporal que incrementa el riesgo de diversas enfermedades crónicas, como diabetes, problemas cardiovasculares y trastornos osteoarticulares. Puede estar asociada a factores genéticos, hormonales y de estilo de vida.",
+      "shortDescription": "Exceso de grasa corporal que eleva el riesgo de problemas de salud crónicos.",
+      "causes": [
+        "Dieta alta en azúcares, grasas saturadas y exceso calórico",
+        "Falta de actividad física",
+        "Predisposición genética",
+        "Estrés crónico y malos hábitos de sueño",
+        "Factores hormonales o metabólicos"
+      ],
+      "symptoms": [
+        "Presión arterial elevada",
+        "Aumento de la circunferencia de la cintura",
+        "Fatiga y resistencia a la insulina",
+        "Dificultad para la movilidad",
+        "Apnea del sueño y sudoración excesiva"
+      ],
+      "complications": [
+        "Enfermedades cardiovasculares",
+        "Diabetes mellitus tipo 2",
+        "Hígado graso no alcohólico",
+        "Artrosis y desgaste articular",
+        "Apnea obstructiva del sueño"
+      ],
+      "riskFactors": [
+        "Sedentarismo",
+        "Dieta inadecuada y alta en calorías",
+        "Antecedentes familiares de obesidad o diabetes",
+        "Estrés y malos hábitos de sueño",
+        "Falta de controles médicos regulares"
+      ],
+      "ctaText": "Si notas un aumento de peso difícil de controlar o alteraciones metabólicas, agenda tu cita con el Dr. Gabriel Gómez Palacios para un enfoque integral en Tuxtla Gutiérrez.",
+      "mexicoStats": "",
+      "treatments": [],
+      "imageHome": "/images/diseases/obesidad.jpg",
+      "imageIndividual": "/images/diseases/obesidad.jpg",
+      "iconIndividual": "/images/diseases/icons/obesidad.svg",
+      "metadata": {
+        "title": "Tratamiento de Obesidad en Tuxtla Gutiérrez, Chiapas",
+        "description": "La obesidad incrementa el riesgo de enfermedades crónicas. Recibe un plan de manejo integral con el Dr. Gabriel Gómez Palacios.",
+        "keywords": [],
+        "openGraph": {
+          "title": "Especialista en Obesidad - Dr. Gabriel Gómez Palacios",
+          "description": "Aprende a controlar tu peso y prevenir complicaciones asociadas a la obesidad con un abordaje médico adecuado.",
+          "url": "https://urldr/enfermedades/obesidad"
+        },
+        "alternates": {
+          "canonical": "https://urldr/enfermedades/obesidad"
+        }
+      }
+    },
+    {
+      "id": "anemia",
+      "name": "Anemia",
+      "technicalName": "Anemia",
+      "description": "La anemia consiste en la disminución de la capacidad de la sangre para transportar oxígeno, ya sea por escasez de glóbulos rojos o niveles bajos de hemoglobina. Puede surgir por deficiencias nutricionales, pérdidas de sangre o enfermedades crónicas.",
+      "shortDescription": "Disminución de glóbulos rojos o hemoglobina, afectando el transporte de oxígeno y causando fatiga.",
+      "causes": [
+        "Falta de hierro, ácido fólico o vitamina B12",
+        "Pérdidas de sangre (menstruaciones abundantes, úlceras, hemorragias)",
+        "Enfermedades crónicas",
+        "Procesos autoinmunitarios",
+        "Trastornos genéticos (talasemias)"
+      ],
+      "symptoms": [
+        "Fatiga y debilidad",
+        "Palidez en piel y mucosas",
+        "Falta de aliento incluso en esfuerzos leves",
+        "Latidos cardíacos acelerados",
+        "Mareos y dolor de cabeza"
+      ],
+      "complications": [
+        "Infecciones recurrentes",
+        "Sobreexigencia del corazón (posibles problemas cardíacos)",
+        "Retraso en crecimiento y desarrollo cognitivo en niños",
+        "Complicaciones en el embarazo",
+        "Disminución del rendimiento físico y mental"
+      ],
+      "riskFactors": [
+        "Dieta pobre en hierro y vitaminas",
+        "Pérdidas de sangre crónicas",
+        "Enfermedades crónicas (insuficiencia renal, artritis reumatoide)",
+        "Antecedentes familiares de anemia",
+        "Embarazo o crecimiento acelerado en la infancia"
+      ],
+      "ctaText": "Si padeces cansancio extremo o palidez constante, agenda una consulta con el Dr. Gabriel Gómez Palacios para detectar la causa de tu anemia y mejorar tu calidad de vida.",
+      "mexicoStats": "",
+      "treatments": [],
+      "imageHome": "/images/diseases/anemia.jpg",
+      "imageIndividual": "/images/diseases/anemia.jpg",
+      "iconIndividual": "/images/diseases/icons/anemia.svg",
+      "metadata": {
+        "title": "Tratamiento de Anemia en Tuxtla Gutiérrez, Chiapas",
+        "description": "La anemia reduce la oxigenación de los tejidos, causando fatiga y debilidad. Consulta al Dr. Gabriel Gómez Palacios para identificar su origen y tratarla oportunamente.",
+        "keywords": [],
+        "openGraph": {
+          "title": "Especialista en Anemia - Dr. Gabriel Gómez Palacios",
+          "description": "Descubre las causas de la anemia y cómo manejarla para recuperar tu energía y bienestar.",
+          "url": "https://urldr/enfermedades/anemia"
+        },
+        "alternates": {
+          "canonical": "https://urldr/enfermedades/anemia"
+        }
+      }
+    },
+    {
+      "id": "bronquitis",
+      "name": "Bronquitis",
+      "technicalName": "Bronquitis",
+      "description": "La bronquitis es la inflamación de los bronquios provocada por infecciones o exposición prolongada a irritantes como el humo de tabaco. Se manifiesta principalmente con tos, producción de moco y dificultad para respirar.",
+      "shortDescription": "Inflamación de los bronquios, con tos y dificultad respiratoria.",
+      "causes": [
+        "Infecciones virales o bacterianas",
+        "Irritantes crónicos: tabaco, polvo, humo de leña",
+        "Factores genéticos y alérgenos",
+        "Inmunodepresión o enfermedades crónicas"
+      ],
+      "symptoms": [
+        "Tos persistente (con o sin flema)",
+        "Dificultad para respirar o disnea",
+        "Opresión en el pecho o sibilancias",
+        "Fiebre y escalofríos en casos infecciosos",
+        "Fatiga que empeora con la actividad"
+      ],
+      "complications": [
+        "Insuficiencia respiratoria",
+        "Daño permanente en vías aéreas",
+        "Neumotórax (colapso pulmonar)",
+        "Crisis asmáticas severas",
+        "Infecciones secundarias"
+      ],
+      "riskFactors": [
+        "Tabaquismo activo o pasivo",
+        "Exposición a contaminantes o químicos",
+        "Edad extrema (niños o ancianos)",
+        "Enfermedades crónicas (diabetes, cardiopatías)",
+        "Inmunodepresión"
+      ],
+      "ctaText": "Si presentas tos persistente o dificultad para respirar, contacta al Dr. Gabriel Gómez Palacios para un diagnóstico y tratamiento que proteja tus pulmones.",
+      "mexicoStats": "",
+      "treatments": [],
+      "imageHome": "/images/diseases/infecciones-respiratorias.jpg",
+      "imageIndividual": "/images/diseases/infecciones-respiratorias.jpg",
+      "iconIndividual": "/images/diseases/icons/bronquitis.svg",
+      "metadata": {
+        "title": "Tratamiento de Bronquitis en Tuxtla Gutiérrez, Chiapas",
+        "description": "La bronquitis causa tos y malestar respiratorio. Acude al Dr. Gabriel Gómez Palacios para prevenir complicaciones y cuidar tu función pulmonar.",
+        "keywords": [],
+        "openGraph": {
+          "title": "Especialista en Bronquitis - Dr. Gabriel Gómez Palacios",
+          "description": "Descubre cómo tratar la bronquitis y reducir síntomas como tos persistente y disnea.",
+          "url": "https://urldr/enfermedades/bronquitis"
+        },
+        "alternates": {
+          "canonical": "https://urldr/enfermedades/bronquitis"
+        }
+      }
+    },
+    {
+      "id": "neumonia",
+      "name": "Neumonía",
+      "technicalName": "Neumonía",
+      "description": "La neumonía es la infección del tejido pulmonar que puede ser causada por bacterias, virus o, en menor medida, hongos. Los alvéolos se llenan de líquido o pus, dificultando la oxigenación de la sangre y generando fiebre, tos y malestar general.",
+      "shortDescription": "Infección pulmonar que inflama los alvéolos, dificultando la oxigenación y causando fiebre y tos.",
+      "causes": [
+        "Infecciones virales o bacterianas",
+        "Irritantes crónicos: tabaco, polvo, humo de leña",
+        "Factores genéticos y alérgenos",
+        "Inmunodepresión o enfermedades crónicas"
+      ],
+      "symptoms": [
+        "Tos persistente (con o sin flema)",
+        "Dificultad para respirar o disnea",
+        "Opresión en el pecho o sibilancias",
+        "Fiebre y escalofríos",
+        "Fatiga que empeora con la actividad"
+      ],
+      "complications": [
+        "Insuficiencia respiratoria",
+        "Daño permanente en vías aéreas",
+        "Neumotórax (colapso pulmonar)",
+        "Crisis asmáticas severas",
+        "Infecciones secundarias"
+      ],
+      "riskFactors": [
+        "Tabaquismo activo o pasivo",
+        "Exposición a contaminantes o químicos",
+        "Edad extrema (niños o ancianos)",
+        "Enfermedades crónicas (diabetes, cardiopatías)",
+        "Inmunodepresión"
+      ],
+      "ctaText": "Si presentas fiebre, tos persistente y dificultad para respirar, consulta al Dr. Gabriel Gómez Palacios para diagnosticar y tratar la neumonía adecuadamente.",
+      "mexicoStats": "",
+      "treatments": [],
+      "imageHome": "/images/diseases/infecciones-respiratorias.jpg",
+      "imageIndividual": "/images/diseases/infecciones-respiratorias.jpg",
+      "iconIndividual": "/images/diseases/icons/neumonia.svg",
+      "metadata": {
+        "title": "Tratamiento de Neumonía en Tuxtla Gutiérrez, Chiapas",
+        "description": "La neumonía puede ser grave si no se detecta a tiempo. Recibe atención especializada con el Dr. Gabriel Gómez Palacios.",
+        "keywords": [],
+        "openGraph": {
+          "title": "Especialista en Neumonía - Dr. Gabriel Gómez Palacios",
+          "description": "Conoce los síntomas y las causas de la neumonía, y evita complicaciones con un tratamiento oportuno en Tuxtla Gutiérrez.",
+          "url": "https://urldr/enfermedades/neumonia"
+        },
+        "alternates": {
+          "canonical": "https://urldr/enfermedades/neumonia"
+        }
+      }
+    },
+    {
+      "id": "epoc",
+      "name": "EPOC",
+      "technicalName": "Enfermedad Pulmonar Obstructiva Crónica (EPOC)",
+      "description": "La EPOC engloba la bronquitis crónica y el enfisema, ocasionando una limitación progresiva del flujo de aire en los pulmones. A menudo está vinculada al tabaquismo y se caracteriza por tos, producción de moco, dificultad respiratoria y empeoramiento gradual de la función pulmonar.",
+      "shortDescription": "Afección crónica que obstruye la respiración y empeora con el tiempo, asociada al tabaquismo.",
+      "causes": [
+        "Infecciones virales o bacterianas",
+        "Irritantes crónicos: tabaco, polvo, humo de leña",
+        "Factores genéticos y alérgenos",
+        "Inmunodepresión o enfermedades crónicas"
+      ],
+      "symptoms": [
+        "Tos persistente (con expectoración)",
+        "Dificultad cada vez mayor para respirar",
+        "Sibilancias y opresión en el pecho",
+        "Infecciones respiratorias frecuentes",
+        "Fatiga y limitación en actividades diarias"
+      ],
+      "complications": [
+        "Insuficiencia respiratoria crónica",
+        "Mayor riesgo de neumonías graves",
+        "Cambios irreversibles en la estructura pulmonar",
+        "Neumotórax espontáneo en casos avanzados",
+        "Problemas cardíacos asociados"
+      ],
+      "riskFactors": [
+        "Tabaquismo activo o pasivo",
+        "Exposición ocupacional a polvo o químicos",
+        "Edad avanzada",
+        "Asma crónica no controlada",
+        "Falta de atención médica temprana"
+      ],
+      "ctaText": "Si presentas disnea, tos crónica o antecedentes de tabaquismo, consulta al Dr. Gabriel Gómez Palacios para un diagnóstico y manejo adecuados de la EPOC.",
+      "mexicoStats": "",
+      "treatments": [],
+      "imageHome": "/images/diseases/infecciones-respiratorias.jpg",
+      "imageIndividual": "/images/diseases/infecciones-respiratorias.jpg",
+      "iconIndividual": "/images/diseases/icons/epoc.svg",
+      "metadata": {
+        "title": "Tratamiento de EPOC en Tuxtla Gutiérrez, Chiapas",
+        "description": "La EPOC obstruye la respiración y empeora con el tiempo. Recibe un control integral con el Dr. Gabriel Gómez Palacios.",
+        "keywords": [],
+        "openGraph": {
+          "title": "Especialista en EPOC - Dr. Gabriel Gómez Palacios",
+          "description": "Identifica los síntomas de EPOC y aprende cómo reducir su progresión para mejorar tu calidad de vida.",
+          "url": "https://urldr/enfermedades/epoc"
+        },
+        "alternates": {
+          "canonical": "https://urldr/enfermedades/epoc"
+        }
+      }
+    },
+    {
+      "id": "asma",
+      "name": "Asma",
+      "technicalName": "Asma",
+      "description": "El asma es un trastorno inflamatorio crónico de las vías respiratorias que provoca episodios de dificultad para respirar, tos, silbidos en el pecho y opresión torácica. Puede desencadenarse por alérgenos, infecciones respiratorias o factores ambientales.",
+      "shortDescription": "Afección inflamatoria de los bronquios, desencadenada por factores alérgicos o ambientales.",
+      "causes": [
+        "Infecciones respiratorias frecuentes",
+        "Exposición a alérgenos (polen, polvo, moho)",
+        "Tabaquismo activo o pasivo",
+        "Irritantes como químicos o humo",
+        "Predisposición genética"
+      ],
+      "symptoms": [
+        "Dificultad para respirar",
+        "Tos recurrente (a menudo empeora por la noche)",
+        "Silbidos o sibilancias al exhalar",
+        "Opresión en el pecho",
+        "Fatiga tras actividad física"
+      ],
+      "complications": [
+        "Crisis asmáticas graves",
+        "Limitación de la actividad diaria",
+        "Ausentismo escolar o laboral",
+        "Daño permanente en vías respiratorias (en casos severos)",
+        "Mayor susceptibilidad a infecciones respiratorias"
+      ],
+      "riskFactors": [
+        "Historia familiar de asma o alergias",
+        "Exposición a contaminantes ambientales",
+        "Tabaquismo",
+        "Obesidad",
+        "Infecciones pulmonares tempranas"
+      ],
+      "ctaText": "Si experimentas episodios de tos, sibilancias o sensación de opresión en el pecho, programa una cita con el Dr. Gabriel Gómez Palacios para controlar tu asma.",
+      "mexicoStats": "",
+      "treatments": [],
+      "imageHome": "/images/diseases/infecciones-respiratorias.jpg",
+      "imageIndividual": "/images/diseases/infecciones-respiratorias.jpg",
+      "iconIndividual": "/images/diseases/icons/asma.svg",
+      "metadata": {
+        "title": "Tratamiento de Asma en Tuxtla Gutiérrez, Chiapas",
+        "description": "El asma genera episodios de dificultad respiratoria. Consulta al Dr. Gabriel Gómez Palacios para un manejo adecuado y mejorar tu calidad de vida.",
+        "keywords": [],
+        "openGraph": {
+          "title": "Especialista en Asma - Dr. Gabriel Gómez Palacios",
+          "description": "Identifica los desencadenantes del asma y aprende a controlarlo con un plan personalizado.",
+          "url": "https://urldr/enfermedades/asma"
+        },
+        "alternates": {
+          "canonical": "https://urldr/enfermedades/asma"
+        }
+      }
+    },
+    {
+      "id": "lupus",
+      "name": "Lupus",
+      "technicalName": "Lupus",
+      "description": "El lupus es una enfermedad autoinmunitaria sistémica que puede afectar múltiples órganos (piel, articulaciones, riñones, corazón, cerebro), manifestándose a través de brotes inflamatorios. El sistema inmune ataca tejidos sanos por error, generando daño diverso y síntomas variables.",
+      "shortDescription": "Trastorno autoinmune sistémico que provoca inflamación y daños en múltiples órganos y tejidos.",
+      "causes": [
+        "Predisposición genética",
+        "Factores ambientales y virales",
+        "Desequilibrios hormonales",
+        "Estrés y estilo de vida"
+      ],
+      "symptoms": [
+        "Fiebre y fatiga crónica",
+        "Dolor articular y muscular",
+        "Erupciones cutáneas (especialmente en el rostro)",
+        "Inflamación de órganos internos (riñones, corazón)",
+        "Fotosensibilidad y caída del cabello"
+      ],
+      "complications": [
+        "Daño orgánico progresivo (riñones, SNC)",
+        "Artritis con deformidades articulares",
+        "Enfermedad cardiovascular",
+        "Trastornos oculares e infecciones frecuentes"
+      ],
+      "riskFactors": [
+        "Ser mujer (mayor incidencia)",
+        "Antecedentes familiares de lupus",
+        "Edad adulta joven",
+        "Estrés crónico",
+        "Exposición solar excesiva"
+      ],
+      "ctaText": "Si sospechas de lupus por dolores articulares o síntomas multisistémicos, agenda cita con el Dr. Gabriel Gómez Palacios para un diagnóstico oportuno.",
+      "mexicoStats": "",
+      "treatments": [],
+      "imageHome": "/images/diseases/lupus.jpg",
+      "imageIndividual": "/images/diseases/lupus.jpg",
+      "iconIndividual": "/images/diseases/icons/lupus.svg",
+      "metadata": {
+        "title": "Tratamiento de Lupus en Tuxtla Gutiérrez, Chiapas",
+        "description": "El lupus ataca diversos órganos del cuerpo. Recibe atención integral con el Dr. Gabriel Gómez Palacios y controla los brotes.",
+        "keywords": [],
+        "openGraph": {
+          "title": "Especialista en Lupus - Dr. Gabriel Gómez Palacios",
+          "description": "Conoce las manifestaciones del lupus y cómo abordar esta enfermedad autoinmune con un manejo multidisciplinario.",
+          "url": "https://urldr/enfermedades/lupus"
+        },
+        "alternates": {
+          "canonical": "https://urldr/enfermedades/lupus"
+        }
+      }
+    },
+    {
+      "id": "artritis-reumatoide",
+      "name": "Artritis Reumatoide",
+      "technicalName": "Artritis Reumatoide",
+      "description": "La artritis reumatoide es un trastorno inflamatorio crónico que afecta principalmente las articulaciones, generando dolor, inflamación y rigidez. Con el tiempo, puede ocasionar deformidades y daños en otros órganos si no se controla adecuadamente.",
+      "shortDescription": "Enfermedad autoinmune crónica que inflama las articulaciones y puede comprometer otros órganos.",
+      "causes": [
+        "Factores genéticos",
+        "Infecciones o alteraciones inmunitarias",
+        "Desequilibrios hormonales",
+        "Estrés crónico"
+      ],
+      "symptoms": [
+        "Dolor y rigidez articular",
+        "Inflamación de articulaciones pequeñas (manos, pies)",
+        "Fiebre y fatiga",
+        "Deformidades progresivas en fases avanzadas",
+        "Nódulos reumatoides"
+      ],
+      "complications": [
+        "Daño articular irreversible",
+        "Desgaste y deformidades óseas",
+        "Problemas oculares",
+        "Mayor riesgo cardiovascular",
+        "Osteoporosis"
+      ],
+      "riskFactors": [
+        "Ser mujer",
+        "Edad entre 30 y 50 años",
+        "Antecedentes familiares de enfermedades autoinmunes",
+        "Tabaquismo",
+        "Estrés crónico"
+      ],
+      "ctaText": "Si padeces dolor articular o rigidez prolongada, consulta al Dr. Gabriel Gómez Palacios. Un diagnóstico temprano mejora el pronóstico de la artritis reumatoide.",
+      "mexicoStats": "",
+      "treatments": [],
+      "imageHome": "/images/diseases/artritis-reumatoide.jpg",
+      "imageIndividual": "/images/diseases/artritis-reumatoide.jpg",
+      "iconIndividual": "/images/diseases/icons/artritis-reumatoide.svg",
+      "metadata": {
+        "title": "Tratamiento de Artritis Reumatoide en Tuxtla Gutiérrez, Chiapas",
+        "description": "La artritis reumatoide daña progresivamente las articulaciones. Recibe una evaluación integral con el Dr. Gabriel Gómez Palacios para controlar la inflamación.",
+        "keywords": [],
+        "openGraph": {
+          "title": "Especialista en Artritis Reumatoide - Dr. Gabriel Gómez Palacios",
+          "description": "Aprende a reconocer los síntomas y manejar la artritis reumatoide para mantener tu calidad de vida.",
+          "url": "https://urldr/enfermedades/artritis-reumatoide"
+        },
+        "alternates": {
+          "canonical": "https://urldr/enfermedades/artritis-reumatoide"
+        }
+      }
+    },
+    {
+      "id": "insuficiencia-cardiaca",
+      "name": "Insuficiencia Cardíaca",
+      "technicalName": "Insuficiencia Cardíaca",
+      "description": "La insuficiencia cardíaca se produce cuando el corazón pierde su capacidad de bombear sangre de forma eficaz, provocando fatiga, dificultad para respirar y retención de líquidos. Puede surgir como consecuencia de hipertensión, cardiopatías, infecciones u otros trastornos que dañan el músculo cardíaco.",
+      "shortDescription": "El corazón no bombea la sangre adecuadamente, ocasionando fatiga, disnea y retención de líquidos.",
+      "causes": [
+        "Enfermedad de las arterias coronarias",
+        "Hipertensión arterial no controlada",
+        "Cardiopatía valvular",
+        "Daños en el miocardio (miocardiopatías)",
+        "Infecciones y desequilibrios tiroideos"
+      ],
+      "symptoms": [
+        "Falta de aire (disnea) con el ejercicio o al acostarse",
+        "Fatiga y debilidad general",
+        "Hinchazón de tobillos, piernas y abdomen",
+        "Aumento rápido de peso por retención de líquidos",
+        "Tos persistente o sibilancias"
+      ],
+      "complications": [
+        "Edema pulmonar",
+        "Daño renal crónico",
+        "Arritmias cardíacas",
+        "Mayor riesgo de accidentes cerebrovasculares",
+        "Deterioro significativo de la calidad de vida"
+      ],
+      "riskFactors": [
+        "Hipertensión mal controlada",
+        "Cardiopatía isquémica",
+        "Valvulopatías",
+        "Diabetes mellitus",
+        "Tabaquismo",
+        "Obesidad"
+      ],
+      "ctaText": "Si presentas disnea, fatiga o hinchazón en piernas, solicita cita con el Dr. Gabriel Gómez Palacios para abordar la salud de tu corazón.",
+      "mexicoStats": "",
+      "treatments": [],
+      "imageHome": "/images/diseases/insuficiencia-cardiaca.jpg",
+      "imageIndividual": "/images/diseases/insuficiencia-cardiaca.jpg",
+      "iconIndividual": "/images/diseases/icons/insuficiencia-cardiaca.svg",
+      "metadata": {
+        "title": "Tratamiento de Insuficiencia Cardíaca en Tuxtla Gutiérrez, Chiapas",
+        "description": "La insuficiencia cardíaca afecta la capacidad de bombeo del corazón. Consulta al Dr. Gabriel Gómez Palacios para mejorar tu función cardiaca y calidad de vida.",
+        "keywords": [],
+        "openGraph": {
+          "title": "Especialista en Insuficiencia Cardíaca - Dr. Gabriel Gómez Palacios",
+          "description": "Aprende a controlar la insuficiencia cardíaca, reducir sus síntomas y prevenir complicaciones graves.",
+          "url": "https://urldr/enfermedades/insuficiencia-cardiaca"
+        },
+        "alternates": {
+          "canonical": "https://urldr/enfermedades/insuficiencia-cardiaca"
+        }
+      }
+    },
+    {
+      "id": "cardiopatia-isquemica",
+      "name": "Cardiopatía Isquémica",
+      "technicalName": "Cardiopatía Isquémica",
+      "description": "La cardiopatía isquémica se origina por la disminución del flujo sanguíneo en las arterias coronarias debido a la formación de placas de grasa (aterosclerosis). Puede manifestarse como angina de pecho o infarto agudo de miocardio y pone en riesgo la función cardíaca.",
+      "shortDescription": "Obstrucción de las arterias coronarias que limita el riego sanguíneo al corazón, con riesgo de infartos.",
+      "causes": [
+        "Aterosclerosis por acumulación de colesterol",
+        "Hipertensión arterial no controlada",
+        "Tabaquismo",
+        "Diabetes mellitus",
+        "Antecedentes familiares de enfermedad coronaria"
+      ],
+      "symptoms": [
+        "Dolor o presión en el pecho (angina)",
+        "Dificultad para respirar al mínimo esfuerzo",
+        "Sudoración excesiva",
+        "Náuseas",
+        "Palpitaciones o arritmias"
+      ],
+      "complications": [
+        "Infarto agudo del miocardio",
+        "Arritmias graves",
+        "Insuficiencia cardíaca",
+        "Muerte súbita cardíaca",
+        "Accidente cerebrovascular"
+      ],
+      "riskFactors": [
+        "Colesterol y triglicéridos elevados",
+        "Hipertensión",
+        "Obesidad",
+        "Estrés crónico",
+        "Sedentarismo"
+      ],
+      "ctaText": "Si presentas dolor en el pecho o factores de riesgo, consulta al Dr. Gabriel Gómez Palacios para evaluar y cuidar tu salud coronaria.",
+      "mexicoStats": "",
+      "treatments": [],
+      "imageHome": "/images/diseases/insuficiencia-cardiaca.jpg",
+      "imageIndividual": "/images/diseases/insuficiencia-cardiaca.jpg",
+      "iconIndividual": "/images/diseases/icons/cardiopatia-isquemica.svg",
+      "metadata": {
+        "title": "Tratamiento de Cardiopatía Isquémica en Tuxtla Gutiérrez, Chiapas",
+        "description": "La cardiopatía isquémica obstruye el flujo sanguíneo al corazón. Conoce cómo prevenir infartos y mejorar tu salud con el Dr. Gabriel Gómez Palacios.",
+        "keywords": [],
+        "openGraph": {
+          "title": "Especialista en Cardiopatía Isquémica - Dr. Gabriel Gómez Palacios",
+          "description": "Infórmate sobre la enfermedad de las arterias coronarias y recibe atención personalizada para evitar complicaciones cardíacas.",
+          "url": "https://urldr/enfermedades/cardiopatia-isquemica"
+        },
+        "alternates": {
+          "canonical": "https://urldr/enfermedades/cardiopatia-isquemica"
+        }
+      }
+    },
+    {
+      "id": "hepatitis-cronica",
+      "name": "Hepatitis Crónica",
+      "technicalName": "Hepatitis Crónica",
+      "description": "La hepatitis crónica implica una inflamación prolongada del hígado (más de seis meses) que puede ser causada por infecciones virales, enfermedades autoinmunes o factores tóxicos. Con el tiempo, puede evolucionar a cirrosis y otras complicaciones graves.",
+      "shortDescription": "Inflamación hepática a largo plazo que puede conducir a cirrosis y daño severo.",
+      "causes": [
+        "Virus de hepatitis B o C",
+        "Enfermedades autoinmunes",
+        "Consumo excesivo de alcohol",
+        "Obesidad y mala alimentación",
+        "Resistencia a la insulina",
+        "Medicamentos o tóxicos"
+      ],
+      "symptoms": [
+        "Cansancio crónico",
+        "Dolor leve en la parte superior derecha del abdomen",
+        "Ictericia (piel y ojos amarillos) en etapas avanzadas",
+        "Náuseas y falta de apetito",
+        "Orina oscura y heces claras",
+        "En hígado graso: habitualmente asintomático en fases tempranas"
+      ],
+      "complications": [
+        "Cirrosis",
+        "Insuficiencia hepática",
+        "Varices esofágicas y sangrados",
+        "Riesgo de cáncer de hígado",
+        "Ascitis"
+      ],
+      "riskFactors": [
+        "Contacto con sangre infectada (hepatitis)",
+        "Uso de drogas IV o falta de vacunación",
+        "Obesidad o síndrome metabólico",
+        "Historial familiar de enfermedades hepáticas",
+        "Consumo de medicamentos hepatotóxicos"
+      ],
+      "ctaText": "Si notas síntomas hepáticos o factores de riesgo, agenda una evaluación con el Dr. Gabriel Gómez Palacios en Tuxtla Gutiérrez para proteger tu salud hepática.",
+      "mexicoStats": "",
+      "treatments": [],
+      "imageHome": "/images/diseases/problemas-hepaticos.jpg",
+      "imageIndividual": "/images/diseases/problemas-hepaticos.jpg",
+      "iconIndividual": "/images/diseases/icons/hepatitis-cronica.svg",
+      "metadata": {
+        "title": "Tratamiento de Hepatitis Crónica en Tuxtla Gutiérrez, Chiapas",
+        "description": "La hepatitis crónica puede derivar en cirrosis si no se detecta. Consulta al Dr. Gabriel Gómez Palacios para un abordaje oportuno y especializado.",
+        "keywords": [],
+        "openGraph": {
+          "title": "Especialista en Hepatitis Crónica - Dr. Gabriel Gómez Palacios",
+          "description": "Aprende sobre la inflamación hepática de larga duración y las formas de evitar complicaciones mayores.",
+          "url": "https://urldr/enfermedades/hepatitis-cronica"
+        },
+        "alternates": {
+          "canonical": "https://urldr/enfermedades/hepatitis-cronica"
+        }
+      }
+    },
+    {
+      "id": "higado-graso-no-alcoholico",
+      "name": "Hígado Graso No Alcohólico",
+      "technicalName": "Hígado Graso No Alcohólico",
+      "description": "El hígado graso no alcohólico se caracteriza por la acumulación de grasa en las células hepáticas sin la intervención del alcohol, pudiendo evolucionar a una esteatohepatitis y, en casos avanzados, a cirrosis. A menudo se asocia a obesidad, resistencia a la insulina y dislipidemias.",
+      "shortDescription": "Acumulación de grasa en el hígado ajena al alcohol, con riesgo de inflamación y cirrosis.",
+      "causes": [
+        "Virus de hepatitis B o C",
+        "Enfermedades autoinmunes",
+        "Consumo excesivo de alcohol",
+        "Obesidad y mala alimentación",
+        "Resistencia a la insulina",
+        "Medicamentos o tóxicos"
+      ],
+      "symptoms": [
+        "Cansancio crónico",
+        "Dolor leve en la parte superior derecha del abdomen",
+        "Ictericia (piel y ojos amarillos) en etapas avanzadas",
+        "Náuseas y falta de apetito",
+        "Orina oscura y heces claras",
+        "En hígado graso: habitualmente asintomático en fases tempranas"
+      ],
+      "complications": [
+        "Esteatohepatitis no alcohólica",
+        "Cirrosis",
+        "Insuficiencia hepática",
+        "Riesgo de cáncer de hígado",
+        "Ascitis"
+      ],
+      "riskFactors": [
+        "Obesidad o síndrome metabólico",
+        "Resistencia a la insulina",
+        "Dieta rica en grasas y azúcares",
+        "Falta de ejercicio",
+        "Antecedentes familiares de enfermedades hepáticas"
+      ],
+      "ctaText": "Si te han detectado hígado graso o sospechas esta condición, visita al Dr. Gabriel Gómez Palacios para prevenir progresión a cirrosis.",
+      "mexicoStats": "",
+      "treatments": [],
+      "imageHome": "/images/diseases/problemas-hepaticos.jpg",
+      "imageIndividual": "/images/diseases/problemas-hepaticos.jpg",
+      "iconIndividual": "/images/diseases/icons/higado-graso-no-alcoholico.svg",
+      "metadata": {
+        "title": "Manejo de Hígado Graso No Alcohólico en Tuxtla Gutiérrez, Chiapas",
+        "description": "El hígado graso no alcohólico puede derivar en complicaciones severas. Recibe un seguimiento integral con el Dr. Gabriel Gómez Palacios.",
+        "keywords": [],
+        "openGraph": {
+          "title": "Especialista en Hígado Graso No Alcohólico - Dr. Gabriel Gómez Palacios",
+          "description": "Conoce cómo prevenir y manejar la acumulación de grasa en el hígado y evitar el daño progresivo.",
+          "url": "https://urldr/enfermedades/higado-graso-no-alcoholico"
+        },
+        "alternates": {
+          "canonical": "https://urldr/enfermedades/higado-graso-no-alcoholico"
+        }
+      }
+    },
+    {
+      "id": "infecciones-urinarias",
+      "name": "Infecciones Urinarias",
+      "technicalName": "Infecciones del Tracto Urinario",
+      "description": "Las infecciones urinarias son procesos infecciosos que afectan la uretra, la vejiga, los uréteres o los riñones, usualmente causados por bacterias como Escherichia coli. Pueden causar dolor o ardor al orinar, urgencia frecuente y, en casos avanzados, comprometer la función renal.",
+      "shortDescription": "Infecciones bacterianas que afectan el tracto urinario y provocan molestias al orinar.",
+      "causes": [
+        "Bacterias como Escherichia coli",
+        "Mala higiene o retención de orina",
+        "Hipertensión y diabetes mal controladas",
+        "Glomerulonefritis y enfermedades congénitas",
+        "Uso prolongado de ciertos fármacos"
+      ],
+      "symptoms": [
+        "Dolor o ardor al orinar",
+        "Ganas frecuentes de orinar con poca cantidad",
+        "Orina turbia o con olor fuerte",
+        "Fatiga y edema en enfermedad renal",
+        "Cambios en la frecuencia y apariencia de la orina"
+      ],
+      "complications": [
+        "Infección renal (pielonefritis)",
+        "Daño permanente al tracto urinario",
+        "Insuficiencia renal terminal (requerimiento de diálisis)",
+        "Mayor riesgo cardiovascular"
+      ],
+      "riskFactors": [
+        "Mujeres con infecciones frecuentes",
+        "Uso de sondas o catéteres urinarios",
+        "Hipertensión arterial",
+        "Diabetes mellitus",
+        "Enfermedades renales hereditarias"
+      ],
+      "ctaText": "Si experimentas molestias urinarias o sospechas deterioro renal, acude con el Dr. Gabriel Gómez Palacios para un diagnóstico y tratamiento oportuno.",
+      "mexicoStats": "",
+      "treatments": [],
+      "imageHome": "/images/diseases/infecciones-urinarias.jpg",
+      "imageIndividual": "/images/diseases/infecciones-urinarias.jpg",
+      "iconIndividual": "/images/diseases/icons/infecciones-urinarias.svg",
+      "metadata": {
+        "title": "Tratamiento de Infecciones Urinarias en Tuxtla Gutiérrez, Chiapas",
+        "description": "Las infecciones urinarias pueden provocar ardor y dolor al orinar. Consulta al Dr. Gabriel Gómez Palacios para evitar complicaciones renales.",
+        "keywords": [],
+        "openGraph": {
+          "title": "Especialista en Infecciones Urinarias - Dr. Gabriel Gómez Palacios",
+          "description": "Detecta y trata a tiempo las infecciones en el tracto urinario para prevenir daños mayores en tus riñones.",
+          "url": "https://urldr/enfermedades/infecciones-urinarias"
+        },
+        "alternates": {
+          "canonical": "https://urldr/enfermedades/infecciones-urinarias"
+        }
+      }
+    },
+    {
+      "id": "enfermedad-renal-cronica",
+      "name": "Enfermedad Renal Crónica",
+      "technicalName": "Enfermedad Renal Crónica (ERC)",
+      "description": "La enfermedad renal crónica se caracteriza por la pérdida progresiva y permanente de la función de los riñones. Con el paso del tiempo, los riñones pierden la capacidad de filtrar toxinas y mantener el equilibrio de líquidos y electrolitos, pudiendo requerir diálisis o trasplante en etapas avanzadas.",
+      "shortDescription": "Deterioro lento y persistente de la función renal, causando serios desequilibrios corporales.",
+      "causes": [
+        "Bacterias como Escherichia coli",
+        "Mala higiene o retención de orina",
+        "Hipertensión y diabetes mal controladas",
+        "Glomerulonefritis y enfermedades congénitas",
+        "Uso prolongado de ciertos fármacos"
+      ],
+      "symptoms": [
+        "Fatiga constante",
+        "Retención de líquidos y edema",
+        "Cambios en la frecuencia o apariencia de la orina",
+        "Pérdida de apetito o náuseas",
+        "Picazón en la piel y calambres musculares"
+      ],
+      "complications": [
+        "Insuficiencia renal terminal (requerimiento de diálisis o trasplante)",
+        "Mayor riesgo cardiovascular",
+        "Anemia y trastornos óseos",
+        "Desequilibrios electrolíticos",
+        "Aumento de la presión arterial"
+      ],
+      "riskFactors": [
+        "Hipertensión arterial",
+        "Diabetes mellitus",
+        "Antecedentes familiares de enfermedad renal",
+        "Consumo de medicamentos nefrotóxicos",
+        "Infecciones urinarias recurrentes"
+      ],
+      "ctaText": "Si presentas signos de deterioro renal o factores de riesgo, agenda una evaluación con el Dr. Gabriel Gómez Palacios para preservar tu función renal.",
+      "mexicoStats": "",
+      "treatments": [],
+      "imageHome": "/images/diseases/infecciones-urinarias.jpg",
+      "imageIndividual": "/images/diseases/infecciones-urinarias.jpg",
+      "iconIndividual": "/images/diseases/icons/enfermedad-renal-cronica.svg",
+      "metadata": {
+        "title": "Manejo de Enfermedad Renal Crónica en Tuxtla Gutiérrez, Chiapas",
+        "description": "La ERC afecta la capacidad de filtración de los riñones y puede requerir diálisis. Consulta al Dr. Gabriel Gómez Palacios para un manejo preventivo.",
+        "keywords": [],
+        "openGraph": {
+          "title": "Especialista en Enfermedad Renal Crónica - Dr. Gabriel Gómez Palacios",
+          "description": "Conoce cómo retrasar la progresión de la ERC y mantener tu calidad de vida con un tratamiento integral.",
+          "url": "https://urldr/enfermedades/enfermedad-renal-cronica"
+        },
+        "alternates": {
+          "canonical": "https://urldr/enfermedades/enfermedad-renal-cronica"
+        }
+      }
+    },
+    {
+      "id": "migrañas",
+      "name": "Migrañas",
+      "technicalName": "Migrañas",
+      "description": "Las migrañas son dolores de cabeza recurrentes e intensos, normalmente unilaterales y palpitantes, acompañados de náuseas, sensibilidad a la luz (fotofobia) o al sonido (fonofobia). Pueden afectar la calidad de vida si no se tratan adecuadamente.",
+      "shortDescription": "Cefaleas intensas y recurrentes, a menudo acompañadas de sensibilidad a la luz o sonido.",
+      "causes": [
+        "Factores genéticos y antecedentes familiares",
+        "Liberación anormal de sustancias inflamatorias",
+        "Estrés, alteraciones del sueño",
+        "Cambios hormonales",
+        "Uso excesivo de analgésicos (cefalea por rebote)"
+      ],
+      "symptoms": [
+        "Dolor de cabeza pulsátil o presión constante",
+        "Sensibilidad a la luz y al ruido",
+        "Náuseas o vómitos",
+        "Visión borrosa o aura",
+        "Irritabilidad y dificultad para concentrarse"
+      ],
+      "complications": [
+        "Migraña crónica",
+        "Afectaciones en la calidad de vida y productividad",
+        "Trastornos del sueño",
+        "Ansiedad y depresión",
+        "Dependencia de analgésicos"
+      ],
+      "riskFactors": [
+        "Estrés crónico",
+        "Alteraciones del sueño",
+        "Factores hormonales (menstruación, menopausia)",
+        "Dietas inadecuadas o ayunos prolongados",
+        "Exceso de estimulantes (café, chocolate)"
+      ],
+      "ctaText": "Si los dolores de cabeza afectan tu rutina, agenda una evaluación con el Dr. Gabriel Gómez Palacios y recupera tu calidad de vida.",
+      "mexicoStats": "",
+      "treatments": [],
+      "imageHome": "/images/diseases/migrañas.jpg",
+      "imageIndividual": "/images/diseases/migrañas.jpg",
+      "iconIndividual": "/images/diseases/icons/migrañas.svg",
+      "metadata": {
+        "title": "Tratamiento de Migrañas en Tuxtla Gutiérrez, Chiapas",
+        "description": "Las migrañas pueden interrumpir tus actividades diarias. Descubre cómo tratarlas con el Dr. Gabriel Gómez Palacios.",
+        "keywords": [],
+        "openGraph": {
+          "title": "Especialista en Migrañas - Dr. Gabriel Gómez Palacios",
+          "description": "Alivia el dolor intenso y recurrente de la migraña con un abordaje profesional en Tuxtla Gutiérrez.",
+          "url": "https://urldr/enfermedades/migrañas"
+        },
+        "alternates": {
+          "canonical": "https://urldr/enfermedades/migrañas"
+        }
+      }
+    },
+    {
+      "id": "cefaleas-cronicas",
+      "name": "Cefaleas Crónicas",
+      "technicalName": "Cefaleas Crónicas",
+      "description": "Las cefaleas crónicas se caracterizan por dolores de cabeza que se presentan quince o más días al mes, pudiendo tener distintas causas como la evolución de migrañas o cefaleas tensionales. Suelen impactar de forma significativa la vida diaria del paciente.",
+      "shortDescription": "Dolores de cabeza persistentes que limitan la vida diaria y pueden requerir manejo especializado.",
+      "causes": [
+        "Factores genéticos y antecedentes familiares",
+        "Liberación anormal de sustancias inflamatorias",
+        "Estrés, alteraciones del sueño",
+        "Cambios hormonales",
+        "Uso excesivo de analgésicos (cefalea por rebote)"
+      ],
+      "symptoms": [
+        "Dolor de cabeza pulsátil o presión constante",
+        "Sensibilidad a la luz y al ruido",
+        "Náuseas o vómitos",
+        "Visión borrosa o aura",
+        "Irritabilidad y dificultad para concentrarse"
+      ],
+      "complications": [
+        "Migraña crónica",
+        "Afectaciones en la calidad de vida y productividad",
+        "Trastornos del sueño",
+        "Ansiedad y depresión",
+        "Dependencia de analgésicos"
+      ],
+      "riskFactors": [
+        "Estrés crónico",
+        "Alteraciones del sueño",
+        "Factores hormonales (menstruación, menopausia)",
+        "Dietas inadecuadas o ayunos prolongados",
+        "Exceso de estimulantes (café, chocolate)"
+      ],
+      "ctaText": "Si los dolores de cabeza afectan tu rutina, agenda una evaluación con el Dr. Gabriel Gómez Palacios y recupera tu calidad de vida.",
+      "mexicoStats": "",
+      "treatments": [],
+      "imageHome": "/images/diseases/migrañas.jpg",
+      "imageIndividual": "/images/diseases/migrañas.jpg",
+      "iconIndividual": "/images/diseases/icons/cefaleas-cronicas.svg",
+      "metadata": {
+        "title": "Tratamiento de Cefaleas Crónicas en Tuxtla Gutiérrez, Chiapas",
+        "description": "Las cefaleas crónicas pueden afectar severamente tu día a día. Consulta al Dr. Gabriel Gómez Palacios para un manejo especializado.",
+        "keywords": [],
+        "openGraph": {
+          "title": "Especialista en Cefaleas Crónicas - Dr. Gabriel Gómez Palacios",
+          "description": "Controla el dolor de cabeza persistente con un enfoque adecuado que mejore tu calidad de vida.",
+          "url": "https://urldr/enfermedades/cefaleas-cronicas"
+        },
+        "alternates": {
+          "canonical": "https://urldr/enfermedades/cefaleas-cronicas"
+        }
+      }
+    },
+    {
+      "id": "osteoporosis",
+      "name": "Osteoporosis",
+      "technicalName": "Osteoporosis",
+      "description": "La osteoporosis es una enfermedad en la que disminuye la densidad y calidad ósea, volviendo a los huesos más frágiles y propensos a fracturas. A menudo avanza sin síntomas hasta que ocurre una fractura, lo que resalta la importancia de la prevención y el diagnóstico temprano.",
+      "shortDescription": "Pérdida de densidad ósea que incrementa el riesgo de fracturas, especialmente en cadera y columna.",
+      "causes": [
+        "Falta de calcio y vitamina D",
+        "Cambios hormonales (menopausia)",
+        "Sedentarismo",
+        "Tabaquismo y alcoholismo",
+        "Uso prolongado de ciertos fármacos (corticoides)"
+      ],
+      "symptoms": [
+        "Dolor de espalda (zona lumbar o dorsal)",
+        "Pérdida de estatura progresiva",
+        "Postura encorvada",
+        "Fracturas ante golpes mínimos",
+        "Generalmente asintomática al inicio"
+      ],
+      "complications": [
+        "Fracturas frecuentes (cadera, vértebras, muñecas)",
+        "Dolor crónico de espalda",
+        "Disminución de calidad de vida",
+        "Riesgo de inmovilidad y dependencia",
+        "Deformidades óseas"
+      ],
+      "riskFactors": [
+        "Dieta pobre en calcio y vitamina D",
+        "Menopausia y disminución de estrógenos",
+        "Sedentarismo prolongado",
+        "Historial familiar de osteoporosis",
+        "Consumo de tabaco y alcohol"
+      ],
+      "ctaText": "Si sospechas de disminución de masa ósea o tienes factores de riesgo, programa una consulta con el Dr. Gabriel Gómez Palacios para prevenir fracturas y proteger tu salud ósea.",
+      "mexicoStats": "",
+      "treatments": [],
+      "imageHome": "/images/diseases/osteoporosis.jpg",
+      "imageIndividual": "/images/diseases/osteoporosis.jpg",
+      "iconIndividual": "/images/diseases/icons/osteoporosis.svg",
+      "metadata": {
+        "title": "Tratamiento de Osteoporosis en Tuxtla Gutiérrez, Chiapas",
+        "description": "La osteoporosis hace que tus huesos se vuelvan frágiles. Consulta al Dr. Gabriel Gómez Palacios para prevenir fracturas y mantener tu fortaleza ósea.",
+        "keywords": [],
+        "openGraph": {
+          "title": "Especialista en Osteoporosis - Dr. Gabriel Gómez Palacios",
+          "description": "Conoce las medidas para fortalecer tus huesos y evitar fracturas derivadas de la osteoporosis.",
+          "url": "https://urldr/enfermedades/osteoporosis"
+        },
+        "alternates": {
+          "canonical": "https://urldr/enfermedades/osteoporosis"
+        }
       }
     }
-  },
-  {
-    "id": "conjuntivitis-alergica",
-    "name": "Conjuntivitis Alérgica",
-    "technicalName": "Conjuntivitis Alérgica",
-    "description": "La conjuntivitis alérgica es una inflamación de la conjuntiva ocular causada por una reacción alérgica a alérgenos como el polen, el polvo, el moho o el pelo de animales. Se caracteriza por enrojecimiento, picazón intensa y secreción acuosa en los ojos, afectando la visión temporalmente.",
-    "shortDescription": "Inflamación ocular por reacción a alérgenos como polvo o polen, con ojos rojos y picazón intensa.",
-    "causes": [
-      "Exposición a alérgenos ambientales como polen, ácaros del polvo o moho.",
-      "Contacto con pelos de mascotas."
-    ],
-    "symptoms": [
-      "Ojos rojos y llorosos.",
-      "Picazón intensa en los ojos.",
-      "Sensación de arenilla o cuerpo extraño.",
-      "Hinchazón de los párpados."
-    ],
-    "complications": [
-      "Infecciones secundarias por rascado constante.",
-      "Irritación crónica de la conjuntiva.",
-      "Deterioro temporal de la visión.",
-      "Posible daño en la córnea secundario al rascado."
-    ],
-    "riskFactors": [
-      "Historia personal o familiar de alergias.",
-      "Exposición frecuente a ambientes con alto contenido de alérgenos."
-    ],
-    "mexicoStats": "La conjuntivitis alérgica afecta aproximadamente al 10-20% de la población mexicana, siendo más común durante las temporadas de alta concentración de polen.",
-    "ctaText": "No deje que la conjuntivitis alérgica interfiera con su vida diaria. Consulte a la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro, Querétaro, para recibir un diagnóstico preciso y un tratamiento eficaz.",
-    "treatments": [
-      "Evitar la exposición a alérgenos (polvo, polen, caspa de mascotas).",
-      "Aplicar compresas frías y usar gotas oftálmicas antihistamínicas.",
-      "Antihistamínicos orales o tópicos para el control de la picazón.",
-      "Corticoides oftálmicos en casos más severos, bajo supervisión médica."
-    ],
-    "imageHome": "/images/diseases/conjuntivitis-alergica.jpg",
-    "imageIndividual": "/images/diseases/conjuntivitis-alergica.jpg",
-    "metadata": {
-      "title": "Especialista en Conjuntivitis Alérgica en Santiago de Querétaro, Querétaro",
-      "description": "Tratamiento para conjuntivitis alérgica en Santiago de Querétaro, Querétaro. Dra. Martha Ruiz Peñaloza te ayuda a aliviar tus síntomas.",
-      "keywords": [
-        "Especialista en conjuntivitis alérgica en Santiago de Querétaro",
-        "Clínica de conjuntivitis alérgica en Santiago de Querétaro",
-        "Hospital de conjuntivitis alérgica en Santiago de Querétaro",
-        "Tratamiento para conjuntivitis alérgica en Santiago de Querétaro",
-        "Experto en conjuntivitis alérgica en Santiago de Querétaro",
-        "Centro de conjuntivitis alérgica en Santiago de Querétaro",
-        "Quien atiende conjuntivitis alérgica en Santiago de Querétaro",
-        "Médico para conjuntivitis alérgica en Santiago de Querétaro",
-        "Doctor que atiende conjuntivitis alérgica en Santiago de Querétaro",
-        "Consulta médica de conjuntivitis alérgica en Santiago de Querétaro"
-      ],
-      "openGraph": {
-        "title": "Especialista en Conjuntivitis Alérgica - Dra. Martha Ruiz Peñaloza",
-        "description": "Tratamiento para conjuntivitis alérgica en Santiago de Querétaro. Tratamiento especializado por la Dra. Martha Ruiz Peñaloza.",
-        "url": "https://www.alergologadramartharuiz.com/enfermedades/conjuntivitis-alergica"
-      },
-      "alternates": {
-        "canonical": "https://www.alergologadramartharuiz.com/enfermedades/conjuntivitis-alergica"
-      }
-    }
-  },
-  {
-    "id": "urticaria-cronica-o-aguda",
-    "name": "Urticaria Crónica o Aguda",
-    "technicalName": "Urticaria Aguda y Crónica",
-    "description": "La urticaria es una reacción de la piel que se caracteriza por la aparición de ronchas elevadas, rojas y pruriginosas. Se clasifica en aguda cuando dura menos de seis semanas y en crónica cuando persiste más de seis semanas. Las causas pueden variar desde alergias a factores no alérgicos.",
-    "shortDescription": "Reacción cutánea con ronchas rojas y picazón; puede durar de horas a semanas o volverse crónica.",
-    "causes": [
-      "Reacciones alérgicas a alimentos, medicamentos o picaduras.",
-      "Infecciones virales o bacterianas.",
-      "Estrés emocional o físico.",
-      "Exposición a factores físicos (agua, sol, vibración)."
-    ],
-    "symptoms": [
-      "Ronchas elevadas y rojas en la piel.",
-      "Picazón intensa.",
-      "Hinchazón de labios, ojos o cara.",
-      "Sensación de ardor en las áreas afectadas."
-    ],
-    "complications": [
-      "Angioedema (hinchazón profunda de la piel).",
-      "Dificultades respiratorias en casos severos.",
-      "Infecciones secundarias por rascado.",
-      "Estrés emocional por la incomodidad crónica."
-    ],
-    "riskFactors": [
-      "Infecciones recurrentes.",
-      "Alergias ambientales o alimentarias.",
-      "Enfermedades autoinmunes.",
-      "Estrés crónico."
-    ],
-    "mexicoStats": "La urticaria afecta aproximadamente al 20% de la población mexicana en algún momento de su vida, siendo más común en adultos jóvenes y personas con antecedentes de otras alergias.",
-    "ctaText": "Si sufre de urticaria persistente o recurrente, es crucial buscar ayuda profesional. Agende una consulta con la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro, Querétaro, para recibir un diagnóstico preciso y un tratamiento efectivo.",
-    "treatments": [
-      "Antihistamínicos no sedantes para controlar la picazón.",
-      "Corticoides sistémicos en casos agudos severos.",
-      "Identificar y evitar los desencadenantes.",
-      "Inmunomoduladores (omalizumab) en urticaria crónica refractaria."
-    ],
-    "imageHome": "/images/diseases/urticaria-cronica-o-aguda.jpg",
-    "imageIndividual": "/images/diseases/urticaria-cronica-o-aguda.jpg",
-    "metadata": {
-      "title": "Especialista en Urticaria en Santiago de Querétaro, Querétaro",
-      "description": "Tratamiento para urticaria crónica o aguda en Santiago de Querétaro, Querétaro. Dra. Martha Ruiz Peñaloza te ayuda a aliviar tus síntomas.",
-      "keywords": [
-        "Especialista en urticaria en Santiago de Querétaro",
-        "Clínica de urticaria en Santiago de Querétaro",
-        "Hospital de urticaria en Santiago de Querétaro",
-        "Tratamiento para urticaria en Santiago de Querétaro",
-        "Experto en urticaria en Santiago de Querétaro",
-        "Centro de urticaria en Santiago de Querétaro",
-        "Quien atiende urticaria en Santiago de Querétaro",
-        "Médico para urticaria en Santiago de Querétaro",
-        "Doctor que atiende urticaria en Santiago de Querétaro",
-        "Consulta médica de urticaria en Santiago de Querétaro"
-      ],
-      "openGraph": {
-        "title": "Especialista en Urticaria - Dra. Martha Ruiz Peñaloza",
-        "description": "Tratamiento para urticaria crónica o aguda en Santiago de Querétaro. Tratamiento especializado por la Dra. Martha Ruiz Peñaloza.",
-        "url": "https://www.alergologadramartharuiz.com/enfermedades/urticaria-cronica-o-aguda"
-      },
-      "alternates": {
-        "canonical": "https://www.alergologadramartharuiz.com/enfermedades/urticaria-cronica-o-aguda"
-      }
-    }
-  },
-  {
-    "id": "rinitis-alergica",
-    "name": "Rinitis Alérgica",
-    "technicalName": "Rinitis Alérgica",
-    "description": "La rinitis alérgica es una inflamación de la mucosa nasal causada por una reacción alérgica a alérgenos como el polen, los ácaros del polvo, el moho o el pelo de mascotas. Se manifiesta con congestión nasal, comezón nasal, estornudos frecuentes y secreción nasal acuosa.",
-    "shortDescription": "Inflamación de la mucosa nasal por exposición a alérgenos, con estornudos, congestión y goteo acuoso.",
-    "causes": [
-      "Exposición a polen durante primavera y verano.",
-      "Contacto con ácaros del polvo en el hogar.",
-      "Inhalación de esporas de moho en ambientes húmedos.",
-      "Contacto con pelos de animales domésticos."
-    ],
-    "symptoms": [
-      "Congestión nasal.",
-      "Estornudos frecuentes.",
-      "Secreción nasal acuosa.",
-      "Picazón en la nariz, ojos, oídos, paladar y garganta.",
-      "Ojos llorosos y enrojecidos."
-    ],
-    "complications": [
-      "Sinusitis recurrente.",
-      "Infecciones de oído.",
-      "Infecciones recurrentes de vías respiratorias.",
-      "Fatiga por sueño interrumpido."
-    ],
-    "riskFactors": [
-      "Historia familiar de alergias.",
-      "Exposición prolongada a alérgenos.",
-      "Padecer otras enfermedades alérgicas como asma o dermatitis.",
-      "Vivir en entornos con alta contaminación."
-    ],
-    "mexicoStats": "La rinitis alérgica afecta aproximadamente al 15-30% de la población mexicana, siendo más común en áreas urbanas con alta contaminación.",
-    "ctaText": "No permita que la rinitis alérgica limite su vida diaria. Consulte a la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro, Querétaro, para recibir un diagnóstico preciso y un tratamiento eficaz.",
-    "treatments": [
-      "Antihistamínicos orales y descongestionantes (uso moderado).",
-      "Corticoides nasales para disminuir la inflamación.",
-      "Lavados nasales con solución salina.",
-      "Inmunoterapia específica si las medidas farmacológicas no son suficientes."
-    ],
-    "imageHome": "/images/diseases/rinitis-alergica.jpg",
-    "imageIndividual": "/images/diseases/rinitis-alergica.jpg",
-    "metadata": {
-      "title": "Especialista en Rinitis Alérgica en Santiago de Querétaro, Querétaro",
-      "description": "Tratamiento para rinitis alérgica en Santiago de Querétaro, Querétaro. Dra. Martha Ruiz Peñaloza te ayuda a aliviar tus síntomas.",
-      "keywords": [
-        "Especialista en rinitis alérgica en Santiago de Querétaro",
-        "Clínica de rinitis alérgica en Santiago de Querétaro",
-        "Hospital de rinitis alérgica en Santiago de Querétaro",
-        "Tratamiento para rinitis alérgica en Santiago de Querétaro",
-        "Experto en rinitis alérgica en Santiago de Querétaro",
-        "Centro de rinitis alérgica en Santiago de Querétaro",
-        "Quien atiende rinitis alérgica en Santiago de Querétaro",
-        "Médico para rinitis alérgica en Santiago de Querétaro",
-        "Doctor que atiende rinitis alérgica en Santiago de Querétaro",
-        "Consulta médica de rinitis alérgica en Santiago de Querétaro"
-      ],
-      "openGraph": {
-        "title": "Especialista en Rinitis Alérgica - Dra. Martha Ruiz Peñaloza",
-        "description": "Tratamiento para rinitis alérgica en Santiago de Querétaro. Tratamiento especializado por la Dra. Martha Ruiz Peñaloza.",
-        "url": "https://www.alergologadramartharuiz.com/enfermedades/rinitis-alergica"
-      },
-      "alternates": {
-        "canonical": "https://www.alergologadramartharuiz.com/enfermedades/rinitis-alergica"
-      }
-    }
-  },
-  {
-    "id": "asma",
-    "name": "Asma",
-    "technicalName": "Asma Bronquial",
-    "description": "El asma es una enfermedad crónica de las vías respiratorias inferiores que causa inflamación y estrechamiento de los bronquios, dificultando la entrada y salida de aire. Se manifiesta con episodios recurrentes de sibilancias, dificultad para respirar, opresión en el pecho y tos.",
-    "shortDescription": "Enfermedad crónica de las vías respiratorias que provoca inflamación y episodios de dificultad para respirar.",
-    "causes": [
-      "Factores genéticos y antecedentes familiares.",
-      "Exposición a alérgenos como polvo, polen o moho.",
-      "Contaminación del aire y tabaquismo.",
-      "Infecciones respiratorias virales en la infancia.",
-      "Estrés emocional y ejercicio físico intenso."
-    ],
-    "symptoms": [
-      "Dificultad para respirar.",
-      "Sibilancias o respiración sibilante.",
-      "Tos persistente que aumenta con la actividad física.",
-      "Sensación de opresión en el pecho.",
-      "Fatiga y limitación en actividades físicas."
-    ],
-    "complications": [
-      "Ataques de asma severos potencialmente mortales.",
-      "Infecciones respiratorias recurrentes.",
-      "Reducción de la función pulmonar a largo plazo.",
-      "Disminución de la calidad de vida y limitación de actividades."
-    ],
-    "riskFactors": [
-      "Historia familiar de asma o alergias.",
-      "Exposición a contaminantes ambientales.",
-      "Tener otras enfermedades alérgicas como rinitis alérgica.",
-      "Obesidad.",
-      "Exposición al humo de tabaco."
-    ],
-    "mexicoStats": "Se estima que alrededor del 10-15% de la población mexicana sufre de asma, con mayor prevalencia en niños y adolescentes.",
-    "ctaText": "Controle su asma y mejore su calidad de vida con un tratamiento personalizado. Agende una consulta con la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro, Querétaro, para recibir un manejo efectivo de su asma.",
-    "treatments": [
-      "Broncodilatadores de rescate (inhaladores de acción rápida).",
-      "Corticosteroides inhalados para control a largo plazo.",
-      "Evitar desencadenantes ambientales y alérgenos.",
-      "Inmunoterapia o terapia biológica en casos específicos."
-    ],
-    "imageHome": "/images/diseases/asma.jpg",
-    "imageIndividual": "/images/diseases/asma.jpg",
-    "metadata": {
-      "title": "Especialista en Asma en Santiago de Querétaro, Querétaro",
-      "description": "Tratamiento para asma en Santiago de Querétaro, Querétaro. Dra. Martha Ruiz Peñaloza te ayuda a controlar tu asma.",
-      "keywords": [
-        "Especialista en asma en Santiago de Querétaro",
-        "Clínica de asma en Santiago de Querétaro",
-        "Hospital de asma en Santiago de Querétaro",
-        "Tratamiento para asma en Santiago de Querétaro",
-        "Experto en asma en Santiago de Querétaro",
-        "Centro de asma en Santiago de Querétaro",
-        "Quien atiende asma en Santiago de Querétaro",
-        "Médico para asma en Santiago de Querétaro",
-        "Doctor que atiende asma en Santiago de Querétaro",
-        "Consulta médica de asma en Santiago de Querétaro"
-      ],
-      "openGraph": {
-        "title": "Especialista en Asma - Dra. Martha Ruiz Peñaloza",
-        "description": "Tratamiento para asma en Santiago de Querétaro. Tratamiento especializado por la Dra. Martha Ruiz Peñaloza.",
-        "url": "https://www.alergologadramartharuiz.com/enfermedades/asma"
-      },
-      "alternates": {
-        "canonical": "https://www.alergologadramartharuiz.com/enfermedades/asma"
-      }
-    }
-  },
-  {
-    "id": "dermatitis-atopica-y-de-contacto",
-    "name": "Dermatitis Atópica y de Contacto",
-    "technicalName": "Dermatitis Atópica y Dermatitis de Contacto",
-    "description": "La dermatitis atópica es una enfermedad inflamatoria crónica de la piel que causa sequedad, enrojecimiento y picazón intensa. La dermatitis de contacto, por otro lado, es una reacción alérgica o irritante causada por el contacto directo con sustancias como productos químicos, jabones o metales. Ambas condiciones afectan significativamente la calidad de vida debido a la incomodidad y las lesiones cutáneas.",
-    "shortDescription": "Enfermedades inflamatorias de la piel caracterizadas por enrojecimiento, picazón y lesiones alérgicas o irritantes.",
-    "causes": [
-      "Dermatitis Atópica: Factores genéticos y desequilibrio de la barrera cutánea.",
-      "Dermatitis de Contacto: Exposición a sustancias irritantes o alérgenos específicos."
-    ],
-    "symptoms": [
-      "Piel seca y enrojecida con picazón intensa.",
-      "Ampollas, descamación y formación de costras.",
-      "Hinchazón y enrojecimiento en el caso de dermatitis de contacto."
-    ],
-    "complications": [
-      "Infecciones bacterianas secundarias por rascado.",
-      "Cicatrices y engrosamiento de la piel.",
-      "Impacto psicológico como ansiedad o depresión."
-    ],
-    "riskFactors": [
-      "Historia familiar de enfermedades alérgicas.",
-      "Exposición frecuente a irritantes o alérgenos.",
-      "Tener otras enfermedades alérgicas como asma o rinitis alérgica.",
-      "Uso de productos de cuidado personal agresivos."
-    ],
-    "mexicoStats": "La dermatitis atópica afecta aproximadamente al 10-20% de los niños y al 1-3% de los adultos en México. La dermatitis de contacto es común en personas expuestas a sustancias irritantes en el trabajo o el hogar.",
-    "ctaText": "No permita que la dermatitis afecte su bienestar. Consulte a la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro, Querétaro, para recibir un diagnóstico preciso y un tratamiento efectivo para la dermatitis atópica y de contacto.",
-    "treatments": [
-      "Uso de emolientes e hidratantes para proteger la barrera cutánea.",
-      "Corticoides tópicos o inhibidores de calcineurina para controlar la inflamación.",
-      "Evitar el alérgeno o irritante responsable.",
-      "Antihistamínicos orales para aliviar la picazón."
-    ],
-    "imageHome": "/images/diseases/dermatitis-atopica-y-de-contacto.jpg",
-    "imageIndividual": "/images/diseases/dermatitis-atopica-y-de-contacto.jpg",
-    "metadata": {
-      "title": "Especialista en Dermatitis Atópica y de Contacto en Santiago de Querétaro, Querétaro",
-      "description": "Tratamiento para dermatitis atópica y de contacto en Santiago de Querétaro, Querétaro. Dra. Martha Ruiz Peñaloza te ayuda a aliviar tus síntomas.",
-      "keywords": [
-        "Especialista en dermatitis atópica en Santiago de Querétaro",
-        "Clínica de dermatitis de contacto en Santiago de Querétaro",
-        "Hospital de dermatitis atópica en Santiago de Querétaro",
-        "Tratamiento para dermatitis de contacto en Santiago de Querétaro",
-        "Experto en dermatitis atópica en Santiago de Querétaro",
-        "Centro de dermatitis de contacto en Santiago de Querétaro",
-        "Quien atiende dermatitis atópica en Santiago de Querétaro",
-        "Médico para dermatitis de contacto en Santiago de Querétaro",
-        "Doctor que atiende dermatitis atópica en Santiago de Querétaro",
-        "Consulta médica de dermatitis de contacto en Santiago de Querétaro"
-      ],
-      "openGraph": {
-        "title": "Especialista en Dermatitis Atópica y de Contacto - Dra. Martha Ruiz Peñaloza",
-        "description": "Tratamiento para dermatitis atópica y de contacto en Santiago de Querétaro. Tratamiento especializado por la Dra. Martha Ruiz Peñaloza.",
-        "url": "https://www.alergologadramartharuiz.com/enfermedades/dermatitis-atopica-y-de-contacto"
-      },
-      "alternates": {
-        "canonical": "https://www.alergologadramartharuiz.com/enfermedades/dermatitis-atopica-y-de-contacto"
-      }
-    }
-  },
-  {
-    "id": "angioedema",
-    "name": "Angioedema",
-    "technicalName": "Angioedema",
-    "description": "El angioedema es una hinchazón rápida y severa de la piel y las membranas mucosas, particularmente en áreas como los labios, los ojos, la garganta y las extremidades. Puede ser una reacción alérgica a medicamentos, alimentos, picaduras de insectos o puede estar asociado a condiciones hereditarias o autoinmunes.",
-    "shortDescription": "Hinchazón aguda de la piel y mucosas que puede afectar labios, ojos y garganta, a menudo de origen alérgico.",
-    "causes": [
-      "Reacciones alérgicas a medicamentos o alimentos.",
-      "Picaduras de insectos.",
-      "Factores hereditarios o autoinmunes."
-    ],
-    "symptoms": [
-      "Hinchazón de labios, ojos, cara, garganta o extremidades.",
-      "Dificultad para respirar si la hinchazón afecta la garganta.",
-      "Dolor o comezón en las áreas hinchadas."
-    ],
-    "complications": [
-      "Obstrucción de las vías respiratorias en casos graves.",
-      "Desgaste emocional y psicológico por la incertidumbre de reacciones.",
-      "Cicatrices en áreas frecuentemente afectadas."
-    ],
-    "riskFactors": [
-      "Historia personal o familiar de angioedema.",
-      "Uso de ciertos medicamentos.",
-      "Exposición a alérgenos."
-    ],
-    "mexicoStats": "El angioedema es relativamente raro en México, afectando aproximadamente al 0.1-0.3% de la población, pero es más común en personas con antecedentes de alergias o condiciones genéticas.",
-    "ctaText": "Si experimenta hinchazón súbita y severa, busque atención médica inmediata. Agende una consulta con la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro, Querétaro, para recibir un diagnóstico y tratamiento adecuados para el angioedema.",
-    "treatments": [
-      "Antihistamínicos y corticosteroides para reacciones moderadas.",
-      "Epinefrina inyectable si existe compromiso respiratorio.",
-      "Terapias específicas en caso de angioedema hereditario.",
-      "Evitar desencadenantes conocidos y revisar medicamentos en uso."
-    ],
-    "imageHome": "/images/diseases/angioedema.jpg",
-    "imageIndividual": "/images/diseases/angioedema.jpg",
-    "metadata": {
-      "title": "Especialista en Angioedema en Santiago de Querétaro, Querétaro",
-      "description": "Tratamiento para angioedema en Santiago de Querétaro, Querétaro. Dra. Martha Ruiz Peñaloza te ayuda a manejar tus síntomas.",
-      "keywords": [
-        "Especialista en angioedema en Santiago de Querétaro",
-        "Clínica de angioedema en Santiago de Querétaro",
-        "Hospital de angioedema en Santiago de Querétaro",
-        "Tratamiento para angioedema en Santiago de Querétaro",
-        "Experto en angioedema en Santiago de Querétaro",
-        "Centro de angioedema en Santiago de Querétaro",
-        "Quien atiende angioedema en Santiago de Querétaro",
-        "Médico para angioedema en Santiago de Querétaro",
-        "Doctor que atiende angioedema en Santiago de Querétaro",
-        "Consulta médica de angioedema en Santiago de Querétaro"
-      ],
-      "openGraph": {
-        "title": "Especialista en Angioedema - Dra. Martha Ruiz Peñaloza",
-        "description": "Tratamiento para angioedema en Santiago de Querétaro. Tratamiento especializado por la Dra. Martha Ruiz Peñaloza.",
-        "url": "https://www.alergologadramartharuiz.com/enfermedades/angioedema"
-      },
-      "alternates": {
-        "canonical": "https://www.alergologadramartharuiz.com/enfermedades/angioedema"
-      }
-    }
-  },
-  {
-    "id": "anafilaxia",
-    "name": "Anafilaxia",
-    "technicalName": "Anafilaxia",
-    "description": "La anafilaxia es una reacción alérgica aguda y potencialmente mortal que afecta a múltiples sistemas del cuerpo, incluyendo el respiratorio, cardiovascular y cutáneo. Es una emergencia médica que requiere intervención inmediata para prevenir complicaciones graves y la muerte.",
-    "shortDescription": "Reacción alérgica grave y de rápida aparición que afecta múltiples sistemas del cuerpo y pone en riesgo la vida.",
-    "causes": [
-      "Picaduras de insectos (abejas o avispas).",
-      "Reacciones a medicamentos y alimentos.",
-      "Exposición a ciertos alérgenos ambientales."
-    ],
-    "symptoms": [
-      "Urticaria y enrojecimiento de la piel.",
-      "Hinchazón de la cara, labios o garganta.",
-      "Náuseas, vómitos y diarrea.",
-      "Dificultad para respirar y sibilancias.",
-      "Baja presión arterial y mareos."
-    ],
-    "complications": [
-      "Shock anafiláctico con riesgo de muerte.",
-      "Daño en órganos vitales por falta de oxígeno.",
-      "Reacciones tardías que complican el diagnóstico."
-    ],
-    "riskFactors": [
-      "Historia previa de anafilaxia.",
-      "Tener asma u otras condiciones alérgicas.",
-      "Exposición a alérgenos conocidos.",
-      "Uso de ciertos medicamentos."
-    ],
-    "mexicoStats": "La incidencia de anafilaxia en México es de aproximadamente 0.05-0.5 casos por 100,000 habitantes al año, con tendencia a un ligero aumento por el incremento en alergias alimentarias y medicamentosas.",
-    "ctaText": "La anafilaxia es una emergencia médica que requiere atención inmediata. Si usted o alguien cercano presenta síntomas de anafilaxia, busque ayuda médica o contacte a la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro, Querétaro, de inmediato.",
-    "treatments": [
-      "Administración de epinefrina intramuscular (inyección de emergencia).",
-      "Antihistamínicos y corticosteroides para manejar reacciones secundarias.",
-      "Soporte vital avanzado (oxígeno, líquidos IV).",
-      "Evitar el alérgeno y llevar siempre autoinyector de epinefrina."
-    ],
-    "imageHome": "/images/diseases/anafilaxia.jpg",
-    "imageIndividual": "/images/diseases/anafilaxia.jpg",
-    "metadata": {
-      "title": "Especialista en Anafilaxia en Santiago de Querétaro, Querétaro",
-      "description": "Tratamiento para anafilaxia en Santiago de Querétaro, Querétaro. Dra. Martha Ruiz Peñaloza te ayuda a manejar reacciones alérgicas severas.",
-      "keywords": [
-        "Especialista en anafilaxia en Santiago de Querétaro",
-        "Clínica de anafilaxia en Santiago de Querétaro",
-        "Hospital de anafilaxia en Santiago de Querétaro",
-        "Tratamiento para anafilaxia en Santiago de Querétaro",
-        "Experto en anafilaxia en Santiago de Querétaro",
-        "Centro de anafilaxia en Santiago de Querétaro",
-        "Quien atiende anafilaxia en Santiago de Querétaro",
-        "Médico para anafilaxia en Santiago de Querétaro",
-        "Doctor que atiende anafilaxia en Santiago de Querétaro",
-        "Consulta médica de anafilaxia en Santiago de Querétaro"
-      ],
-      "openGraph": {
-        "title": "Especialista en Anafilaxia - Dra. Martha Ruiz Peñaloza",
-        "description": "Tratamiento para anafilaxia en Santiago de Querétaro. Tratamiento especializado por la Dra. Martha Ruiz Peñaloza.",
-        "url": "https://www.alergologadramartharuiz.com/enfermedades/anafilaxia"
-      },
-      "alternates": {
-        "canonical": "https://www.alergologadramartharuiz.com/enfermedades/anafilaxia"
-      }
-    }
-  },
-  {
-    "id": "alergia-alimentaria",
-    "name": "Alergia Alimentaria",
-    "technicalName": "Hipersensibilidad Alimentaria",
-    "description": "La alergia alimentaria es una reacción adversa del sistema inmunológico a ciertos alimentos. Estas reacciones pueden variar desde síntomas leves como urticaria y estornudos hasta reacciones graves como anafilaxia. Los alimentos más comunes que causan alergias incluyen cacahuates, mariscos, leche, huevos, trigo y soja, pero cualquier alimento puede desencadenarla.",
-    "shortDescription": "Reacción adversa del sistema inmune a ciertos alimentos, que puede ser desde una erupción leve hasta anafilaxia grave.",
-    "causes": [
-      "Exposición a proteínas alimentarias que se confunden como amenazas.",
-      "Factores genéticos y antecedentes familiares de alergias.",
-      "Contaminación cruzada en alimentos procesados."
-    ],
-    "symptoms": [
-      "Urticaria y erupciones cutáneas.",
-      "Hinchazón de labios, lengua o garganta.",
-      "Estornudos, congestión nasal o dificultad respiratoria.",
-      "Náuseas, vómitos o diarrea.",
-      "Anafilaxia en casos severos."
-    ],
-    "complications": [
-      "Reacciones anafilácticas potencialmente mortales.",
-      "Ansiedad al comer fuera de casa.",
-      "Impacto en la calidad de vida y la socialización."
-    ],
-    "riskFactors": [
-      "Historia familiar de alergias alimentarias.",
-      "Presencia de otras enfermedades alérgicas (asma, dermatitis).",
-      "Exposición temprana a alimentos muy alergénicos.",
-      "Tener múltiples sensibilidades alimentarias."
-    ],
-    "mexicoStats": "Las alergias alimentarias afectan aproximadamente al 5-10% de la población mexicana, siendo cacahuates y mariscos los alérgenos más frecuentes.",
-    "ctaText": "Si sospecha que tiene una alergia alimentaria, es vital obtener un diagnóstico y un plan de manejo adecuados. Agende una consulta con la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro, Querétaro, para recibir ayuda especializada.",
-    "treatments": [
-      "Evitar estrictamente el alimento desencadenante.",
-      "Leer etiquetas y advertencias en productos alimenticios.",
-      "Tener autoinyector de epinefrina si existe riesgo de anafilaxia.",
-      "Educación dietética y asesoramiento nutricional."
-    ],
-    "imageHome": "/images/diseases/alergia-alimentaria.jpg",
-    "imageIndividual": "/images/diseases/alergia-alimentaria.jpg",
-    "metadata": {
-      "title": "Especialista en Alergia Alimentaria en Santiago de Querétaro, Querétaro",
-      "description": "Tratamiento para alergia alimentaria en Santiago de Querétaro, Querétaro. Dra. Martha Ruiz Peñaloza te ayuda a manejar tus alergias.",
-      "keywords": [
-        "Especialista en alergia alimentaria en Santiago de Querétaro",
-        "Clínica de alergia alimentaria en Santiago de Querétaro",
-        "Hospital de alergia alimentaria en Santiago de Querétaro",
-        "Tratamiento para alergia alimentaria en Santiago de Querétaro",
-        "Experto en alergia alimentaria en Santiago de Querétaro",
-        "Centro de alergia alimentaria en Santiago de Querétaro",
-        "Quien atiende alergia alimentaria en Santiago de Querétaro",
-        "Médico para alergia alimentaria en Santiago de Querétaro",
-        "Doctor que atiende alergia alimentaria en Santiago de Querétaro",
-        "Consulta médica de alergia alimentaria en Santiago de Querétaro"
-      ],
-      "openGraph": {
-        "title": "Especialista en Alergia Alimentaria - Dra. Martha Ruiz Peñaloza",
-        "description": "Tratamiento para alergia alimentaria en Santiago de Querétaro. Tratamiento especializado por la Dra. Martha Ruiz Peñaloza.",
-        "url": "https://www.alergologadramartharuiz.com/enfermedades/alergia-alimentaria"
-      },
-      "alternates": {
-        "canonical": "https://www.alergologadramartharuiz.com/enfermedades/alergia-alimentaria"
-      }
-    }
-  },
-  {
-    "id": "alergia-a-medicamentos",
-    "name": "Alergia a Medicamentos",
-    "technicalName": "Hipersensibilidad a Medicamentos",
-    "description": "La alergia a medicamentos es una reacción adversa del sistema inmunológico a fármacos específicos. Estas reacciones pueden variar desde leves erupciones cutáneas hasta reacciones severas como la anafilaxia. Los medicamentos más comunes que causan alergias incluyen antibióticos, analgésicos y anticonvulsivos.",
-    "shortDescription": "Reacción adversa del sistema inmune a fármacos, desde erupciones leves hasta anafilaxia severa.",
-    "causes": [
-      "Reacción inmunológica a ingredientes activos o inactivos del fármaco.",
-      "Uso prolongado o repetido de un mismo medicamento.",
-      "Sensibilización previa a medicamentos similares."
-    ],
-    "symptoms": [
-      "Erupciones cutáneas y urticaria.",
-      "Hinchazón de labios, lengua o garganta.",
-      "Dificultad para respirar y sibilancias.",
-      "Náuseas, vómitos o diarrea.",
-      "Anafilaxia en casos graves."
-    ],
-    "complications": [
-      "Reacciones anafilácticas potencialmente mortales.",
-      "Necesidad de limitar opciones de tratamiento farmacológico.",
-      "Ansiedad ante el uso de nuevos medicamentos."
-    ],
-    "riskFactors": [
-      "Historia previa de reacciones alérgicas a medicamentos.",
-      "Uso frecuente o simultáneo de varios medicamentos.",
-      "Presencia de otras enfermedades alérgicas."
-    ],
-    "mexicoStats": "La alergia a medicamentos representa alrededor del 10-15% de las reacciones alérgicas graves en México, siendo los antibióticos (penicilina) los más comunes.",
-    "ctaText": "Si sospecha que es alérgico a algún medicamento, es crucial obtener un diagnóstico y un plan de manejo. Consulte a la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro, Querétaro, para recibir una evaluación especializada.",
-    "treatments": [
-      "Suspender el medicamento sospechoso de causar alergia.",
-      "Antihistamínicos y corticoides para reacciones moderadas.",
-      "Epinefrina si hay signos de anafilaxia.",
-      "Desensibilización medicamentosa en casos necesarios."
-    ],
-    "imageHome": "/images/diseases/alergia-a-medicamentos.jpg",
-    "imageIndividual": "/images/diseases/alergia-a-medicamentos.jpg",
-    "metadata": {
-      "title": "Especialista en Alergia a Medicamentos en Santiago de Querétaro, Querétaro",
-      "description": "Tratamiento para alergia a medicamentos en Santiago de Querétaro, Querétaro. Dra. Martha Ruiz Peñaloza te ayuda a manejar tus alergias.",
-      "keywords": [
-        "Especialista en alergia a medicamentos en Santiago de Querétaro",
-        "Clínica de alergia a medicamentos en Santiago de Querétaro",
-        "Hospital de alergia a medicamentos en Santiago de Querétaro",
-        "Tratamiento para alergia a medicamentos en Santiago de Querétaro",
-        "Experto en alergia a medicamentos en Santiago de Querétaro",
-        "Centro de alergia a medicamentos en Santiago de Querétaro",
-        "Quien atiende alergia a medicamentos en Santiago de Querétaro",
-        "Médico para alergia a medicamentos en Santiago de Querétaro",
-        "Doctor que atiende alergia a medicamentos en Santiago de Querétaro",
-        "Consulta médica de alergia a medicamentos en Santiago de Querétaro"
-      ],
-      "openGraph": {
-        "title": "Especialista en Alergia a Medicamentos - Dra. Martha Ruiz Peñaloza",
-        "description": "Tratamiento para alergia a medicamentos en Santiago de Querétaro. Tratamiento especializado por la Dra. Martha Ruiz Peñaloza.",
-        "url": "https://www.alergologadramartharuiz.com/enfermedades/alergia-a-medicamentos"
-      },
-      "alternates": {
-        "canonical": "https://www.alergologadramartharuiz.com/enfermedades/alergia-a-medicamentos"
-      }
-    }
-  },
-  {
-    "id": "alergia-al-medio-de-contraste",
-    "name": "Alergia al Medio de Contraste",
-    "technicalName": "Hipersensibilidad al Medio de Contraste",
-    "description": "La alergia al medio de contraste es una reacción adversa del sistema inmunológico a los agentes utilizados para mejorar la visibilidad de estructuras internas durante estudios de imagen como tomografías computarizadas o resonancias magnéticas. Las reacciones pueden variar desde leves, como erupciones cutáneas, hasta severas, como anafilaxia.",
-    "shortDescription": "Reacción alérgica a contrastes usados en estudios de imagen, con síntomas leves o cuadros de anafilaxia.",
-    "causes": [
-      "Exposición previa a medios de contraste similares.",
-      "Uso de medios de contraste iodados o gadolinio.",
-      "Factores genéticos que predisponen a reacciones alérgicas."
-    ],
-    "symptoms": [
-      "Erupciones cutáneas y urticaria.",
-      "Hinchazón de labios, lengua o garganta.",
-      "Dificultad para respirar.",
-      "Mareos o desmayos.",
-      "Anafilaxia en casos graves."
-    ],
-    "complications": [
-      "Reacciones anafilácticas mortales si no se trata a tiempo.",
-      "Daño renal en pacientes con predisposición.",
-      "Miedo y ansiedad ante futuros estudios de imagen."
-    ],
-    "riskFactors": [
-      "Historia previa de reacciones al medio de contraste.",
-      "Enfermedades renales crónicas.",
-      "Uso de múltiples medicamentos sensibilizantes.",
-      "Exposición a otros alérgenos."
-    ],
-    "mexicoStats": "Las reacciones al medio de contraste oscilan entre 0.5-3% en pacientes expuestos. Aunque la mayoría son leves, una pequeña proporción puede ser severa.",
-    "ctaText": "Si ha tenido reacciones previas al medio de contraste o tiene inquietudes, consulte a la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro, Querétaro, para recibir un diagnóstico y un plan de manejo adecuados.",
-    "treatments": [
-      "Premedicación con antihistamínicos y corticoides para reducir el riesgo.",
-      "Uso de medios de contraste alternativos con menor perfil alergénico.",
-      "Monitorización estrecha durante y después del procedimiento.",
-      "Epinefrina en caso de anafilaxia."
-    ],
-    "imageHome": "/images/diseases/alergia-al-medio-de-contraste.jpg",
-    "imageIndividual": "/images/diseases/alergia-al-medio-de-contraste.jpg",
-    "metadata": {
-      "title": "Especialista en Alergia al Medio de Contraste en Santiago de Querétaro, Querétaro",
-      "description": "Tratamiento para alergia al medio de contraste en Santiago de Querétaro, Querétaro. Dra. Martha Ruiz Peñaloza te ayuda a manejar tus reacciones.",
-      "keywords": [
-        "Especialista en alergia al medio de contraste en Santiago de Querétaro",
-        "Clínica de alergia al medio de contraste en Santiago de Querétaro",
-        "Hospital de alergia al medio de contraste en Santiago de Querétaro",
-        "Tratamiento para alergia al medio de contraste en Santiago de Querétaro",
-        "Experto en alergia al medio de contraste en Santiago de Querétaro",
-        "Centro de alergia al medio de contraste en Santiago de Querétaro",
-        "Quien atiende alergia al medio de contraste en Santiago de Querétaro",
-        "Médico para alergia al medio de contraste en Santiago de Querétaro",
-        "Doctor que atiende alergia al medio de contraste en Santiago de Querétaro",
-        "Consulta médica de alergia al medio de contraste en Santiago de Querétaro"
-      ],
-      "openGraph": {
-        "title": "Especialista en Alergia al Medio de Contraste - Dra. Martha Ruiz Peñaloza",
-        "description": "Tratamiento para alergia al medio de contraste en Santiago de Querétaro. Tratamiento especializado por la Dra. Martha Ruiz Peñaloza.",
-        "url": "https://www.alergologadramartharuiz.com/enfermedades/alergia-al-medio-de-contraste"
-      },
-      "alternates": {
-        "canonical": "https://www.alergologadramartharuiz.com/enfermedades/alergia-al-medio-de-contraste"
-      }
-    }
-  },
-  {
-    "id": "alergia-a-mascotas",
-    "name": "Alergia a Mascotas",
-    "technicalName": "Hipersensibilidad a Mascotas",
-    "description": "La alergia a mascotas es una reacción alérgica a proteínas presentes en la piel, saliva o orina de animales como perros, gatos, roedores y aves. Estas alergias pueden causar síntomas respiratorios y cutáneos, afectando la calidad de vida de quienes conviven con mascotas a las que son alérgicos.",
-    "shortDescription": "Reacción alérgica a proteínas de la piel, saliva u orina de animales, con síntomas respiratorios y cutáneos.",
-    "causes": [
-      "Exposición a pelos, caspa o saliva de animales.",
-      "Contacto directo con mascotas.",
-      "Acumulación de alérgenos en espacios cerrados."
-    ],
-    "symptoms": [
-      "Congestión nasal y estornudos.",
-      "Ojos rojos, llorosos y picazón ocular.",
-      "Urticaria o erupciones en piel.",
-      "Dificultad para respirar o sibilancias.",
-      "Tos persistente."
-    ],
-    "complications": [
-      "Desarrollo o empeoramiento de asma.",
-      "Infecciones respiratorias recurrentes.",
-      "Impacto en la calidad de vida y convivencia con mascotas.",
-      "Estrés y ansiedad al limitar la convivencia con animales."
-    ],
-    "riskFactors": [
-      "Historia familiar de alergias.",
-      "Exposición frecuente a mascotas desde edad temprana.",
-      "Otras alergias como rinitis o dermatitis.",
-      "Vivir en ambientes con alta densidad de alérgenos de mascotas."
-    ],
-    "mexicoStats": "Aproximadamente el 10-20% de la población mexicana es alérgica a mascotas, siendo perros y gatos los más comunes.",
-    "ctaText": "Si sospecha que su alergia a mascotas está afectando su salud, agende una consulta con la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro, Querétaro, para recibir un diagnóstico preciso y un tratamiento adecuado.",
-    "treatments": [
-      "Mantener una buena higiene de la mascota y el hogar.",
-      "Filtración HEPA y aspirado frecuente para reducir alérgenos.",
-      "Antihistamínicos, esteroides inhalados o broncodilatadores si hay asma.",
-      "Inmunoterapia específica en alergia grave a epitelios de mascotas."
-    ],
-    "imageHome": "/images/diseases/alergia-a-mascotas.jpg",
-    "imageIndividual": "/images/diseases/alergia-a-mascotas.jpg",
-    "metadata": {
-      "title": "Especialista en Alergia a Mascotas en Santiago de Querétaro, Querétaro",
-      "description": "Tratamiento para alergia a mascotas en Santiago de Querétaro, Querétaro. Dra. Martha Ruiz Peñaloza te ayuda a manejar tus alergias.",
-      "keywords": [
-        "Especialista en alergia a mascotas en Santiago de Querétaro",
-        "Clínica de alergia a mascotas en Santiago de Querétaro",
-        "Hospital de alergia a mascotas en Santiago de Querétaro",
-        "Tratamiento para alergia a mascotas en Santiago de Querétaro",
-        "Experto en alergia a mascotas en Santiago de Querétaro",
-        "Centro de alergia a mascotas en Santiago de Querétaro",
-        "Quien atiende alergia a mascotas en Santiago de Querétaro",
-        "Médico para alergia a mascotas en Santiago de Querétaro",
-        "Doctor que atiende alergia a mascotas en Santiago de Querétaro",
-        "Consulta médica de alergia a mascotas en Santiago de Querétaro"
-      ],
-      "openGraph": {
-        "title": "Especialista en Alergia a Mascotas - Dra. Martha Ruiz Peñaloza",
-        "description": "Tratamiento para alergia a mascotas en Santiago de Querétaro. Tratamiento especializado por la Dra. Martha Ruiz Peñaloza.",
-        "url": "https://www.alergologadramartharuiz.com/enfermedades/alergia-a-mascotas"
-      },
-      "alternates": {
-        "canonical": "https://www.alergologadramartharuiz.com/enfermedades/alergia-a-mascotas"
-      }
-    }
-  },
-  {
-    "id": "alergia-a-picadura-de-insectos",
-    "name": "Alergia a Picadura de Insectos",
-    "technicalName": "Hipersensibilidad a Picaduras de Insectos",
-    "description": "La alergia a picaduras de insectos es una reacción inmunológica adversa a las toxinas y enzimas presentes en la saliva de insectos como abejas, avispas, hormigas y mosquitos. Estas reacciones pueden variar desde leves molestias hasta reacciones severas como la anafilaxia.",
-    "shortDescription": "Reacción inmune a toxinas de insectos (abejas, avispas, hormigas, mosquitos) con desde inflamación local hasta anafilaxia.",
-    "causes": [
-      "Picaduras repetidas de insectos alergénicos.",
-      "Exposición a diferentes tipos de insectos.",
-      "Factores genéticos que predisponen a reacciones."
-    ],
-    "symptoms": [
-      "Dolor y enrojecimiento en el sitio de la picadura.",
-      "Hinchazón local o generalizada.",
-      "Urticaria y erupciones cutáneas.",
-      "Dificultad para respirar y sibilancias.",
-      "Anafilaxia en casos graves."
-    ],
-    "complications": [
-      "Reacciones anafilácticas que pueden ser mortales.",
-      "Infecciones secundarias por rascar la zona.",
-      "Ansiedad y temor a futuras picaduras."
-    ],
-    "riskFactors": [
-      "Historia personal o familiar de alergias.",
-      "Exposición frecuente a insectos alergénicos.",
-      "Tener otras enfermedades alérgicas como asma o rinitis.",
-      "Edad temprana de exposición repetida."
-    ],
-    "mexicoStats": "La alergia a picaduras de insectos afecta alrededor del 3-5% de la población mexicana, con mayor incidencia en adultos jóvenes y personas con antecedentes alérgicos.",
-    "ctaText": "No subestime las reacciones a picaduras de insectos. Consulte a la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro, Querétaro, para un diagnóstico preciso y tratamiento adecuado.",
-    "treatments": [
-      "Limpieza de la zona y aplicación de frío local.",
-      "Antihistamínicos o corticoides orales para reducir la inflamación.",
-      "Epinefrina en caso de anafilaxia.",
-      "Inmunoterapia con veneno de insectos en casos graves."
-    ],
-    "imageHome": "/images/diseases/alergia-a-picadura-de-insectos.jpg",
-    "imageIndividual": "/images/diseases/alergia-a-picadura-de-insectos.jpg",
-    "metadata": {
-      "title": "Especialista en Alergia a Picadura de Insectos en Santiago de Querétaro, Querétaro",
-      "description": "Tratamiento para alergia a picaduras de insectos en Santiago de Querétaro, Querétaro. Dra. Martha Ruiz Peñaloza te ayuda a manejar tus alergias.",
-      "keywords": [
-        "Especialista en alergia a picadura de insectos en Santiago de Querétaro",
-        "Clínica de alergia a picadura de insectos en Santiago de Querétaro",
-        "Hospital de alergia a picadura de insectos en Santiago de Querétaro",
-        "Tratamiento para alergia a picadura de insectos en Santiago de Querétaro",
-        "Experto en alergia a picadura de insectos en Santiago de Querétaro",
-        "Centro de alergia a picadura de insectos en Santiago de Querétaro",
-        "Quien atiende alergia a picadura de insectos en Santiago de Querétaro",
-        "Médico para alergia a picadura de insectos en Santiago de Querétaro",
-        "Doctor que atiende alergia a picadura de insectos en Santiago de Querétaro",
-        "Consulta médica de alergia a picadura de insectos en Santiago de Querétaro"
-      ],
-      "openGraph": {
-        "title": "Especialista en Alergia a Picadura de Insectos - Dra. Martha Ruiz Peñaloza",
-        "description": "Tratamiento para alergia a picaduras de insectos en Santiago de Querétaro. Tratamiento especializado por la Dra. Martha Ruiz Peñaloza.",
-        "url": "https://www.alergologadramartharuiz.com/enfermedades/alergia-a-picadura-de-insectos"
-      },
-      "alternates": {
-        "canonical": "https://www.alergologadramartharuiz.com/enfermedades/alergia-a-picadura-de-insectos"
-      }
-    }
-  },
-  {
-    "id": "sindrome-de-dress",
-    "name": "Síndrome de Dress",
-    "technicalName": "Síndrome de Drug Reaction with Eosinophilia and Systemic Symptoms",
-    "description": "El síndrome de Dress, también conocido como DRESS (Drug Reaction with Eosinophilia and Systemic Symptoms), es una reacción adversa grave a medicamentos que se caracteriza por fiebre, erupciones cutáneas extensas, eosinofilia y afectación de órganos sistémicos como hígado, riñones o corazón.",
-    "shortDescription": "Reacción adversa grave a medicamentos, con fiebre, erupción extensa, eosinofilia y compromiso multiorgánico.",
-    "causes": [
-      "Uso de ciertos medicamentos que desencadenan hipersensibilidad.",
-      "Combinación de múltiples fármacos.",
-      "Susceptibilidad genética a reacciones graves."
-    ],
-    "symptoms": [
-      "Fiebre alta.",
-      "Erupciones cutáneas extensas y pruriginosas.",
-      "Aumento de eosinófilos en la sangre.",
-      "Compromiso hepático, renal o cardíaco.",
-      "Fatiga y malestar general."
-    ],
-    "complications": [
-      "Insuficiencia orgánica por afectación sistémica.",
-      "Riesgo de infecciones secundarias.",
-      "Deterioro de la función hepática o renal.",
-      "Alta morbilidad y mortalidad si no se trata."
-    ],
-    "riskFactors": [
-      "Uso prolongado de medicamentos desencadenantes.",
-      "Historia previa de alergias a fármacos.",
-      "Infecciones virales concomitantes (ej. herpes humano).",
-      "Factores genéticos que predisponen a reacciones severas."
-    ],
-    "mexicoStats": "El síndrome de Dress es poco frecuente en México, con una incidencia de 1-2 casos por cada 100,000 personas expuestas a fármacos desencadenantes, principalmente en adultos jóvenes.",
-    "ctaText": "Si ha presentado una reacción severa a medicamentos, busque ayuda inmediata. Agende una consulta con la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro, Querétaro, para recibir un diagnóstico y tratamiento adecuados para el síndrome de Dress.",
-    "treatments": [
-      "Suspender de inmediato el fármaco causante.",
-      "Corticosteroides sistémicos para controlar la inflamación.",
-      "Monitoreo estrecho de la función hepática y renal.",
-      "Soporte de órganos afectados y evaluación de posibles complicaciones."
-    ],
-    "imageHome": "/images/diseases/sindrome-de-dress.jpg",
-    "imageIndividual": "/images/diseases/sindrome-de-dress.jpg",
-    "metadata": {
-      "title": "Especialista en Síndrome de Dress en Santiago de Querétaro, Querétaro",
-      "description": "Tratamiento para síndrome de Dress en Santiago de Querétaro, Querétaro. Dra. Martha Ruiz Peñaloza te ayuda a manejar tus reacciones a medicamentos.",
-      "keywords": [
-        "Especialista en síndrome de Dress en Santiago de Querétaro",
-        "Clínica de síndrome de Dress en Santiago de Querétaro",
-        "Hospital de síndrome de Dress en Santiago de Querétaro",
-        "Tratamiento para síndrome de Dress en Santiago de Querétaro",
-        "Experto en síndrome de Dress en Santiago de Querétaro",
-        "Centro de síndrome de Dress en Santiago de Querétaro",
-        "Quien atiende síndrome de Dress en Santiago de Querétaro",
-        "Médico para síndrome de Dress en Santiago de Querétaro",
-        "Doctor que atiende síndrome de Dress en Santiago de Querétaro",
-        "Consulta médica de síndrome de Dress en Santiago de Querétaro"
-      ],
-      "openGraph": {
-        "title": "Especialista en Síndrome de Dress - Dra. Martha Ruiz Peñaloza",
-        "description": "Tratamiento para síndrome de Dress en Santiago de Querétaro. Tratamiento especializado por la Dra. Martha Ruiz Peñaloza.",
-        "url": "https://www.alergologadramartharuiz.com/enfermedades/sindrome-de-dress"
-      },
-      "alternates": {
-        "canonical": "https://www.alergologadramartharuiz.com/enfermedades/sindrome-de-dress"
-      }
-    }
-  },
-  {
-    "id": "sindrome-de-stevens-johnson",
-    "name": "Síndrome de Stevens-Johnson",
-    "technicalName": "Síndrome de Stevens-Johnson",
-    "description": "El síndrome de Stevens-Johnson es una reacción cutánea severa y rara que generalmente es causada por medicamentos o infecciones. Se caracteriza por la formación de ampollas en la piel y las membranas mucosas, lo que puede llevar a la descamación extensa y daños a órganos vitales.",
-    "shortDescription": "Reacción cutánea grave causada por medicamentos o infecciones, con ampollas en piel y mucosas, potencialmente mortal.",
-    "causes": [
-      "Uso de ciertos medicamentos (anticonvulsivos, antibióticos).",
-      "Infecciones virales concomitantes.",
-      "Factores genéticos que predisponen a reacciones severas."
-    ],
-    "symptoms": [
-      "Fiebre alta y malestar general.",
-      "Erupciones cutáneas necróticas de rápida propagación.",
-      "Formación de ampollas y úlceras en piel y mucosas.",
-      "Dolor intenso en las áreas afectadas."
-    ],
-    "complications": [
-      "Infecciones secundarias graves.",
-      "Insuficiencia orgánica por afectación sistémica.",
-      "Cicatrización extensa y formación de cicatrices.",
-      "Elevado riesgo de mortalidad si no se trata con rapidez."
-    ],
-    "riskFactors": [
-      "Uso de medicamentos desencadenantes.",
-      "Historia previa de reacciones cutáneas severas.",
-      "Infecciones virales concomitantes.",
-      "Predisposición genética."
-    ],
-    "mexicoStats": "Este síndrome es extremadamente raro en México, con una incidencia estimada de menos de 1 caso por millón de habitantes. Su alta mortalidad subraya la importancia de un tratamiento inmediato.",
-    "ctaText": "Si presenta síntomas graves de reacciones cutáneas, busque atención médica urgente. Agende una consulta con la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro, Querétaro, para recibir diagnóstico y tratamiento adecuados.",
-    "treatments": [
-      "Suspender de inmediato el medicamento sospechoso.",
-      "Atención hospitalaria en unidades de cuidados intensivos o quemados.",
-      "Corticosteroides sistémicos o inmunoglobulinas IV según valoración médica.",
-      "Manejo del dolor y protección de mucosas afectadas."
-    ],
-    "imageHome": "/images/diseases/sindrome-de-stevens-johnson.jpg",
-    "imageIndividual": "/images/diseases/sindrome-de-stevens-johnson.jpg",
-    "metadata": {
-      "title": "Especialista en Síndrome de Stevens-Johnson en Santiago de Querétaro, Querétaro",
-      "description": "Tratamiento para síndrome de Stevens-Johnson en Santiago de Querétaro, Querétaro. Dra. Martha Ruiz Peñaloza te ayuda a manejar tus reacciones severas.",
-      "keywords": [
-        "Especialista en síndrome de Stevens-Johnson en Santiago de Querétaro",
-        "Clínica de síndrome de Stevens-Johnson en Santiago de Querétaro",
-        "Hospital de síndrome de Stevens-Johnson en Santiago de Querétaro",
-        "Tratamiento para síndrome de Stevens-Johnson en Santiago de Querétaro",
-        "Experto en síndrome de Stevens-Johnson en Santiago de Querétaro",
-        "Centro de síndrome de Stevens-Johnson en Santiago de Querétaro",
-        "Quien atiende síndrome de Stevens-Johnson en Santiago de Querétaro",
-        "Médico para síndrome de Stevens-Johnson en Santiago de Querétaro",
-        "Doctor que atiende síndrome de Stevens-Johnson en Santiago de Querétaro",
-        "Consulta médica de síndrome de Stevens-Johnson en Santiago de Querétaro"
-      ],
-      "openGraph": {
-        "title": "Especialista en Síndrome de Stevens-Johnson - Dra. Martha Ruiz Peñaloza",
-        "description": "Tratamiento para síndrome de Stevens-Johnson en Santiago de Querétaro. Tratamiento especializado por la Dra. Martha Ruiz Peñaloza.",
-        "url": "https://www.alergologadramartharuiz.com/enfermedades/sindrome-de-stevens-johnson"
-      },
-      "alternates": {
-        "canonical": "https://www.alergologadramartharuiz.com/enfermedades/sindrome-de-stevens-johnson"
-      }
-    }
-  },
-  {
-    "id": "sinusitis-alergica-cronica",
-    "name": "Sinusitis Alérgica Crónica",
-    "technicalName": "Sinusitis Alérgica Crónica",
-    "description": "La sinusitis alérgica crónica es una inflamación prolongada de los senos paranasales causada por alergias persistentes. Se manifiesta con síntomas como congestión nasal, dolor facial, secreción nasal y pérdida del sentido del olfato, afectando la calidad de vida y las actividades diarias.",
-    "shortDescription": "Inflamación crónica de los senos paranasales por alergias persistentes, causando congestión, dolor facial y secreción nasal.",
-    "causes": [
-      "Exposición continua a alérgenos (polen, ácaros, moho).",
-      "Infecciones bacterianas secundarias.",
-      "Anomalías anatómicas en la cavidad nasal.",
-      "Uso prolongado de descongestionantes nasales."
-    ],
-    "symptoms": [
-      "Congestión nasal persistente.",
-      "Dolor y presión facial.",
-      "Secreción nasal espesa y descolorida.",
-      "Pérdida del sentido del olfato.",
-      "Fatiga y dolor de cabeza."
-    ],
-    "complications": [
-      "Infecciones sinusales recurrentes.",
-      "Propagación de la infección a ojos y cerebro en casos severos.",
-      "Desarrollo de pólipos nasales.",
-      "Disminución de la calidad de vida y productividad."
-    ],
-    "riskFactors": [
-      "Historia personal o familiar de alergias.",
-      "Exposición frecuente a ambientes con alto contenido de alérgenos.",
-      "Tener otras enfermedades alérgicas como rinitis alérgica o asma.",
-      "Fumar o convivir con humo de tabaco."
-    ],
-    "mexicoStats": "La sinusitis alérgica crónica afecta a aproximadamente el 5-10% de la población mexicana, con mayor prevalencia en áreas urbanas y alta contaminación.",
-    "ctaText": "No permita que la sinusitis alérgica crónica afecte su bienestar diario. Consulte a la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro, Querétaro, para recibir un diagnóstico preciso y un tratamiento eficaz.",
-    "treatments": [
-      "Corticoides nasales y antihistamínicos.",
-      "Lavados nasales con solución salina.",
-      "Antibióticos en caso de infección bacteriana asociada.",
-      "Cirugía endoscópica nasal si existe obstrucción anatómica o pólipos."
-    ],
-    "imageHome": "/images/diseases/sinusitis-alergica-cronica.jpg",
-    "imageIndividual": "/images/diseases/sinusitis-alergica-cronica.jpg",
-    "metadata": {
-      "title": "Especialista en Sinusitis Alérgica Crónica en Santiago de Querétaro, Querétaro",
-      "description": "Tratamiento para sinusitis alérgica crónica en Santiago de Querétaro, Querétaro. Dra. Martha Ruiz Peñaloza te ayuda a manejar tus síntomas.",
-      "keywords": [
-        "Especialista en sinusitis alérgica crónica en Santiago de Querétaro",
-        "Clínica de sinusitis alérgica crónica en Santiago de Querétaro",
-        "Hospital de sinusitis alérgica crónica en Santiago de Querétaro",
-        "Tratamiento para sinusitis alérgica crónica en Santiago de Querétaro",
-        "Experto en sinusitis alérgica crónica en Santiago de Querétaro",
-        "Centro de sinusitis alérgica crónica en Santiago de Querétaro",
-        "Quien atiende sinusitis alérgica crónica en Santiago de Querétaro",
-        "Médico para sinusitis alérgica crónica en Santiago de Querétaro",
-        "Doctor que atiende sinusitis alérgica crónica en Santiago de Querétaro",
-        "Consulta médica de sinusitis alérgica crónica en Santiago de Querétaro"
-      ],
-      "openGraph": {
-        "title": "Especialista en Sinusitis Alérgica Crónica - Dra. Martha Ruiz Peñaloza",
-        "description": "Tratamiento para sinusitis alérgica crónica en Santiago de Querétaro. Tratamiento especializado por la Dra. Martha Ruiz Peñaloza.",
-        "url": "https://www.alergologadramartharuiz.com/enfermedades/sinusitis-alergica-cronica"
-      },
-      "alternates": {
-        "canonical": "https://www.alergologadramartharuiz.com/enfermedades/sinusitis-alergica-cronica"
-      }
-    }
-  },
-  {
-    "id": "infeccion-de-las-vias-respiratorias",
-    "name": "Infección de las Vías Respiratorias",
-    "technicalName": "Infecciones de las Vías Respiratorias",
-    "description": "Las infecciones de las vías respiratorias son enfermedades causadas por virus, bacterias u otros microorganismos que afectan las partes del sistema respiratorio, incluyendo la nariz, la garganta, los bronquios y los pulmones. Estas infecciones pueden ser agudas o crónicas y varían en severidad desde leves resfriados hasta enfermedades graves como la neumonía.",
-    "shortDescription": "Enfermedades respiratorias causadas por virus, bacterias u otros microorganismos, que pueden ser leves o graves.",
-    "causes": [
-      "Virus como rinovirus, influenza o coronavirus.",
-      "Bacterias como Streptococcus pneumoniae, Haemophilus influenzae.",
-      "Contaminación del aire y tabaquismo.",
-      "Sistema inmunológico debilitado."
-    ],
-    "symptoms": [
-      "Congestión nasal y secreción.",
-      "Tos persistente.",
-      "Fiebre y escalofríos.",
-      "Dolor de garganta.",
-      "Dificultad para respirar en casos graves."
-    ],
-    "complications": [
-      "Neumonía o bronquitis crónica.",
-      "Infecciones secundarias.",
-      "Agravamiento de asma u otras condiciones respiratorias."
-    ],
-    "riskFactors": [
-      "Edad (niños y ancianos).",
-      "Exposición a ambientes contaminados.",
-      "Sistema inmunológico comprometido.",
-      "Tabaquismo activo o pasivo."
-    ],
-    "mexicoStats": "Las infecciones de las vías respiratorias son una de las principales causas de consulta médica en México, afectando a millones de personas cada año, especialmente en temporadas de frío.",
-    "ctaText": "Si presenta síntomas de infección de las vías respiratorias, busque atención médica oportuna. Agende una consulta con la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro, Querétaro, para recibir un diagnóstico y tratamiento adecuados.",
-    "treatments": [
-      "Reposo e hidratación adecuada.",
-      "Medicamentos antipiréticos o analgésicos para aliviar síntomas.",
-      "Antibióticos solo en caso de infección bacteriana confirmada.",
-      "Soporte respiratorio si la dificultad para respirar es severa."
-    ],
-    "imageHome": "/images/diseases/infeccion-de-las-vias-respiratorias.jpg",
-    "imageIndividual": "/images/diseases/infeccion-de-las-vias-respiratorias.jpg",
-    "metadata": {
-      "title": "Especialista en Infecciones de las Vías Respiratorias en Santiago de Querétaro, Querétaro",
-      "description": "Tratamiento para infecciones de las vías respiratorias en Santiago de Querétaro, Querétaro. Dra. Martha Ruiz Peñaloza te ayuda a manejar tus síntomas.",
-      "keywords": [
-        "Especialista en infecciones de las vías respiratorias en Santiago de Querétaro",
-        "Clínica de infecciones de las vías respiratorias en Santiago de Querétaro",
-        "Hospital de infecciones de las vías respiratorias en Santiago de Querétaro",
-        "Tratamiento para infecciones de las vías respiratorias en Santiago de Querétaro",
-        "Experto en infecciones de las vías respiratorias en Santiago de Querétaro",
-        "Centro de infecciones de las vías respiratorias en Santiago de Querétaro",
-        "Quien atiende infecciones de las vías respiratorias en Santiago de Querétaro",
-        "Médico para infecciones de las vías respiratorias en Santiago de Querétaro",
-        "Doctor que atiende infecciones de las vías respiratorias en Santiago de Querétaro",
-        "Consulta médica de infecciones de las vías respiratorias en Santiago de Querétaro"
-      ],
-      "openGraph": {
-        "title": "Especialista en Infecciones de las Vías Respiratorias - Dra. Martha Ruiz Peñaloza",
-        "description": "Tratamiento para infecciones de las vías respiratorias en Santiago de Querétaro. Tratamiento especializado por la Dra. Martha Ruiz Peñaloza.",
-        "url": "https://www.alergologadramartharuiz.com/enfermedades/infeccion-de-las-vias-respiratorias"
-      },
-      "alternates": {
-        "canonical": "https://www.alergologadramartharuiz.com/enfermedades/infeccion-de-las-vias-respiratorias"
-      }
-    }
-  },
-  {
-    "id": "rinoconjuntivitis-alergica",
-    "name": "Rinoconjuntivitis Alérgica",
-    "technicalName": "Rinoconjuntivitis Alérgica",
-    "description": "La rinoconjuntivitis alérgica es una condición que combina la rinitis alérgica con la conjuntivitis alérgica. Se caracteriza por inflamación de la nariz y los ojos debido a la exposición a alérgenos como el polen, ácaros del polvo, moho o pelos de animales. Los síntomas incluyen congestión nasal, estornudos, ojos rojos y llorosos.",
-    "shortDescription": "Combinación de rinitis y conjuntivitis por alérgenos, con congestión nasal, estornudos y ojos irritados.",
-    "causes": [
-      "Exposición a polen, ácaros del polvo o moho.",
-      "Contacto con pelos de mascotas.",
-      "Inhalación de contaminantes del aire.",
-      "Predisposición genética a las alergias."
-    ],
-    "symptoms": [
-      "Congestión nasal y secreción acuosa.",
-      "Estornudos frecuentes.",
-      "Picazón en nariz, ojos y garganta.",
-      "Ojos rojos, llorosos y arenilla.",
-      "Fatiga por la incomodidad constante."
-    ],
-    "complications": [
-      "Sinusitis recurrente y sinusitis alérgica crónica.",
-      "Infecciones oculares secundarias.",
-      "Dificultad para concentrarse por los síntomas persistentes."
-    ],
-    "riskFactors": [
-      "Historia familiar de alergias.",
-      "Exposición frecuente a ambientes con alérgenos.",
-      "Tener otras enfermedades alérgicas (asma, dermatitis).",
-      "Vivir en áreas urbanas con alta contaminación."
-    ],
-    "mexicoStats": "La rinoconjuntivitis alérgica afecta alrededor del 10-15% de la población mexicana, con mayor prevalencia en áreas urbanas y temporadas de polinización alta.",
-    "ctaText": "No permita que la rinoconjuntivitis alérgica limite su vida diaria. Consulte a la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro, Querétaro, para recibir un diagnóstico preciso y un tratamiento eficaz.",
-    "treatments": [
-      "Antihistamínicos orales y colirios para aliviar picazón y enrojecimiento.",
-      "Corticoides nasales para reducir la congestión.",
-      "Lavados nasales con solución salina.",
-      "Inmunoterapia en casos crónicos o severos."
-    ],
-    "imageHome": "/images/diseases/rinoconjuntivitis-alergica.jpg",
-    "imageIndividual": "/images/diseases/rinoconjuntivitis-alergica.jpg",
-    "metadata": {
-      "title": "Especialista en Rinoconjuntivitis Alérgica en Santiago de Querétaro, Querétaro",
-      "description": "Tratamiento para rinoconjuntivitis alérgica en Santiago de Querétaro, Querétaro. Dra. Martha Ruiz Peñaloza te ayuda a manejar tus síntomas.",
-      "keywords": [
-        "Especialista en rinoconjuntivitis alérgica en Santiago de Querétaro",
-        "Clínica de rinoconjuntivitis alérgica en Santiago de Querétaro",
-        "Hospital de rinoconjuntivitis alérgica en Santiago de Querétaro",
-        "Tratamiento para rinoconjuntivitis alérgica en Santiago de Querétaro",
-        "Experto en rinoconjuntivitis alérgica en Santiago de Querétaro",
-        "Centro de rinoconjuntivitis alérgica en Santiago de Querétaro",
-        "Quien atiende rinoconjuntivitis alérgica en Santiago de Querétaro",
-        "Médico para rinoconjuntivitis alérgica en Santiago de Querétaro",
-        "Doctor que atiende rinoconjuntivitis alérgica en Santiago de Querétaro",
-        "Consulta médica de rinoconjuntivitis alérgica en Santiago de Querétaro"
-      ],
-      "openGraph": {
-        "title": "Especialista en Rinoconjuntivitis Alérgica - Dra. Martha Ruiz Peñaloza",
-        "description": "Tratamiento para rinoconjuntivitis alérgica en Santiago de Querétaro. Tratamiento especializado por la Dra. Martha Ruiz Peñaloza.",
-        "url": "https://www.alergologadramartharuiz.com/enfermedades/rinoconjuntivitis-alergica"
-      },
-      "alternates": {
-        "canonical": "https://www.alergologadramartharuiz.com/enfermedades/rinoconjuntivitis-alergica"
-      }
-    }
-  },
-  {
-    "id": "inmunodeficiencias-primarias",
-    "name": "Inmunodeficiencias Primarias",
-    "technicalName": "Inmunodeficiencias Primarias",
-    "description": "Las inmunodeficiencias primarias son un grupo de trastornos genéticos que afectan el funcionamiento del sistema inmunológico, disminuyendo su capacidad para combatir infecciones. Estas deficiencias pueden predisponer a los pacientes a infecciones recurrentes, enfermedades autoinmunes y ciertos tipos de cáncer.",
-    "shortDescription": "Trastornos genéticos que afectan la función inmune, ocasionando infecciones recurrentes y mayor riesgo de complicaciones.",
-    "causes": [
-      "Mutaciones genéticas que alteran la producción o función de células inmunes.",
-      "Trastornos hereditarios transmitidos de padres a hijos.",
-      "Deficiencias específicas de anticuerpos, células T u otros componentes del sistema inmune."
-    ],
-    "symptoms": [
-      "Infecciones recurrentes y severas en vías respiratorias, oídos, piel y tracto gastrointestinal.",
-      "Falta de respuesta adecuada a vacunas.",
-      "Cansancio excesivo y pérdida de peso.",
-      "Desarrollo de enfermedades autoinmunes."
-    ],
-    "complications": [
-      "Infecciones crónicas con daño orgánico.",
-      "Enfermedades autoinmunes secundarias.",
-      "Mayor riesgo de ciertos tipos de cáncer (linfoma).",
-      "Dependencia de tratamientos inmunológicos continuos."
-    ],
-    "riskFactors": [
-      "Historia familiar de inmunodeficiencias.",
-      "Presencia de otras enfermedades autoinmunes.",
-      "Diagnóstico temprano en la infancia.",
-      "Exposición a ambientes con alto riesgo de infecciones."
-    ],
-    "mexicoStats": "Las inmunodeficiencias primarias son poco comunes en México, con una incidencia estimada de 1-3 casos por cada 100,000 habitantes. Generalmente se diagnostican en la infancia por la severidad de las infecciones.",
-    "ctaText": "Si usted o su hijo presentan infecciones recurrentes o signos de inmunodeficiencia, consulte a la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro, Querétaro, para recibir un diagnóstico y tratamiento especializados.",
-    "treatments": [
-      "Terapia con inmunoglobulinas para reforzar la defensa inmune.",
-      "Uso de antibióticos profilácticos en casos de infecciones crónicas.",
-      "Vacunas especiales o refuerzos adecuados.",
-      "Trasplante de médula ósea en inmunodeficiencias graves."
-    ],
-    "imageHome": "/images/diseases/inmunodeficiencias-primarias.jpg",
-    "imageIndividual": "/images/diseases/inmunodeficiencias-primarias.jpg",
-    "metadata": {
-      "title": "Especialista en Inmunodeficiencias Primarias en Santiago de Querétaro, Querétaro",
-      "description": "Tratamiento para inmunodeficiencias primarias en Santiago de Querétaro, Querétaro. Dra. Martha Ruiz Peñaloza te ayuda a manejar tu condición.",
-      "keywords": [
-        "Especialista en inmunodeficiencias primarias en Santiago de Querétaro",
-        "Clínica de inmunodeficiencias primarias en Santiago de Querétaro",
-        "Hospital de inmunodeficiencias primarias en Santiago de Querétaro",
-        "Tratamiento para inmunodeficiencias primarias en Santiago de Querétaro",
-        "Experto en inmunodeficiencias primarias en Santiago de Querétaro",
-        "Centro de inmunodeficiencias primarias en Santiago de Querétaro",
-        "Quien atiende inmunodeficiencias primarias en Santiago de Querétaro",
-        "Médico para inmunodeficiencias primarias en Santiago de Querétaro",
-        "Doctor que atiende inmunodeficiencias primarias en Santiago de Querétaro",
-        "Consulta médica de inmunodeficiencias primarias en Santiago de Querétaro"
-      ],
-      "openGraph": {
-        "title": "Especialista en Inmunodeficiencias Primarias - Dra. Martha Ruiz Peñaloza",
-        "description": "Tratamiento para inmunodeficiencias primarias en Santiago de Querétaro. Tratamiento especializado por la Dra. Martha Ruiz Peñaloza.",
-        "url": "https://www.alergologadramartharuiz.com/enfermedades/inmunodeficiencias-primarias"
-      },
-      "alternates": {
-        "canonical": "https://www.alergologadramartharuiz.com/enfermedades/inmunodeficiencias-primarias"
-      }
-    }
-  }
-]
+  ]
 }

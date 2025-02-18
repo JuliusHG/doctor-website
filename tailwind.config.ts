@@ -52,6 +52,9 @@ const config: Config = {
         navy: {
           600: "#1a365d",
         },
+        "dw-dark": "#4C8D90",
+        "dw-darker": "#516567",
+        "dw-soft": "#39B8B0"
       },
       borderRadius: {
         lg: "var(--radius)",

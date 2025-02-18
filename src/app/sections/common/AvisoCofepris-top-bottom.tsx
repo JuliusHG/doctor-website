@@ -34,7 +34,7 @@ export default function AvisoCofeprisTopBottom() {
   const { doctorInfo, doctorWorkInfo } = content
 
   return (
-    <div className="bg-pink-800 text-white py-2 px-4">
+    <div className="bg-dw-dark text-white py-2 px-4">
       <div className="container mx-auto flex flex-col sm:flex-row justify-between items-center text-sm sm:text-base space-y-2 sm:space-y-0">
         <div className="flex items-center text-center sm:text-left">
           <Award className="mr-2 flex-shrink-0" size={16} />

@@ -120,7 +120,7 @@ export default function CertificationsSection() {
   return (
     <section className="py-12 bg-white-100">
       <div className="container mx-auto px-4">
-        <h2 className="text-3xl font-bold mb-8 text-center">{certifications.sectionTitle}</h2>
+        <h2 className="text-5xl text-[#4C8D90] font-bold mb-8 text-center">{certifications.sectionTitle}</h2>
         <div className="flex flex-col md:flex-row gap-8">
           <div className="w-full md:w-3/5">
             <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-8">

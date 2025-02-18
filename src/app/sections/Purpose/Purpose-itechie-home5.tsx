@@ -51,12 +51,12 @@ export default function PurposeSection() {
   const { purpose } = content
 
   return (
-    <div className="w-full py-24" style={{ backgroundColor: "#F8F9FE" }}>
+    <div className="w-full py-24" style={{ backgroundColor: "white" }}> {/* "#F8F9FE" */}
       <div className="container mx-auto px-4 max-w-6xl">
         {/* Section Header */}
         <div className="mb-16">
-            <h2 className="text-xl text-center font-bold mb-2">{purpose.sectionTitle}</h2>
-            <h3 className="text-4xl md:text-5xl font-bold mb-4 text-center text-pink-800">{purpose.sectionSubtitle}</h3>
+            <h2 className="text-3xl text-center font-bold mb-2 text-dw-darker">{purpose.sectionTitle}</h2>
+            <h3 className="text-6xl md:text-5xl font-bold mb-4 text-center text-dw-dark">{purpose.sectionSubtitle}</h3>
             <p className="text-gray-600 text-center">{purpose.sectionText}</p>
         </div>
 
@@ -65,17 +65,17 @@ export default function PurposeSection() {
           {purpose.entities.map((item: PurposeItem, index: number) => (
             <div
               key={index}
-              className="group relative bg-white rounded-lg p-8 h-[400px] transition-all duration-500 ease-in-out hover:bg-pink-600"
+              className="group relative bg-white rounded-lg p-8 h-[400px] transition-all duration-500 ease-in-out hover:bg-dw-dark"
             >
               {/* Icon Container */}
               <div className="mb-20 relative">
                 <div className="w-24 h-24 mx-auto rounded-xl flex items-center justify-center transition-colors duration-500 ease-in-out">
                   <div className="w-16 h-16 relative flex items-center justify-center">
-                    <div className="text-pink-600 transition-all duration-500 ease-in-out">{getIcon(item.icon)}</div>
+                    <div className="text-dw-dark transition-all duration-500 ease-in-out">{getIcon(item.icon)}</div>
                   </div>
                 </div>
                 {/* Decorative shadow */}
-                <div className="absolute -bottom-2 left-1/2 -translate-x-1/2 w-12 h-1.5 bg-pink-300/80 blur-sm rounded-full transition-colors duration-500 ease-in-out group-hover:bg-white/30"></div>
+                <div className="absolute -bottom-2 left-1/2 -translate-x-1/2 w-12 h-1.5 bg-dw-soft/80 blur-sm rounded-full transition-colors duration-500 ease-in-out group-hover:bg-white/30"></div>
               </div>
 
               {/* Content */}

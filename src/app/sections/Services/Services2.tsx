@@ -49,10 +49,10 @@ export default function ServicesSection() {
     <section className="py-16">
       <div className="container mx-auto px-4">
         <div className="mb-16">
-          <h2 className="text-xl md:text-2xl font-bold mb-6 text-center text-black-800">
+          {/* <h2 className="text-xl md:text-2xl font-bold mb-6 text-center text-black-800">
             {servicesContent.sectionTitle}
-          </h2>
-          <h2 className="text-4xl md:text-5xl font-bold mb-4 text-center text-pink-800">
+          </h2> */}
+          <h2 className="text-5xl text-dw-dark md:text-5xl font-bold mb-4 text-center text-dw-dark">
             {servicesContent.sectionSubtitle}
           </h2>
           <p className="text-lg text-gray-600 max-w-4xl mx-auto text-center mb-16">{servicesContent.sectionText}</p>
@@ -69,7 +69,7 @@ export default function ServicesSection() {
                   className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-110"
                 />
               </div>
-              <div className="p-8 bg-pink-700 text-white flex-grow flex flex-col justify-between">
+              <div className="p-8 bg-dw-dark text-white flex-grow flex flex-col justify-between">
                 <div>
                   <h3 className="text-2xl font-semibold mb-4">{service.title}</h3>
                   <p className="text-white/90 mb-6 line-clamp-4">{service.description}</p>
@@ -87,7 +87,7 @@ export default function ServicesSection() {
         <div className="text-center mt-12">
           <Link
             href="/servicios"
-            className="border-2 border-pink-600 text-pink-600 px-8 py-3 rounded-lg hover:bg-pink-600 hover:text-white transition-colors text-lg font-semibold inline-block"
+            className="border-2 border-dw-dark text-dw-dark px-8 py-3 rounded-lg hover:bg-dw-dark hover:text-white transition-colors text-lg font-semibold inline-block"
           >
             {servicesContent.buttonText}
           </Link>

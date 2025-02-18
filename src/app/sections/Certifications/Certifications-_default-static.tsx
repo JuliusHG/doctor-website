@@ -44,8 +44,8 @@ export default function CertificationsSection() {
   return (
     <section className="py-12 bg-gray-100">
       <div className="container mx-auto px-4">
-        <h2 className="text-3xl font-bold mb-8 text-center">{certifications.sectionTitle}</h2>
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
+        <h2 className="text-5xl text-[#4C8D90] font-bold mb-8 text-center">{certifications.sectionTitle}</h2>
+        <div className="grid grid-cols-2 md:grid-cols-3 gap-8">
           {visibleItems.map((item, index) => (
             <div key={index} className="flex flex-col items-center h-full">
               <div className="flex items-center justify-center h-40 mb-4 w-full">

@@ -1,633 +1,633 @@
 {
-    "serviciosMeta": {
-      "main": {
-        "title": "Servicios - Dra. Martha Ruiz Peñaloza",
-        "description": "Información sobre servicios de Alergología e Inmunología Clínica proporcionados por la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro.",
+  "serviciosMeta": {
+    "main": {
+      "title": "Servicios - Dr. Gabriel Gómez Palacios",
+      "description": "Información sobre servicios de Medicina Interna y Medicina Crítica proporcionados por el Dr. Gabriel Gómez Palacios en Tuxtla Gutiérrez.",
+      "openGraph": {
+        "title": "Servicios proporcionados de Medicina Interna y Medicina Crítica",
+        "description": "Conozca los servicios de Medicina Interna y Medicina Crítica que ofrecemos.",
+        "url": "https://url/servicios"
+      },
+      "alternates": {
+        "canonical": "https://url/servicios"
+      }
+    }
+  },
+  "services": [
+    {
+      "id": "paracentesis",
+      "title": "Paracentesis",
+      "description": "La paracentesis consiste en la extracción de líquido acumulado en la cavidad abdominal (ascitis) mediante una aguja estéril o catéter. Se emplea en pacientes con enfermedades hepáticas, renales o cancerígenas que cursan con retención de líquido.",
+      "shortDescription": "Procedimiento para extraer líquido (ascitis) de la cavidad abdominal.",
+      "imageHome": "/images/services/paracentesis.jpg",
+      "imageIndividual": "/images/services/paracentesis.jpg",
+      "iconIndividual": "/images/services/icons/paracentesis.svg",
+      "benefits": [
+        "Alivio de molestias y reducción de la presión abdominal",
+        "Mejoría en la respiración",
+        "Prevención de complicaciones asociadas al exceso de líquido"
+      ],
+      "process": [
+        "Diagnóstica: se extrae una pequeña muestra de líquido para analizar la causa",
+        "Terapéutica: se retira un volumen mayor de líquido para disminuir síntomas"
+      ],
+      "types": [
+        "Paracentesis Diagnóstica",
+        "Paracentesis Terapéutica"
+      ],
+      "painful": "Se efectúa con anestesia local, por lo que la molestia es mínima.",
+      "forWhat": "Permite diagnosticar infecciones y la naturaleza del líquido, además de aliviar la presión abdominal.",
+      "myths": [],
+      "hospitalOrAmbulatory": "Generalmente ambulatorio, salvo casos complejos",
+      "procedureTime": "15 a 30 minutos, según el volumen extraído",
+      "anesthesia": "Local",
+      "recoveryTime": "La mayoría retoma actividades ligeras el mismo día",
+      "postProcedureRecommendations": [
+        "Reposo relativo",
+        "Controlar la herida",
+        "Vigilar signos de infección o sangrado"
+      ],
+      "ctaText": "Soy el Doctor Gabriel Gómez Palacios y ofrezco paracentesis en Tuxtla Gutiérrez, Chiapas. Te invito a agendar tu consulta si necesitas realizarte este procedimiento o deseas resolver dudas sobre su utilidad.",
+      "metadata": {
+        "title": "Paracentesis en Tuxtla Gutiérrez, Chiapas",
+        "description": "La paracentesis extrae líquido abdominal (ascitis) para diagnóstico o alivio. Consulta al Dr. Gabriel Gómez Palacios.",
+        "keywords": [],
         "openGraph": {
-          "title": "Servicios proporcionados de Alergología e Inmunología Clínica",
-          "description": "Conozca los servicios de Alergología e Inmunología Clínica que tratamos.",
-          "url": "https://www.alergologadramartharuiz.com/servicios"
+          "title": "Paracentesis - Dr. Gabriel Gómez Palacios",
+          "description": "Alivia la acumulación de líquido en el abdomen y prevén complicaciones con un procedimiento seguro en Tuxtla Gutiérrez.",
+          "url": "https://url/servicios/paracentesis"
         },
         "alternates": {
-          "canonical": "https://www.alergologadramartharuiz.com/servicios"
+          "canonical": "https://url/servicios/paracentesis"
         }
       }
     },
-    "services": [
-      {
-        "id": "diagnostico-de-patologia-alergica",
-        "title": "Diagnóstico de Patología Alérgica",
-        "description": "El diagnóstico de patología alérgica es el proceso mediante el cual se identifican y evalúan las alergias que afectan a un paciente mediante historial clínico, examen físico y pruebas específicas.",
-        "imageHome": "/images/services/diagnostico-de-patologia-alergica.jpg",
-        "imageIndividual": "/images/services/diagnostico-de-patologia-alergica.jpg",
-        "benefits": [
-          "Identificación precisa de alérgenos",
-          "Desarrollo de tratamientos personalizados",
-          "Reducción de síntomas y mejora de la salud general"
-        ],
-        "process": [
-          "Evaluación clínica (historial y examen físico)",
-          "Pruebas de laboratorio (anticuerpos específicos)",
-          "Pruebas cutáneas de alergia (prick test)"
-        ],
-        "types": [
-          "Evaluación Clínica",
-          "Pruebas de Laboratorio",
-          "Pruebas Cutáneas de Alergia"
-        ],
-        "painful": "Generalmente no es doloroso; las pruebas cutáneas pueden causar ligera picazón.",
-        "forWhat": "Identificar las causas de las reacciones alérgicas y diseñar un plan de tratamiento efectivo.",
-        "myths": [
-          "Mito: Las alergias solo se deben al polen.",
-          "Realidad: Pueden ser causadas por alimentos, ácaros, moho, etc."
-        ],
-        "hospitalOrAmbulatory": "Ambulatorio",
-        "procedureTime": "30 minutos a 1 hora, según las pruebas realizadas",
-        "anesthesia": "No requiere anestesia",
-        "recoveryTime": "No se requiere tiempo de recuperación",
-        "postProcedureRecommendations": [
-          "Evitar rascarse o frotarse las áreas evaluadas",
-          "Reportar cualquier reacción tardía al especialista"
-        ],
-        "ctaText": "No espere más para identificar sus alergias. Agende una consulta con la Dra. Martha Ruiz Peñaloza y mejore su calidad de vida.",
-        "metadata": {
-          "title": "Diagnóstico de Patología Alérgica en Santiago de Querétaro, Querétaro",
-          "description": "Realiza tu diagnóstico de patología alérgica en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
-          "keywords": [
-            "Especialista en diagnóstico de patología alérgica en Santiago de Querétaro",
-            "Dónde puedo realizarme diagnóstico de patología alérgica en Santiago de Querétaro",
-            "Precio de diagnóstico de patología alérgica en Santiago de Querétaro",
-            "Para qué sirve diagnóstico de patología alérgica",
-            "Experto en diagnóstico de patología alérgica en Santiago de Querétaro",
-            "Cuidados después de diagnóstico de patología alérgica",
-            "Quien realiza diagnóstico de patología alérgica en Santiago de Querétaro",
-            "Ventajas y beneficios de diagnóstico de patología alérgica",
-            "Tiempo de recuperación de diagnóstico de patología alérgica",
-            "Tipos de diagnóstico de patología alérgica"
-          ],
-          "openGraph": {
-            "title": "Diagnóstico de Patología Alérgica - Dra. Martha Ruiz Peñaloza",
-            "description": "Realiza tu diagnóstico de patología alérgica en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
-            "url": "https://www.alergologadramartharuiz.com/servicios/diagnostico-de-patologia-alergica"
-          },
-          "alternates": {
-            "canonical": "https://www.alergologadramartharuiz.com/servicios/diagnostico-de-patologia-alergica"
-          }
-        }
-      },
-      {
-        "id": "pruebas-cutaneas-de-alergia",
-        "title": "Pruebas Cutáneas de Alergia: Prick Test y Pruebas Intradérmicas",
-        "description": "Procedimientos para identificar alérgenos específicos que causan reacciones en el paciente, mediante la exposición controlada de la piel a distintas sustancias.",
-        "imageHome": "/images/services/pruebas-cutaneas-de-alergia.jpg",
-        "imageIndividual": "/images/services/pruebas-cutaneas-de-alergia.jpg",
-        "benefits": [
-          "Identificación precisa de alérgenos",
-          "Procedimiento rápido y seguro",
-          "Resultados casi inmediatos",
-          "Ayuda a personalizar el tratamiento"
-        ],
-        "process": [
-          "Aplicación de gotas de alérgenos y punción leve (Prick Test)",
-          "Inyección superficial de alérgeno (Pruebas Intradérmicas)",
-          "Observación de la reacción cutánea"
-        ],
-        "types": [
-          "Prick Test",
-          "Pruebas Intradérmicas"
-        ],
-        "painful": "Mínimamente doloroso, sensación similar a un leve pinchazo.",
-        "forWhat": "Determinar con exactitud a qué sustancias es alérgico el paciente.",
-        "myths": [
-          "Mito: Son siempre dolorosas.",
-          "Realidad: La molestia es mínima y muy tolerable."
-        ],
-        "hospitalOrAmbulatory": "Ambulatorio",
-        "procedureTime": "Entre 30 minutos a 1 hora",
-        "anesthesia": "No requiere anestesia",
-        "recoveryTime": "No se necesita recuperación",
-        "postProcedureRecommendations": [
-          "Evitar frotar o rascar las áreas de prueba",
-          "Notificar al médico si hay hinchazón excesiva"
-        ],
-        "ctaText": "Identifique sus alérgenos y alivie sus síntomas. Agende su prueba cutánea hoy mismo.",
-        "metadata": {
-          "title": "Pruebas Cutáneas de Alergia en Santiago de Querétaro, Querétaro",
-          "description": "Realiza pruebas cutáneas de alergia en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
-          "keywords": [
-            "Especialista en pruebas cutáneas de alergia en Santiago de Querétaro",
-            "Dónde puedo realizarme pruebas cutáneas de alergia en Santiago de Querétaro",
-            "Precio de pruebas cutáneas de alergia en Santiago de Querétaro",
-            "Para qué sirven pruebas cutáneas de alergia",
-            "Experto en pruebas cutáneas de alergia en Santiago de Querétaro",
-            "Cuidados después de pruebas cutáneas de alergia",
-            "Quien realiza pruebas cutáneas de alergia en Santiago de Querétaro",
-            "Ventajas y beneficios de pruebas cutáneas de alergia",
-            "Tiempo de recuperación de pruebas cutáneas de alergia",
-            "Tipos de pruebas cutáneas de alergia"
-          ],
-          "openGraph": {
-            "title": "Pruebas Cutáneas de Alergia - Dra. Martha Ruiz Peñaloza",
-            "description": "Realiza pruebas cutáneas de alergia en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
-            "url": "https://www.alergologadramartharuiz.com/servicios/pruebas-cutaneas-de-alergia"
-          },
-          "alternates": {
-            "canonical": "https://www.alergologadramartharuiz.com/servicios/pruebas-cutaneas-de-alergia"
-          }
-        }
-      },
-      {
-        "id": "vacunacion-de-alergias",
-        "title": "Vacunación de Alergias",
-        "description": "La vacunación de alergias o inmunoterapia específica consiste en administrar dosis progresivas del alérgeno para desensibilizar el sistema inmunológico y reducir reacciones a largo plazo.",
-        "imageHome": "/images/services/vacunacion-de-alergias.jpg",
-        "imageIndividual": "/images/services/vacunacion-de-alergias.jpg",
-        "benefits": [
-          "Reducción sostenida de los síntomas alérgicos",
-          "Disminución de la necesidad de medicamentos",
-          "Mejora notable en la calidad de vida"
-        ],
-        "process": [
-          "Evaluación inicial y confirmación de alérgenos",
-          "Administración de dosis crecientes del alérgeno",
-          "Mantenimiento de la dosis durante el tiempo indicado"
-        ],
-        "types": [
-          "Inmunoterapia Subcutánea",
-          "Inmunoterapia Oral (tabletas o gotas)"
-        ],
-        "painful": "Las inyecciones subcutáneas pueden causar ligera molestia en el sitio de aplicación.",
-        "forWhat": "Desensibilizar al sistema inmune y prevenir reacciones alérgicas futuras.",
-        "myths": [
-          "Mito: Cura definitivamente todas las alergias.",
-          "Realidad: Disminuye significativamente los síntomas, pero no siempre es una cura absoluta."
-        ],
-        "hospitalOrAmbulatory": "Ambulatorio",
-        "procedureTime": "Sesiones de 30 minutos (inyecciones) o administración oral diaria",
-        "anesthesia": "No requiere anestesia",
-        "recoveryTime": "No se requiere. Se aconseja observación de 30 min post-inyección.",
-        "postProcedureRecommendations": [
-          "Evitar ejercicio intenso tras la inyección",
-          "Monitorear posibles reacciones locales o sistémicas"
-        ],
-        "ctaText": "Reduzca sus síntomas y viva sin limitaciones. Inicie su vacunación de alergias con la Dra. Martha Ruiz Peñaloza.",
-        "metadata": {
-          "title": "Vacunación de Alergias en Santiago de Querétaro, Querétaro",
-          "description": "Recibe vacunación de alergias en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
-          "keywords": [
-            "Especialista en vacunación de alergias en Santiago de Querétaro",
-            "Dónde puedo realizarme vacunación de alergias en Santiago de Querétaro",
-            "Precio de vacunación de alergias en Santiago de Querétaro",
-            "Para qué sirve vacunación de alergias",
-            "Experto en vacunación de alergias en Santiago de Querétaro",
-            "Cuidados después de vacunación de alergias",
-            "Quien realiza vacunación de alergias en Santiago de Querétaro",
-            "Ventajas y beneficios de vacunación de alergias",
-            "Tiempo de recuperación de vacunación de alergias",
-            "Tipos de vacunación de alergias"
-          ],
-          "openGraph": {
-            "title": "Vacunación de Alergias - Dra. Martha Ruiz Peñaloza",
-            "description": "Recibe vacunación de alergias en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
-            "url": "https://www.alergologadramartharuiz.com/servicios/vacunacion-de-alergias"
-          },
-          "alternates": {
-            "canonical": "https://www.alergologadramartharuiz.com/servicios/vacunacion-de-alergias"
-          }
-        }
-      },
-      {
-        "id": "inmunoterapia-sublingual",
-        "title": "Inmunoterapia Sublingual",
-        "description": "Tratamiento en forma de gotas o tabletas que se administra bajo la lengua para desensibilizar al organismo frente a alérgenos específicos.",
-        "imageHome": "/images/services/inmunoterapia-sublingual.jpg",
-        "imageIndividual": "/images/services/inmunoterapia-sublingual.jpg",
-        "benefits": [
-          "Fácil administración en casa",
-          "Menor riesgo de reacciones sistémicas",
-          "Efectividad similar a la inmunoterapia subcutánea"
-        ],
-        "process": [
-          "Evaluación del paciente y elección del alérgeno",
-          "Administración diaria de tabletas o gotas sublinguales",
-          "Seguimiento médico periódico para ajustar el tratamiento"
-        ],
-        "types": [
-          "Dosis Líquidas",
-          "Tabletas Sublinguales"
-        ],
-        "painful": "No es doloroso; puede existir un leve cosquilleo o sabor particular.",
-        "forWhat": "Tratar alergias estacionales y perennes, reduciendo la sensibilidad del organismo.",
-        "myths": [
-          "Mito: Es menos efectiva que la terapia inyectada.",
-          "Realidad: Ofrece resultados comparables en muchos casos."
-        ],
-        "hospitalOrAmbulatory": "Ambulatorio",
-        "procedureTime": "Minutos al día para la administración",
-        "anesthesia": "No requiere anestesia",
-        "recoveryTime": "Inmediato; no se necesita reposo",
-        "postProcedureRecommendations": [
-          "No comer ni beber por 10 minutos tras la aplicación",
-          "Reportar reacciones o molestias anormales"
-        ],
-        "ctaText": "Opte por un método cómodo y eficaz para controlar sus alergias. Agende su valoración para inmunoterapia sublingual.",
-        "metadata": {
-          "title": "Inmunoterapia Sublingual en Santiago de Querétaro, Querétaro",
-          "description": "Recibe inmunoterapia sublingual en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
-          "keywords": [
-            "Especialista en inmunoterapia sublingual en Santiago de Querétaro",
-            "Dónde puedo realizarme inmunoterapia sublingual en Santiago de Querétaro",
-            "Precio de inmunoterapia sublingual en Santiago de Querétaro",
-            "Para qué sirve inmunoterapia sublingual",
-            "Experto en inmunoterapia sublingual en Santiago de Querétaro",
-            "Cuidados después de inmunoterapia sublingual",
-            "Quien realiza inmunoterapia sublingual en Santiago de Querétaro",
-            "Ventajas y beneficios de inmunoterapia sublingual",
-            "Tiempo de recuperación de inmunoterapia sublingual",
-            "Tipos de inmunoterapia sublingual"
-          ],
-          "openGraph": {
-            "title": "Inmunoterapia Sublingual - Dra. Martha Ruiz Peñaloza",
-            "description": "Recibe inmunoterapia sublingual en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
-            "url": "https://www.alergologadramartharuiz.com/servicios/inmunoterapia-sublingual"
-          },
-          "alternates": {
-            "canonical": "https://www.alergologadramartharuiz.com/servicios/inmunoterapia-sublingual"
-          }
-        }
-      },
-      {
-        "id": "tratamiento-de-anafilaxia",
-        "title": "Tratamiento de Anafilaxia",
-        "description": "Intervención de emergencia destinada a revertir reacciones alérgicas graves que afectan la vía aérea, la circulación y sistemas corporales múltiples.",
-        "imageHome": "/images/services/tratamiento-de-anafilaxia.jpg",
-        "imageIndividual": "/images/services/tratamiento-de-anafilaxia.jpg",
-        "benefits": [
-          "Detiene rápidamente la reacción potencialmente mortal",
-          "Evita complicaciones severas de la anafilaxia",
-          "Aumenta significativamente las probabilidades de recuperación"
-        ],
-        "process": [
-          "Administración inmediata de epinefrina",
-          "Soporte respiratorio y circulatorio",
-          "Observación en un entorno hospitalario"
-        ],
-        "types": [
-          "Administración de Epinefrina",
-          "Soporte Respiratorio",
-          "Soporte Circulatorio"
-        ],
-        "painful": "La inyección de epinefrina puede causar ardor en el sitio de aplicación, pero es bien tolerada.",
-        "forWhat": "Salvar la vida del paciente durante una reacción anafiláctica y estabilizar sus funciones vitales.",
-        "myths": [
-          "Mito: Solo las personas con alergia diagnosticada sufren anafilaxia.",
-          "Realidad: Puede ocurrir en cualquier individuo expuesto a un alérgeno potente."
-        ],
-        "hospitalOrAmbulatory": "Hospitalario (emergencia)",
-        "procedureTime": "Inicio inmediato, con monitoreo por varias horas",
-        "anesthesia": "No requiere anestesia",
-        "recoveryTime": "Puede variar de horas a días según la gravedad",
-        "postProcedureRecommendations": [
-          "Permanecer bajo observación médica",
-          "Evitar futuros contactos con el alérgeno",
-          "Llevar autoinyector de epinefrina si está indicado"
-        ],
-        "ctaText": "La anafilaxia requiere atención inmediata. Si sospechas una reacción grave, busca ayuda médica o comunícate con un especialista urgentemente.",
-        "metadata": {
-          "title": "Tratamiento de Anafilaxia en Santiago de Querétaro, Querétaro",
-          "description": "Recibe tratamiento de anafilaxia en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
-          "keywords": [
-            "Especialista en tratamiento de anafilaxia en Santiago de Querétaro",
-            "Dónde puedo realizarme tratamiento de anafilaxia en Santiago de Querétaro",
-            "Precio de tratamiento de anafilaxia en Santiago de Querétaro",
-            "Para qué sirve tratamiento de anafilaxia",
-            "Experto en tratamiento de anafilaxia en Santiago de Querétaro",
-            "Cuidados después de tratamiento de anafilaxia",
-            "Quien realiza tratamiento de anafilaxia en Santiago de Querétaro",
-            "Ventajas y beneficios de tratamiento de anafilaxia",
-            "Tiempo de recuperación de tratamiento de anafilaxia",
-            "Tipos de tratamiento de anafilaxia"
-          ],
-          "openGraph": {
-            "title": "Tratamiento de Anafilaxia - Dra. Martha Ruiz Peñaloza",
-            "description": "Recibe tratamiento de anafilaxia en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
-            "url": "https://www.alergologadramartharuiz.com/servicios/tratamiento-de-anafilaxia"
-          },
-          "alternates": {
-            "canonical": "https://www.alergologadramartharuiz.com/servicios/tratamiento-de-anafilaxia"
-          }
-        }
-      },
-      {
-        "id": "desensibilizacion-de-medicamentos",
-        "title": "Desensibilización de Medicamentos",
-        "description": "Proceso controlado que permite a pacientes alérgicos a un fármaco recibirlo de manera segura mediante la administración gradual de dosis crecientes.",
-        "imageHome": "/images/services/desensibilizacion-de-medicamentos.jpg",
-        "imageIndividual": "/images/services/desensibilizacion-de-medicamentos.jpg",
-        "benefits": [
-          "Facilita el uso de medicamentos esenciales sin reacciones graves",
-          "Evita sustituir el fármaco por uno menos efectivo",
-          "Mejora la adherencia a tratamientos necesarios"
-        ],
-        "process": [
-          "Evaluación del paciente y del medicamento",
-          "Administración progresiva de dosis bajo vigilancia",
-          "Monitoreo continuo de signos vitales y reacciones"
-        ],
-        "types": [
-          "Desensibilización Oral",
-          "Desensibilización Intravenosa"
-        ],
-        "painful": "Puede haber ligeras molestias al iniciar cada dosis, pero el procedimiento en sí no es doloroso.",
-        "forWhat": "Permitir la administración de un fármaco al que el paciente presenta alergia, siempre que sea clínicamente imprescindible.",
-        "myths": [
-          "Mito: Siempre provoca reacciones graves.",
-          "Realidad: Bajo supervisión adecuada, el riesgo es controlado."
-        ],
-        "hospitalOrAmbulatory": "Según gravedad; puede ser en hospital o ambulatorio",
-        "procedureTime": "Varias horas a un día, dependiendo del protocolo",
-        "anesthesia": "No requiere anestesia",
-        "recoveryTime": "Generalmente se retoman actividades normales tras el procedimiento",
-        "postProcedureRecommendations": [
-          "Seguir exactamente las indicaciones médicas",
-          "Vigilar signos de reacciones alérgicas posteriores",
-          "Continuar el tratamiento sin interrupciones para mantener la desensibilización"
-        ],
-        "ctaText": "Si necesitas un medicamento esencial pero presentas alergia, la desensibilización puede ser tu solución. Agenda una consulta para evaluarlo.",
-        "metadata": {
-          "title": "Desensibilización de Medicamentos en Santiago de Querétaro, Querétaro",
-          "description": "Recibe desensibilización de medicamentos en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
-          "keywords": [
-            "Especialista en desensibilización de medicamentos en Santiago de Querétaro",
-            "Dónde puedo realizarme desensibilización de medicamentos en Santiago de Querétaro",
-            "Precio de desensibilización de medicamentos en Santiago de Querétaro",
-            "Para qué sirve desensibilización de medicamentos",
-            "Experto en desensibilización de medicamentos en Santiago de Querétaro",
-            "Cuidados después de desensibilización de medicamentos",
-            "Quien realiza desensibilización de medicamentos en Santiago de Querétaro",
-            "Ventajas y beneficios de desensibilización de medicamentos",
-            "Tiempo de recuperación de desensibilización de medicamentos",
-            "Tipos de desensibilización de medicamentos"
-          ],
-          "openGraph": {
-            "title": "Desensibilización de Medicamentos - Dra. Martha Ruiz Peñaloza",
-            "description": "Recibe desensibilización de medicamentos en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
-            "url": "https://www.alergologadramartharuiz.com/servicios/desensibilizacion-de-medicamentos"
-          },
-          "alternates": {
-            "canonical": "https://www.alergologadramartharuiz.com/servicios/desensibilizacion-de-medicamentos"
-          }
-        }
-      },
-      {
-        "id": "diagnostico-y-tratamiento-de-errores-innatos-de-la-inmunidad",
-        "title": "Diagnóstico y Tratamiento de Errores Innatos de la Inmunidad",
-        "description": "Aborda deficiencias genéticas que impactan el sistema inmunológico, predisponiendo a infecciones graves o recurrentes y enfermedades autoinmunes.",
-        "imageHome": "/images/services/diagnostico-y-tratamiento-de-errores-innatos-de-la-inmunidad.jpg",
-        "imageIndividual": "/images/services/diagnostico-y-tratamiento-de-errores-innatos-de-la-inmunidad.jpg",
-        "benefits": [
-          "Identificación precisa de la deficiencia inmunológica",
-          "Tratamiento personalizado que mejora la función inmune",
-          "Prevención de infecciones recurrentes y complicaciones"
-        ],
-        "process": [
-          "Evaluación clínica y antecedentes familiares",
-          "Pruebas genéticas y de laboratorio especializadas",
-          "Aplicación de terapias inmunológicas (inmunoglobulinas, etc.)"
-        ],
-        "types": [
-          "Deficiencias de Células Inmunitarias",
-          "Deficiencias del Complemento",
-          "Trastornos de Regulación Inmunológica"
-        ],
-        "painful": "Algunas pruebas requieren extracciones de sangre; el tratamiento suele ser poco doloroso.",
-        "forWhat": "Prevenir y controlar infecciones graves o recurrentes, y mejorar la calidad de vida en personas con errores innatos de la inmunidad.",
-        "myths": [
-          "Mito: Solo aparecen en la infancia.",
-          "Realidad: Pueden diagnosticarse en cualquier etapa de la vida."
-        ],
-        "hospitalOrAmbulatory": "Puede ser hospitalario o ambulatorio según la terapia",
-        "procedureTime": "Las evaluaciones genéticas pueden tardar semanas; el tratamiento es continuo.",
-        "anesthesia": "No suele requerirse anestesia, salvo procedimientos específicos",
-        "recoveryTime": "Variable según el tipo de inmunodeficiencia y el tratamiento aplicado",
-        "postProcedureRecommendations": [
-          "Seguir el esquema de inmunizaciones correspondiente",
-          "Mantener controles regulares con el especialista",
-          "Procurar hábitos de vida saludables"
-        ],
-        "ctaText": "Si presentas infecciones recurrentes o sospechas de inmunodeficiencia, agenda tu evaluación con la Dra. Martha Ruiz Peñaloza.",
-        "metadata": {
-          "title": "Diagnóstico y Tratamiento de Errores Innatos de la Inmunidad en Santiago de Querétaro, Querétaro",
-          "description": "Recibe diagnóstico y tratamiento de errores innatos de la inmunidad en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
-          "keywords": [
-            "Especialista en errores innatos de la inmunidad en Santiago de Querétaro",
-            "Dónde puedo realizarme diagnóstico de errores innatos de la inmunidad en Santiago de Querétaro",
-            "Precio de diagnóstico de errores innatos de la inmunidad en Santiago de Querétaro",
-            "Para qué sirve tratamiento de errores innatos de la inmunidad",
-            "Experto en errores innatos de la inmunidad en Santiago de Querétaro",
-            "Cuidados después de tratamiento de errores innatos de la inmunidad",
-            "Quien realiza diagnóstico de errores innatos de la inmunidad en Santiago de Querétaro",
-            "Ventajas y beneficios de tratamiento de errores innatos de la inmunidad",
-            "Tiempo de recuperación de tratamiento de errores innatos de la inmunidad",
-            "Tipos de errores innatos de la inmunidad"
-          ],
-          "openGraph": {
-            "title": "Diagnóstico y Tratamiento de Errores Innatos de la Inmunidad - Dra. Martha Ruiz Peñaloza",
-            "description": "Recibe diagnóstico y tratamiento de errores innatos de la inmunidad en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
-            "url": "https://www.alergologadramartharuiz.com/servicios/diagnostico-y-tratamiento-de-errores-innatos-de-la-inmunidad"
-          },
-          "alternates": {
-            "canonical": "https://www.alergologadramartharuiz.com/servicios/diagnostico-y-tratamiento-de-errores-innatos-de-la-inmunidad"
-          }
-        }
-      },
-      {
-        "id": "consulta-de-alergia-e-inmunologia",
-        "title": "Consulta de Alergia e Inmunología",
-        "description": "Evaluación clínica especializada que abarca tanto las alergias como los trastornos del sistema inmunológico, mediante pruebas diagnósticas y tratamientos individualizados.",
-        "imageHome": "/images/services/consulta-de-alergia-e-inmunologia.jpg",
-        "imageIndividual": "/images/services/consulta-de-alergia-e-inmunologia.jpg",
-        "benefits": [
-          "Diagnóstico preciso de alergias e inmunodeficiencias",
-          "Tratamientos personalizados y efectivos",
-          "Prevención de complicaciones y mejor calidad de vida"
-        ],
-        "process": [
-          "Historial médico detallado",
-          "Examen físico orientado a alergia e inmunología",
-          "Pruebas diagnósticas específicas (cutáneas, laboratorio)"
-        ],
-        "types": [
-          "Evaluación de Alergias Ambientales",
-          "Evaluación de Alergias Alimentarias",
-          "Evaluación de Inmunodeficiencias"
-        ],
-        "painful": "Pruebas cutáneas pueden generar una ligera picazón; la consulta en sí no es dolorosa.",
-        "forWhat": "Identificar y manejar alergias e inmunodeficiencias, optimizando la salud y reduciendo riesgos.",
-        "myths": [
-          "Mito: Solo se consulta si los síntomas son graves.",
-          "Realidad: Incluso síntomas leves pueden empeorar sin manejo adecuado."
-        ],
-        "hospitalOrAmbulatory": "Ambulatorio",
-        "procedureTime": "1 hora en la consulta inicial (puede variar)",
-        "anesthesia": "No requiere",
-        "recoveryTime": "No se necesita tiempo de recuperación",
-        "postProcedureRecommendations": [
-          "Seguir las indicaciones del especialista",
-          "Evitar alérgenos identificados",
-          "Asistir a citas de control si se pauta"
-        ],
-        "ctaText": "No dejes que las alergias afecten tu vida. Agenda una consulta de alergia e inmunología para recibir atención especializada.",
-        "metadata": {
-          "title": "Consulta de Alergia e Inmunología en Santiago de Querétaro, Querétaro",
-          "description": "Programa tu consulta de alergia e inmunología en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
-          "keywords": [
-            "Especialista en consulta de alergia e inmunología en Santiago de Querétaro",
-            "Dónde puedo realizarme consulta de alergia e inmunología en Santiago de Querétaro",
-            "Precio de consulta de alergia e inmunología en Santiago de Querétaro",
-            "Para qué sirve consulta de alergia e inmunología",
-            "Experto en consulta de alergia e inmunología en Santiago de Querétaro",
-            "Cuidados después de consulta de alergia e inmunología",
-            "Quien realiza consulta de alergia e inmunología en Santiago de Querétaro",
-            "Ventajas y beneficios de consulta de alergia e inmunología",
-            "Tiempo de recuperación de consulta de alergia e inmunología",
-            "Tipos de consulta de alergia e inmunología"
-          ],
-          "openGraph": {
-            "title": "Consulta de Alergia e Inmunología - Dra. Martha Ruiz Peñaloza",
-            "description": "Programa tu consulta de alergia e inmunología en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
-            "url": "https://www.alergologadramartharuiz.com/servicios/consulta-de-alergia-e-inmunologia"
-          },
-          "alternates": {
-            "canonical": "https://www.alergologadramartharuiz.com/servicios/consulta-de-alergia-e-inmunologia"
-          }
-        }
-      },
-      {
-        "id": "consulta-de-pediatria",
-        "title": "Consulta de Pediatría",
-        "description": "Evaluación especializada en alergia e inmunología pediátrica para diagnosticar y tratar afecciones alérgicas e inmunodeficiencias en niños.",
-        "imageHome": "/images/services/consulta-de-pediatria.jpg",
-        "imageIndividual": "/images/services/consulta-de-pediatria.jpg",
-        "benefits": [
-          "Diagnóstico temprano y preciso en población infantil",
-          "Tratamientos adaptados a las necesidades de los niños",
-          "Prevención de complicaciones y mejora del bienestar infantil"
-        ],
-        "process": [
-          "Historia clínica completa enfocada en alergias infantiles",
-          "Pruebas cutáneas y de laboratorio adaptadas a la edad",
-          "Diseño de un plan de tratamiento seguro y efectivo"
-        ],
-        "types": [
-          "Evaluación de Alergias Alimentarias en Niños",
-          "Evaluación de Asma Infantil",
-          "Evaluación de Inmunodeficiencias Congénitas"
-        ],
-        "painful": "Las pruebas cutáneas pueden ocasionar leve molestia, bien tolerada por los niños.",
-        "forWhat": "Identificar y manejar alergias e inmunodeficiencias en niños, garantizando un desarrollo saludable.",
-        "myths": [
-          "Mito: Los niños siempre superan las alergias.",
-          "Realidad: Algunas persisten y requieren manejo continuo."
-        ],
-        "hospitalOrAmbulatory": "Ambulatorio",
-        "procedureTime": "1 hora aproximadamente en la primera visita",
-        "anesthesia": "No se requiere",
-        "recoveryTime": "No necesita periodo de recuperación",
-        "postProcedureRecommendations": [
-          "Evitar alérgenos detectados",
-          "Cumplir con el tratamiento y revisiones periódicas",
-          "Mantener buena comunicación con el pediatra"
-        ],
-        "ctaText": "Cuida la salud de tus hijos. Agenda una consulta pediátrica en alergia e inmunología para un diagnóstico preciso.",
-        "metadata": {
-          "title": "Consulta de Pediatría en Santiago de Querétaro, Querétaro",
-          "description": "Programa tu consulta de pediatría en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
-          "keywords": [
-            "Especialista en consulta de pediatría en Santiago de Querétaro",
-            "Dónde puedo realizarme consulta de pediatría en Santiago de Querétaro",
-            "Precio de consulta de pediatría en Santiago de Querétaro",
-            "Para qué sirve consulta de pediatría",
-            "Experto en consulta de pediatría en Santiago de Querétaro",
-            "Cuidados después de consulta de pediatría",
-            "Quien realiza consulta de pediatría en Santiago de Querétaro",
-            "Ventajas y beneficios de consulta de pediatría",
-            "Tiempo de recuperación de consulta de pediatría",
-            "Tipos de consulta de pediatría"
-          ],
-          "openGraph": {
-            "title": "Consulta de Pediatría - Dra. Martha Ruiz Peñaloza",
-            "description": "Programa tu consulta de pediatría en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
-            "url": "https://www.alergologadramartharuiz.com/servicios/consulta-de-pediatria"
-          },
-          "alternates": {
-            "canonical": "https://www.alergologadramartharuiz.com/servicios/consulta-de-pediatria"
-          }
-        }
-      },
-      {
-        "id": "tratamiento-de-asma",
-        "title": "Tratamiento de Asma",
-        "description": "Conjunto de estrategias médicas para controlar y reducir los síntomas del asma, prevenir crisis y mejorar la función pulmonar mediante medicamentos y educación al paciente.",
-        "imageHome": "/images/services/tratamiento-de-asma.jpg",
-        "imageIndividual": "/images/services/tratamiento-de-asma.jpg",
-        "benefits": [
-          "Mejora de la capacidad respiratoria",
-          "Reducción de la frecuencia y severidad de las crisis",
-          "Mayor independencia y calidad de vida"
-        ],
-        "process": [
-          "Diagnóstico y clasificación del asma",
-          "Uso de medicación de control (corticoides inhalados)",
-          "Educación en el uso de inhaladores y plan de acción",
-          "Seguimiento y ajustes según evolución"
-        ],
-        "types": [
-          "Medicación de Control",
-          "Medicación de Alivio Rápido",
-          "Terapias Adicionales (Inmunoterapia)"
-        ],
-        "painful": "No es doloroso; la administración de inhaladores puede causar leve irritación en la garganta.",
-        "forWhat": "Controlar los síntomas de asma, evitando ataques y mejorando la función respiratoria a largo plazo.",
-        "myths": [
-          "Mito: El asma solo se presenta en la infancia.",
-          "Realidad: Puede manifestarse a cualquier edad."
-        ],
-        "hospitalOrAmbulatory": "Ambulatorio, salvo crisis severas que requieran hospitalización",
-        "procedureTime": "Consultas de 30-60 minutos; terapia continua a largo plazo",
-        "anesthesia": "No requiere",
-        "recoveryTime": "No aplica; el paciente vive con asma y lo controla",
-        "postProcedureRecommendations": [
-          "Usar inhaladores según indicaciones",
-          "Evitar desencadenantes (humo, polvos, alérgenos)",
-          "Revisiones periódicas para ajustar la medicación"
-        ],
-        "ctaText": "Mantén tu asma bajo control y mejora tu calidad de vida. Agenda una consulta para un tratamiento personalizado.",
-        "metadata": {
-          "title": "Tratamiento de Asma en Santiago de Querétaro, Querétaro",
-          "description": "Recibe tratamiento de asma en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
-          "keywords": [
-            "Especialista en tratamiento de asma en Santiago de Querétaro",
-            "Dónde puedo realizarme tratamiento de asma en Santiago de Querétaro",
-            "Precio de tratamiento de asma en Santiago de Querétaro",
-            "Para qué sirve tratamiento de asma",
-            "Experto en tratamiento de asma en Santiago de Querétaro",
-            "Cuidados después de tratamiento de asma",
-            "Quien realiza tratamiento de asma en Santiago de Querétaro",
-            "Ventajas y beneficios de tratamiento de asma",
-            "Tiempo de recuperación de tratamiento de asma",
-            "Tipos de tratamiento de asma"
-          ],
-          "openGraph": {
-            "title": "Tratamiento de Asma - Dra. Martha Ruiz Peñaloza",
-            "description": "Recibe tratamiento de asma en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
-            "url": "https://www.alergologadramartharuiz.com/servicios/tratamiento-de-asma"
-          },
-          "alternates": {
-            "canonical": "https://www.alergologadramartharuiz.com/servicios/tratamiento-de-asma"
-          }
+    {
+      "id": "toracocentesis",
+      "title": "Toracocentesis",
+      "description": "La toracocentesis es la extracción de líquido o aire de la cavidad pleural mediante aguja o catéter. Se practica en casos de derrame pleural, infecciones pulmonares o neumotórax.",
+      "shortDescription": "Extracción de líquido o aire pleural para aliviar la dificultad respiratoria.",
+      "imageHome": "/images/services/toracocentesis.jpg",
+      "imageIndividual": "/images/services/toracocentesis.jpg",
+      "iconIndividual": "/images/services/icons/toracocentesis.svg",
+      "benefits": [
+        "Alivio de la presión en los pulmones",
+        "Mejoría en la respiración",
+        "Diagnóstico del origen del derrame pleural"
+      ],
+      "process": [
+        "Toracocentesis diagnóstica: se obtiene muestra de líquido para su análisis",
+        "Toracocentesis terapéutica: se retira mayor cantidad de líquido o aire"
+      ],
+      "types": [
+        "Diagnóstica",
+        "Terapéutica"
+      ],
+      "painful": "Se realiza con anestesia local; la molestia suele ser mínima.",
+      "forWhat": "Alivia la dificultad respiratoria y determina las causas de derrame pleural o neumotórax.",
+      "myths": [],
+      "hospitalOrAmbulatory": "Generalmente ambulatorio, salvo casos complejos",
+      "procedureTime": "15 a 45 minutos, según la cantidad de líquido o aire",
+      "anesthesia": "Local",
+      "recoveryTime": "Recuperación breve con observación posterior",
+      "postProcedureRecommendations": [
+        "Reposo moderado",
+        "Evitar esfuerzos intensos",
+        "Vigilar la herida por signos de infección o fuga de aire"
+      ],
+      "ctaText": "Soy el Doctor Gabriel Gómez Palacios. Si presentas acumulación de líquido en el tórax o complicaciones respiratorias, agenda tu toracocentesis en Tuxtla Gutiérrez, Chiapas. Juntos buscaremos la causa y la solución más adecuada.",
+      "metadata": {
+        "title": "Toracocentesis en Tuxtla Gutiérrez, Chiapas",
+        "description": "La toracocentesis extrae líquido o aire de la cavidad pleural. Consulta al Dr. Gabriel Gómez Palacios para aliviar tu dificultad respiratoria.",
+        "keywords": [],
+        "openGraph": {
+          "title": "Toracocentesis - Dr. Gabriel Gómez Palacios",
+          "description": "Diagnostica y alivia derrames pleurales o neumotórax con un procedimiento seguro en Tuxtla Gutiérrez.",
+          "url": "https://url/servicios/toracocentesis"
+        },
+        "alternates": {
+          "canonical": "https://url/servicios/toracocentesis"
         }
       }
-    ]
-  }
-  
+    },
+    {
+      "id": "puncion-lumbar",
+      "title": "Punción lumbar",
+      "description": "La punción lumbar consiste en extraer líquido cefalorraquídeo del espacio subaracnoideo en la región lumbar. Se utiliza para diagnosticar meningitis, esclerosis múltiple y otros trastornos del sistema nervioso.",
+      "shortDescription": "Extracción de líquido cefalorraquídeo para evaluar trastornos neurológicos.",
+      "imageHome": "/images/services/puncion-lumbar.jpg",
+      "imageIndividual": "/images/services/puncion-lumbar.jpg",
+      "iconIndividual": "/images/services/icons/puncion-lumbar.svg",
+      "benefits": [
+        "Diagnóstico preciso de infecciones y afecciones neurológicas",
+        "Posibilidad de administrar fármacos en el espacio espinal",
+        "Alivio de la presión intracraneal en casos específicos"
+      ],
+      "process": [
+        "Diagnóstica: evaluación de infecciones o condiciones neurológicas",
+        "Terapéutica: aplicación de medicamentos o reducción de presión"
+      ],
+      "types": [
+        "Punción lumbar diagnóstica",
+        "Punción lumbar terapéutica"
+      ],
+      "painful": "Se realiza con anestesia local; puede haber ligera presión o molestia en la región lumbar.",
+      "forWhat": "Permite analizar el líquido cefalorraquídeo y diagnosticar afecciones del sistema nervioso central.",
+      "myths": [],
+      "hospitalOrAmbulatory": "Ambulatorio, con reposo posterior",
+      "procedureTime": "Entre 20 y 30 minutos",
+      "anesthesia": "Local",
+      "recoveryTime": "Reposo unas horas tras el procedimiento",
+      "postProcedureRecommendations": [
+        "Hidratación abundante",
+        "Evitar esfuerzos",
+        "Vigilar aparición de dolor de cabeza o fiebre"
+      ],
+      "ctaText": "Soy el Doctor Gabriel Gómez Palacios, y estoy disponible en Tuxtla Gutiérrez, Chiapas para realizar punciones lumbares. Agenda tu cita para un diagnóstico certero y un manejo adecuado de enfermedades del sistema nervioso central.",
+      "metadata": {
+        "title": "Punción lumbar en Tuxtla Gutiérrez, Chiapas",
+        "description": "La punción lumbar ayuda a diagnosticar meningitis y otros trastornos neurológicos. Consulta al Dr. Gabriel Gómez Palacios.",
+        "keywords": [],
+        "openGraph": {
+          "title": "Punción lumbar - Dr. Gabriel Gómez Palacios",
+          "description": "Obtén un diagnóstico preciso de infecciones o afecciones neurológicas con una punción lumbar en Tuxtla Gutiérrez.",
+          "url": "https://url/servicios/puncion-lumbar"
+        },
+        "alternates": {
+          "canonical": "https://url/servicios/puncion-lumbar"
+        }
+      }
+    },
+    {
+      "id": "insercion-de-cateter-venoso-central",
+      "title": "Inserción de catéter venoso central",
+      "description": "La inserción de un catéter venoso central consiste en colocar un tubo delgado en una vena de gran calibre para administrar medicamentos, nutrientes o medir la presión venosa central. Es fundamental en cuidados críticos y tratamientos prolongados.",
+      "shortDescription": "Colocación de un acceso venoso para administrar fármacos o nutrientes a largo plazo.",
+      "imageHome": "/images/services/insercion-de-cateter-venoso-central.jpg",
+      "imageIndividual": "/images/services/insercion-de-cateter-venoso-central.jpg",
+      "iconIndividual": "/images/services/icons/insercion-cateter-venoso-central.svg",
+      "benefits": [
+        "Acceso venoso seguro y duradero",
+        "Administración continua de medicamentos",
+        "Reducción de pinchazos repetidos"
+      ],
+      "process": [
+        "Catéter venoso central temporal: uso corto en urgencias",
+        "Catéter venoso central de larga duración: uso prolongado (quimioterapias, nutrición parenteral)"
+      ],
+      "types": [
+        "Temporal",
+        "Larga duración"
+      ],
+      "painful": "Puede haber incomodidad durante la colocación; se realiza con anestesia local o sedación leve.",
+      "forWhat": "Garantiza un acceso venoso confiable y continuo para tratamientos intravenosos prolongados.",
+      "myths": [],
+      "hospitalOrAmbulatory": "Generalmente en entorno hospitalario",
+      "procedureTime": "20 a 40 minutos",
+      "anesthesia": "Local o sedación leve",
+      "recoveryTime": "Corto, con vigilancia de la inserción",
+      "postProcedureRecommendations": [
+        "Mantener el sitio de inserción limpio",
+        "Seguir cuidados de enfermería",
+        "Vigilar signos de infección"
+      ],
+      "ctaText": "Soy el Doctor Gabriel Gómez Palacios. Si requieres la inserción de un catéter venoso central en Tuxtla Gutiérrez, Chiapas, agenda tu cita para recibir un servicio seguro y profesional.",
+      "metadata": {
+        "title": "Inserción de catéter venoso central en Tuxtla Gutiérrez, Chiapas",
+        "description": "Coloca un catéter venoso central para tratamientos prolongados. Consulta al Dr. Gabriel Gómez Palacios.",
+        "keywords": [],
+        "openGraph": {
+          "title": "Inserción de catéter venoso central - Dr. Gabriel Gómez Palacios",
+          "description": "Accede a vías venosas profundas de forma segura y confiable con un procedimiento especializado en Tuxtla Gutiérrez.",
+          "url": "https://url/servicios/insercion-de-cateter-venoso-central"
+        },
+        "alternates": {
+          "canonical": "https://url/servicios/insercion-de-cateter-venoso-central"
+        }
+      }
+    },
+    {
+      "id": "gasometria-arterial",
+      "title": "Gasometría arterial",
+      "description": "La gasometría arterial analiza los niveles de oxígeno, dióxido de carbono y el equilibrio ácido-base en la sangre. Se realiza con una muestra de sangre de una arteria, generalmente la radial en la muñeca.",
+      "shortDescription": "Prueba para evaluar oxigenación y equilibrio ácido-base en la sangre arterial.",
+      "imageHome": "/images/services/gasometria-arterial.jpg",
+      "imageIndividual": "/images/services/gasometria-arterial.jpg",
+      "iconIndividual": "/images/services/icons/gasometria-arterial.svg",
+      "benefits": [
+        "Información precisa sobre la función respiratoria",
+        "Detección de desequilibrios ácido-base",
+        "Diagnóstico de problemas pulmonares o metabólicos"
+      ],
+      "process": [
+        "Gasometría arterial en reposo",
+        "Gasometría arterial con ejercicio (en casos específicos)"
+      ],
+      "types": [
+        "En reposo",
+        "Con ejercicio"
+      ],
+      "painful": "Puede sentirse un pinchazo o leve molestia al extraer sangre de la arteria.",
+      "forWhat": "Ayuda a diagnosticar problemas de oxigenación y a valorar el estado metabólico del paciente.",
+      "myths": [],
+      "hospitalOrAmbulatory": "Generalmente ambulatorio",
+      "procedureTime": "5 a 10 minutos",
+      "anesthesia": "No requiere, ocasionalmente anestesia local",
+      "recoveryTime": "Inmediato, con presión en la zona para evitar hematoma",
+      "postProcedureRecommendations": [
+        "Presionar la zona de punción para prevenir sangrado",
+        "Monitorizar hematomas o dolor"
+      ],
+      "ctaText": "Soy el Doctor Gabriel Gómez Palacios y realizo gasometrías arteriales en Tuxtla Gutiérrez, Chiapas. Si necesitas evaluar tu función respiratoria, agenda tu cita para recibir resultados confiables y un seguimiento puntual.",
+      "metadata": {
+        "title": "Gasometría arterial en Tuxtla Gutiérrez, Chiapas",
+        "description": "La gasometría arterial determina oxigenación y equilibrio ácido-base. Consulta al Dr. Gabriel Gómez Palacios.",
+        "keywords": [],
+        "openGraph": {
+          "title": "Gasometría arterial - Dr. Gabriel Gómez Palacios",
+          "description": "Obtén una medición precisa de tus gases sanguíneos y detecta problemas respiratorios o metabólicos a tiempo.",
+          "url": "https://url/servicios/gasometria-arterial"
+        },
+        "alternates": {
+          "canonical": "https://url/servicios/gasometria-arterial"
+        }
+      }
+    },
+    {
+      "id": "electrocardiograma",
+      "title": "Electrocardiograma",
+      "description": "El electrocardiograma (ECG) registra la actividad eléctrica del corazón mediante electrodos en la piel. Detecta arritmias, bloqueos de arterias coronarias y otros trastornos cardíacos.",
+      "shortDescription": "Registro de la actividad eléctrica del corazón para detectar arritmias y anomalías.",
+      "imageHome": "/images/services/electrocardiograma.jpg",
+      "imageIndividual": "/images/services/electrocardiograma.jpg",
+      "iconIndividual": "/images/services/icons/electrocardiograma.svg",
+      "benefits": [
+        "Evaluación rápida y segura de la función cardíaca",
+        "Prevención de eventos coronarios",
+        "Detección de arritmias y bloqueos"
+      ],
+      "process": [
+        "ECG en reposo",
+        "ECG de esfuerzo",
+        "Holter de 24 horas"
+      ],
+      "types": [
+        "Electrocardiograma en reposo",
+        "Electrocardiograma de esfuerzo",
+        "Holter"
+      ],
+      "painful": "No es doloroso; se colocan electrodos de manera superficial.",
+      "forWhat": "Diagnosticar irregularidades del ritmo, signos de infarto previo o alteraciones de conducción.",
+      "myths": [],
+      "hospitalOrAmbulatory": "Ambulatorio",
+      "procedureTime": "5 a 10 minutos",
+      "anesthesia": "No requiere",
+      "recoveryTime": "Inmediato; sin limitaciones",
+      "postProcedureRecommendations": [],
+      "ctaText": "Soy el Doctor Gabriel Gómez Palacios. Te ofrezco un electrocardiograma en Tuxtla Gutiérrez, Chiapas para evaluar la salud de tu corazón de forma rápida y confiable.",
+      "metadata": {
+        "title": "Electrocardiograma en Tuxtla Gutiérrez, Chiapas",
+        "description": "Registra la actividad eléctrica del corazón y detecta trastornos cardíacos. Consulta al Dr. Gabriel Gómez Palacios.",
+        "keywords": [],
+        "openGraph": {
+          "title": "Electrocardiograma - Dr. Gabriel Gómez Palacios",
+          "description": "Obtén un diagnóstico rápido de tu función cardíaca y prevén complicaciones coronarias en Tuxtla Gutiérrez.",
+          "url": "https://url/servicios/electrocardiograma"
+        },
+        "alternates": {
+          "canonical": "https://url/servicios/electrocardiograma"
+        }
+      }
+    },
+    {
+      "id": "ecografia-critica",
+      "title": "Ecografía crítica",
+      "description": "La ecografía crítica es un ultrasonido enfocado en la evaluación inmediata de situaciones graves, principalmente en pacientes de cuidados intensivos o urgencias. Permite valorar la función cardíaca, el llenado de vasos sanguíneos y detectar líquido en tórax o abdomen.",
+      "shortDescription": "Ultrasonido urgente para evaluar condiciones críticas en cuidados intensivos o urgencias.",
+      "imageHome": "/images/services/ecografia-critica.jpg",
+      "imageIndividual": "/images/services/ecografia-critica.jpg",
+      "iconIndividual": "/images/services/icons/ecografia-critica.svg",
+      "benefits": [
+        "Rapidez en el diagnóstico de condiciones graves",
+        "No emplea radiación",
+        "Permite tomar decisiones inmediatas"
+      ],
+      "process": [
+        "Ecografía cardíaca a pie de cama",
+        "Ecografía abdominal de urgencia",
+        "Ecografía torácica rápida"
+      ],
+      "types": [
+        "Cardíaca",
+        "Abdominal",
+        "Torácica"
+      ],
+      "painful": "No es doloroso; se aplica un gel en la zona a explorar.",
+      "forWhat": "Diagnosticar rápidamente condiciones potencialmente mortales y orientar el tratamiento urgente en áreas críticas.",
+      "myths": [],
+      "hospitalOrAmbulatory": "Hospitalario, principalmente en urgencias o UCI",
+      "procedureTime": "5 a 20 minutos, según la complejidad",
+      "anesthesia": "No requiere",
+      "recoveryTime": "Inmediato",
+      "postProcedureRecommendations": [],
+      "ctaText": "Soy el Doctor Gabriel Gómez Palacios. Si necesitas un diagnóstico inmediato, cuento con ecografía crítica en Tuxtla Gutiérrez, Chiapas para brindarte atención urgente y precisa.",
+      "metadata": {
+        "title": "Ecografía crítica en Tuxtla Gutiérrez, Chiapas",
+        "description": "La ecografía crítica evalúa de forma inmediata situaciones graves en urgencias o UCI. Consulta al Dr. Gabriel Gómez Palacios.",
+        "keywords": [],
+        "openGraph": {
+          "title": "Ecografía crítica - Dr. Gabriel Gómez Palacios",
+          "description": "Obtén un diagnóstico rápido y certero de condiciones críticas con ultrasonido enfocado en Tuxtla Gutiérrez.",
+          "url": "https://url/servicios/ecografia-critica"
+        },
+        "alternates": {
+          "canonical": "https://url/servicios/ecografia-critica"
+        }
+      }
+    },
+    {
+      "id": "consulta-de-medicina-interna-general",
+      "title": "Consulta de medicina interna general",
+      "description": "La consulta de medicina interna general se enfoca en la atención integral de enfermedades agudas y crónicas en adultos, así como en la prevención y diagnóstico oportuno de patologías de distintos sistemas del organismo.",
+      "shortDescription": "Atención integral de pacientes adultos para prevenir, diagnosticar y manejar patologías.",
+      "imageHome": "/images/services/consulta-de-medicina-interna-general.jpg",
+      "imageIndividual": "/images/services/consulta-de-medicina-interna-general.jpg",
+      "iconIndividual": "/images/services/icons/consulta-medicina-interna.svg",
+      "benefits": [
+        "Visión global del paciente",
+        "Detección temprana de factores de riesgo",
+        "Prevención de complicaciones",
+        "Coordinación multidisciplinaria"
+      ],
+      "process": [
+        "Consulta preventiva: revisión de salud y detección de riesgos",
+        "Consulta de control: seguimiento de patologías crónicas"
+      ],
+      "types": [
+        "Preventiva",
+        "Control de enfermedades"
+      ],
+      "painful": "No es doloroso; la consulta implica evaluación física y entrevista clínica.",
+      "forWhat": "Identificar y manejar de forma integral diversas enfermedades, optimizando los tratamientos y la prevención.",
+      "myths": [],
+      "hospitalOrAmbulatory": "Ambulatorio",
+      "procedureTime": "20 a 40 minutos por consulta",
+      "anesthesia": "No requiere",
+      "recoveryTime": "No aplica",
+      "postProcedureRecommendations": [
+        "Seguir indicaciones médicas",
+        "Realizar estudios si se solicitan"
+      ],
+      "ctaText": "Soy el Doctor Gabriel Gómez Palacios y brindo consultas de medicina interna general en Tuxtla Gutiérrez, Chiapas. Agenda tu cita para evaluar tu estado de salud de forma integral.",
+      "metadata": {
+        "title": "Consulta de medicina interna general en Tuxtla Gutiérrez, Chiapas",
+        "description": "Atención integral de adultos, prevención y control de enfermedades crónicas. Consulta al Dr. Gabriel Gómez Palacios.",
+        "keywords": [],
+        "openGraph": {
+          "title": "Consulta de medicina interna general - Dr. Gabriel Gómez Palacios",
+          "description": "Recibe una evaluación completa y un plan de cuidados personalizados para tu salud global.",
+          "url": "https://url/servicios/consulta-de-medicina-interna-general"
+        },
+        "alternates": {
+          "canonical": "https://url/servicios/consulta-de-medicina-interna-general"
+        }
+      }
+    },
+    {
+      "id": "control-y-seguimiento-de-enfermedades-cronicas",
+      "title": "Control y seguimiento de enfermedades crónicas",
+      "description": "El control y seguimiento de enfermedades crónicas se basa en la evaluación periódica y el ajuste de tratamientos en pacientes con patologías de larga evolución, como diabetes o hipertensión, con el fin de prevenir complicaciones y mantener una buena calidad de vida.",
+      "shortDescription": "Monitoreo y ajuste de tratamientos en enfermedades de larga evolución para evitar complicaciones.",
+      "imageHome": "/images/services/control-enfermedades-cronicas.jpg",
+      "imageIndividual": "/images/services/control-enfermedades-cronicas.jpg",
+      "iconIndividual": "/images/services/icons/control-enfermedades-cronicas.svg",
+      "benefits": [
+        "Reducción del riesgo de hospitalizaciones",
+        "Mejora de la calidad de vida",
+        "Detección temprana de descompensaciones"
+      ],
+      "process": [
+        "Control metabólico: glucosa y lípidos",
+        "Control cardiovascular: presión arterial, función cardíaca"
+      ],
+      "types": [
+        "Control metabólico",
+        "Control cardiovascular"
+      ],
+      "painful": "No es doloroso; implica consultas periódicas y posibles pruebas de laboratorio.",
+      "forWhat": "Prevenir complicaciones, ajustar tratamientos y educar al paciente sobre su enfermedad crónica.",
+      "myths": [],
+      "hospitalOrAmbulatory": "Principalmente ambulatorio",
+      "procedureTime": "Consulta periódica de 20-30 minutos (variable)",
+      "anesthesia": "No requiere",
+      "recoveryTime": "No aplica",
+      "postProcedureRecommendations": [
+        "Cumplir con la medicación",
+        "Mantener hábitos de vida saludable",
+        "Asistir a las citas programadas"
+      ],
+      "ctaText": "Soy el Doctor Gabriel Gómez Palacios. Ofrezco control y seguimiento de enfermedades crónicas en Tuxtla Gutiérrez, Chiapas. Agenda tu cita para prevenir complicaciones y mantener tu salud estable.",
+      "metadata": {
+        "title": "Control y seguimiento de enfermedades crónicas en Tuxtla Gutiérrez, Chiapas",
+        "description": "Monitorea y ajusta tus tratamientos para evitar complicaciones. Consulta al Dr. Gabriel Gómez Palacios.",
+        "keywords": [],
+        "openGraph": {
+          "title": "Control de enfermedades crónicas - Dr. Gabriel Gómez Palacios",
+          "description": "Optimiza tu tratamiento y prevén hospitalizaciones con un seguimiento periódico y profesional.",
+          "url": "https://url/servicios/control-y-seguimiento-de-enfermedades-cronicas"
+        },
+        "alternates": {
+          "canonical": "https://url/servicios/control-y-seguimiento-de-enfermedades-cronicas"
+        }
+      }
+    },
+    {
+      "id": "chequeos-medicos-preventivos",
+      "title": "Chequeos médicos preventivos",
+      "description": "Los chequeos médicos preventivos son evaluaciones periódicas que incluyen revisión física, pruebas de laboratorio y estudios de imagen, encaminadas a detectar precozmente enfermedades o factores de riesgo.",
+      "shortDescription": "Evaluaciones periódicas para detectar enfermedades o factores de riesgo de manera temprana.",
+      "imageHome": "/images/services/chequeos-medicos-preventivos.jpg",
+      "imageIndividual": "/images/services/chequeos-medicos-preventivos.jpg",
+      "iconIndividual": "/images/services/icons/chequeo-medico.svg",
+      "benefits": [
+        "Diagnóstico temprano de enfermedades",
+        "Reducción de complicaciones y costos",
+        "Promoción de un estilo de vida saludable"
+      ],
+      "process": [
+        "Chequeo básico: examen físico y análisis de sangre y orina",
+        "Chequeo completo: estudios cardiológicos, hormonales o ginecológicos"
+      ],
+      "types": [
+        "Básico",
+        "Completo"
+      ],
+      "painful": "No es doloroso; puede incluir extracciones de sangre para exámenes.",
+      "forWhat": "Prevenir y detectar enfermedades de manera oportuna, mejorando las posibilidades de tratamiento exitoso.",
+      "myths": [],
+      "hospitalOrAmbulatory": "Ambulatorio",
+      "procedureTime": "Variable según las pruebas solicitadas",
+      "anesthesia": "No requiere",
+      "recoveryTime": "No aplica",
+      "postProcedureRecommendations": [
+        "Conservar resultados en archivo personal",
+        "Seguir indicaciones médicas en caso de hallazgos relevantes"
+      ],
+      "ctaText": "Soy el Doctor Gabriel Gómez Palacios, y te invito a realizar chequeos médicos preventivos en Tuxtla Gutiérrez, Chiapas. Juntos podemos cuidar tu salud a largo plazo.",
+      "metadata": {
+        "title": "Chequeos médicos preventivos en Tuxtla Gutiérrez, Chiapas",
+        "description": "Detecta enfermedades de forma temprana y mejora tus posibilidades de tratamiento. Consulta al Dr. Gabriel Gómez Palacios.",
+        "keywords": [],
+        "openGraph": {
+          "title": "Chequeos médicos preventivos - Dr. Gabriel Gómez Palacios",
+          "description": "Protege tu salud con evaluaciones periódicas y un enfoque preventivo en Tuxtla Gutiérrez.",
+          "url": "https://url/servicios/chequeos-medicos-preventivos"
+        },
+        "alternates": {
+          "canonical": "https://url/servicios/chequeos-medicos-preventivos"
+        }
+      }
+    },
+    {
+      "id": "valoracion-preoperatoria",
+      "title": "Valoración preoperatoria",
+      "description": "La valoración preoperatoria es la evaluación integral que se realiza antes de una cirugía para determinar el estado de salud del paciente y minimizar riesgos durante la intervención. Incluye análisis de laboratorio, estudios de imagen y valoración por especialistas si es necesario.",
+      "shortDescription": "Evaluación completa previa a cirugía para reducir riesgos y optimizar la intervención.",
+      "imageHome": "/images/services/valoracion-preoperatoria.jpg",
+      "imageIndividual": "/images/services/valoracion-preoperatoria.jpg",
+      "iconIndividual": "/images/services/icons/valoracion-preoperatoria.svg",
+      "benefits": [
+        "Mayor seguridad quirúrgica",
+        "Planificación anestésica adecuada",
+        "Reducción de eventos adversos"
+      ],
+      "process": [
+        "Valoración básica: examen físico, pruebas de sangre y orina",
+        "Valoración especializada: estudios cardiológicos, pulmonares o nutricionales"
+      ],
+      "types": [
+        "Básica",
+        "Especializada"
+      ],
+      "painful": "No es doloroso; se realizan exámenes y estudios para evaluar el estado general.",
+      "forWhat": "Identificar factores de riesgo, optimizar la condición del paciente y reducir complicaciones quirúrgicas.",
+      "myths": [],
+      "hospitalOrAmbulatory": "Ambulatorio u hospitalario, según la complejidad",
+      "procedureTime": "Variable, según los estudios requeridos",
+      "anesthesia": "No requiere",
+      "recoveryTime": "No aplica",
+      "postProcedureRecommendations": [
+        "Seguir indicaciones del equipo quirúrgico",
+        "Mantener comunicación en caso de cambios de salud"
+      ],
+      "ctaText": "Soy el Doctor Gabriel Gómez Palacios. Ofrezco valoración preoperatoria en Tuxtla Gutiérrez, Chiapas para que tu cirugía sea lo más segura posible. Agenda tu cita.",
+      "metadata": {
+        "title": "Valoración preoperatoria en Tuxtla Gutiérrez, Chiapas",
+        "description": "Evalúa tu estado de salud antes de una cirugía para minimizar riesgos. Consulta al Dr. Gabriel Gómez Palacios.",
+        "keywords": [],
+        "openGraph": {
+          "title": "Valoración preoperatoria - Dr. Gabriel Gómez Palacios",
+          "description": "Asegura una intervención más segura y reduce complicaciones con una evaluación médica adecuada en Tuxtla Gutiérrez.",
+          "url": "https://url/servicios/valoracion-preoperatoria"
+        },
+        "alternates": {
+          "canonical": "https://url/servicios/valoracion-preoperatoria"
+        }
+      }
+    },
+    {
+      "id": "manejo-de-comorbilidades-en-pacientes-hospitalizados",
+      "title": "Manejo de comorbilidades en pacientes hospitalizados",
+      "description": "El manejo de comorbilidades en pacientes hospitalizados se enfoca en atender múltiples enfermedades de forma simultánea, garantizando que cada condición reciba el tratamiento adecuado sin interferencias. Esto previene agravamientos y facilita la recuperación.",
+      "shortDescription": "Coordinación de cuidados para varios padecimientos en un solo paciente durante su estancia hospitalaria.",
+      "imageHome": "/images/services/manejo-de-comorbilidades-en-pacientes-hospitalizados.jpg",
+      "imageIndividual": "/images/services/manejo-de-comorbilidades-en-pacientes-hospitalizados.jpg",
+      "iconIndividual": "/images/services/icons/manejo-comorbilidades.svg",
+      "benefits": [
+        "Detección de interacciones entre fármacos",
+        "Prevención de agravamiento de enfermedades",
+        "Alta hospitalaria más segura"
+      ],
+      "process": [
+        "Manejo multidisciplinario: equipo de expertos en distintas áreas",
+        "Manejo integrado por medicina interna: coordinación centralizada de los cuidados"
+      ],
+      "types": [
+        "Multidisciplinario",
+        "Integrado por medicina interna"
+      ],
+      "painful": "No aplica; es un abordaje de gestión clínica integral.",
+      "forWhat": "Evitar complicaciones derivadas de múltiples patologías en un mismo paciente y optimizar la recuperación.",
+      "myths": [],
+      "hospitalOrAmbulatory": "Hospitalario",
+      "procedureTime": "Atención continua durante la hospitalización",
+      "anesthesia": "No requiere",
+      "recoveryTime": "Depende de la evolución de cada paciente",
+      "postProcedureRecommendations": [
+        "Mantener seguimiento con el médico tratante",
+        "Coordinar cuidados con otros especialistas"
+      ],
+      "ctaText": "Soy el Doctor Gabriel Gómez Palacios. Si necesitas un manejo integral de comorbilidades durante una hospitalización en Tuxtla Gutiérrez, Chiapas, cuenta conmigo para coordinar tu atención y mejorar tu recuperación.",
+      "metadata": {
+        "title": "Manejo de comorbilidades en pacientes hospitalizados en Tuxtla Gutiérrez, Chiapas",
+        "description": "Atiende múltiples enfermedades simultáneamente y prevén complicaciones. Consulta al Dr. Gabriel Gómez Palacios.",
+        "keywords": [],
+        "openGraph": {
+          "title": "Manejo de comorbilidades en hospitalización - Dr. Gabriel Gómez Palacios",
+          "description": "Coordina tratamientos para distintas patologías de manera eficaz y segura durante tu estancia hospitalaria.",
+          "url": "https://url/servicios/manejo-de-comorbilidades-en-pacientes-hospitalizados"
+        },
+        "alternates": {
+          "canonical": "https://url/servicios/manejo-de-comorbilidades-en-pacientes-hospitalizados"
+        }
+      }
+    },
+    {
+      "id": "atencion-de-urgencias-medicas",
+      "title": "Atención de urgencias médicas",
+      "description": "La atención de urgencias médicas se encarga de valorar y tratar de forma inmediata condiciones que ponen en riesgo la vida o la salud del paciente, como traumatismos, infartos, crisis respiratorias o infecciones severas.",
+      "shortDescription": "Asistencia inmediata para afecciones graves que amenazan la vida o la salud del paciente.",
+      "imageHome": "/images/services/atencion-de-urgencias-medicas.jpg",
+      "imageIndividual": "/images/services/atencion-de-urgencias-medicas.jpg",
+      "iconIndividual": "/images/services/icons/urgencias-medicas.svg",
+      "benefits": [
+        "Detección y abordaje inmediato de problemas graves",
+        "Reducción de secuelas",
+        "Coordinación de traslados si se requiere otro nivel de atención"
+      ],
+      "process": [
+        "Urgencias vitales: situaciones de peligro inminente",
+        "Urgencias relativas: afecciones que requieren atención rápida pero no inmediata"
+      ],
+      "types": [
+        "Vitales",
+        "Relativas"
+      ],
+      "painful": "Dependerá de la afección, pero la asistencia se prioriza para estabilizar al paciente.",
+      "forWhat": "Abordar emergencias médicas con inmediatez para evitar complicaciones mayores o secuelas permanentes.",
+      "myths": [],
+      "hospitalOrAmbulatory": "Hospitalario en la mayoría de los casos",
+      "procedureTime": "Variable según la urgencia",
+      "anesthesia": "Depende del tipo de urgencia",
+      "recoveryTime": "Varía según la patología y la estabilidad del paciente",
+      "postProcedureRecommendations": [
+        "Seguir las indicaciones del médico de urgencias",
+        "Realizar estudios complementarios si se solicitan"
+      ],
+      "ctaText": "Soy el Doctor Gabriel Gómez Palacios. Ofrezco atención de urgencias médicas en Tuxtla Gutiérrez, Chiapas, para responder con rapidez y eficacia ante cualquier situación que ponga en riesgo tu salud.",
+      "metadata": {
+        "title": "Atención de urgencias médicas en Tuxtla Gutiérrez, Chiapas",
+        "description": "Recibe valoración y tratamiento inmediato en casos de emergencia. Consulta al Dr. Gabriel Gómez Palacios.",
+        "keywords": [],
+        "openGraph": {
+          "title": "Atención de urgencias médicas - Dr. Gabriel Gómez Palacios",
+          "description": "Actúa rápidamente frente a traumatismos, infartos o crisis respiratorias con un servicio de urgencias oportuno.",
+          "url": "https://url/servicios/atencion-de-urgencias-medicas"
+        },
+        "alternates": {
+          "canonical": "https://url/servicios/atencion-de-urgencias-medicas"
+        }
+      }
+    }
+  ]
+}

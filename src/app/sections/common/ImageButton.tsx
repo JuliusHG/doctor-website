@@ -10,7 +10,7 @@ const ImageButton: React.FC<ImageButtonProps> = ({ linkUrl, className = "" }) =>
   return (
     <a
       href={linkUrl}
-      className={`inline-flex items-center px-4 py-2 bg-pink-600 hover:bg-pink-700 transition-colors duration-300 rounded-md ${className}`}
+      className={`inline-flex items-center px-4 py-2 bg-dw-dark hover:bg-dw-darker transition-colors duration-300 rounded-md ${className}`}
       target="_blank"
       rel="noopener noreferrer"
     >

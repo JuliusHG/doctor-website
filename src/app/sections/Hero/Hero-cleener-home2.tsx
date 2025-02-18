@@ -59,6 +59,7 @@ export default function HeroSection() {
         priority
       />
       <div className="absolute inset-0" style={{ backgroundColor: overlayColor, opacity: overlayOpacity }}></div>
+      {/* <div className="absolute inset-0" style={{ backgroundColor: overlayColor, opacity: overlayOpacity }}></div> */}
 
       <div className="relative z-10 flex w-full h-full">
         {/* Left column */}

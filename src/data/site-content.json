@@ -7,7 +7,7 @@
     "address": "C. Guanajuato #253 Entre C. Querétaro y C. Oaxaca Colonia Residencial Hacienda. CP. 29030 Tuxtla Gutiérrez, Chiapas.",
     "phone": "+529613171735",
     "whatsapp": "+529613171735",
-    "email": "",
+    "email": "drgabrielgomezpalacios1@gmail.com",
     "cedProf": "10305657 Med. Gral.",
     "cedEsp": "13574194 Med. Int. 13323211 Med. Crítica",
     "websiteUrl": "drgabrielgomezpalacios.com",
@@ -17,28 +17,30 @@
     "xLink": "",
     "twitterLink": "",
     "youtubeLink": "",
-    "googleMapsLink": "https://g.page/r/CSgPH6326xdQEBM/",
+    "googleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3820.264821530834!2d-93.1322721!3d16.763495199999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ecd97d824fdbf3%3A0x5017ebf6ad1f0f28!2sDr.%20Gabriel%20G%C3%B3mez%20Palacios%20%7C%20Medicina%20Interna%20-%20Medicina%20Cr%C3%ADtica!5e0!3m2!1ses-419!2smx!4v1739477036614!5m2!1ses-419!2smx",
     "doctoraliaLink": "",
     "doctoraliaReviewsLink": "",
-    "logoPath": "/images/logos/logo-drgabriel1.jpg",
-    "logoHeight": 120,
+    "logoPath": "/images/logos/logo-drgabriel-h.jpg",
+    "logoHeight": 130,
+    "logoHorizPath": "/images/logos/logo-drgabriel-h.jpg",
+    "logoHorizHeight": 90,
     "favicon": ""
   },
   "doctorWorkInfo": {
     "avisoCofepris": "XXXXXXXXXXXXXXXXX",
-    "consultingHeader": "MÉDICA MEDERI, PISO 1",
-    "consultingAddress": "Guanajuato #253 entre Querétaro y Oaxaca, Colonia Residencial Hacienda. CP. 29030 Tuxtla Gutiérrez, Chiapas",
+    "consultingHeader": "MÉDICA MEDERI",
+    "consultingAddress": "Guanajuato #253 Piso 1 entre Querétaro y Oaxaca, Colonia Residencial Hacienda. CP. 29030 Tuxtla Gutiérrez, Chiapas",
     "consultingHoursDaysHeader": "Horario",
     "consultingHoursDaysSubheader1": "Lunes a Jueves",
     "consultingHours1": "3:00 P.M. a 8:00 P.M.",
     "consultingHoursDaysSubheader2": "",
     "consultingHours2": "",
     "consultingPhonesHeader": "Teléfonos",
-    "consultingSchedulePhonesSubheader": "Citas",
+    "consultingSchedulePhonesSubheader": "WhatsApp",
     "consultingSchedulePhone": "+529613171735",
-    "consultingUrgenciesPhonesSubheader": "Urgencias",
+    "consultingUrgenciesPhonesSubheader": "Llamadas",
     "consultingUrgenciesPhone": "+529613171735",
-    "hospitalHeader": "",
+    "hospitalHeader": "MÉDICA MEDERI",
     "hospitalAddress": "",
     "hospitalHoursDaysHeader": "",
     "hospitalHoursDaysSubheader1": "",
@@ -53,14 +55,14 @@
   },
   "heroSection": {
     "heroSectionHeight": 600,
-    "mainImage": "/images/hero_background.jpg",
+    "mainImage": "/images/hero-background.jpg",
     "logoHeight": 350,
-    "backgroundHeroImage": "/images/DraMarthaRuiz_HS.png",
+    "backgroundHeroImage": "",
     "backgroundHeroImageHeightPercent": 100,
-    "foregroundHeroImage": "/assets/maskHero-itechie6.webp",
+    "foregroundHeroImage": "",
     "foregroundHeroImageHeightPercent": 90,
-    "overlayColor": "rgba(255, 192, 203, 0.0)",
-    "overlayOpacity": 0.1,
+    "overlayColor": "rgba(128, 128, 128, 0.5)",
+    "overlayOpacity": 0.7,
     "subTitle": "¡Eres mi héroe!",
     "title": "Cuida tu salud y acude al médico a la primera",
     "description": "Si experimentas pérdida de consciencia o desmayos, la Medicina Crítica acude en tu ayuda. No desestimes los cuidados que te ofrece."
@@ -88,30 +90,42 @@
     }
   ],
   "certifications": {
-    "sectionTitle": "Certificaciones profesionales",
+    "sectionTitle": "Formación Profesional",
     "entities": [
       {
-        "nameTitle": "Certificación",
-        "name": "Consejo Mexicano de Inmunología Clínica y Alergia A.C.",
-        "imagePath": "/images/certifications/CMICA.png",
+        "nameTitle": "Céd. Prof. 10305657",
+        "name": "Instituto de Estudios Superiores de Chiapas",
+        "imagePath": "/images/certifications/IESCH.png",
         "visible": true
       },
       {
-        "nameTitle": "Certificación",
-        "name": "Colegio Mexicano de Pediatría",
-        "imagePath": "/images/certifications/CMCP.png",
+        "nameTitle": "Céd. Esp: 13574194",
+        "name": "Universidad Autónoma de Yucatán | Hospital Regional de Alta Especialidad de la Península de Yucatán (HRAEPY)",
+        "imagePath": "/images/certifications/UADY.png",
         "visible": true
       },
       {
-        "nameTitle": "Diplomado de Alergia Alimentaria",
-        "name": "Universidad Miguel de Cervantes, Valencia, España",
-        "imagePath": "/images/certifications/UEMC.png",
+        "nameTitle": "Medicina Crítica Céd. Esp: 13323211",
+        "name": "Universidad Nacional Autónoma de México | Instituto Nacional de Cancerología (INCan)",
+        "imagePath": "/images/certifications/UNAM.png",
         "visible": true
       },
       {
-        "nameTitle": "Capacitación en Alergia Molecular",
-        "name": "Hospital Universitario de la FE, Valencia, España",
-        "imagePath": "/images/certifications/LaFe.png",
+        "nameTitle": "Certificado N° 06737-22",
+        "name": "Consejo Mexicano de Medicina Interna, A.C.",
+        "imagePath": "/images/certifications/CMMI.png",
+        "visible": true
+      },
+      {
+        "nameTitle": "Certificado N° 3632",
+        "name": " Consejo Mexicano de Medicina Crítica, A.C. No. Certificado: 3632",
+        "imagePath": "/images/certifications/CMMI.png",
+        "visible": true
+      },
+      {
+        "nameTitle": "Diplomado Intensivo",
+        "name": "Ecografía “Head to Toe” en Áreas Críticas",
+        "imagePath": "/images/certifications/HeadToToe.png",
         "visible": true
       }
     ],
@@ -168,8 +182,8 @@
     "sectionTitle": "Acerca de mí",
     "imagePath": "/images/AboutMe.jpg",
     "backgroundImagePath": "/images/aboutus-bg.jpg",
-    "title": "Dr. Gabriel Gómez Palacios",
-    "description": "Soy el Dr. Gabriel Gómez Palacios, soy especialista en medicina  interna y medicina crítica. Mi formación como médico internista abarca el diagnóstico y tratamiento de enfermedades complejas en pacientes adultos, incluyendo padecimientos como insuficiencia cardíaca, neumonías graves, alteraciones metabólicas, infecciones severas y el manejo integral de enfermedades crónicas.\n\nAdemás de mi práctica diaria en medicina interna, atiendo situaciones críticas que requieren vigilancia estrecha, así como procedimientos especializados para el manejo de condiciones agudas. Si requieres una valoración o seguimiento médico, o si enfrentas un problema de salud que demanda atención minuciosa, estoy a tu disposición para acompañarte en todo el proceso y guiarte hacia tu recuperación.\n\nMi compromiso con la salud de mis pacientes se basa en ofrecer una atención médica personalizada y de alta calidad, adaptada a cada necesidad. Te invito a agendar una consulta para resolver tus inquietudes y diseñar juntos un plan de atención que mejore tu calidad de vida.",
+    "title": "Al cuidado de tu salud, con más de cinco años de experiencia",
+    "description": "Soy el Dr. Gabriel Gómez Palacios, soy especialista en Medicina Interna y Medicina Crítica. Mi formación como médico internista abarca el diagnóstico y tratamiento de enfermedades complejas en pacientes adultos, incluyendo padecimientos como insuficiencia cardíaca, neumonías graves, alteraciones metabólicas, infecciones severas y el manejo integral de enfermedades crónicas.\n\nAdemás de mi práctica diaria en medicina interna, atiendo situaciones críticas que requieren vigilancia estrecha, así como procedimientos especializados para el manejo de condiciones agudas. Si requieres una valoración o seguimiento médico, o si enfrentas un problema de salud que demanda atención minuciosa, estoy a tu disposición para acompañarte en todo el proceso y guiarte hacia tu recuperación.\n\nMi compromiso con la salud de mis pacientes se basa en ofrecer una atención médica personalizada y de alta calidad, adaptada a cada necesidad. Te invito a agendar una consulta para resolver tus inquietudes y diseñar juntos un plan de atención que mejore tu calidad de vida.",
     "yearsOfExperience": 8
   },
   "purpose": {
@@ -179,21 +193,21 @@
     "entities": [
       {
         "icon": "Target",
-        "title": "Cuidarte es mi misión",
-        "description": "Estoy aquí para ayudarte a dejar atrás las molestias de las alergias y disfrutar cada momento con bienestar y tranquilidad.",
-        "imagePath": ""
+        "title": "Cuidado y seguimiento",
+        "description": "Mi compromiso es acompañarte en cada etapa de tu tratamiento, con empatía y un enfoque profesional que haga la diferencia.",
+        "imagePath": "/images/purpose/purpose1.jpg"
       },
       {
         "icon": "Scale",
-        "title": "Te escucho, te entiendo",
+        "title": "Comunicación constante",
         "description": "Sé lo importante que es sentirse comprendido. Quiero conocer cómo te sientes para encontrar juntos el mejor tratamiento para ti.",
-        "imagePath": ""
+        "imagePath": "/images/purpose/purpose2.jpg"
       },
       {
         "icon": "Heart",
-        "title": "Siempre a tu lado",
-        "description": "Mi compromiso es acompañarte en cada etapa de tu tratamiento, con empatía y un enfoque profesional que haga la diferencia.",
-        "imagePath": ""
+        "title": "Trabajo en equipo",
+        "description": "Estoy aquí para ayudarte a dejar atrás las molestias de las alergias y disfrutar cada momento con bienestar y tranquilidad.",
+        "imagePath": "/images/purpose/purpose3.jpg"
       }
     ]
   },
@@ -204,10 +218,10 @@
     "linkText": "Saber más",
     "buttonText": "Ver más servicios",
     "page": {
-      "backgroundImage": "/images/services-bg.jpg",
-      "pageTitle": "Mis Servicios de Alergología",
+      "backgroundImage": "/images/services/header_Servicios.jpg",
+      "pageTitle": "Mis Servicios de Medicina Interna y Crítica",
       "sectionTitle": "Servicios que Ofrezco",
-      "sectionSubtitle": "Conoce los procedimientos especializados para el tratamiento de las alergias"
+      "sectionSubtitle": "Conoce los procedimientos especializados y tratamientos en Medicina Interna y Crítica"
     },
     "individualPage": {
       "contactButton": {
@@ -226,10 +240,10 @@
     "linkText": "Leer más",
     "buttonText": "Ver todos los síntomas",
     "page": {
-      "backgroundImage": "/images/symptoms-bg.jpg",
-      "pageTitle": "Síntomas relacionados con alergias",
+      "backgroundImage": "/images/symptoms/header_Sintomas.jpg",
+      "pageTitle": "Síntomas relacionados con Medicina Interna y Crítica",
       "sectionTitle": "Síntomas que atiendo",
-      "sectionSubtitle": "Conoce los síntomas asociados a las alergias que puedo ayudar a manejar y tratar"
+      "sectionSubtitle": "Conoce los síntomas asociados a Medicina Interna y Crítica que puedo ayudar a manejar y tratar"
     },
     "individualPage": {
       "contactButton": {
@@ -247,13 +261,14 @@
   "diseasesSection": {
     "sectionTitle": "Patologías comunes",
     "sectionSubtitle": "Enfermedades que atiendo en consulta",
+    "sectionText": "",
     "linkText": "Saber más",
     "buttonText": "Ver todas las Enfermedades",
     "page": {
-      "backgroundImage": "/images/diseases-bg.jpg",
-      "pageTitle": "Enfermedades relacionadas con Alergias",
+      "backgroundImage": "/images/diseases/header_Enfermedades.jpg",
+      "pageTitle": "Enfermedades relacionadas con Medicina Interna y Crítica",
       "sectionTitle": "Condiciones que atiendo",
-      "sectionSubtitle": "Conoce las enfermedades asociadas a las alergias que puedo ayudar a manejar y tratar"
+      "sectionSubtitle": "Conoce las enfermedades asociadas a Medicina Interna y Crítica que puedo ayudar a manejar y tratar"
     },
     "individualPage": {
       "contactButton": {
@@ -267,16 +282,19 @@
   },
   "callToAction": {
     "title": "Agenda tu cita y recibe la atención especializada que mereces.",
-    "description": "Con mi experiencia en alergología e inmunología, me comprometo con tu bienestar integral.",
-    "backgroundImage": "/images/CtA.jpg"
+    "description": "Con mi experiencia en Medicina Interna y Crítica, me comprometo con tu bienestar integral.",
+    "backgroundImage": "/images/cta-general-background-drgabriel.jpg"
   },
   "callToActionIndividual": {
-    "backgroundImage": "/images/CtA.jpg"
+    "backgroundImage": "/images/CtA.jpg",
+    "ctaIndivHeader": "¿Necesitas ayuda?"
   },
   "testimonials": {
     "sectionTitle": "Testimonios",
-    "sectionDescription": "Lo que opinan mis pacientes",
+    "sectionSubtitle": "Lo que dicen mis pacientes",
+    "sectionDescription": "Las opiniones de los pacientes son favorables debido a la calidad del doctor... etc.",
     "sectionBackground": "/images/testimonials-background.jpg",
+    "testimonialsImage": "/images/testimonialsImage.jpg",
     "linkText": "Ver más",
     "dataBlocks": {
       "procedure": "Procedimiento",
@@ -373,12 +391,13 @@
     "additionalInfo": "Trabajo con las principales aseguradoras. Si no ves tu seguro listado, por favor contáctame para verificar la cobertura."
   },
   "footer": {
-    "backgroundImage": "/images/footer/footer_bg_cripar.jpg"
+    "backgroundImage": "",
+    "logoFooter": "images/logos/logo-drgabriel-bco.svg"
   },
   "generalCallToAction": {
-    "sectionBackground": "/images/CtA_Doctoralia.jpg",
+    "sectionBackground": "/images/cta-general-background-drgabriel.jpg",
     "title": "Agenda tu consulta",
-    "description": "Recibe la atención especializada que mereces. Con mi experiencia en alergología e inmunología, me comprometo con su bienestar integral."
+    "description": "Recibe la atención especializada que mereces. Con mi experiencia en Medicina Interna y Crítica, me comprometo con tu bienestar integral."
   },
   "contact": {
     "page": {

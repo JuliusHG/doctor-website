@@ -1,0 +1,25 @@
+.cleener-bullets {
+    @apply relative;
+  }
+  
+  .cleener-bullets::before {
+    content: "";
+    @apply absolute -top-10 left-[0%] w-5 h-5 bg-dw-dark rounded-[50%_0%_50%_50%] rotate-[40deg];
+  }
+  
+  .cleener-bullets::after {
+    content: "";
+    @apply absolute -top-9 left-[5%] w-5 h-5 bg-dw-soft rounded-[0%_50%_50%_50%] -rotate-[45deg];
+  }
+
+  .filter-dw-dark {
+    filter: var(--filter-dw-dark);
+  }
+  
+  .filter-dw-darker {
+    filter: var(--filter-dw-darker);
+  }
+  
+  .filter-dw-soft {
+    filter: var(--filter-dw-soft);
+  }

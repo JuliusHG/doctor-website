@@ -31,13 +31,13 @@ const Symptoms2 = () => {
   const displayedSymptoms = content.symptomsDataMetadata.symptoms.slice(0, 6)
 
   return (
-    <div className="w-full py-24" style={{ backgroundColor: "#F8F9FE" }}>
+    <div className="w-full py-24 bg-white">
       <div className="container mx-auto px-4 max-w-6xl">
         {/* Section Header */}
         <div className="mb-16">
           <div className="max-w-2xl mx-auto text-center">
-            <h2 className="text-2xl font-bold mb-4">{content.symptoms.sectionTitle}</h2>
-            <h2 className="text-4xl font-bold mb-4">{content.symptoms.sectionSubtitle}</h2>
+            <h2 className="text-3xl text-dw-dark font-bold mb-4">{content.symptoms.sectionTitle}</h2>
+            <h2 className="text-6xl text-dw-darker font-bold mb-4">{content.symptoms.sectionSubtitle}</h2>
             <p className="text-gray-600">{content.symptoms.sectionText}</p>
           </div>
         </div>
@@ -47,7 +47,7 @@ const Symptoms2 = () => {
           {displayedSymptoms.map((symptom) => (
             <div
               key={symptom.id}
-              className="group relative bg-white rounded-lg p-8 w-full max-w-[340px] h-[400px] transition-all duration-500 ease-in-out hover:bg-pink-600"
+              className="group relative bg-white rounded-lg p-8 w-full max-w-[340px] h-[400px] transition-all duration-500 ease-in-out hover:bg-dw-dark"
             >
               {/* Icon Container */}
               <div className="mb-20 relative">
@@ -58,11 +58,7 @@ const Symptoms2 = () => {
                       alt={symptom.name}
                       width={64}
                       height={64}
-                      className="transition-all duration-500 ease-in-out"
-                      style={{
-                        filter:
-                          "brightness(0) saturate(100%) invert(45%) sepia(83%) saturate(1752%) hue-rotate(308deg) brightness(96%) contrast(96%)",
-                      }}
+                      className="transition-all duration-500 ease-in-out filter-dw-dark"
                     />
                     <div className="absolute inset-0 transition-opacity duration-500 ease-in-out opacity-0 group-hover:opacity-100">
                       <Image
@@ -76,12 +72,12 @@ const Symptoms2 = () => {
                   </div>
                 </div>
                 {/* Decorative shadow */}
-                <div className="absolute -bottom-2 left-1/2 -translate-x-1/2 w-12 h-1.5 bg-pink-300/80 blur-sm rounded-full transition-colors duration-500 ease-in-out group-hover:bg-white/30"></div>
+                <div className="absolute -bottom-2 left-1/2 -translate-x-1/2 w-12 h-1.5 bg-dw-soft/80 blur-sm rounded-full transition-colors duration-500 ease-in-out group-hover:bg-white/30"></div>
               </div>
 
               {/* Content */}
               <div className="text-center relative z-10">
-                <h3 className="text-xl font-semibold mb-3 transition-colors duration-500 ease-in-out group-hover:text-white">
+                <h3 className="text-xl text-dw-dark font-semibold mb-3 transition-colors duration-500 ease-in-out group-hover:text-white">
                   <Link href={`/sintomas/${symptom.id}`}>{symptom.name}</Link>
                 </h3>
                 <p className="text-gray-500 mb-4 transition-colors duration-500 ease-in-out group-hover:text-white/90">
@@ -103,8 +99,8 @@ const Symptoms2 = () => {
         {/* CTA Button */}
         <div className="text-center">
           <Link
-            href="/servicios"
-            className="border-2 border-pink-600 text-pink-600 px-8 py-3 rounded-lg hover:bg-pink-600 hover:text-white transition-colors text-lg font-semibold inline-block"
+            href="/sintomas"
+            className="border-2 border-dw-dark text-dw-dark px-8 py-3 rounded-lg hover:bg-dw-dark hover:text-white transition-colors text-lg font-semibold inline-block"
           >
             {content.symptoms.buttonText}
           </Link>
@@ -115,3 +111,4 @@ const Symptoms2 = () => {
 }
 
 export default Symptoms2
+

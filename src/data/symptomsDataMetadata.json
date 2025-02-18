@@ -1,482 +1,333 @@
 {
   "sintomasMeta": {
     "main": {
-      "title": "Síntomas - Dra. Martha Ruiz Peñaloza",
-      "description": "Información sobre síntomas relativos a alergología e inmunológicas tratadas por la Dra. Martha Ruiz Peñaloza en Santiago de Querétaro.",
+      "title": "Síntomas - Dr. Gabriel Gómez Palacios",
+      "description": "Información sobre síntomas tratados por el Dr. Gabriel Gómez Palacios en Tuxtla Gutiérrez.",
       "openGraph": {
-        "title": "Síntomas relacionados a Alergología e Inmunológicas Pediátricas",
-        "description": "Conozca los síntomas relativos a alérgología e inmunológicas que tratamos en niños.",
-        "url": "https://www.alergologadramartharuiz.com/sintomas"
+        "title": "Síntomas tratados por Medicina Interna y Medicina Crítica",
+        "description": "Conozca los síntomas tratados por Medicina Interna y Medicina Crítica.",
+        "url": "https://url/sintomas"
       },
       "alternates": {
-        "canonical": "https://www.alergologadramartharuiz.com/sintomas"
+        "canonical": "https://url/sintomas"
       }
     }
   },
   "symptoms": [
     {
-      "id": "congestion-nasal-persistente",
-      "name": "Congestión Nasal Persistente",
-      "shortDescription": "Obtén tratamiento para la congestión nasal persistente en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
-      "description": "La congestión nasal persistente es una obstrucción o bloqueo continuo en las fosas nasales que dificulta la respiración y puede deberse a alergias, rinitis crónica o sinusitis.",
+      "id": "dolor-de-cabeza-o-cefalea",
+      "name": "Dolor de cabeza o cefalea",
+      "shortDescription": "Molestia o dolor en la cabeza, con intensidad y duración variables.",
+      "description": "El dolor de cabeza, conocido médicamente como cefalea, es una manifestación de malestar que puede variar en intensidad y duración. Se genera cuando los receptores del dolor, presentes en los tejidos que rodean el cerebro, se activan por diversos factores como tensión muscular, alteraciones vasculares o estímulos de origen externo. Existen varios tipos de cefaleas, como la cefalea tensional y la migraña, cada una con características y detonantes específicos. Aun cuando la mayoría de los dolores de cabeza no representan un peligro grave, pueden afectar de forma significativa las actividades diarias y la calidad de vida si no se tratan de manera adecuada.",
       "causes": [
-        "Rinitis alérgica (polen, ácaros, caspa de mascotas)",
-        "Sinusitis crónica",
-        "Pólipos nasales",
-        "Desviación del tabique nasal",
-        "Irritantes ambientales (humo, polvo)"
+        "Tensión muscular en la cabeza y cuello",
+        "Factores hormonales, especialmente en mujeres",
+        "Estrés, ansiedad o depresión",
+        "Falta de sueño o cambios en el patrón de descanso",
+        "Deshidratación y alimentación inadecuada",
+        "Cambios ambientales, como luces intensas o ruidos fuertes",
+        "Exposición prolongada a pantallas (teléfonos, computadoras)",
+        "Uso excesivo de analgésicos (cefalea por rebote)"
       ],
-      "relatedConditions": [
-        "Rinitis Alérgica",
-        "Sinusitis Alérgica Crónica",
-        "Rinoconjuntivitis Alérgica"
+      "relatedConditions": [],
+      "managementTips": [],
+      "complications": [
+        "Afectación en la productividad laboral o académica",
+        "Cambios de humor y problemas para concentrarse",
+        "Dependencia de analgésicos y riesgo de cefalea crónica",
+        "Problemas para conciliar el sueño o insomnio crónico",
+        "Limitaciones en la realización de actividades cotidianas"
       ],
-      "managementTips": [
-        "Realizar lavados nasales con solución salina",
-        "Evitar la exposición a alérgenos",
-        "Usar humidificadores en ambientes secos",
-        "Consultar a un especialista para evaluación integral"
-      ],
-      "ctaText": "No dejes que la congestión nasal persistente limite tu respiración diaria. Agenda una consulta con la Dra. Martha Ruiz Peñaloza y recupera tu bienestar respiratorio.",
-      "imageHome": "/images/symptoms/congestion-nasal-persistente.jpg",
-      "imageIndividual": "/images/symptoms/congestion-nasal-persistente.jpg",
-      "iconIndividual": "/images/icons/symptoms/congestion-nasal-persistente.svg",
+      "ctaText": "Si presentas dolores de cabeza frecuentes o de intensidad elevada, es importante identificar la causa y recibir un tratamiento personalizado. Agenda tu cita para una evaluación integral y descubre cómo aliviar tu dolor de cabeza de manera segura y eficaz.",
+      "imageHome": "/images/symptoms/dolor-de-cabeza.jpg",
+      "imageIndividual": "/images/symptoms/dolor-de-cabeza.jpg",
+      "iconIndividual": "/images/symptoms/icons/dolor-de-cabeza.svg",
       "metadata": {
-        "title": "Tratamiento a Congestión Nasal Persistente en Santiago de Querétaro, Querétaro",
-        "description": "Obtén tratamiento para la congestión nasal persistente en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
-        "keywords": [
-          "Especialista en congestión nasal persistente en Santiago de Querétaro",
-          "Causas de congestión nasal persistente",
-          "El mejor tratamiento para congestión nasal persistente en Santiago de Querétaro",
-          "Tratamiento para congestión nasal persistente en Santiago de Querétaro",
-          "Experto en congestión nasal persistente en Santiago de Querétaro",
-          "Atención médica de congestión nasal persistente en Santiago de Querétaro",
-          "Quien atiende congestión nasal persistente en Santiago de Querétaro",
-          "Médico para congestión nasal persistente en Santiago de Querétaro",
-          "Qué doctor atiende congestión nasal persistente en Santiago de Querétaro",
-          "Cómo tratar congestión nasal persistente"
-        ],
+        "title": "Tratamiento a Dolor de cabeza o cefalea en Tuxtla Gutiérrez, Chiapas",
+        "description": "El dolor de cabeza (cefalea) puede tener múltiples causas. Recibe atención personalizada con el Dr. Gabriel Gómez Palacios.",
+        "keywords": [],
         "openGraph": {
-          "title": "Tratamiento a Congestión Nasal Persistente - Dra. Martha Ruiz Peñaloza",
-          "description": "Obtén tratamiento para la congestión nasal persistente en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
-          "url": "https://www.alergologadramartharuiz.com/sintomas/congestion-nasal-persistente"
+          "title": "Tratamiento a Dolor de cabeza o cefalea - Dr. Gabriel Gómez Palacios",
+          "description": "Descubre las causas y abordajes para el dolor de cabeza, mejorando tu calidad de vida con atención médica en Tuxtla Gutiérrez.",
+          "url": "https://url/sintomas/dolor-de-cabeza-o-cefalea"
         },
         "alternates": {
-          "canonical": "https://www.alergologadramartharuiz.com/sintomas/congestion-nasal-persistente"
+          "canonical": "https://url/sintomas/dolor-de-cabeza-o-cefalea"
         }
       }
     },
     {
-      "id": "estornudos-frecuentes",
-      "name": "Estornudos Frecuentes",
-      "shortDescription": "Recibe tratamiento para estornudos frecuentes en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
-      "description": "Los estornudos frecuentes pueden indicar una irritación nasal recurrente, generalmente por alergias ambientales o infecciones leves de vías respiratorias.",
+      "id": "dolor-en-el-pecho",
+      "name": "Dolor en el pecho",
+      "shortDescription": "Molestia torácica de intensidad y carácter variable, a menudo asociada al corazón u otros órganos.",
+      "description": "El dolor en el pecho, conocido como dolor torácico, abarca cualquier molestia que se localice entre el cuello y la parte superior del abdomen. Puede variar en intensidad y características: opresivo, punzante o quemante. Sus orígenes pueden involucrar tanto al corazón como a otros órganos o estructuras, como los pulmones, músculos o costillas. Es un síntoma que no debe subestimarse, ya que en algunos casos puede estar relacionado con enfermedades cardíacas u otras afecciones graves.",
       "causes": [
-        "Alergias a pólenes, polvo o animales",
-        "Cambios bruscos de temperatura",
-        "Resfriados comunes",
-        "Exposición a irritantes como humo o perfumes"
+        "Enfermedad coronaria (angina o infarto)",
+        "Problemas pulmonares (neumonía, pleuritis)",
+        "Reflujo gastroesofágico o espasmos esofágicos",
+        "Lesiones musculares o costales",
+        "Estrés, ansiedad o ataques de pánico"
       ],
-      "relatedConditions": [
-        "Rinitis Alérgica",
-        "Resfriado Común",
-        "Rinoconjuntivitis Alérgica"
+      "relatedConditions": [],
+      "managementTips": [],
+      "complications": [
+        "Riesgo de complicaciones cardíacas en caso de infarto no diagnosticado",
+        "Deterioro de la función respiratoria",
+        "Estrés emocional y limitaciones en la actividad física",
+        "Dolor crónico si no se identifica la causa",
+        "Inquietud o pánico al desconocer el origen del dolor"
       ],
-      "managementTips": [
-        "Mantener un ambiente libre de polvo",
-        "Usar antihistamínicos según indicación médica",
-        "Evitar perfumes o químicos fuertes",
-        "Lavar la nariz con suero fisiológico"
-      ],
-      "ctaText": "Despídete de los estornudos constantes. Agenda tu cita con la Dra. Martha Ruiz Peñaloza y mantén tu nariz libre de molestias.",
-      "imageHome": "/images/symptoms/estornudos-frecuentes.jpg",
-      "imageIndividual": "/images/symptoms/estornudos-frecuentes.jpg",
-      "iconIndividual": "/images/icons/symptoms/estornudos-frecuentes.svg",
+      "ctaText": "Si experimentas dolor en el pecho, es importante identificar su causa a tiempo. Agenda tu cita para recibir un diagnóstico confiable y un tratamiento adecuado que proteja tu salud cardiovascular.",
+      "imageHome": "/images/symptoms/dolor-en-el-pecho.jpg",
+      "imageIndividual": "/images/symptoms/dolor-en-el-pecho.jpg",
+      "iconIndividual": "/images/symptoms/icons/dolor-en-el-pecho.svg",
       "metadata": {
-        "title": "Tratamiento a Estornudos Frecuentes en Santiago de Querétaro, Querétaro",
-        "description": "Recibe tratamiento para estornudos frecuentes en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
-        "keywords": [
-          "Especialista en estornudos frecuentes en Santiago de Querétaro",
-          "Causas de estornudos frecuentes",
-          "El mejor tratamiento para estornudos frecuentes en Santiago de Querétaro",
-          "Tratamiento para estornudos frecuentes en Santiago de Querétaro",
-          "Experto en estornudos frecuentes en Santiago de Querétaro",
-          "Atención médica de estornudos frecuentes en Santiago de Querétaro",
-          "Quien atiende estornudos frecuentes en Santiago de Querétaro",
-          "Médico para estornudos frecuentes en Santiago de Querétaro",
-          "Qué doctor atiende estornudos frecuentes en Santiago de Querétaro",
-          "Cómo tratar estornudos frecuentes"
-        ],
+        "title": "Tratamiento a Dolor en el pecho en Tuxtla Gutiérrez, Chiapas",
+        "description": "El dolor torácico puede estar relacionado con afecciones cardíacas o pulmonares. Consulta al Dr. Gabriel Gómez Palacios para un diagnóstico preciso.",
+        "keywords": [],
         "openGraph": {
-          "title": "Tratamiento a Estornudos Frecuentes - Dra. Martha Ruiz Peñaloza",
-          "description": "Recibe tratamiento para estornudos frecuentes en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
-          "url": "https://www.alergologadramartharuiz.com/sintomas/estornudos-frecuentes"
+          "title": "Tratamiento a Dolor en el pecho - Dr. Gabriel Gómez Palacios",
+          "description": "Conoce las posibles causas del dolor torácico y evita complicaciones graves con atención médica en Tuxtla Gutiérrez.",
+          "url": "https://url/sintomas/dolor-en-el-pecho"
         },
         "alternates": {
-          "canonical": "https://www.alergologadramartharuiz.com/sintomas/estornudos-frecuentes"
+          "canonical": "https://url/sintomas/dolor-en-el-pecho"
+        }
+      }
+    },
+    {
+      "id": "fiebre",
+      "name": "Fiebre",
+      "shortDescription": "Aumento de la temperatura corporal por encima de lo normal, señalando respuesta inmune.",
+      "description": "La fiebre se define como un aumento de la temperatura corporal por encima de lo normal, generalmente superando los 37.5 a 38 grados centígrados, según la medición. Es un mecanismo de defensa del organismo que se activa en respuesta a infecciones, inflamaciones u otras alteraciones. Aunque en la mayoría de los casos es una señal de que el sistema inmune está combatiendo algún problema, una fiebre persistente o muy elevada puede ser indicio de una condición médica subyacente grave.",
+      "causes": [
+        "Infecciones virales o bacterianas",
+        "Reacciones adversas a medicamentos",
+        "Enfermedades autoinmunes o inflamatorias",
+        "Golpe de calor por exposición prolongada a altas temperaturas",
+        "Vacunaciones recientes y otras reacciones del sistema inmune"
+      ],
+      "relatedConditions": [],
+      "managementTips": [],
+      "complications": [
+        "Deshidratación por sudoración excesiva",
+        "Desorientación o convulsiones en casos de fiebre muy alta",
+        "Deterioro en personas con enfermedades crónicas",
+        "Pérdida del apetito y debilidad general",
+        "Riesgo de daños en órganos internos si no se trata oportunamente"
+      ],
+      "ctaText": "Si presentas fiebre persistente o muy alta, es fundamental buscar atención médica. Acude a consulta para determinar la causa y recibir un plan de tratamiento seguro que te ayude a controlar la temperatura y proteger tu salud.",
+      "imageHome": "/images/symptoms/fiebre.jpg",
+      "imageIndividual": "/images/symptoms/fiebre.jpg",
+      "iconIndividual": "/images/symptoms/icons/fiebre.svg",
+      "metadata": {
+        "title": "Tratamiento a Fiebre en Tuxtla Gutiérrez, Chiapas",
+        "description": "La fiebre suele indicar una respuesta inmune activa. Recibe un diagnóstico oportuno con el Dr. Gabriel Gómez Palacios para descartar complicaciones.",
+        "keywords": [],
+        "openGraph": {
+          "title": "Tratamiento a Fiebre - Dr. Gabriel Gómez Palacios",
+          "description": "Controla la fiebre y sus causas, evitando problemas de salud mayores con atención especializada en Tuxtla Gutiérrez.",
+          "url": "https://url/sintomas/fiebre"
+        },
+        "alternates": {
+          "canonical": "https://url/sintomas/fiebre"
+        }
+      }
+    },
+    {
+      "id": "tos-persistente",
+      "name": "Tos persistente",
+      "shortDescription": "Tos crónica que persiste por más de cuatro semanas, afectando la calidad de vida.",
+      "description": "La tos persistente, o tos crónica, se refiere a aquella que dura más de cuatro semanas en adultos. Puede estar asociada a diversas afecciones, desde resfriados mal curados, alergias y asma, hasta enfermedades respiratorias más graves. La tos es un mecanismo de defensa natural que ayuda a expulsar secreciones o partículas extrañas de las vías aéreas, pero cuando se prolonga, puede indicar un problema de salud no resuelto y afectar significativamente la calidad de vida.",
+      "causes": [
+        "Infecciones respiratorias recurrentes o mal tratadas",
+        "Asma, bronquitis crónica o alergias",
+        "Reflujo gastroesofágico",
+        "Tabaquismo y exposición a contaminantes",
+        "Enfermedades cardíacas o pulmonares subyacentes"
+      ],
+      "relatedConditions": [],
+      "managementTips": [],
+      "complications": [
+        "Irritación de la garganta y cuerdas vocales",
+        "Fatiga y alteraciones del sueño",
+        "Dolor muscular o torácico por la fuerza de la tos",
+        "Deterioro de la capacidad pulmonar en casos graves",
+        "Dificultad para realizar actividades diarias"
+      ],
+      "ctaText": "Si padeces tos persistente que no mejora con el paso de los días, es fundamental acudir a consulta para determinar su origen y recibir un tratamiento efectivo. Juntos protegeremos tu salud respiratoria.",
+      "imageHome": "/images/symptoms/tos-persistente.jpg",
+      "imageIndividual": "/images/symptoms/tos-persistente.jpg",
+      "iconIndividual": "/images/symptoms/icons/tos-persistente.svg",
+      "metadata": {
+        "title": "Tratamiento a Tos persistente en Tuxtla Gutiérrez, Chiapas",
+        "description": "La tos crónica puede indicar afecciones respiratorias subyacentes. Consulta al Dr. Gabriel Gómez Palacios para un diagnóstico y manejo oportunos.",
+        "keywords": [],
+        "openGraph": {
+          "title": "Tratamiento a Tos persistente - Dr. Gabriel Gómez Palacios",
+          "description": "Resuelve la tos prolongada e identifica sus causas para proteger tu salud pulmonar en Tuxtla Gutiérrez.",
+          "url": "https://url/sintomas/tos-persistente"
+        },
+        "alternates": {
+          "canonical": "https://url/sintomas/tos-persistente"
         }
       }
     },
     {
       "id": "dificultad-para-respirar",
-      "name": "Dificultad para Respirar",
-      "shortDescription": "Soluciona la dificultad para respirar en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
-      "description": "La dificultad para respirar (disnea) es una sensación de falta de aire o esfuerzo excesivo al inhalar. Puede presentarse en condiciones alérgicas, asma u otras enfermedades respiratorias.",
+      "name": "Dificultad para respirar (disnea)",
+      "shortDescription": "Sensación de falta de aire o respiración incompleta que puede indicar enfermedades subyacentes.",
+      "description": "La dificultad para respirar, conocida en términos médicos como disnea, es la sensación de no poder inhalar suficiente aire. Puede manifestarse como una opresión en el pecho, respiración acelerada o la imposibilidad de realizar actividades cotidianas sin agitarse. Sus causas van desde condiciones leves y pasajeras, como una congestión nasal, hasta padecimientos graves como neumonía, insuficiencia cardíaca o asma. Este síntoma no debe ser ignorado, pues puede indicar un problema de salud que requiere atención médica.",
       "causes": [
-        "Asma o broncoespasmo",
-        "Infecciones respiratorias",
-        "Rinitis o sinusitis severas",
-        "Ansiedad o estrés",
-        "Problemas cardíacos o pulmonares subyacentes"
+        "Infecciones respiratorias (bronquitis, neumonía)",
+        "Asma o enfermedad pulmonar obstructiva crónica",
+        "Problemas cardíacos (insuficiencia cardíaca)",
+        "Reacciones alérgicas graves",
+        "Estrés, ataques de pánico y ansiedad"
       ],
-      "relatedConditions": [
-        "Asma",
-        "Rinitis Alérgica",
-        "Anafilaxia (en casos agudos)",
-        "Infección de las Vías Respiratorias"
+      "relatedConditions": [],
+      "managementTips": [],
+      "complications": [
+        "Alteraciones en los niveles de oxígeno en la sangre",
+        "Desgaste físico y fatiga crónica",
+        "Dificultad para dormir y conciliar el descanso",
+        "Aumento del riesgo de complicaciones cardíacas",
+        "Afectación de la calidad de vida y limitación de las actividades diarias"
       ],
-      "managementTips": [
-        "Utilizar inhaladores según prescripción",
-        "Evitar desencadenantes alérgicos",
-        "Practicar técnicas de respiración y relajación",
-        "Acudir al médico si la disnea empeora"
-      ],
-      "ctaText": "No dejes que la falta de aire limite tus actividades. Agenda tu consulta con la Dra. Martha Ruiz Peñaloza y respira con libertad.",
+      "ctaText": "Si presentas dificultad para respirar o cualquier sensación de falta de aire, te invito a agendar una consulta. Juntos determinaremos la causa y te brindaré el tratamiento necesario para recuperar tu salud y bienestar respiratorio.",
       "imageHome": "/images/symptoms/dificultad-para-respirar.jpg",
       "imageIndividual": "/images/symptoms/dificultad-para-respirar.jpg",
-      "iconIndividual": "/images/icons/symptoms/dificultad-para-respirar.svg",
+      "iconIndividual": "/images/symptoms/icons/dificultad-para-respirar.svg",
       "metadata": {
-        "title": "Tratamiento a Dificultad para Respirar en Santiago de Querétaro, Querétaro",
-        "description": "Soluciona la dificultad para respirar en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
-        "keywords": [
-          "Especialista en dificultad para respirar en Santiago de Querétaro",
-          "Causas de dificultad para respirar",
-          "El mejor tratamiento para dificultad para respirar en Santiago de Querétaro",
-          "Tratamiento para dificultad para respirar en Santiago de Querétaro",
-          "Experto en dificultad para respirar en Santiago de Querétaro",
-          "Atención médica de dificultad para respirar en Santiago de Querétaro",
-          "Quien atiende dificultad para respirar en Santiago de Querétaro",
-          "Médico para dificultad para respirar en Santiago de Querétaro",
-          "Qué doctor atiende dificultad para respirar en Santiago de Querétaro",
-          "Cómo tratar dificultad para respirar"
-        ],
+        "title": "Tratamiento a Dificultad para respirar (disnea) en Tuxtla Gutiérrez, Chiapas",
+        "description": "La disnea puede estar ligada a problemas pulmonares o cardíacos. Consulta al Dr. Gabriel Gómez Palacios para un diagnóstico certero.",
+        "keywords": [],
         "openGraph": {
-          "title": "Tratamiento a Dificultad para Respirar - Dra. Martha Ruiz Peñaloza",
-          "description": "Soluciona la dificultad para respirar en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
-          "url": "https://www.alergologadramartharuiz.com/sintomas/dificultad-para-respirar"
+          "title": "Tratamiento a Dificultad para respirar (disnea) - Dr. Gabriel Gómez Palacios",
+          "description": "Identifica las causas de la disnea y recibe un manejo integral para mejorar tu respiración en Tuxtla Gutiérrez.",
+          "url": "https://url/sintomas/dificultad-para-respirar"
         },
         "alternates": {
-          "canonical": "https://www.alergologadramartharuiz.com/sintomas/dificultad-para-respirar"
+          "canonical": "https://url/sintomas/dificultad-para-respirar"
         }
       }
     },
     {
-      "id": "tos-cronica",
-      "name": "Tos Crónica",
-      "shortDescription": "Obtén tratamiento para la tos crónica en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
-      "description": "La tos crónica es aquella que persiste durante semanas o meses, con causas que incluyen alergias, asma, reflujo gastroesofágico e infecciones de larga duración.",
+      "id": "mareos-y-vertigo",
+      "name": "Mareos y vértigo",
+      "shortDescription": "Sensación de inestabilidad o giro que puede impactar el equilibrio y la movilidad diaria.",
+      "description": "Los mareos y el vértigo se presentan como sensaciones de inestabilidad que pueden alterar la capacidad de realizar actividades diarias con normalidad. Los mareos suelen describirse como desorientación o aturdimiento, mientras que el vértigo implica una percepción de movimiento giratorio, ya sea del entorno o del propio cuerpo. Sus causas pueden variar desde alteraciones del oído interno hasta problemas circulatorios o trastornos neurológicos.",
       "causes": [
-        "Asma no controlada",
-        "Rinitis posnasal o goteo nasal posterior",
-        "Reflujo ácido crónico",
-        "Bronquitis crónica o tabaquismo",
-        "Alergias a ácaros o irritantes"
+        "Alteraciones en el oído interno (laberintitis, enfermedad de Ménière)",
+        "Problemas de circulación (hipotensión ortostática, insuficiencia vertebrobasilar)",
+        "Trastornos neurológicos (migrañas vestibulares, lesiones cerebrales)",
+        "Cambios bruscos en la posición corporal",
+        "Estrés, ansiedad y episodios de pánico",
+        "Deshidratación o bajos niveles de azúcar en la sangre"
       ],
-      "relatedConditions": [
-        "Asma",
-        "Rinitis Alérgica",
-        "Infección de las Vías Respiratorias",
-        "Sinusitis Alérgica"
+      "relatedConditions": [],
+      "managementTips": [],
+      "complications": [
+        "Riesgo de caídas y lesiones por pérdida súbita del equilibrio",
+        "Restricción de las actividades diarias (manejar, caminar sin apoyo)",
+        "Ansiedad y temor a sufrir episodios en situaciones públicas",
+        "Empeoramiento de la calidad de vida y aislamiento social",
+        "Dificultad para concentrarse o realizar trabajos delicados"
       ],
-      "managementTips": [
-        "Mantener hidratación adecuada",
-        "Tratar la causa subyacente (asma, reflujo, etc.)",
-        "Evitar humo y contaminantes",
-        "Acudir a revisión médica si la tos persiste"
-      ],
-      "ctaText": "Controla esa tos crónica y recupera tu tranquilidad. Agenda una consulta con la Dra. Martha Ruiz Peñaloza para un abordaje personalizado.",
-      "imageHome": "/images/symptoms/tos-cronica.jpg",
-      "imageIndividual": "/images/symptoms/tos-cronica.jpg",
-      "iconIndividual": "/images/icons/symptoms/tos-cronica.svg",
+      "ctaText": "Si presentas mareos o vértigo con frecuencia, te invito a acudir a consulta para determinar la causa y ofrecerte el tratamiento adecuado. Juntos cuidaremos tu equilibrio y tu bienestar para que recuperes tu calidad de vida.",
+      "imageHome": "/images/symptoms/mareos-y-vertigo.jpg",
+      "imageIndividual": "/images/symptoms/mareos-y-vertigo.jpg",
+      "iconIndividual": "/images/symptoms/icons/mareos-y-vertigo.svg",
       "metadata": {
-        "title": "Tratamiento a Tos Crónica en Santiago de Querétaro, Querétaro",
-        "description": "Obtén tratamiento para la tos crónica en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
-        "keywords": [
-          "Especialista en tos crónica en Santiago de Querétaro",
-          "Causas de tos crónica",
-          "El mejor tratamiento para tos crónica en Santiago de Querétaro",
-          "Tratamiento para tos crónica en Santiago de Querétaro",
-          "Experto en tos crónica en Santiago de Querétaro",
-          "Atención médica de tos crónica en Santiago de Querétaro",
-          "Quien atiende tos crónica en Santiago de Querétaro",
-          "Médico para tos crónica en Santiago de Querétaro",
-          "Qué doctor atiende tos crónica en Santiago de Querétaro",
-          "Cómo tratar tos crónica"
-        ],
+        "title": "Tratamiento a Mareos y vértigo en Tuxtla Gutiérrez, Chiapas",
+        "description": "Los mareos y el vértigo pueden indicar problemas del oído interno o circulación. Recibe un diagnóstico con el Dr. Gabriel Gómez Palacios.",
+        "keywords": [],
         "openGraph": {
-          "title": "Tratamiento a Tos Crónica - Dra. Martha Ruiz Peñaloza",
-          "description": "Obtén tratamiento para la tos crónica en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
-          "url": "https://www.alergologadramartharuiz.com/sintomas/tos-cronica"
+          "title": "Tratamiento a Mareos y vértigo - Dr. Gabriel Gómez Palacios",
+          "description": "Descubre las causas de la inestabilidad y obtén un enfoque integral para restablecer tu equilibrio en Tuxtla Gutiérrez.",
+          "url": "https://url/sintomas/mareos-y-vertigo"
         },
         "alternates": {
-          "canonical": "https://www.alergologadramartharuiz.com/sintomas/tos-cronica"
+          "canonical": "https://url/sintomas/mareos-y-vertigo"
         }
       }
     },
     {
-      "id": "ronchas",
-      "name": "Ronchas",
-      "shortDescription": "Recibe tratamiento para ronchas en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
-      "description": "Las ronchas o habones son lesiones en la piel que provocan picazón y pueden aparecer de forma aislada o en grupos. A menudo se asocian con urticaria o reacciones alérgicas.",
+      "id": "fatiga-y-cansancio-cronico",
+      "name": "Fatiga y cansancio crónico",
+      "shortDescription": "Sensación persistente de agotamiento que no mejora con descanso y afecta las actividades diarias.",
+      "description": "La fatiga y el cansancio crónico son sensaciones persistentes de agotamiento físico o mental que pueden interferir de manera significativa con las actividades diarias y la calidad de vida. Se trata de un estado continuo de falta de energía que no mejora con el descanso y puede provocar dificultad para concentrarse, alteraciones del estado de ánimo y merma en el desempeño de las tareas diarias. En algunos casos, puede asociarse con el llamado síndrome de fatiga crónica, pero la evaluación médica es fundamental para distinguir la causa específica.",
       "causes": [
-        "Reacción alérgica a alimentos, medicamentos o picaduras",
-        "Estrés o cambios de temperatura",
-        "Contactos con químicos o irritantes",
-        "Infecciones virales y bacterianas"
+        "Trastornos del sueño (insomnio, apnea del sueño)",
+        "Desórdenes hormonales o metabólicos (hipotiroidismo, diabetes)",
+        "Enfermedades crónicas (anemia, enfermedades renales o cardíacas)",
+        "Estrés, ansiedad y depresión",
+        "Falta de ejercicio físico o rutina diaria irregular",
+        "Alimentación inadecuada y deshidratación"
       ],
-      "relatedConditions": [
-        "Urticaria Aguda o Crónica",
-        "Dermatitis de Contacto",
-        "Anafilaxia (en casos graves)"
+      "relatedConditions": [],
+      "managementTips": [],
+      "complications": [
+        "Bajo rendimiento laboral y académico",
+        "Afectaciones en las relaciones interpersonales por irritabilidad o desánimo",
+        "Riesgo de depresión y trastornos de ansiedad",
+        "Mayor susceptibilidad a infecciones y enfermedades oportunistas",
+        "Alteraciones del sueño y mayor somnolencia diurna"
       ],
-      "managementTips": [
-        "Aplicar lociones calmantes o antihistamínicas",
-        "Evitar rascado excesivo para prevenir lesiones",
-        "Identificar y evitar el desencadenante alérgico",
-        "Consultar a un alergólogo si las ronchas persisten"
-      ],
-      "ctaText": "No dejes que las ronchas interfieran con tu día a día. Programa una evaluación con la Dra. Martha Ruiz Peñaloza y recibe el alivio que necesitas.",
-      "imageHome": "/images/symptoms/ronchas.jpg",
-      "imageIndividual": "/images/symptoms/ronchas.jpg",
-      "iconIndividual": "/images/icons/symptoms/ronchas.svg",
+      "ctaText": "Soy el Dr. Gabriel Gómez Palacios, especialista en medicina interna y medicina crítica en Tuxtla Gutiérrez, Chiapas. Si experimentas fatiga y cansancio crónico que persisten a pesar de descansar o modificar tus hábitos, te invito a programar una consulta para identificar el origen de estos síntomas.",
+      "imageHome": "/images/symptoms/fatiga-y-cansancio-cronico.jpg",
+      "imageIndividual": "/images/symptoms/fatiga-y-cansancio-cronico.jpg",
+      "iconIndividual": "/images/symptoms/icons/fatiga-y-cansancio-cronico.svg",
       "metadata": {
-        "title": "Tratamiento a Ronchas en Santiago de Querétaro, Querétaro",
-        "description": "Recibe tratamiento para ronchas en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
-        "keywords": [
-          "Especialista en ronchas en Santiago de Querétaro",
-          "Causas de ronchas",
-          "El mejor tratamiento para ronchas en Santiago de Querétaro",
-          "Tratamiento para ronchas en Santiago de Querétaro",
-          "Experto en ronchas en Santiago de Querétaro",
-          "Atención médica de ronchas en Santiago de Querétaro",
-          "Quien atiende ronchas en Santiago de Querétaro",
-          "Médico para ronchas en Santiago de Querétaro",
-          "Qué doctor atiende ronchas en Santiago de Querétaro",
-          "Cómo tratar ronchas"
-        ],
+        "title": "Tratamiento a Fatiga y cansancio crónico en Tuxtla Gutiérrez, Chiapas",
+        "description": "La fatiga persistente puede tener múltiples causas médicas. Acércate al Dr. Gabriel Gómez Palacios para recuperar tu energía.",
+        "keywords": [],
         "openGraph": {
-          "title": "Tratamiento a Ronchas - Dra. Martha Ruiz Peñaloza",
-          "description": "Recibe tratamiento para ronchas en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
-          "url": "https://www.alergologadramartharuiz.com/sintomas/ronchas"
+          "title": "Tratamiento a Fatiga y cansancio crónico - Dr. Gabriel Gómez Palacios",
+          "description": "Identifica los factores que originan tu cansancio continuo y optimiza tu calidad de vida en Tuxtla Gutiérrez.",
+          "url": "https://url/sintomas/fatiga-y-cansancio-cronico"
         },
         "alternates": {
-          "canonical": "https://www.alergologadramartharuiz.com/sintomas/ronchas"
+          "canonical": "https://url/sintomas/fatiga-y-cansancio-cronico"
         }
       }
     },
     {
-      "id": "picazon-en-la-piel",
-      "name": "Picazón en la Piel",
-      "shortDescription": "Soluciona la picazón en la piel en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
-      "description": "La picazón o prurito es una sensación molesta que provoca la necesidad de rascarse. Puede ser síntoma de alergias cutáneas, dermatitis o enfermedades sistémicas.",
+      "id": "palpitaciones",
+      "name": "Palpitaciones",
+      "shortDescription": "Latidos cardíacos fuertes o irregulares que pueden asociarse a ansiedad o problemas cardiacos.",
+      "description": "Las palpitaciones se sienten como latidos fuertes, rápidos o irregulares del corazón. Pueden presentarse como episodios esporádicos o persistentes, acompañados de sensaciones de opresión en el pecho, mareos o ansiedad. Si bien en muchos casos están relacionadas con estados emocionales o consumo de estimulantes, también pueden ser un signo de trastornos del ritmo cardíaco u otras afecciones que requieren evaluación médica.",
       "causes": [
-        "Dermatitis atópica o de contacto",
-        "Reacciones alérgicas a cosméticos o alimentos",
-        "Piel seca o eccema",
-        "Infecciones cutáneas como hongos"
+        "Estrés, ansiedad o ataques de pánico",
+        "Consumo excesivo de cafeína o nicotina",
+        "Deshidratación o desequilibrios electrolíticos",
+        "Enfermedades cardíacas o arritmias",
+        "Hipertiroidismo y otros desórdenes hormonales"
       ],
-      "relatedConditions": [
-        "Dermatitis Atópica",
-        "Dermatitis de Contacto",
-        "Urticaria",
-        "Eccema"
+      "relatedConditions": [],
+      "managementTips": [],
+      "complications": [
+        "Riesgo de complicaciones cardíacas (fibrilación auricular, insuficiencia cardíaca)",
+        "Mareos, desmayos o caídas súbitas",
+        "Deterioro de la calidad de vida por la ansiedad que generan",
+        "Falta de oxigenación adecuada en el organismo",
+        "Problemas de sueño y fatiga crónica"
       ],
-      "managementTips": [
-        "Mantener la piel hidratada",
-        "Usar jabones y productos hipoalergénicos",
-        "Evitar rascado excesivo para no dañar la piel",
-        "Consultar a un dermatólogo o alergólogo si el prurito persiste"
-      ],
-      "ctaText": "¿Cansado de la picazón constante? Consulta con la Dra. Martha Ruiz Peñaloza y encuentra el tratamiento adecuado para tu piel.",
-      "imageHome": "/images/symptoms/picazon-en-la-piel.jpg",
-      "imageIndividual": "/images/symptoms/picazon-en-la-piel.jpg",
-      "iconIndividual": "/images/icons/symptoms/picazon-en-la-piel.svg",
+      "ctaText": "Soy el Doctor Gabriel Gómez Palacios, médico internista y especialista en medicina crítica en Tuxtla Gutiérrez, Chiapas. Si experimentas palpitaciones con frecuencia o notas que tu ritmo cardíaco es irregular, acude a consulta para recibir una evaluación completa.",
+      "imageHome": "/images/symptoms/palpitaciones.jpg",
+      "imageIndividual": "/images/symptoms/palpitaciones.jpg",
+      "iconIndividual": "/images/symptoms/icons/palpitaciones.svg",
       "metadata": {
-        "title": "Tratamiento a Picazón en la Piel en Santiago de Querétaro, Querétaro",
-        "description": "Soluciona la picazón en la piel en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
-        "keywords": [
-          "Especialista en picazón en la piel en Santiago de Querétaro",
-          "Causas de picazón en la piel",
-          "El mejor tratamiento para picazón en la piel en Santiago de Querétaro",
-          "Tratamiento para picazón en la piel en Santiago de Querétaro",
-          "Experto en picazón en la piel en Santiago de Querétaro",
-          "Atención médica de picazón en la piel en Santiago de Querétaro",
-          "Quien atiende picazón en la piel en Santiago de Querétaro",
-          "Médico para picazón en la piel en Santiago de Querétaro",
-          "Qué doctor atiende picazón en la piel en Santiago de Querétaro",
-          "Cómo tratar picazón en la piel"
-        ],
+        "title": "Tratamiento a Palpitaciones en Tuxtla Gutiérrez, Chiapas",
+        "description": "Las palpitaciones cardíacas pueden reflejar estrés o afecciones cardiacas. Consulta al Dr. Gabriel Gómez Palacios para un diagnóstico oportuno.",
+        "keywords": [],
         "openGraph": {
-          "title": "Tratamiento a Picazón en la Piel - Dra. Martha Ruiz Peñaloza",
-          "description": "Soluciona la picazón en la piel en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
-          "url": "https://www.alergologadramartharuiz.com/sintomas/picazon-en-la-piel"
+          "title": "Tratamiento a Palpitaciones - Dr. Gabriel Gómez Palacios",
+          "description": "Identifica la causa de tus palpitaciones y recibe atención especializada para proteger tu corazón en Tuxtla Gutiérrez.",
+          "url": "https://url/sintomas/palpitaciones"
         },
         "alternates": {
-          "canonical": "https://www.alergologadramartharuiz.com/sintomas/picazon-en-la-piel"
-        }
-      }
-    },
-    {
-      "id": "hinchazon-de-labios-parpados-o-extremidades",
-      "name": "Hinchazón de Labios, Párpados o Extremidades",
-      "shortDescription": "Obtén tratamiento para hinchazón de labios, párpados o extremidades en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
-      "description": "La hinchazón en zonas como labios, párpados o extremidades puede deberse a reacciones alérgicas (angioedema), traumatismos o retención de líquidos.",
-      "causes": [
-        "Angioedema alérgico por alimentos o medicamentos",
-        "Picaduras de insectos",
-        "Retención de líquidos o alteraciones hormonales",
-        "Herencia (angioedema hereditario)"
-      ],
-      "relatedConditions": [
-        "Angioedema",
-        "Anafilaxia",
-        "Urticaria",
-        "Dermatitis de Contacto"
-      ],
-      "managementTips": [
-        "Aplicar frío local para reducir inflamación",
-        "Tomar antihistamínicos recetados",
-        "Evitar el contacto con posibles desencadenantes",
-        "Acudir al servicio médico si compromete la respiración"
-      ],
-      "ctaText": "¿Sufres de hinchazón repentina en labios, párpados o extremidades? Consulta a la Dra. Martha Ruiz Peñaloza para un diagnóstico y tratamiento oportunos.",
-      "imageHome": "/images/symptoms/hinchazon-de-labios.jpg",
-      "imageIndividual": "/images/symptoms/hinchazon-de-labios.jpg",
-      "iconIndividual": "/images/icons/symptoms/ronchas.svg",
-      "metadata": {
-        "title": "Tratamiento a Hinchazón de Labios, Párpados o Extremidades en Santiago de Querétaro, Querétaro",
-        "description": "Obtén tratamiento para hinchazón de labios, párpados o extremidades en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
-        "keywords": [
-          "Especialista en hinchazón de labios, párpados o extremidades en Santiago de Querétaro",
-          "Causas de hinchazón de labios, párpados o extremidades",
-          "El mejor tratamiento para hinchazón de labios, párpados o extremidades en Santiago de Querétaro",
-          "Tratamiento para hinchazón de labios, párpados o extremidades en Santiago de Querétaro",
-          "Experto en hinchazón de labios, párpados o extremidades en Santiago de Querétaro",
-          "Atención médica de hinchazón de labios, párpados o extremidades en Santiago de Querétaro",
-          "Quien atiende hinchazón de labios, párpados o extremidades en Santiago de Querétaro",
-          "Médico para hinchazón de labios, párpados o extremidades en Santiago de Querétaro",
-          "Qué doctor atiende hinchazón de labios, párpados o extremidades en Santiago de Querétaro",
-          "Cómo tratar hinchazón de labios, párpados o extremidades"
-        ],
-        "openGraph": {
-          "title": "Tratamiento a Hinchazón de Labios, Párpados o Extremidades - Dra. Martha Ruiz Peñaloza",
-          "description": "Obtén tratamiento para hinchazón de labios, párpados o extremidades en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
-          "url": "https://www.alergologadramartharuiz.com/sintomas/hinchazon-de-labios-parpados-o-extremidades"
-        },
-        "alternates": {
-          "canonical": "https://www.alergologadramartharuiz.com/sintomas/hinchazon-de-labios-parpados-o-extremidades"
-        }
-      }
-    },
-    {
-      "id": "ojos-rojos-y-llorosos",
-      "name": "Ojos Rojos y Llorosos",
-      "shortDescription": "Soluciona ojos rojos y llorosos en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
-      "description": "Los ojos rojos y llorosos son un síntoma frecuente de conjuntivitis, alergias o irritación, que pueden afectar la visión y la comodidad diaria.",
-      "causes": [
-        "Conjuntivitis alérgica o infecciosa",
-        "Exposición a humo, polvo o contaminantes",
-        "Uso prolongado de pantallas o lentes de contacto",
-        "Reacción alérgica a cosméticos"
-      ],
-      "relatedConditions": [
-        "Conjuntivitis Alérgica",
-        "Rinoconjuntivitis Alérgica",
-        "Dermatitis de Párpados"
-      ],
-      "managementTips": [
-        "Aplicar compresas frías",
-        "Usar lágrimas artificiales o colirios específicos",
-        "Reducir la exposición a alérgenos",
-        "Consultar al oftalmólogo si los síntomas persisten"
-      ],
-      "ctaText": "No dejes que los ojos rojos y llorosos afecten tu vida diaria. Acude con la Dra. Martha Ruiz Peñaloza para una evaluación y tratamiento efectivos.",
-      "imageHome": "/images/symptoms/ojos-rojos-y-llorosos.jpg",
-      "imageIndividual": "/images/symptoms/ojos-rojos-y-llorosos.jpg",
-      "iconIndividual": "/images/icons/symptoms/ronchas.svg",
-      "metadata": {
-        "title": "Tratamiento a Ojos Rojos y Llorosos en Santiago de Querétaro, Querétaro",
-        "description": "Soluciona ojos rojos y llorosos en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
-        "keywords": [
-          "Especialista en ojos rojos y llorosos en Santiago de Querétaro",
-          "Causas de ojos rojos y llorosos",
-          "El mejor tratamiento para ojos rojos y llorosos en Santiago de Querétaro",
-          "Tratamiento para ojos rojos y llorosos en Santiago de Querétaro",
-          "Experto en ojos rojos y llorosos en Santiago de Querétaro",
-          "Atención médica de ojos rojos y llorosos en Santiago de Querétaro",
-          "Quien atiende ojos rojos y llorosos en Santiago de Querétaro",
-          "Médico para ojos rojos y llorosos en Santiago de Querétaro",
-          "Qué doctor atiende ojos rojos y llorosos en Santiago de Querétaro",
-          "Cómo tratar ojos rojos y llorosos"
-        ],
-        "openGraph": {
-          "title": "Tratamiento a Ojos Rojos y Llorosos - Dra. Martha Ruiz Peñaloza",
-          "description": "Soluciona ojos rojos y llorosos en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
-          "url": "https://www.alergologadramartharuiz.com/sintomas/ojos-rojos-y-llorosos"
-        },
-        "alternates": {
-          "canonical": "https://www.alergologadramartharuiz.com/sintomas/ojos-rojos-y-llorosos"
-        }
-      }
-    },
-    {
-      "id": "eccema",
-      "name": "Eccema",
-      "shortDescription": "Obtén tratamiento para el eccema en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
-      "description": "El eccema es un trastorno inflamatorio crónico de la piel caracterizado por enrojecimiento, sequedad, descamación y picazón intensa.",
-      "causes": [
-        "Dermatitis atópica hereditaria",
-        "Contacto con alérgenos o irritantes químicos",
-        "Estrés y factores emocionales",
-        "Disfunción en la barrera cutánea"
-      ],
-      "relatedConditions": [
-        "Dermatitis Atópica",
-        "Dermatitis de Contacto",
-        "Alergias Alimentarias"
-      ],
-      "managementTips": [
-        "Aplicar cremas hidratantes con frecuencia",
-        "Usar jabones suaves y sin fragancias",
-        "Evitar temperaturas extremas y telas sintéticas",
-        "Consultar al dermatólogo para medicación tópica o sistémica"
-      ],
-      "ctaText": "No permitas que el eccema afecte tu piel y tu calidad de vida. Agenda tu cita con la Dra. Martha Ruiz Peñaloza y recibe un tratamiento integral.",
-      "imageHome": "/images/symptoms/eccema.jpg",
-      "imageIndividual": "/images/symptoms/eccema.jpg",
-      "iconIndividual": "/images/icons/symptoms/eccema.svg",
-      "metadata": {
-        "title": "Tratamiento a Eccema en Santiago de Querétaro, Querétaro",
-        "description": "Obtén tratamiento para el eccema en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
-        "keywords": [
-          "Especialista en eccema en Santiago de Querétaro",
-          "Causas de eccema",
-          "El mejor tratamiento para eccema en Santiago de Querétaro",
-          "Tratamiento para eccema en Santiago de Querétaro",
-          "Experto en eccema en Santiago de Querétaro",
-          "Atención médica de eccema en Santiago de Querétaro",
-          "Quien atiende eccema en Santiago de Querétaro",
-          "Médico para eccema en Santiago de Querétaro",
-          "Qué doctor atiende eccema en Santiago de Querétaro",
-          "Cómo tratar eccema"
-        ],
-        "openGraph": {
-          "title": "Tratamiento a Eccema - Dra. Martha Ruiz Peñaloza",
-          "description": "Obtén tratamiento para el eccema en Santiago de Querétaro, Querétaro. Consulta a la Dra. Martha Ruiz Peñaloza.",
-          "url": "https://www.alergologadramartharuiz.com/sintomas/eccema"
-        },
-        "alternates": {
-          "canonical": "https://www.alergologadramartharuiz.com/sintomas/eccema"
+          "canonical": "https://url/sintomas/palpitaciones"
         }
       }
     }
