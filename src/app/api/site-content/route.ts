@@ -4,7 +4,7 @@ import * as fs from "fs/promises"
 export async function GET() {
   try {
     const siteContent = await fs.readFile(path.join(process.cwd(), "src", "data", "site-content.json"), "utf8")
-    const services = await fs.readFile(path.join(process.cwd(), "src", "data", "services.json"), "utf8")
+    const services = await fs.readFile(path.join(process.cwd(), "src", "data", "servicesDataMetadata.json"), "utf8")
     const symptoms = await fs.readFile(path.join(process.cwd(), "src", "data", "symptomsDataMetadata.json"), "utf8")
     const diseases = await fs.readFile(path.join(process.cwd(), "src", "data", "diseasesDataMetadata.json"), "utf8")
     const testimonials = await fs.readFile(path.join(process.cwd(), "src", "data", "testimonials.json"), "utf8")

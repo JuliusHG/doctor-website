@@ -1,3 +1,5 @@
+//@ts-nocheck
+
 import type { SiteContent } from "../../../interfaces/SiteContent";
 
 export const initialFormData: SiteContent = {

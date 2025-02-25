@@ -11,7 +11,7 @@ const config: Config = {
     extend: {
       fontFamily: {
         sans: ["var(--font-nunito-sans)", "sans-serif"],
-        heading: ["var(--font-teko)", "sans-serif"],
+        heading: ["var(--font-oswald)", "sans-serif"],
         teko: ["var(--font-teko)", "sans-serif"],
         "nunito-sans": ["var(--font-nunito-sans)", "sans-serif"],
       },
@@ -52,9 +52,11 @@ const config: Config = {
         navy: {
           600: "#1a365d",
         },
-        "dw-dark": "#4C8D90",
-        "dw-darker": "#516567",
-        "dw-soft": "#39B8B0"
+        "dw-dark": "#325A68",
+        "dw-darker": "#1E363E",
+        "dw-soft": "#6DC5E4",
+        "dw-softer": "#95D5EB",
+        "dw-white": "#FFFFFF"
       },
       borderRadius: {
         lg: "var(--radius)",

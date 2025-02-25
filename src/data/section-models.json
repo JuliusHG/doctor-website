@@ -32,7 +32,12 @@
     {
       "file": "Hero-cleener-home2.tsx",
       "imagePath": null,
-      "description": "Hero (cleener) con espacio para imagen en foreground, y texto descriptivo."
+      "description": "Hero (cleener) con espacio para imagen en foreground, y texto descriptivo, con gradiente incluido entre imagen y fondo."
+    },
+    {
+      "file": "Hero-creote-slider.tsx",
+      "imagePath": null,
+      "description": null
     },
     {
       "file": "Hero-default-drimage.tsx",
@@ -132,6 +137,11 @@
   ],
   "Services": [
     {
+      "file": "Services-cleener-tab.tsx",
+      "imagePath": null,
+      "description": "TAB version of Services-cleener.tsx. It calls the SectionHeaderSwitches component to switch between sections."
+    },
+    {
       "file": "Services-cleener.tsx",
       "imagePath": null,
       "description": null
@@ -165,6 +175,11 @@
     }
   ],
   "Diseases": [
+    {
+      "file": "Diseases-cleener-tab.tsx",
+      "imagePath": null,
+      "description": "TAB version of Diseases-cleener.tsx. It calls the SectionHeaderSwitches component to switch between sections."
+    },
     {
       "file": "Diseases-cleener.tsx",
       "imagePath": null,
@@ -235,6 +250,11 @@
     }
   ],
   "GeneralCallToAction": [
+    {
+      "file": "GeneralCallToAction-cleener-vertical.tsx",
+      "imagePath": null,
+      "description": null
+    },
     {
       "file": "GeneralCallToAction-cleener.tsx",
       "imagePath": null,

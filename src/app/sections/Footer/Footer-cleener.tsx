@@ -54,44 +54,11 @@ export default function Footer() {
                         <Image
                             src={footer.logoFooter}
                             alt={doctorInfo.name}
-                            width={300}
-                            height={100}
+                            width={350}
+                            height={150}
                         />
                     </div>
-                    <div className="flex justify-center items-center space-x-4 mb-4">
-                        <a
-                            href={doctorInfo.facebookLink}
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="bg-white/10 rounded-md p-2 hover:bg-dw-darker transition-colors duration-200"
-                        >
-                            <Image src="/images/icons/facebook.svg" alt="Facebook" width={20} height={20} />
-                        </a>
-                        <a
-                            href={doctorInfo.instagramLink}
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="bg-white/10 rounded-md p-2 hover:bg-dw-darker transition-colors duration-200"
-                        >
-                            <Image src="/images/icons/instagram.svg" alt="Instagram" width={20} height={20} />
-                        </a>
-                        <a
-                            href={doctorInfo.googleMapsLink}
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="bg-white/10 rounded-md p-2 hover:bg-dw-darker transition-colors duration-200"
-                        >
-                            <Image src="/images/icons/google.svg" alt="Google" width={20} height={20} />
-                        </a>
-                        <a
-                            href={doctorInfo.doctoraliaLink}
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="bg-white/10 rounded-md p-2 hover:bg-dw-darker transition-colors duration-200"
-                        >
-                            <Image src="/images/icons/doctoralia.svg" alt="Doctoralia" width={20} height={20} />
-                        </a>
-                    </div>
+                    
                 </div>
 
                 {/* Column 2 */}
@@ -108,7 +75,7 @@ export default function Footer() {
                             href={doctorInfo.googleMapsLink}
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="hover:text-blue-400"
+                            className="hover:text-dw-soft"
                         >
                             {doctorWorkInfo.consultingAddress}
                         </a>
@@ -134,18 +101,60 @@ export default function Footer() {
                     </h3>
                     <div className="flex items-center mb-2 mt-4">
                         <PhoneIcon size={20} className="mr-2" />
-                        <a href={`tel:${doctorInfo.phone}`} className="hover:text-blue-400">
+                        <a href={`tel:${doctorInfo.phone}`} className="hover:text-dw-soft">
                             {doctorInfo.phone}
                         </a>
                     </div>
                     <div className="flex items-center">
                         <MailIcon size={20} className="mr-2" />
-                        <a href={`mailto:${doctorInfo.email}`} className="hover:text-blue-400">
+                        <a href={`mailto:${doctorInfo.email}`} className="hover:text-dw-soft">
                             {doctorInfo.email}
                         </a>
                     </div>
+                    <div className="flex justify-center items-center space-x-4 my-4">
+                        <a
+                            href={doctorInfo.facebookLink}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="bg-white/10 rounded-md p-2 hover:bg-dw-darker transition-colors duration-200"
+                        >
+                            <Image src="/images/icons/facebook.svg" alt="Facebook" width={20} height={20} />
+                        </a>
+                        <a
+                            href={doctorInfo.instagramLink}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="bg-white/10 rounded-md p-2 hover:bg-dw-darker transition-colors duration-200"
+                        >
+                            <Image src="/images/icons/instagram.svg" alt="Instagram" width={20} height={20} />
+                        </a>
+                        <a
+                            href={doctorInfo.googleMapsLink}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="bg-white/10 rounded-md p-2 hover:bg-dw-darker transition-colors duration-200"
+                        >
+                            <Image src="/images/icons/google.svg" alt="Google" width={20} height={20} />
+                        </a>
+                        {/* <a
+                            href={doctorInfo.doctoraliaLink}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="bg-white/10 rounded-md p-2 hover:bg-dw-darker transition-colors duration-200"
+                        >
+                            <Image src="/images/icons/nimbo.svg" alt="Doctoralia" width={20} height={20} />
+                        </a> */}
+                        <a
+                            href={doctorInfo.nimboLink}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="bg-white/10 rounded-md p-2 hover:bg-dw-darker transition-colors duration-200"
+                        >
+                            <Image src="/images/icons/nimbo.svg" alt="Nimbo" width={20} height={20} />
+                        </a>
+                    </div>
 
-                    <h4 className="font-semibold mb-2 mt-8 flex items-center">
+                    {/* <h4 className="font-semibold mb-2 mt-8 flex items-center">
                         <PhoneIcon size={20} className="mr-2" />
                         {doctorWorkInfo.hospitalPhonesHeader}
                     </h4>
@@ -162,7 +171,7 @@ export default function Footer() {
                             {doctorWorkInfo.hospitalUrgenciesPhone}
                             </a>
                         </p>
-                    </div>
+                    </div> */}
 
                 </div>
                 

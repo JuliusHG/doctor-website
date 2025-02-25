@@ -45,7 +45,7 @@ const ContactoPage: React.FC<ContactPageProps> = ({ doctorWorkInfo, MapPin, Cloc
       </div>
 
       {/* Google Maps Frame */}
-      <div className="w-full h-[400px]">
+      {/* <div className="w-full h-[400px]">
         <iframe
           src={googleMapsLink}
           width="100%"
@@ -55,7 +55,7 @@ const ContactoPage: React.FC<ContactPageProps> = ({ doctorWorkInfo, MapPin, Cloc
           loading="lazy"
           referrerPolicy="no-referrer-when-downgrade"
         />
-      </div>
+      </div> */}
     </div>
   )
 }

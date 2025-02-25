@@ -11,7 +11,7 @@ export default function ButtonWhatsapp({ whatsapp, text, defaultText, className 
   return (
     <Link
       href={`https://wa.me/${whatsapp}`}
-      className={`bg-green-600 hover:bg-green-700 text-white font-bold py-2 px-4 rounded-sm transition duration-300 ${className}`}
+      className={`bg-dw-soft hover:bg-dark text-white font-bold py-2 px-4 rounded-full transition duration-300 ${className}`}
     >
       {text || defaultText}
     </Link>

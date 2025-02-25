@@ -68,7 +68,7 @@ export default function ExperienceSection() {
                 className="w-12 h-12 mb-2 relative z-10 filter-dw-soft"
               />
               <p className="text-5xl font-extrabold mb-1 text-dw-dark transition-colors duration-300 group-hover:text-black-500 relative z-10">
-                {item.value} {/* TODO Which will be the standard here */}
+                {item.value}
               </p>
               <p className="text-xl px-8 font-bold text-gray-800 text-center transition-colors duration-300 group-hover:text-black-500 relative z-10">
                 {item.label}

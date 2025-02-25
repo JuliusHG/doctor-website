@@ -28,7 +28,7 @@ const ServicesSection = () => {
   }
 
   // Limit to 6 services for the home page
-  const displayedServices = content.servicesDataMetadata.services.slice(0, 16)
+  const displayedServices = content.servicesDataMetadata.services.slice(0, 6)
 
   return (
     <div className="w-full py-24 bg-white">
@@ -51,27 +51,18 @@ const ServicesSection = () => {
             >
               {/* Icon Container */}
               <div className="mb-8 relative">
-                <div className="w-24 h-24 mx-auto rounded-xl flex items-center justify-center transition-colors duration-500 ease-in-out">
+                <div className="w-24 h-24 mx-auto rounded-full bg-white flex items-center justify-center transition-colors duration-500 ease-in-out">
                   <div className="w-16 h-16 relative">
                     <Image
-                      src={service.iconIndividual || "/placeholder.svg"}
-                      alt={service.title}
-                      width={64}
-                      height={64}
-                      className="transition-all duration-500 ease-in-out filter-dw-dark"
+                    src={service.iconIndividual || "/placeholder.svg"}
+                    alt={service.title}
+                    width={64}
+                    height={64}
+                    className="transition-all duration-500 ease-in-out filter-dw-dark"
                     />
-                    <div className="absolute inset-0 transition-opacity duration-500 ease-in-out opacity-0 group-hover:opacity-100">
-                      <Image
-                        src={service.iconIndividual || "/placeholder.svg"}
-                        alt={service.title}
-                        width={64}
-                        height={64}
-                        className="invert"
-                      />
-                    </div>
                   </div>
                 </div>
-              </div>
+              </div>              
 
               {/* Content */}
               <div className="text-center relative z-10">

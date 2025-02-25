@@ -11,7 +11,7 @@ export default function ButtonCallNow({ phone, text, defaultText, className = ""
   return (
     <Link
       href={`tel:${phone}`}
-      className={`border-2 border-white hover:bg-white text-white hover:text-black font-bold py-2 px-4 rounded-md transition duration-300 ${className}`}
+      className={`border-2 border-white hover:bg-white text-white hover:text-black font-bold py-2 px-4 rounded-full transition duration-300 ${className}`}
     >
       {text || defaultText}
     </Link>

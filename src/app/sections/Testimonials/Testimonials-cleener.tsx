@@ -60,36 +60,37 @@ export default function TestimonialsSection() {
   return (
     <section
       className="py-20 relative bg-cover bg-center"
-      style={{
+      /* style={{
         backgroundImage: `url(${testimonialsContent.sectionBackground})`,
-      }}
+      }} */
     >
       <div className="container mx-auto px-4">
         <div className="text-center mb-12">
-          <h3 className="text-dw-darker text-4xl uppercase font-semibold mb-4 cleener-bullets">
+          <h3 className="text-dw-dark text-4xl font-extrabold mb-4">
             {testimonialsContent.sectionSubtitle}
           </h3>
-          <p className="text-gray-500 text-xl md:text-xl max-w-3xl mx-auto">{testimonialsContent.sectionDescription}</p>
+          {/* <p className="text-gray-500 text-xl md:text-xl max-w-3xl mx-auto">{testimonialsContent.sectionDescription}</p> */}
         </div>
         <div className="flex flex-col lg:flex-row gap-8 items-center">
           {/* Left column - Image */}
-          <div className="w-full lg:w-1/2 flex justify-end items-center pr-4">
-            <div className="relative w-3/4 h-[400px]">
-              <Image
-                src={testimonialsContent.testimonialsImage || "/placeholder.svg"}
-                alt="Testimonials"
-                layout="fill"
-                objectFit="contain"
-                className="rounded-lg"
-              />
+          <div className="w-full lg:w-1/2 flex justify-end items-center pr-32">
+            <div className="relative w-[250px] h-[250px]">
+              <div className="w-full h-full relative overflow-hidden rounded-[180px] rounded-tl-none">
+                <Image
+                  src={testimonialsContent.testimonialsImage || "/placeholder.svg"}
+                  alt="Testimonials"
+                  layout="fill"
+                  objectFit="cover"
+                />
+              </div>
             </div>
           </div>
           {/* Right column - Slider */}
           <div className="w-full lg:w-1/2">
-            <div className="overflow-visible py-8 pl-0">
-              <div className="w-[75px] h-[150px] bg-dw-soft rounded-[20px] rounded-bl-none mb-4 flex items-center justify-center p-4">
-                <Image src="/assets/quote-left.svg" alt="Quote" width={64} height={64} className="text-dw-dark" />      
-              </div> {/* TODO align with the text bk */}  
+            <div className="overflow-visible pl-8">
+              <div className="w-[75px] h-[150px] bg-teal-300 rounded-[20px] rounded-bl-none mb-4 flex items-center justify-center">
+                <Image src="/assets/quote-left.svg" alt="Quote" width={64} height={64} className="filter-dw-soft" />      
+              </div> 
               <Slider {...settings} className="ml-0">
                 {testimonials.map((testimonial, index) => (
                   <TestimonialCard key={index} testimonial={testimonial} />
@@ -98,8 +99,8 @@ export default function TestimonialsSection() {
             </div>
           </div>
         </div>
-        <div className="mt-12 flex justify-center">
-          <ImageButton linkUrl={doctorInfo.doctoraliaReviewsLink} className="shadow-md" />
+        <div className="mt-4 flex justify-center">
+          <ImageButton linkUrl={doctorInfo.googleMapsLink} className="shadow-md" />
         </div>
       </div>
     </section>
@@ -116,17 +117,17 @@ const TestimonialCard: React.FC<TestimonialCardProps> = ({ testimonial }) => {
     <div className="pr-4">
       <div className="relative" style={{ height: "280px" }}>
         <div
-          className="absolute inset-0 bg-white p-5 rounded-lg flex flex-col justify-between max-w-[550px] mx-auto"
+          className="absolute inset-0 bg-white rounded-lg flex flex-col justify-between max-w-[550px]"
           style={{ top: "20px", height: "calc(100% - 40px)", zIndex: 1 }}
         >
           <div className="flex items-start gap-4 mb-3">
             <div className="flex-grow">
-              <div className="flex gap-1 mb-1">
+              {/* <div className="flex gap-1 mb-1">
                 {[...Array(testimonial.rating)].map((_, i) => (
                   <Star key={i} className="w-5 h-5 text-yellow-400 fill-current" />
                 ))}
-              </div>
-              <h3 className="text-4xl text-dw-darker font-semibold">{testimonial.name}</h3>
+              </div> */}
+              <h3 className="text-2xl text-dw-darker font-extrabold">{testimonial.name}</h3>
               <p className="text-dw-soft text-sm text-dw-soft">Paciente verificado</p>
             </div>
           </div>

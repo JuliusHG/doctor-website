@@ -77,9 +77,9 @@ export default function CallToActionIndividual({ id, type }: CallToActionIndivid
           backgroundBlendMode: "overlay",
         }} */
       >
-        <h3 className="text-5xl mb-4 leading-tight">{ctaIndivHeader}</h3>
-        <p className="text-2xl mb-6 px-2 leading-tight">{ctaText}</p>
-        <div className="space-y-3">
+        <h3 className="text-5xl text-center mb-4 leading-tight">{ctaIndivHeader}</h3>
+        <p className="text-2xl mb-6 px-4 leading-tight">{ctaText}</p>
+        <div className="space-y-8 px-8">
           <ButtonCallNow phone={phone} defaultText={btnCallText} className="block w-full text-center" />
           <ButtonWhatsapp whatsapp={whatsapp} defaultText={btnMessageText} className="block w-full text-center" />
         </div>

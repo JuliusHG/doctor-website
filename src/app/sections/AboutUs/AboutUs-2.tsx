@@ -52,12 +52,32 @@ export default function AboutUsSection() {
           </div>
           <div className="w-full md:w-1/2">
             {/* <h5 className="text-lg font-bold text-dw-dark mb-2">{aboutUs.sectionTitle}</h5> */}
-            <h3 className="text-3xl md:text-4xl lg:text-5xl font-extrabold mb-6 text-dw-darker cleener-bullets">{aboutUs.title}</h3>
+            <h3 className="text-3xl md:text-4xl lg:text-5xl font-extrabold mb-6 text-dw-darker">{aboutUs.title}</h3>
             {formattedDescription.split("\n\n").map((paragraph, index) => (
               <p key={index} className="text-gray-800 text-base md:text-lg leading-relaxed mb-4">
                 {paragraph}
               </p>
             ))}
+            <div className="flex flex-row items-center h-full mt-8">
+              <div className="flex items-center justify-center h-40 mb-4 w-full">
+                 <Image
+                  src={"/images/certifications/UNACH.png"}
+                  alt={"UNACH"}
+                  width={230}
+                  height={230}
+                  className="object-contain max-h-full max-w-full"
+                  />
+              </div>
+              <div className="flex items-center justify-center h-40 mb-4 w-full">
+                 <Image
+                  src={"/images/certifications/UNAM.png"}
+                  alt={"UNAM"}
+                  width={230}
+                  height={230}
+                  className="object-contain max-h-full max-w-full"
+                  />
+              </div>
+            </div>
           </div>
         </div>
       </div>

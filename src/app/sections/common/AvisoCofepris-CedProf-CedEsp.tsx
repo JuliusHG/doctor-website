@@ -39,7 +39,7 @@ export default function AvisoCofeprisCedProfCedEsp({ transparentBg = false }: Av
       <div className="container mx-auto flex justify-center items-center text-xl uppercase">
         <div className="text-center">
           <span>
-            AVISO COFEPRIS: {doctorWorkInfo.avisoCofepris} | CÉD. PROF.: {doctorInfo.cedProf} | CÉD. ESP.: {doctorInfo.cedEsp}
+            AVISO COFEPRIS: {doctorWorkInfo.avisoCofepris} | Céd. Prof. {doctorInfo.cedProf} | Céd. Esp. {doctorInfo.cedEsp}
           </span>
         </div>
       </div>

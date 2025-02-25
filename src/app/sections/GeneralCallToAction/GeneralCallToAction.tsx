@@ -1,5 +1,3 @@
-//TODO David: Will this section change to vertical?
-
 "use client"
 
 import { useState, useEffect } from "react"

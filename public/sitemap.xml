@@ -1,268 +1,324 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <!-- Páginas principales -->
   <url>
-    <loc>https://www.alergologadramartharuiz.com</loc>
-    <lastmod>2025-02-07T15:02:24.021Z</lastmod>
+    <loc>https://www.nefrologiarodas.com</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.alergologadramartharuiz.com/enfermedades</loc>
-    <lastmod>2025-02-07T15:02:24.021Z</lastmod>
+    <loc>https://www.nefrologiarodas.com/enfermedades</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.alergologadramartharuiz.com/sintomas</loc>
-    <lastmod>2025-02-07T15:02:24.021Z</lastmod>
+    <loc>https://www.nefrologiarodas.com/sintomas</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.alergologadramartharuiz.com/servicios</loc>
-    <lastmod>2025-02-07T15:02:24.021Z</lastmod>
+    <loc>https://www.nefrologiarodas.com/servicios</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.alergologadramartharuiz.com/contacto</loc>
-    <lastmod>2025-02-07T15:02:24.021Z</lastmod>
+    <loc>https://www.nefrologiarodas.com/contacto</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
 
   <!-- Subpáginas de Enfermedades -->
   <url>
-    <loc>https://www.alergologadramartharuiz.com/enfermedades/alergia-al-latex</loc>
-    <lastmod>2025-02-07T15:02:24.021Z</lastmod>
+    <loc>https://www.nefrologiarodas.com/enfermedades/hipertension-arterial</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.alergologadramartharuiz.com/enfermedades/conjuntivitis-alergica</loc>
-    <lastmod>2025-02-07T15:02:24.021Z</lastmod>
+    <loc>https://www.nefrologiarodas.com/enfermedades/diabetes-mellitus-tipo-2</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.alergologadramartharuiz.com/enfermedades/urticaria-cronica-o-aguda</loc>
-    <lastmod>2025-02-07T15:02:24.021Z</lastmod>
+    <loc>https://www.nefrologiarodas.com/enfermedades/hipotiroidismo</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.alergologadramartharuiz.com/enfermedades/rinitis-alergica</loc>
-    <lastmod>2025-02-07T15:02:24.021Z</lastmod>
+    <loc>https://www.nefrologiarodas.com/enfermedades/hipertiroidismo</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.alergologadramartharuiz.com/enfermedades/asma</loc>
-    <lastmod>2025-02-07T15:02:24.021Z</lastmod>
+    <loc>https://www.nefrologiarodas.com/enfermedades/hipercolesterolemia</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.alergologadramartharuiz.com/enfermedades/dermatitis-atopica-y-de-contacto</loc>
-    <lastmod>2025-02-07T15:02:24.021Z</lastmod>
+    <loc>https://www.nefrologiarodas.com/enfermedades/dislipidemias</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.alergologadramartharuiz.com/enfermedades/angioedema</loc>
-    <lastmod>2025-02-07T15:02:24.021Z</lastmod>
+    <loc>https://www.nefrologiarodas.com/enfermedades/gastritis</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.alergologadramartharuiz.com/enfermedades/anafilaxia</loc>
-    <lastmod>2025-02-07T15:02:24.021Z</lastmod>
+    <loc>https://www.nefrologiarodas.com/enfermedades/reflujo-gastroesofagico</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.alergologadramartharuiz.com/enfermedades/alergia-alimentaria</loc>
-    <lastmod>2025-02-07T15:02:24.021Z</lastmod>
+    <loc>https://www.nefrologiarodas.com/enfermedades/sindrome-metabolico</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.alergologadramartharuiz.com/enfermedades/alergia-a-medicamentos</loc>
-    <lastmod>2025-02-07T15:02:24.021Z</lastmod>
+    <loc>https://www.nefrologiarodas.com/enfermedades/obesidad</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.alergologadramartharuiz.com/enfermedades/alergia-al-medio-de-contraste</loc>
-    <lastmod>2025-02-07T15:02:24.021Z</lastmod>
+    <loc>https://www.nefrologiarodas.com/enfermedades/anemia</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.alergologadramartharuiz.com/enfermedades/alergia-a-mascotas</loc>
-    <lastmod>2025-02-07T15:02:24.021Z</lastmod>
+    <loc>https://www.nefrologiarodas.com/enfermedades/bronquitis</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.alergologadramartharuiz.com/enfermedades/alergia-a-picadura-de-insectos</loc>
-    <lastmod>2025-02-07T15:02:24.021Z</lastmod>
+    <loc>https://www.nefrologiarodas.com/enfermedades/neumonia</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.alergologadramartharuiz.com/enfermedades/sindrome-de-dress</loc>
-    <lastmod>2025-02-07T15:02:24.021Z</lastmod>
+    <loc>https://www.nefrologiarodas.com/enfermedades/epoc</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.alergologadramartharuiz.com/enfermedades/sindrome-de-stevens-johnson</loc>
-    <lastmod>2025-02-07T15:02:24.021Z</lastmod>
+    <loc>https://www.nefrologiarodas.com/enfermedades/asma</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.alergologadramartharuiz.com/enfermedades/sinusitis-alergica-cronica</loc>
-    <lastmod>2025-02-07T15:02:24.021Z</lastmod>
+    <loc>https://www.nefrologiarodas.com/enfermedades/lupus</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.alergologadramartharuiz.com/enfermedades/infeccion-de-las-vias-respiratorias</loc>
-    <lastmod>2025-02-07T15:02:24.021Z</lastmod>
+    <loc>https://www.nefrologiarodas.com/enfermedades/artritis-reumatoide</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.alergologadramartharuiz.com/enfermedades/rinoconjuntivitis-alergica</loc>
-    <lastmod>2025-02-07T15:02:24.021Z</lastmod>
+    <loc>https://www.nefrologiarodas.com/enfermedades/insuficiencia-cardiaca</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.alergologadramartharuiz.com/enfermedades/inmunodeficiencias-primarias</loc>
-    <lastmod>2025-02-07T15:02:24.021Z</lastmod>
+    <loc>https://www.nefrologiarodas.com/enfermedades/cardiopatia-isquemica</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.nefrologiarodas.com/enfermedades/hepatitis-cronica</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.nefrologiarodas.com/enfermedades/higado-graso-no-alcoholico</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.nefrologiarodas.com/enfermedades/infecciones-urinarias</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.nefrologiarodas.com/enfermedades/enfermedad-renal-cronica</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.nefrologiarodas.com/enfermedades/migrañas</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.nefrologiarodas.com/enfermedades/cefaleas-cronicas</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.nefrologiarodas.com/enfermedades/osteoporosis</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <!-- Subpáginas de Síntomas -->
   <url>
-    <loc>https://www.alergologadramartharuiz.com/sintomas/congestion-nasal-persistente</loc>
-    <lastmod>2025-02-07T15:02:24.021Z</lastmod>
+    <loc>https://www.nefrologiarodas.com/sintomas/dolor-de-cabeza-o-cefalea</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.alergologadramartharuiz.com/sintomas/estornudos-frecuentes</loc>
-    <lastmod>2025-02-07T15:02:24.021Z</lastmod>
+    <loc>https://www.nefrologiarodas.com/sintomas/dolor-en-el-pecho</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.alergologadramartharuiz.com/sintomas/dificultad-para-respirar</loc>
-    <lastmod>2025-02-07T15:02:24.021Z</lastmod>
+    <loc>https://www.nefrologiarodas.com/sintomas/fiebre</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.alergologadramartharuiz.com/sintomas/tos-cronica</loc>
-    <lastmod>2025-02-07T15:02:24.021Z</lastmod>
+    <loc>https://www.nefrologiarodas.com/sintomas/tos-persistente</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.alergologadramartharuiz.com/sintomas/ronchas</loc>
-    <lastmod>2025-02-07T15:02:24.021Z</lastmod>
+    <loc>https://www.nefrologiarodas.com/sintomas/dificultad-para-respirar</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.alergologadramartharuiz.com/sintomas/picazon-en-la-piel</loc>
-    <lastmod>2025-02-07T15:02:24.021Z</lastmod>
+    <loc>https://www.nefrologiarodas.com/sintomas/mareos-y-vertigo</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.alergologadramartharuiz.com/sintomas/hinchazon-de-labios-parpados-o-extremidades</loc>
-    <lastmod>2025-02-07T15:02:24.021Z</lastmod>
+    <loc>https://www.nefrologiarodas.com/sintomas/fatiga-y-cansancio-cronico</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.alergologadramartharuiz.com/sintomas/ojos-rojos-y-llorosos</loc>
-    <lastmod>2025-02-07T15:02:24.021Z</lastmod>
+    <loc>https://www.nefrologiarodas.com/sintomas/palpitaciones</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+ 
+  <!-- Subpáginas de Servicios -->
+  <url>
+    <loc>https://www.nefrologiarodas.com/servicios/paracentesis</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.alergologadramartharuiz.com/sintomas/eccema</loc>
-    <lastmod>2025-02-07T15:02:24.021Z</lastmod>
+    <loc>https://www.nefrologiarodas.com/servicios/toracocentesis</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.nefrologiarodas.com/servicios/puncion-lumbar</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.nefrologiarodas.com/servicios/insercion-de-cateter-venoso-central</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.nefrologiarodas.com/servicios/gasometria-arterial</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.nefrologiarodas.com/servicios/electrocardiograma</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.nefrologiarodas.com/servicios/ecografia-critica</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.nefrologiarodas.com/servicios/consulta-de-medicina-interna-general</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.nefrologiarodas.com/servicios/control-y-seguimiento-de-enfermedades-cronicas</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.nefrologiarodas.com/servicios/chequeos-medicos-preventivos</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.nefrologiarodas.com/servicios/valoracion-preoperatoria</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.nefrologiarodas.com/servicios/manejo-de-comorbilidades-en-pacientes-hospitalizados</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.nefrologiarodas.com/servicios/atencion-de-urgencias-medicas</loc>
+    <lastmod>2025-02-21T15:02:24.021Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
-  <!-- Subpáginas de Servicios -->
-  <url>
-    <loc>https://www.alergologadramartharuiz.com/servicios/diagnostico-de-patologia-alergica</loc>
-    <lastmod>2025-02-07T15:02:24.021Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.alergologadramartharuiz.com/servicios/pruebas-cutaneas-de-alergia</loc>
-    <lastmod>2025-02-07T15:02:24.021Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.alergologadramartharuiz.com/servicios/vacunacion-de-alergias</loc>
-    <lastmod>2025-02-07T15:02:24.021Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.alergologadramartharuiz.com/servicios/inmunoterapia-sublingual</loc>
-    <lastmod>2025-02-07T15:02:24.021Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.alergologadramartharuiz.com/servicios/tratamiento-de-anafilaxia</loc>
-    <lastmod>2025-02-07T15:02:24.021Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.alergologadramartharuiz.com/servicios/desensibilizacion-de-medicamentos</loc>
-    <lastmod>2025-02-07T15:02:24.021Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.alergologadramartharuiz.com/servicios/diagnostico-y-tratamiento-de-errores-innatos-de-la-inmunidad</loc>
-    <lastmod>2025-02-07T15:02:24.021Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.alergologadramartharuiz.com/servicios/consulta-de-alergia-e-inmunologia</loc>
-    <lastmod>2025-02-07T15:02:24.021Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.alergologadramartharuiz.com/servicios/consulta-de-pediatria</loc>
-    <lastmod>2025-02-07T15:02:24.021Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.alergologadramartharuiz.com/servicios/tratamiento-de-asma</loc>
-    <lastmod>2025-02-07T15:02:24.021Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
 </urlset>

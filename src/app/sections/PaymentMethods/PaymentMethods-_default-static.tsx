@@ -68,7 +68,7 @@ export default function PaymentMethodsSection() {
   return (
     <section className="py-12">
       <h3 className="text-3xl font-bold mb-4 text-center text-dw-dark">{payments.sectionTitle}</h3>
-      <h2 className="text-6xl font-bold mb-12 text-center text-dw-darker">{payments.sectionSubtitle}</h2>
+      <h2 className="text-4xl font-bold mb-12 text-center text-dw-soft">{payments.sectionSubtitle}</h2>
       <div className="flex flex-wrap justify-center gap-8 mb-8">
         {payments.methods
           .filter((method: PaymentMethod) => method.visible)

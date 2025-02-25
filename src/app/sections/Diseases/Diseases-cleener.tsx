@@ -28,7 +28,7 @@ const DiseasesSection = () => {
   }
 
   // Limit to 6 diseases for the home page
-  const displayedDiseases = content.diseasesDataMetadata.diseases.slice(0, 28)
+  const displayedDiseases = content.diseasesDataMetadata.diseases.slice(0, 6)
 
   return (
     <div className="w-full py-24 bg-white">
@@ -36,7 +36,7 @@ const DiseasesSection = () => {
         {/* Section Header */}
         <div className="mb-16">
           <div className="max-w-2xl mx-auto text-center">
-            <h2 className="text-3xl text-dw-dark font-bold mb-4">{content.diseasesSection.sectionTitle}</h2>
+            {/* <h2 className="text-3xl text-dw-dark font-bold mb-4">{content.diseasesSection.sectionTitle}</h2> */}
             <h2 className="text-6xl text-dw-darker font-bold mb-4">{content.diseasesSection.sectionSubtitle}</h2>
             <p className="text-gray-600">{content.diseasesSection.sectionText}</p>
           </div>
@@ -50,28 +50,26 @@ const DiseasesSection = () => {
               className="group relative bg-white rounded-lg p-8 w-full max-w-[340px] h-[340px] transition-all duration-500 ease-in-out hover:bg-dw-dark"
             >
               {/* Icon Container */}
-              <div className="mb-8 relative">
-                <div className="w-24 h-24 mx-auto rounded-xl flex items-center justify-center transition-colors duration-500 ease-in-out">
-                  <div className="w-16 h-16 relative">
-                    <Image
-                      src={disease.iconIndividual || "/placeholder.svg"}
-                      alt={disease.name}
-                      width={64}
-                      height={64}
-                      className="transition-all duration-500 ease-in-out filter-dw-dark"
-                    />
-                    <div className="absolute inset-0 transition-opacity duration-500 ease-in-out opacity-0 group-hover:opacity-100">
-                      <Image
-                        src={disease.iconIndividual || "/placeholder.svg"}
-                        alt={disease.name}
-                        width={64}
-                        height={64}
-                        className="invert"
-                      />
-                    </div>
-                  </div>
-                </div>
-              </div>
+                            <div className="mb-8 relative">
+                              <div className="w-64 h-64 mx-auto rounded-full bg-white flex items-center justify-center transition-colors duration-500 ease-in-out">
+                                <div className="relative aspect-[4/2] w-full">
+                                  <Image
+                                  src={disease.imageHome || "/placeholder.svg"}
+                                  alt={disease.name}
+                                  fill
+                                  className="object-cover rounded-lg transition-all duration-500 ease-in-out"
+                                  />
+                                </div>
+                                {/* <div className="relative aspect-[4/2] w-full">
+                                  <Image
+                                    src={disease.imageIndividual || "/placeholder.svg"}
+                                    alt={disease.name}
+                                    fill
+                                    className="object-cover rounded-lg"
+                                  />
+                                </div> */}
+                              </div>
+                            </div>
 
               {/* Content */}
               <div className="text-center relative z-10">

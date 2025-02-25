@@ -1,27 +1,27 @@
 {
   "serviciosMeta": {
     "main": {
-      "title": "Servicios - Dr. Gabriel Gómez Palacios",
-      "description": "Información sobre servicios de Medicina Interna y Medicina Crítica proporcionados por el Dr. Gabriel Gómez Palacios en Tuxtla Gutiérrez.",
+      "title": "Servicios - Dra. Gloria Rodas Gallegos",
+      "description": "Información sobre servicios de Nefrología proporcionados por la Dra. Gloria Rodas Gallegos en Tuxtla Gutiérrez.",
       "openGraph": {
-        "title": "Servicios proporcionados de Medicina Interna y Medicina Crítica",
-        "description": "Conozca los servicios de Medicina Interna y Medicina Crítica que ofrecemos.",
-        "url": "https://url/servicios"
+        "title": "Servicios proporcionados por la Dra. Gloria Rodas Gallegos",
+        "description": "Conozca los servicios de Nefrología que ofrece la Dra. Gloria Rodas Gallegos en Tuxtla Gutiérrez.",
+        "url": "https://www.nefrologiarodas.com/servicios"
       },
       "alternates": {
-        "canonical": "https://url/servicios"
+        "canonical": "https://www.nefrologiarodas.com/servicios"
       }
     }
   },
   "services": [
     {
-      "id": "paracentesis",
-      "title": "Paracentesis",
+      "id": "hemodialisis",
+      "title": "Hemodiálisis",
       "description": "La paracentesis consiste en la extracción de líquido acumulado en la cavidad abdominal (ascitis) mediante una aguja estéril o catéter. Se emplea en pacientes con enfermedades hepáticas, renales o cancerígenas que cursan con retención de líquido.",
       "shortDescription": "Procedimiento para extraer líquido (ascitis) de la cavidad abdominal.",
-      "imageHome": "/images/services/paracentesis.jpg",
-      "imageIndividual": "/images/services/paracentesis.jpg",
-      "iconIndividual": "/images/services/icons/paracentesis.svg",
+      "imageHome": "/images/services/hemodialisis.jpg",
+      "imageIndividual": "/images/services/hemodialisis.jpg",
+      "iconIndividual": "",
       "benefits": [
         "Alivio de molestias y reducción de la presión abdominal",
         "Mejoría en la respiración",
@@ -50,26 +50,37 @@
       "ctaText": "Soy el Doctor Gabriel Gómez Palacios y ofrezco paracentesis en Tuxtla Gutiérrez, Chiapas. Te invito a agendar tu consulta si necesitas realizarte este procedimiento o deseas resolver dudas sobre su utilidad.",
       "metadata": {
         "title": "Paracentesis en Tuxtla Gutiérrez, Chiapas",
-        "description": "La paracentesis extrae líquido abdominal (ascitis) para diagnóstico o alivio. Consulta al Dr. Gabriel Gómez Palacios.",
-        "keywords": [],
+        "description": "La paracentesis extrae líquido abdominal (ascitis) para diagnóstico o alivio. Consulta al Dra. Gloria Rodas Gallegos.",
+        "keywords": [
+          "Especialista en paracentesis en Tuxtla Gutiérrez, Chiapas",
+          "Dónde puedo realizarme paracentesis en Tuxtla Gutiérrez, Chiapas",
+          "Precio de paracentesis en Tuxtla Gutiérrez, Chiapas",
+          "Para qué sirve paracentesis",
+          "Experto en paracentesis en Tuxtla Gutiérrez, Chiapas",
+          "Cuidados después de paracentesis",
+          "Quién realiza paracentesis en Tuxtla Gutiérrez, Chiapas",
+          "Ventajas y beneficios de paracentesis",
+          "Tiempo de recuperación de paracentesis",
+          "Tipos de paracentesis"
+        ],
         "openGraph": {
-          "title": "Paracentesis - Dr. Gabriel Gómez Palacios",
+          "title": "Paracentesis - Dra. Gloria Rodas Gallegos",
           "description": "Alivia la acumulación de líquido en el abdomen y prevén complicaciones con un procedimiento seguro en Tuxtla Gutiérrez.",
-          "url": "https://url/servicios/paracentesis"
+          "url": "https://www.nefrologiarodas.com/servicios/hemodialisis"
         },
         "alternates": {
-          "canonical": "https://url/servicios/paracentesis"
+          "canonical": "https://www.nefrologiarodas.com/servicios/hemodialisis"
         }
       }
     },
     {
-      "id": "toracocentesis",
-      "title": "Toracocentesis",
+      "id": "dialisis-peritoneal",
+      "title": "Diálisis peritoneal",
       "description": "La toracocentesis es la extracción de líquido o aire de la cavidad pleural mediante aguja o catéter. Se practica en casos de derrame pleural, infecciones pulmonares o neumotórax.",
       "shortDescription": "Extracción de líquido o aire pleural para aliviar la dificultad respiratoria.",
-      "imageHome": "/images/services/toracocentesis.jpg",
-      "imageIndividual": "/images/services/toracocentesis.jpg",
-      "iconIndividual": "/images/services/icons/toracocentesis.svg",
+      "imageHome": "/images/services/dialisis-peritoneal.jpg",
+      "imageIndividual": "/images/services/dialisis-peritoneal.jpg",
+      "iconIndividual": "",
       "benefits": [
         "Alivio de la presión en los pulmones",
         "Mejoría en la respiración",
@@ -98,26 +109,37 @@
       "ctaText": "Soy el Doctor Gabriel Gómez Palacios. Si presentas acumulación de líquido en el tórax o complicaciones respiratorias, agenda tu toracocentesis en Tuxtla Gutiérrez, Chiapas. Juntos buscaremos la causa y la solución más adecuada.",
       "metadata": {
         "title": "Toracocentesis en Tuxtla Gutiérrez, Chiapas",
-        "description": "La toracocentesis extrae líquido o aire de la cavidad pleural. Consulta al Dr. Gabriel Gómez Palacios para aliviar tu dificultad respiratoria.",
-        "keywords": [],
+        "description": "La toracocentesis extrae líquido o aire de la cavidad pleural. Consulta al Dra. Gloria Rodas Gallegos para aliviar tu dificultad respiratoria.",
+        "keywords": [
+          "Especialista en toracocentesis en Tuxtla Gutiérrez, Chiapas",
+          "Dónde puedo realizarme toracocentesis en Tuxtla Gutiérrez, Chiapas",
+          "Precio de toracocentesis en Tuxtla Gutiérrez, Chiapas",
+          "Para qué sirve toracocentesis",
+          "Experto en toracocentesis en Tuxtla Gutiérrez, Chiapas",
+          "Cuidados después de toracocentesis",
+          "Quién realiza toracocentesis en Tuxtla Gutiérrez, Chiapas",
+          "Ventajas y beneficios de toracocentesis",
+          "Tiempo de recuperación de toracocentesis",
+          "Tipos de toracocentesis"
+        ],
         "openGraph": {
-          "title": "Toracocentesis - Dr. Gabriel Gómez Palacios",
+          "title": "Toracocentesis - Dra. Gloria Rodas Gallegos",
           "description": "Diagnostica y alivia derrames pleurales o neumotórax con un procedimiento seguro en Tuxtla Gutiérrez.",
-          "url": "https://url/servicios/toracocentesis"
+          "url": "https://www.nefrologiarodas.com/servicios/dialisis-peritoneal"
         },
         "alternates": {
-          "canonical": "https://url/servicios/toracocentesis"
+          "canonical": "https://www.nefrologiarodas.com/servicios/dialisis-peritoneal"
         }
       }
     },
     {
-      "id": "puncion-lumbar",
-      "title": "Punción lumbar",
+      "id": "transplante-renal",
+      "title": "Transplante renal",
       "description": "La punción lumbar consiste en extraer líquido cefalorraquídeo del espacio subaracnoideo en la región lumbar. Se utiliza para diagnosticar meningitis, esclerosis múltiple y otros trastornos del sistema nervioso.",
       "shortDescription": "Extracción de líquido cefalorraquídeo para evaluar trastornos neurológicos.",
-      "imageHome": "/images/services/puncion-lumbar.jpg",
-      "imageIndividual": "/images/services/puncion-lumbar.jpg",
-      "iconIndividual": "/images/services/icons/puncion-lumbar.svg",
+      "imageHome": "/images/services/transplante-renal.jpg",
+      "imageIndividual": "/images/services/transplante-renal.jpg",
+      "iconIndividual": "",
       "benefits": [
         "Diagnóstico preciso de infecciones y afecciones neurológicas",
         "Posibilidad de administrar fármacos en el espacio espinal",
@@ -146,26 +168,37 @@
       "ctaText": "Soy el Doctor Gabriel Gómez Palacios, y estoy disponible en Tuxtla Gutiérrez, Chiapas para realizar punciones lumbares. Agenda tu cita para un diagnóstico certero y un manejo adecuado de enfermedades del sistema nervioso central.",
       "metadata": {
         "title": "Punción lumbar en Tuxtla Gutiérrez, Chiapas",
-        "description": "La punción lumbar ayuda a diagnosticar meningitis y otros trastornos neurológicos. Consulta al Dr. Gabriel Gómez Palacios.",
-        "keywords": [],
+        "description": "La punción lumbar ayuda a diagnosticar meningitis y otros trastornos neurológicos. Consulta al Dra. Gloria Rodas Gallegos.",
+        "keywords": [
+          "Especialista en punción lumbar en Tuxtla Gutiérrez, Chiapas",
+          "Dónde puedo realizarme punción lumbar en Tuxtla Gutiérrez, Chiapas",
+          "Precio de punción lumbar en Tuxtla Gutiérrez, Chiapas",
+          "Para qué sirve punción lumbar",
+          "Experto en punción lumbar en Tuxtla Gutiérrez, Chiapas",
+          "Cuidados después de punción lumbar",
+          "Quién realiza punción lumbar en Tuxtla Gutiérrez, Chiapas",
+          "Ventajas y beneficios de punción lumbar",
+          "Tiempo de recuperación de punción lumbar",
+          "Tipos de punción lumbar"
+      ],
         "openGraph": {
-          "title": "Punción lumbar - Dr. Gabriel Gómez Palacios",
+          "title": "Punción lumbar - Dra. Gloria Rodas Gallegos",
           "description": "Obtén un diagnóstico preciso de infecciones o afecciones neurológicas con una punción lumbar en Tuxtla Gutiérrez.",
-          "url": "https://url/servicios/puncion-lumbar"
+          "url": "https://www.nefrologiarodas.com/servicios/transplante-renal"
         },
         "alternates": {
-          "canonical": "https://url/servicios/puncion-lumbar"
+          "canonical": "https://www.nefrologiarodas.com/servicios/transplante-renal"
         }
       }
     },
     {
-      "id": "insercion-de-cateter-venoso-central",
-      "title": "Inserción de catéter venoso central",
+      "id": "biopsia-renal",
+      "title": "Biopsia renal",
       "description": "La inserción de un catéter venoso central consiste en colocar un tubo delgado en una vena de gran calibre para administrar medicamentos, nutrientes o medir la presión venosa central. Es fundamental en cuidados críticos y tratamientos prolongados.",
       "shortDescription": "Colocación de un acceso venoso para administrar fármacos o nutrientes a largo plazo.",
-      "imageHome": "/images/services/insercion-de-cateter-venoso-central.jpg",
-      "imageIndividual": "/images/services/insercion-de-cateter-venoso-central.jpg",
-      "iconIndividual": "/images/services/icons/insercion-cateter-venoso-central.svg",
+      "imageHome": "/images/services/biopsia-renal.jpg",
+      "imageIndividual": "/images/services/biopsia-renal.jpg",
+      "iconIndividual": "",
       "benefits": [
         "Acceso venoso seguro y duradero",
         "Administración continua de medicamentos",
@@ -194,26 +227,37 @@
       "ctaText": "Soy el Doctor Gabriel Gómez Palacios. Si requieres la inserción de un catéter venoso central en Tuxtla Gutiérrez, Chiapas, agenda tu cita para recibir un servicio seguro y profesional.",
       "metadata": {
         "title": "Inserción de catéter venoso central en Tuxtla Gutiérrez, Chiapas",
-        "description": "Coloca un catéter venoso central para tratamientos prolongados. Consulta al Dr. Gabriel Gómez Palacios.",
-        "keywords": [],
+        "description": "Coloca un catéter venoso central para tratamientos prolongados. Consulta al Dra. Gloria Rodas Gallegos.",
+        "keywords": [
+          "Especialista en catéter venoso central en Tuxtla Gutiérrez, Chiapas",
+          "Dónde puedo realizarme catéter venoso central en Tuxtla Gutiérrez, Chiapas",
+          "Precio de catéter venoso central en Tuxtla Gutiérrez, Chiapas",
+          "Para qué sirve catéter venoso central",
+          "Experto en catéter venoso central en Tuxtla Gutiérrez, Chiapas",
+          "Cuidados después de catéter venoso central",
+          "Quién realiza catéter venoso central en Tuxtla Gutiérrez, Chiapas",
+          "Ventajas y beneficios de catéter venoso central",
+          "Tiempo de recuperación de catéter venoso central",
+          "Tipos de catéter venoso central"
+        ],
         "openGraph": {
-          "title": "Inserción de catéter venoso central - Dr. Gabriel Gómez Palacios",
+          "title": "Inserción de catéter venoso central - Dra. Gloria Rodas Gallegos",
           "description": "Accede a vías venosas profundas de forma segura y confiable con un procedimiento especializado en Tuxtla Gutiérrez.",
-          "url": "https://url/servicios/insercion-de-cateter-venoso-central"
+          "url": "https://www.nefrologiarodas.com/servicios/biopsia-renal"
         },
         "alternates": {
-          "canonical": "https://url/servicios/insercion-de-cateter-venoso-central"
+          "canonical": "https://www.nefrologiarodas.com/servicios/biopsia-renal"
         }
       }
     },
     {
-      "id": "gasometria-arterial",
-      "title": "Gasometría arterial",
+      "id": "control-metabolico-y-nutricional",
+      "title": "Control metabólico y nutricional",
       "description": "La gasometría arterial analiza los niveles de oxígeno, dióxido de carbono y el equilibrio ácido-base en la sangre. Se realiza con una muestra de sangre de una arteria, generalmente la radial en la muñeca.",
       "shortDescription": "Prueba para evaluar oxigenación y equilibrio ácido-base en la sangre arterial.",
-      "imageHome": "/images/services/gasometria-arterial.jpg",
-      "imageIndividual": "/images/services/gasometria-arterial.jpg",
-      "iconIndividual": "/images/services/icons/gasometria-arterial.svg",
+      "imageHome": "/images/services/control-metabolico.jpg",
+      "imageIndividual": "/images/services/control-metabolico.jpg",
+      "iconIndividual": "",
       "benefits": [
         "Información precisa sobre la función respiratoria",
         "Detección de desequilibrios ácido-base",
@@ -241,26 +285,37 @@
       "ctaText": "Soy el Doctor Gabriel Gómez Palacios y realizo gasometrías arteriales en Tuxtla Gutiérrez, Chiapas. Si necesitas evaluar tu función respiratoria, agenda tu cita para recibir resultados confiables y un seguimiento puntual.",
       "metadata": {
         "title": "Gasometría arterial en Tuxtla Gutiérrez, Chiapas",
-        "description": "La gasometría arterial determina oxigenación y equilibrio ácido-base. Consulta al Dr. Gabriel Gómez Palacios.",
-        "keywords": [],
+        "description": "La gasometría arterial determina oxigenación y equilibrio ácido-base. Consulta al Dra. Gloria Rodas Gallegos.",
+        "keywords": [
+          "Especialista en gasometría arterial en Tuxtla Gutiérrez, Chiapas",
+          "Dónde puedo realizarme gasometría arterial en Tuxtla Gutiérrez, Chiapas",
+          "Precio de gasometría arterial en Tuxtla Gutiérrez, Chiapas",
+          "Para qué sirve gasometría arterial",
+          "Experto en gasometría arterial en Tuxtla Gutiérrez, Chiapas",
+          "Cuidados después de gasometría arterial",
+          "Quién realiza gasometría arterial en Tuxtla Gutiérrez, Chiapas",
+          "Ventajas y beneficios de gasometría arterial",
+          "Tiempo de recuperación de gasometría arterial",
+          "Tipos de gasometría arterial"
+        ],
         "openGraph": {
-          "title": "Gasometría arterial - Dr. Gabriel Gómez Palacios",
+          "title": "Gasometría arterial - Dra. Gloria Rodas Gallegos",
           "description": "Obtén una medición precisa de tus gases sanguíneos y detecta problemas respiratorios o metabólicos a tiempo.",
-          "url": "https://url/servicios/gasometria-arterial"
+          "url": "https://www.nefrologiarodas.com/servicios/control-metabolico-y-nutricional"
         },
         "alternates": {
-          "canonical": "https://url/servicios/gasometria-arterial"
+          "canonical": "https://www.nefrologiarodas.com/servicios/control-metabolico-y-nutricional"
         }
       }
     },
     {
-      "id": "electrocardiograma",
-      "title": "Electrocardiograma",
+      "id": "seguimiento-de-hipertension-arterial",
+      "title": "Seguimiento de hipertensión arterial",
       "description": "El electrocardiograma (ECG) registra la actividad eléctrica del corazón mediante electrodos en la piel. Detecta arritmias, bloqueos de arterias coronarias y otros trastornos cardíacos.",
       "shortDescription": "Registro de la actividad eléctrica del corazón para detectar arritmias y anomalías.",
-      "imageHome": "/images/services/electrocardiograma.jpg",
-      "imageIndividual": "/images/services/electrocardiograma.jpg",
-      "iconIndividual": "/images/services/icons/electrocardiograma.svg",
+      "imageHome": "/images/services/seguimiento-de-hipertension-arterial.jpg",
+      "imageIndividual": "/images/services/seguimiento-de-hipertension-arterial.jpg",
+      "iconIndividual": "",
       "benefits": [
         "Evaluación rápida y segura de la función cardíaca",
         "Prevención de eventos coronarios",
@@ -287,345 +342,26 @@
       "ctaText": "Soy el Doctor Gabriel Gómez Palacios. Te ofrezco un electrocardiograma en Tuxtla Gutiérrez, Chiapas para evaluar la salud de tu corazón de forma rápida y confiable.",
       "metadata": {
         "title": "Electrocardiograma en Tuxtla Gutiérrez, Chiapas",
-        "description": "Registra la actividad eléctrica del corazón y detecta trastornos cardíacos. Consulta al Dr. Gabriel Gómez Palacios.",
-        "keywords": [],
+        "description": "Registra la actividad eléctrica del corazón y detecta trastornos cardíacos. Consulta al Dra. Gloria Rodas Gallegos.",
+        "keywords": [
+          "Especialista en electrocardiograma en Tuxtla Gutiérrez, Chiapas",
+          "Dónde puedo realizarme electrocardiograma en Tuxtla Gutiérrez, Chiapas",
+          "Precio de electrocardiograma en Tuxtla Gutiérrez, Chiapas",
+          "Para qué sirve electrocardiograma",
+          "Experto en electrocardiograma en Tuxtla Gutiérrez, Chiapas",
+          "Cuidados después de electrocardiograma",
+          "Quién realiza electrocardiograma en Tuxtla Gutiérrez, Chiapas",
+          "Ventajas y beneficios de electrocardiograma",
+          "Tiempo de recuperación de electrocardiograma",
+          "Tipos de electrocardiograma"
+        ],
         "openGraph": {
-          "title": "Electrocardiograma - Dr. Gabriel Gómez Palacios",
+          "title": "Electrocardiograma - Dra. Gloria Rodas Gallegos",
           "description": "Obtén un diagnóstico rápido de tu función cardíaca y prevén complicaciones coronarias en Tuxtla Gutiérrez.",
-          "url": "https://url/servicios/electrocardiograma"
+          "url": "https://www.nefrologiarodas.com/servicios/seguimiento-de-hipertension-arterial"
         },
         "alternates": {
-          "canonical": "https://url/servicios/electrocardiograma"
-        }
-      }
-    },
-    {
-      "id": "ecografia-critica",
-      "title": "Ecografía crítica",
-      "description": "La ecografía crítica es un ultrasonido enfocado en la evaluación inmediata de situaciones graves, principalmente en pacientes de cuidados intensivos o urgencias. Permite valorar la función cardíaca, el llenado de vasos sanguíneos y detectar líquido en tórax o abdomen.",
-      "shortDescription": "Ultrasonido urgente para evaluar condiciones críticas en cuidados intensivos o urgencias.",
-      "imageHome": "/images/services/ecografia-critica.jpg",
-      "imageIndividual": "/images/services/ecografia-critica.jpg",
-      "iconIndividual": "/images/services/icons/ecografia-critica.svg",
-      "benefits": [
-        "Rapidez en el diagnóstico de condiciones graves",
-        "No emplea radiación",
-        "Permite tomar decisiones inmediatas"
-      ],
-      "process": [
-        "Ecografía cardíaca a pie de cama",
-        "Ecografía abdominal de urgencia",
-        "Ecografía torácica rápida"
-      ],
-      "types": [
-        "Cardíaca",
-        "Abdominal",
-        "Torácica"
-      ],
-      "painful": "No es doloroso; se aplica un gel en la zona a explorar.",
-      "forWhat": "Diagnosticar rápidamente condiciones potencialmente mortales y orientar el tratamiento urgente en áreas críticas.",
-      "myths": [],
-      "hospitalOrAmbulatory": "Hospitalario, principalmente en urgencias o UCI",
-      "procedureTime": "5 a 20 minutos, según la complejidad",
-      "anesthesia": "No requiere",
-      "recoveryTime": "Inmediato",
-      "postProcedureRecommendations": [],
-      "ctaText": "Soy el Doctor Gabriel Gómez Palacios. Si necesitas un diagnóstico inmediato, cuento con ecografía crítica en Tuxtla Gutiérrez, Chiapas para brindarte atención urgente y precisa.",
-      "metadata": {
-        "title": "Ecografía crítica en Tuxtla Gutiérrez, Chiapas",
-        "description": "La ecografía crítica evalúa de forma inmediata situaciones graves en urgencias o UCI. Consulta al Dr. Gabriel Gómez Palacios.",
-        "keywords": [],
-        "openGraph": {
-          "title": "Ecografía crítica - Dr. Gabriel Gómez Palacios",
-          "description": "Obtén un diagnóstico rápido y certero de condiciones críticas con ultrasonido enfocado en Tuxtla Gutiérrez.",
-          "url": "https://url/servicios/ecografia-critica"
-        },
-        "alternates": {
-          "canonical": "https://url/servicios/ecografia-critica"
-        }
-      }
-    },
-    {
-      "id": "consulta-de-medicina-interna-general",
-      "title": "Consulta de medicina interna general",
-      "description": "La consulta de medicina interna general se enfoca en la atención integral de enfermedades agudas y crónicas en adultos, así como en la prevención y diagnóstico oportuno de patologías de distintos sistemas del organismo.",
-      "shortDescription": "Atención integral de pacientes adultos para prevenir, diagnosticar y manejar patologías.",
-      "imageHome": "/images/services/consulta-de-medicina-interna-general.jpg",
-      "imageIndividual": "/images/services/consulta-de-medicina-interna-general.jpg",
-      "iconIndividual": "/images/services/icons/consulta-medicina-interna.svg",
-      "benefits": [
-        "Visión global del paciente",
-        "Detección temprana de factores de riesgo",
-        "Prevención de complicaciones",
-        "Coordinación multidisciplinaria"
-      ],
-      "process": [
-        "Consulta preventiva: revisión de salud y detección de riesgos",
-        "Consulta de control: seguimiento de patologías crónicas"
-      ],
-      "types": [
-        "Preventiva",
-        "Control de enfermedades"
-      ],
-      "painful": "No es doloroso; la consulta implica evaluación física y entrevista clínica.",
-      "forWhat": "Identificar y manejar de forma integral diversas enfermedades, optimizando los tratamientos y la prevención.",
-      "myths": [],
-      "hospitalOrAmbulatory": "Ambulatorio",
-      "procedureTime": "20 a 40 minutos por consulta",
-      "anesthesia": "No requiere",
-      "recoveryTime": "No aplica",
-      "postProcedureRecommendations": [
-        "Seguir indicaciones médicas",
-        "Realizar estudios si se solicitan"
-      ],
-      "ctaText": "Soy el Doctor Gabriel Gómez Palacios y brindo consultas de medicina interna general en Tuxtla Gutiérrez, Chiapas. Agenda tu cita para evaluar tu estado de salud de forma integral.",
-      "metadata": {
-        "title": "Consulta de medicina interna general en Tuxtla Gutiérrez, Chiapas",
-        "description": "Atención integral de adultos, prevención y control de enfermedades crónicas. Consulta al Dr. Gabriel Gómez Palacios.",
-        "keywords": [],
-        "openGraph": {
-          "title": "Consulta de medicina interna general - Dr. Gabriel Gómez Palacios",
-          "description": "Recibe una evaluación completa y un plan de cuidados personalizados para tu salud global.",
-          "url": "https://url/servicios/consulta-de-medicina-interna-general"
-        },
-        "alternates": {
-          "canonical": "https://url/servicios/consulta-de-medicina-interna-general"
-        }
-      }
-    },
-    {
-      "id": "control-y-seguimiento-de-enfermedades-cronicas",
-      "title": "Control y seguimiento de enfermedades crónicas",
-      "description": "El control y seguimiento de enfermedades crónicas se basa en la evaluación periódica y el ajuste de tratamientos en pacientes con patologías de larga evolución, como diabetes o hipertensión, con el fin de prevenir complicaciones y mantener una buena calidad de vida.",
-      "shortDescription": "Monitoreo y ajuste de tratamientos en enfermedades de larga evolución para evitar complicaciones.",
-      "imageHome": "/images/services/control-enfermedades-cronicas.jpg",
-      "imageIndividual": "/images/services/control-enfermedades-cronicas.jpg",
-      "iconIndividual": "/images/services/icons/control-enfermedades-cronicas.svg",
-      "benefits": [
-        "Reducción del riesgo de hospitalizaciones",
-        "Mejora de la calidad de vida",
-        "Detección temprana de descompensaciones"
-      ],
-      "process": [
-        "Control metabólico: glucosa y lípidos",
-        "Control cardiovascular: presión arterial, función cardíaca"
-      ],
-      "types": [
-        "Control metabólico",
-        "Control cardiovascular"
-      ],
-      "painful": "No es doloroso; implica consultas periódicas y posibles pruebas de laboratorio.",
-      "forWhat": "Prevenir complicaciones, ajustar tratamientos y educar al paciente sobre su enfermedad crónica.",
-      "myths": [],
-      "hospitalOrAmbulatory": "Principalmente ambulatorio",
-      "procedureTime": "Consulta periódica de 20-30 minutos (variable)",
-      "anesthesia": "No requiere",
-      "recoveryTime": "No aplica",
-      "postProcedureRecommendations": [
-        "Cumplir con la medicación",
-        "Mantener hábitos de vida saludable",
-        "Asistir a las citas programadas"
-      ],
-      "ctaText": "Soy el Doctor Gabriel Gómez Palacios. Ofrezco control y seguimiento de enfermedades crónicas en Tuxtla Gutiérrez, Chiapas. Agenda tu cita para prevenir complicaciones y mantener tu salud estable.",
-      "metadata": {
-        "title": "Control y seguimiento de enfermedades crónicas en Tuxtla Gutiérrez, Chiapas",
-        "description": "Monitorea y ajusta tus tratamientos para evitar complicaciones. Consulta al Dr. Gabriel Gómez Palacios.",
-        "keywords": [],
-        "openGraph": {
-          "title": "Control de enfermedades crónicas - Dr. Gabriel Gómez Palacios",
-          "description": "Optimiza tu tratamiento y prevén hospitalizaciones con un seguimiento periódico y profesional.",
-          "url": "https://url/servicios/control-y-seguimiento-de-enfermedades-cronicas"
-        },
-        "alternates": {
-          "canonical": "https://url/servicios/control-y-seguimiento-de-enfermedades-cronicas"
-        }
-      }
-    },
-    {
-      "id": "chequeos-medicos-preventivos",
-      "title": "Chequeos médicos preventivos",
-      "description": "Los chequeos médicos preventivos son evaluaciones periódicas que incluyen revisión física, pruebas de laboratorio y estudios de imagen, encaminadas a detectar precozmente enfermedades o factores de riesgo.",
-      "shortDescription": "Evaluaciones periódicas para detectar enfermedades o factores de riesgo de manera temprana.",
-      "imageHome": "/images/services/chequeos-medicos-preventivos.jpg",
-      "imageIndividual": "/images/services/chequeos-medicos-preventivos.jpg",
-      "iconIndividual": "/images/services/icons/chequeo-medico.svg",
-      "benefits": [
-        "Diagnóstico temprano de enfermedades",
-        "Reducción de complicaciones y costos",
-        "Promoción de un estilo de vida saludable"
-      ],
-      "process": [
-        "Chequeo básico: examen físico y análisis de sangre y orina",
-        "Chequeo completo: estudios cardiológicos, hormonales o ginecológicos"
-      ],
-      "types": [
-        "Básico",
-        "Completo"
-      ],
-      "painful": "No es doloroso; puede incluir extracciones de sangre para exámenes.",
-      "forWhat": "Prevenir y detectar enfermedades de manera oportuna, mejorando las posibilidades de tratamiento exitoso.",
-      "myths": [],
-      "hospitalOrAmbulatory": "Ambulatorio",
-      "procedureTime": "Variable según las pruebas solicitadas",
-      "anesthesia": "No requiere",
-      "recoveryTime": "No aplica",
-      "postProcedureRecommendations": [
-        "Conservar resultados en archivo personal",
-        "Seguir indicaciones médicas en caso de hallazgos relevantes"
-      ],
-      "ctaText": "Soy el Doctor Gabriel Gómez Palacios, y te invito a realizar chequeos médicos preventivos en Tuxtla Gutiérrez, Chiapas. Juntos podemos cuidar tu salud a largo plazo.",
-      "metadata": {
-        "title": "Chequeos médicos preventivos en Tuxtla Gutiérrez, Chiapas",
-        "description": "Detecta enfermedades de forma temprana y mejora tus posibilidades de tratamiento. Consulta al Dr. Gabriel Gómez Palacios.",
-        "keywords": [],
-        "openGraph": {
-          "title": "Chequeos médicos preventivos - Dr. Gabriel Gómez Palacios",
-          "description": "Protege tu salud con evaluaciones periódicas y un enfoque preventivo en Tuxtla Gutiérrez.",
-          "url": "https://url/servicios/chequeos-medicos-preventivos"
-        },
-        "alternates": {
-          "canonical": "https://url/servicios/chequeos-medicos-preventivos"
-        }
-      }
-    },
-    {
-      "id": "valoracion-preoperatoria",
-      "title": "Valoración preoperatoria",
-      "description": "La valoración preoperatoria es la evaluación integral que se realiza antes de una cirugía para determinar el estado de salud del paciente y minimizar riesgos durante la intervención. Incluye análisis de laboratorio, estudios de imagen y valoración por especialistas si es necesario.",
-      "shortDescription": "Evaluación completa previa a cirugía para reducir riesgos y optimizar la intervención.",
-      "imageHome": "/images/services/valoracion-preoperatoria.jpg",
-      "imageIndividual": "/images/services/valoracion-preoperatoria.jpg",
-      "iconIndividual": "/images/services/icons/valoracion-preoperatoria.svg",
-      "benefits": [
-        "Mayor seguridad quirúrgica",
-        "Planificación anestésica adecuada",
-        "Reducción de eventos adversos"
-      ],
-      "process": [
-        "Valoración básica: examen físico, pruebas de sangre y orina",
-        "Valoración especializada: estudios cardiológicos, pulmonares o nutricionales"
-      ],
-      "types": [
-        "Básica",
-        "Especializada"
-      ],
-      "painful": "No es doloroso; se realizan exámenes y estudios para evaluar el estado general.",
-      "forWhat": "Identificar factores de riesgo, optimizar la condición del paciente y reducir complicaciones quirúrgicas.",
-      "myths": [],
-      "hospitalOrAmbulatory": "Ambulatorio u hospitalario, según la complejidad",
-      "procedureTime": "Variable, según los estudios requeridos",
-      "anesthesia": "No requiere",
-      "recoveryTime": "No aplica",
-      "postProcedureRecommendations": [
-        "Seguir indicaciones del equipo quirúrgico",
-        "Mantener comunicación en caso de cambios de salud"
-      ],
-      "ctaText": "Soy el Doctor Gabriel Gómez Palacios. Ofrezco valoración preoperatoria en Tuxtla Gutiérrez, Chiapas para que tu cirugía sea lo más segura posible. Agenda tu cita.",
-      "metadata": {
-        "title": "Valoración preoperatoria en Tuxtla Gutiérrez, Chiapas",
-        "description": "Evalúa tu estado de salud antes de una cirugía para minimizar riesgos. Consulta al Dr. Gabriel Gómez Palacios.",
-        "keywords": [],
-        "openGraph": {
-          "title": "Valoración preoperatoria - Dr. Gabriel Gómez Palacios",
-          "description": "Asegura una intervención más segura y reduce complicaciones con una evaluación médica adecuada en Tuxtla Gutiérrez.",
-          "url": "https://url/servicios/valoracion-preoperatoria"
-        },
-        "alternates": {
-          "canonical": "https://url/servicios/valoracion-preoperatoria"
-        }
-      }
-    },
-    {
-      "id": "manejo-de-comorbilidades-en-pacientes-hospitalizados",
-      "title": "Manejo de comorbilidades en pacientes hospitalizados",
-      "description": "El manejo de comorbilidades en pacientes hospitalizados se enfoca en atender múltiples enfermedades de forma simultánea, garantizando que cada condición reciba el tratamiento adecuado sin interferencias. Esto previene agravamientos y facilita la recuperación.",
-      "shortDescription": "Coordinación de cuidados para varios padecimientos en un solo paciente durante su estancia hospitalaria.",
-      "imageHome": "/images/services/manejo-de-comorbilidades-en-pacientes-hospitalizados.jpg",
-      "imageIndividual": "/images/services/manejo-de-comorbilidades-en-pacientes-hospitalizados.jpg",
-      "iconIndividual": "/images/services/icons/manejo-comorbilidades.svg",
-      "benefits": [
-        "Detección de interacciones entre fármacos",
-        "Prevención de agravamiento de enfermedades",
-        "Alta hospitalaria más segura"
-      ],
-      "process": [
-        "Manejo multidisciplinario: equipo de expertos en distintas áreas",
-        "Manejo integrado por medicina interna: coordinación centralizada de los cuidados"
-      ],
-      "types": [
-        "Multidisciplinario",
-        "Integrado por medicina interna"
-      ],
-      "painful": "No aplica; es un abordaje de gestión clínica integral.",
-      "forWhat": "Evitar complicaciones derivadas de múltiples patologías en un mismo paciente y optimizar la recuperación.",
-      "myths": [],
-      "hospitalOrAmbulatory": "Hospitalario",
-      "procedureTime": "Atención continua durante la hospitalización",
-      "anesthesia": "No requiere",
-      "recoveryTime": "Depende de la evolución de cada paciente",
-      "postProcedureRecommendations": [
-        "Mantener seguimiento con el médico tratante",
-        "Coordinar cuidados con otros especialistas"
-      ],
-      "ctaText": "Soy el Doctor Gabriel Gómez Palacios. Si necesitas un manejo integral de comorbilidades durante una hospitalización en Tuxtla Gutiérrez, Chiapas, cuenta conmigo para coordinar tu atención y mejorar tu recuperación.",
-      "metadata": {
-        "title": "Manejo de comorbilidades en pacientes hospitalizados en Tuxtla Gutiérrez, Chiapas",
-        "description": "Atiende múltiples enfermedades simultáneamente y prevén complicaciones. Consulta al Dr. Gabriel Gómez Palacios.",
-        "keywords": [],
-        "openGraph": {
-          "title": "Manejo de comorbilidades en hospitalización - Dr. Gabriel Gómez Palacios",
-          "description": "Coordina tratamientos para distintas patologías de manera eficaz y segura durante tu estancia hospitalaria.",
-          "url": "https://url/servicios/manejo-de-comorbilidades-en-pacientes-hospitalizados"
-        },
-        "alternates": {
-          "canonical": "https://url/servicios/manejo-de-comorbilidades-en-pacientes-hospitalizados"
-        }
-      }
-    },
-    {
-      "id": "atencion-de-urgencias-medicas",
-      "title": "Atención de urgencias médicas",
-      "description": "La atención de urgencias médicas se encarga de valorar y tratar de forma inmediata condiciones que ponen en riesgo la vida o la salud del paciente, como traumatismos, infartos, crisis respiratorias o infecciones severas.",
-      "shortDescription": "Asistencia inmediata para afecciones graves que amenazan la vida o la salud del paciente.",
-      "imageHome": "/images/services/atencion-de-urgencias-medicas.jpg",
-      "imageIndividual": "/images/services/atencion-de-urgencias-medicas.jpg",
-      "iconIndividual": "/images/services/icons/urgencias-medicas.svg",
-      "benefits": [
-        "Detección y abordaje inmediato de problemas graves",
-        "Reducción de secuelas",
-        "Coordinación de traslados si se requiere otro nivel de atención"
-      ],
-      "process": [
-        "Urgencias vitales: situaciones de peligro inminente",
-        "Urgencias relativas: afecciones que requieren atención rápida pero no inmediata"
-      ],
-      "types": [
-        "Vitales",
-        "Relativas"
-      ],
-      "painful": "Dependerá de la afección, pero la asistencia se prioriza para estabilizar al paciente.",
-      "forWhat": "Abordar emergencias médicas con inmediatez para evitar complicaciones mayores o secuelas permanentes.",
-      "myths": [],
-      "hospitalOrAmbulatory": "Hospitalario en la mayoría de los casos",
-      "procedureTime": "Variable según la urgencia",
-      "anesthesia": "Depende del tipo de urgencia",
-      "recoveryTime": "Varía según la patología y la estabilidad del paciente",
-      "postProcedureRecommendations": [
-        "Seguir las indicaciones del médico de urgencias",
-        "Realizar estudios complementarios si se solicitan"
-      ],
-      "ctaText": "Soy el Doctor Gabriel Gómez Palacios. Ofrezco atención de urgencias médicas en Tuxtla Gutiérrez, Chiapas, para responder con rapidez y eficacia ante cualquier situación que ponga en riesgo tu salud.",
-      "metadata": {
-        "title": "Atención de urgencias médicas en Tuxtla Gutiérrez, Chiapas",
-        "description": "Recibe valoración y tratamiento inmediato en casos de emergencia. Consulta al Dr. Gabriel Gómez Palacios.",
-        "keywords": [],
-        "openGraph": {
-          "title": "Atención de urgencias médicas - Dr. Gabriel Gómez Palacios",
-          "description": "Actúa rápidamente frente a traumatismos, infartos o crisis respiratorias con un servicio de urgencias oportuno.",
-          "url": "https://url/servicios/atencion-de-urgencias-medicas"
-        },
-        "alternates": {
-          "canonical": "https://url/servicios/atencion-de-urgencias-medicas"
+          "canonical": "https://www.nefrologiarodas.com/servicios/seguimiento-de-hipertension-arteriala"
         }
       }
     }

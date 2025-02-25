@@ -51,7 +51,7 @@ const Dropdown: React.FC<{ item: MenuItem }> = ({ item }) => {
     >
       <Link
         href={item.path}
-        className="flex items-center text-dw-dark hover:bg-dw-dark hover:text-white transition-colors duration-300 font-semibold text-sm uppercase tracking-wide px-3 py-2 rounded-md"
+        className="flex items-center text-dw-dark hover:bg-dw-dark hover:text-white transition-colors duration-300 font-bold text-base uppercase tracking-wide px-3 py-2 rounded-md"
       >
         {item.label}
         <ChevronDown className="ml-1 h-4 w-4" />
@@ -63,7 +63,7 @@ const Dropdown: React.FC<{ item: MenuItem }> = ({ item }) => {
             <li key={subItem.path}>
               <Link
                 href={subItem.path}
-                className="block px-4 py-2 text-sm text-dw-dark hover:bg-dw-dark hover:text-white"
+                className="block px-4 py-2 text-base text-dw-dark hover:bg-dw-dark hover:text-white"
               >
                 {subItem.name}
               </Link>
@@ -72,7 +72,7 @@ const Dropdown: React.FC<{ item: MenuItem }> = ({ item }) => {
           <li>
             <Link
               href={item.path}
-              className="block px-4 py-2 text-xs text-dw-dark hover:bg-dw-dark hover:text-white font-semibold"
+              className="block px-4 py-2 text-base text-dw-dark hover:bg-dw-dark hover:text-white font-semibold"
             >
               Ver todos...
             </Link>
@@ -184,7 +184,7 @@ export default function NavMenu({ hideHome = false }: NavMenuProps) {
               ) : (
                 <Link
                   href={item.path}
-                  className="text-dw-dark hover:bg-dw-dark hover:text-white transition-colors duration-300 font-semibold text-sm uppercase tracking-wide px-3 py-2 rounded-md"
+                  className="text-dw-dark hover:bg-dw-dark hover:text-white transition-colors duration-300 font-bold text-base uppercase tracking-wide px-3 py-2 rounded-md"
                   onClick={() => setIsMenuOpen(false)}
                 >
                   {item.label}

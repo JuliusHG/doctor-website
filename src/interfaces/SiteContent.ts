@@ -10,6 +10,7 @@ export interface SiteContent {
     email: string
     cedProf: string // Puede incluir entidad, por ejemplo "38700183 UNAM"
     cedEsp: string // Puede incluir entidad, por ejemplo "38700183 UAQ"
+    cedEsp2: string // Puede incluir entidad, por ejemplo "38700183 UAQ"
     websiteUrl: string
     facebookLink: string
     instagramLink: string
@@ -18,8 +19,10 @@ export interface SiteContent {
     twitterLink: string
     youtubeLink: string
     googleMapsLink: string
+    googleMapsEmbedLink: string
     doctoraliaLink: string
     doctoraliaReviewsLink: string
+    nimboLink: string
     logoPath: string // Ruta del logo principal
     logoHeight: number // Después se moverá a header si salen más propiedades
     logoHorizPath: string
@@ -67,6 +70,19 @@ export interface SiteContent {
     title: string // Título (grande) (si aplica)
     description: string // Descripción (si aplica)
   }
+  heroSlider: {
+    slides: Array<{
+      heroSlideImage: string
+      title: string
+      subtitle: string
+      description: string
+      alignment: "left" | "center" | "right"
+      mobileOffset?: string
+    }>
+    autoplayDelay?: number
+    transitionEffect?: "slide" | "fade" | "cube" | "coverflow"
+    transitionSpeed?: number
+  }
   navMenu: Array<{
     label: string // Etiqueta de elementos del menú
     path: string // Ruta de destino
@@ -108,6 +124,7 @@ export interface SiteContent {
     sectionTitle: string
     sectionSubtitle: string
     sectionText: string
+    sectionBackground: string
     entities: Array<{
       icon: string
       title: string
@@ -369,8 +386,12 @@ export interface SiteContent {
   }
   generalCallToAction: {
     sectionBackground: string
+    foregroundImage: string
+    foregroundImagePercent: number
     title: string
     description: string
+    price1: string
+    price2: string
   }
   contact: {
     page: {

@@ -1,10 +1,10 @@
 "use client"
 
 import { useState, useEffect } from "react"
-import { Award } from "lucide-react"
-import Link from "next/link"
 import type { SiteContent } from "@/src/interfaces/SiteContent"
-import Image from "next/image"
+//import { Award } from "lucide-react"
+//import Link from "next/link"
+//import Image from "next/image"
 
 type AvisoCofeprisContent = Pick<SiteContent, "doctorInfo" | "doctorWorkInfo">
 
@@ -35,15 +35,12 @@ export default function AvisoCofeprisTopBottom() {
 
   return (
     <div className="bg-dw-dark text-white py-2 px-4">
-      <div className="container mx-auto flex flex-col sm:flex-row justify-between items-center text-sm sm:text-base space-y-2 sm:space-y-0">
-        <div className="flex items-center text-center sm:text-left">
-          <Award className="mr-2 flex-shrink-0" size={16} />
-          <span className="flex-wrap">
-            AVISO COFEPRIS: {doctorWorkInfo.avisoCofepris} | CÉD. PROF.: {doctorInfo.cedProf} | CÉD ESP:{" "}
-            {doctorInfo.cedEsp}{" "}
-          </span>
-        </div>
-        <div className="flex items-center space-x-4">
+      <div className="container mx-auto flex justify-center items-center text-sm sm:text-base">
+        {/* <Award className="mr-2 flex-shrink-0" size={16} /> */}
+        <span className="text-center">
+          AVISO COFEPRIS: {doctorWorkInfo.avisoCofepris} | Céd. Prof. {doctorInfo.cedProf} | Céd. Esp. {doctorInfo.cedEsp}{/*  | Céd. Esp. {doctorInfo.cedEsp2} */}
+        </span>
+        {/* <div className="flex items-center space-x-4">
           <Link href={doctorInfo.facebookLink} target="_blank" rel="noopener noreferrer">
             <Image src="/images/icons/facebook.svg" alt="Facebook" width={20} height={20} />
           </Link>
@@ -56,7 +53,7 @@ export default function AvisoCofeprisTopBottom() {
           <Link href={doctorInfo.doctoraliaLink} target="_blank" rel="noopener noreferrer">
             <Image src="/images/icons/doctoralia.svg" alt="Doctoralia" width={20} height={20} />
           </Link>
-        </div>
+        </div> */}
       </div>
     </div>
   )

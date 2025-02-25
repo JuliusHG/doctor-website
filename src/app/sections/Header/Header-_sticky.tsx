@@ -4,6 +4,7 @@ import type React from "react"
 import Image from "next/image"
 import { useState, useEffect } from "react"
 import AvisoCofeprisTopBottom from "../common/AvisoCofepris-top-bottom"
+import SocialIcons from "../common/SocialIcons"
 import siteContent from "../../../data/site-content.json"
 
 const Header: React.FC = () => {
@@ -60,8 +61,8 @@ const Header: React.FC = () => {
       >
         {!isSticky && <AvisoCofeprisTopBottom />}
         <div className={`container mx-auto px-4 ${isSticky ? "py-2" : "py-4"}`}>
-          <div className="flex items-center justify-between">
-            <div className="mr-4">
+          <div className="flex items-center justify-around">
+            <div className="flex-shrink-0">
               <a href="/">
                 <Image
                   src={isSticky ? logoHorizPath || "/placeholder.svg" : logoPath || "/placeholder.svg"}
@@ -73,6 +74,9 @@ const Header: React.FC = () => {
               </a>
             </div>
             {NavMenuComponent && <NavMenuComponent />}
+            <div className="flex-shrink-0">
+              <SocialIcons />
+            </div>
           </div>
         </div>
       </header>
@@ -82,4 +86,3 @@ const Header: React.FC = () => {
 }
 
 export default Header
-

@@ -25,10 +25,10 @@ export default function ServicesSection() {
       try {
         const [siteContent, servicesData] = await Promise.all([
           import("../../../data/site-content.json"),
-          import("../../../data/services.json"),
+          import("../../../data/servicesDataMetadata.json"),
         ])
         setContent(siteContent as ServicesContent)
-        setServices(servicesData.default)
+        setServices(services)
       } catch (err) {
         setError(err instanceof Error ? err : new Error("Failed to load content"))
       } finally {

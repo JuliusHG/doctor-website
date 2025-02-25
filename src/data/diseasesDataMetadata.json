@@ -1,23 +1,23 @@
 {
   "enfermedadesMeta": {
     "main": {
-      "title": "Enfermedades tratadas - Dr. Gabriel Gómez Palacios",
-      "description": "Información sobre las enfermedades tratadas por el Dr. Gabriel Gómez Palacios en Tuxtla Gutiérrez, Chiaps.",
+      "title": "Enfermedades tratadas - Dra. Gloria Rodas Gallegos",
+      "description": "Información sobre las enfermedades tratadas por la Dra. Gloria Rodas Gallegos en Tuxtla Gutiérrez, Chiaps.",
       "openGraph": {
-        "title": "Enfermedades tratadas por Dr. Gabriel Gómez Palacios en Medicina Interna y Medicina Crítica",
-        "description": "Conozca las enfermedades tratadas por Dr. Gabriel Gómez Palacios en Medicina Interna y Medicina Crítica.",
-        "url": "https://www.drgabrielgomezp.com/enfermedades"
+        "title": "Enfermedades tratadas por Dra. Gloria Rodas Gallegos en Nefrología",
+        "description": "Conozca las enfermedades tratadas por Dra. Gloria Rodas Gallegos en Nefrología.",
+        "url": "https://www.nefrologiarodas.com/enfermedades"
       },
       "alternates": {
-        "canonical": "https://www.drgabrielgomezp.com/enfermedades"
+        "canonical": "https://www.nefrologiarodas.com/enfermedades"
       }
     }
   },
   "diseases": [
     {
-      "id": "hipertension-arterial",
-      "name": "Hipertensión Arterial",
-      "technicalName": "Hipertensión Arterial",
+      "id": "falla-renal-aguda",
+      "name": "Falla renal aguda",
+      "technicalName": "Falla renal aguda",
       "description": "La hipertensión arterial es una condición crónica caracterizada por una elevación persistente de la presión de la sangre en las arterias. Esto fuerza al corazón a bombear con mayor esfuerzo y, con el tiempo, puede dañar diversos órganos y aumentar el riesgo de complicaciones cardiovasculares y cerebrovasculares.",
       "shortDescription": "Elevación persistente de la presión arterial, incrementando el riesgo de daños cardiovasculares.",
       "causes": [
@@ -53,30 +53,41 @@
         "Exceso de peso",
         "Estrés mal gestionado"
       ],
-      "ctaText": "Si presentas síntomas o deseas prevenir complicaciones, agenda una cita con el Dr. Gabriel Gómez Palacios en Tuxtla Gutiérrez, Chiapas, para un control integral de tu presión arterial.",
+      "ctaText": "Si presentas síntomas o deseas prevenir complicaciones, agenda una cita con la Dra. Gloria Rodas Gallegos en Tuxtla Gutiérrez, Chiapas, para un control integral de tu presión arterial.",
       "mexicoStats": "",
       "treatments": [],
-      "imageHome": "/images/diseases/hipertension-arterial.jpg",
-      "imageIndividual": "/images/diseases/hipertension-arterial.jpg",
-      "iconIndividual": "/images/diseases/icons/hipertension.svg",
+      "imageHome": "/images/diseases/falla-renal-aguda.jpg",
+      "imageIndividual": "/images/diseases/falla-renal-aguda.jpg",
+      "iconIndividual": "",
       "metadata": {
         "title": "Tratamiento de Hipertensión Arterial en Tuxtla Gutiérrez, Chiapas",
-        "description": "La hipertensión arterial implica una elevación persistente de la presión sanguínea. Consulta al Dr. Gabriel Gómez Palacios para un control integral y prevenir complicaciones.",
-        "keywords": [],
+        "description": "La hipertensión arterial implica una elevación persistente de la presión sanguínea. Consulta al Dra. Gloria Rodas Gallegos para un control integral y prevenir complicaciones.",
+        "keywords": [
+          "Especialista en Hipertensión arterial en Tuxtla Gutiérrez, Chiapas",
+          "Clínica de Hipertensión arterial en Tuxtla Gutiérrez, Chiapas",
+          "Hospital de Hipertensión arterial en Tuxtla Gutiérrez, Chiapas",
+          "Tratamiento para Hipertensión arterial en Tuxtla Gutiérrez, Chiapas",
+          "Experto en Hipertensión arterial en Tuxtla Gutiérrez, Chiapas",
+          "Centro de Hipertensión arterial en Tuxtla Gutiérrez, Chiapas",
+          "Quién atiende Hipertensión arterial en Tuxtla Gutiérrez, Chiapas",
+          "Médico para Hipertensión arterial en Tuxtla Gutiérrez, Chiapas",
+          "Doctor que atiende Hipertensión arterial en Tuxtla Gutiérrez, Chiapas",
+          "Consulta médica de Hipertensión arterial en Tuxtla Gutiérrez, Chiapas"
+        ],
         "openGraph": {
-          "title": "Especialista en Hipertensión Arterial - Dr. Gabriel Gómez Palacios",
+          "title": "Especialista en Hipertensión Arterial - Dra. Gloria Rodas Gallegos",
           "description": "Conoce las causas, síntomas y complicaciones de la hipertensión arterial, y obtén un tratamiento completo en Tuxtla Gutiérrez.",
-          "url": "https://urldr/enfermedades/hipertension-arterial"
+          "url": "https://www.nefrologiarodas.com/enfermedades/falla-renal-aguda"
         },
         "alternates": {
-          "canonical": "https://urldr/enfermedades/hipertension-arterial"
+          "canonical": "https://www.nefrologiarodas.com/enfermedades/falla-renal-aguda"
         }
       }
     },
     {
-      "id": "diabetes-mellitus-tipo-2",
-      "name": "Diabetes Mellitus (Tipo 2)",
-      "technicalName": "Diabetes Mellitus Tipo 2",
+      "id": "enfermedad-renal-cronica",
+      "name": "Enfermedad renal crónica",
+      "technicalName": "Enfermedad renal crónica (ERC)",
       "description": "La diabetes mellitus tipo 2 es un trastorno metabólico crónico en el que el cuerpo desarrolla resistencia a la insulina o no produce suficiente insulina, elevando los niveles de azúcar en la sangre. Con un manejo adecuado, se pueden evitar complicaciones de salud a largo plazo.",
       "shortDescription": "Trastorno crónico de la regulación del azúcar en la sangre por resistencia a la insulina o producción insuficiente.",
       "causes": [
@@ -110,30 +121,41 @@
         "Antecedentes familiares de diabetes",
         "Hipertensión arterial y colesterol elevado"
       ],
-      "ctaText": "Si presentas síntomas o riesgo de diabetes tipo 2, agenda una cita con el Dr. Gabriel Gómez Palacios para un plan integral de control y prevención de complicaciones.",
+      "ctaText": "Si presentas síntomas o riesgo de diabetes tipo 2, agenda una cita con la Dra. Gloria Rodas Gallegos para un plan integral de control y prevención de complicaciones.",
       "mexicoStats": "",
       "treatments": [],
-      "imageHome": "/images/diseases/diabetes-mellitus.jpg",
-      "imageIndividual": "/images/diseases/diabetes-mellitus.jpg",
-      "iconIndividual": "/images/diseases/icons/diabetes.svg",
+      "imageHome": "/images/diseases/enfermedad-renal-cronica.jpg",
+      "imageIndividual": "/images/diseases/enfermedad-renal-cronica.jpg",
+      "iconIndividual": "",
       "metadata": {
         "title": "Tratamiento de Diabetes Mellitus Tipo 2 en Tuxtla Gutiérrez, Chiapas",
-        "description": "La diabetes mellitus tipo 2 puede manejarse con cambios de estilo de vida y medicación adecuada. Conoce más con el Dr. Gabriel Gómez Palacios.",
-        "keywords": [],
+        "description": "La diabetes mellitus tipo 2 puede manejarse con cambios de estilo de vida y medicación adecuada. Conoce más con la Dra. Gloria Rodas Gallegos.",
+        "keywords": [
+          "Especialista en Diabetes mellitus tipo 2 en Tuxtla Gutiérrez, Chiapas",
+          "Clínica de Diabetes mellitus tipo 2 en Tuxtla Gutiérrez, Chiapas",
+          "Hospital de Diabetes mellitus tipo 2 en Tuxtla Gutiérrez, Chiapas",
+          "Tratamiento para Diabetes mellitus tipo 2 en Tuxtla Gutiérrez, Chiapas",
+          "Experto en Diabetes mellitus tipo 2 en Tuxtla Gutiérrez, Chiapas",
+          "Centro de Diabetes mellitus tipo 2 en Tuxtla Gutiérrez, Chiapas",
+          "Quién atiende Diabetes mellitus tipo 2 en Tuxtla Gutiérrez, Chiapas",
+          "Médico para Diabetes mellitus tipo 2 en Tuxtla Gutiérrez, Chiapas",
+          "Doctor que atiende Diabetes mellitus tipo 2 en Tuxtla Gutiérrez, Chiapas",
+          "Consulta médica de Diabetes mellitus tipo 2 en Tuxtla Gutiérrez, Chiapas"
+        ],
         "openGraph": {
-          "title": "Especialista en Diabetes Tipo 2 - Dr. Gabriel Gómez Palacios",
+          "title": "Especialista en Diabetes Tipo 2 - Dra. Gloria Rodas Gallegos",
           "description": "Descubre cómo prevenir y controlar la diabetes tipo 2 a través de un manejo integral en Tuxtla Gutiérrez.",
-          "url": "https://urldr/enfermedades/sdiabetes-mellituslug"
+          "url": "https://www.nefrologiarodas.com/enfermedades/enfermedad-renal-cronica"
         },
         "alternates": {
-          "canonical": "https://urldr/enfermedades/diabetes-mellitus"
+          "canonical": "https://www.nefrologiarodas.com/enfermedades/enfermedad-renal-cronica"
         }
       }
     },
     {
-      "id": "hipotiroidismo",
-      "name": "Hipotiroidismo",
-      "technicalName": "Hipotiroidismo",
+      "id": "glomerulonefritis",
+      "name": "Glomerulonefritis",
+      "technicalName": "Glomerulonefritis",
       "description": "El hipotiroidismo ocurre cuando la glándula tiroides produce una cantidad insuficiente de hormonas tiroideas, ocasionando una ralentización de los procesos metabólicos. Esto provoca síntomas como cansancio, aumento de peso y sensibilidad al frío.",
       "shortDescription": "Producción insuficiente de hormonas tiroideas, ralentizando el metabolismo y disminuyendo la energía.",
       "causes": [
@@ -166,30 +188,41 @@
         "Falta de yodo en la dieta",
         "Exposición a radiación en cuello"
       ],
-      "ctaText": "Si presentas síntomas de hipotiroidismo, consulta al Dr. Gabriel Gómez Palacios en Tuxtla Gutiérrez para un diagnóstico oportuno y un manejo adecuado de tu función tiroidea.",
+      "ctaText": "Si presentas síntomas de hipotiroidismo, consulta al Dra. Gloria Rodas Gallegos en Tuxtla Gutiérrez para un diagnóstico oportuno y un manejo adecuado de tu función tiroidea.",
       "mexicoStats": "",
       "treatments": [],
-      "imageHome": "/images/diseases/enf-tiroides.jpg",
-      "imageIndividual": "/images/diseases/enf-tiroides.jpg",
-      "iconIndividual": "/images/diseases/icons/hipotiroidismo.svg",
+      "imageHome": "/images/diseases/glomerulonefritis.jpg",
+      "imageIndividual": "/images/diseases/glomerulonefritis.jpg",
+      "iconIndividual": "",
       "metadata": {
         "title": "Tratamiento de Hipotiroidismo en Tuxtla Gutiérrez, Chiapas",
-        "description": "El hipotiroidismo desacelera tu metabolismo y puede ocasionar múltiples molestias. Visita al Dr. Gabriel Gómez Palacios para un control efectivo.",
-        "keywords": [],
+        "description": "El hipotiroidismo desacelera tu metabolismo y puede ocasionar múltiples molestias. Visita al Dra. Gloria Rodas Gallegos para un control efectivo.",
+        "keywords": [
+          "Especialista en Hipotiroidismo en Tuxtla Gutiérrez, Chiapas",
+          "Clínica de Hipotiroidismo en Tuxtla Gutiérrez, Chiapas",
+          "Hospital de Hipotiroidismo en Tuxtla Gutiérrez, Chiapas",
+          "Tratamiento para Hipotiroidismo en Tuxtla Gutiérrez, Chiapas",
+          "Experto en Hipotiroidismo en Tuxtla Gutiérrez, Chiapas",
+          "Centro de Hipotiroidismo en Tuxtla Gutiérrez, Chiapas",
+          "Quién atiende Hipotiroidismo en Tuxtla Gutiérrez, Chiapas",
+          "Médico para Hipotiroidismo en Tuxtla Gutiérrez, Chiapas",
+          "Doctor que atiende Hipotiroidismo en Tuxtla Gutiérrez, Chiapas",
+          "Consulta médica de Hipotiroidismo en Tuxtla Gutiérrez, Chiapas"
+        ],
         "openGraph": {
-          "title": "Especialista en Hipotiroidismo - Dr. Gabriel Gómez Palacios",
+          "title": "Especialista en Hipotiroidismo - Dra. Gloria Rodas Gallegos",
           "description": "Conoce causas y síntomas del hipotiroidismo y recibe atención especializada en Tuxtla Gutiérrez.",
-          "url": "https://urldr/enfermedades/enf-tiroides"
+          "url": "https://www.nefrologiarodas.com/enfermedades/glomerulonefritis"
         },
         "alternates": {
-          "canonical": "https://urldr/enfermedades/enf-tiroides"
+          "canonical": "https://www.nefrologiarodas.com/enfermedades/glomerulonefritis"
         }
       }
     },
     {
-      "id": "hipertiroidismo",
-      "name": "Hipertiroidismo",
-      "technicalName": "Hipertiroidismo",
+      "id": "sindrome-nefrotico",
+      "name": "Síndrome nefrótico",
+      "technicalName": "Síndrome nefrótico",
       "description": "El hipertiroidismo aparece cuando la glándula tiroides produce hormonas tiroideas en exceso, acelerando el metabolismo y provocando síntomas como palpitaciones, nerviosismo y pérdida de peso.",
       "shortDescription": "Exceso de producción de hormonas tiroideas que acelera el metabolismo y desencadena diversas molestias.",
       "causes": [
@@ -222,30 +255,41 @@
         "Exceso de yodo en la dieta",
         "Uso de fármacos que alteren la función tiroidea"
       ],
-      "ctaText": "Si detectas signos de hipertiroidismo, agenda tu valoración con el Dr. Gabriel Gómez Palacios para un abordaje integral de tu salud tiroidea.",
+      "ctaText": "Si detectas signos de hipertiroidismo, agenda tu valoración con la Dra. Gloria Rodas Gallegos para un abordaje integral de tu salud tiroidea.",
       "mexicoStats": "",
       "treatments": [],
-      "imageHome": "/images/diseases/enf-tiroides.jpg",
-      "imageIndividual": "/images/diseases/enf-tiroides.jpg",
-      "iconIndividual": "/images/diseases/icons/hipertiroidismo.svg",
+      "imageHome": "/images/diseases/sindrome-nefrotico.jpg",
+      "imageIndividual": "/images/diseases/sindrome-nefrotico.jpg",
+      "iconIndividual": "",
       "metadata": {
         "title": "Tratamiento de Hipertiroidismo en Tuxtla Gutiérrez, Chiapas",
-        "description": "El hipertiroidismo acelera tu metabolismo y puede generar palpitaciones y nerviosismo. Consulta al Dr. Gabriel Gómez Palacios para un manejo adecuado.",
-        "keywords": [],
+        "description": "El hipertiroidismo acelera tu metabolismo y puede generar palpitaciones y nerviosismo. Consulta al Dra. Gloria Rodas Gallegos para un manejo adecuado.",
+        "keywords": [
+          "Especialista en Hipertiroidismo en Tuxtla Gutiérrez, Chiapas",
+          "Clínica de Hipertiroidismo en Tuxtla Gutiérrez, Chiapas",
+          "Hospital de Hipertiroidismo en Tuxtla Gutiérrez, Chiapas",
+          "Tratamiento para Hipertiroidismo en Tuxtla Gutiérrez, Chiapas",
+          "Experto en Hipertiroidismo en Tuxtla Gutiérrez, Chiapas",
+          "Centro de Hipertiroidismo en Tuxtla Gutiérrez, Chiapas",
+          "Quién atiende Hipertiroidismo en Tuxtla Gutiérrez, Chiapas",
+          "Médico para Hipertiroidismo en Tuxtla Gutiérrez, Chiapas",
+          "Doctor que atiende Hipertiroidismo en Tuxtla Gutiérrez, Chiapas",
+          "Consulta médica de Hipertiroidismo en Tuxtla Gutiérrez, Chiapas"
+        ],
         "openGraph": {
-          "title": "Especialista en Hipertiroidismo - Dr. Gabriel Gómez Palacios",
+          "title": "Especialista en Hipertiroidismo - Dra. Gloria Rodas Gallegos",
           "description": "Descubre los síntomas y factores de riesgo del hipertiroidismo y recibe atención en Tuxtla Gutiérrez.",
-          "url": "https://urldr/enfermedades/enf-tiroides"
+          "url": "https://www.nefrologiarodas.com/enfermedades/sindrome-nefrotico"
         },
         "alternates": {
-          "canonical": "https://urldr/enfermedades/enf-tiroides"
+          "canonical": "https://www.nefrologiarodas.com/enfermedades/sindrome-nefrotico"
         }
       }
     },
     {
-      "id": "hipercolesterolemia",
-      "name": "Hipercolesterolemia",
-      "technicalName": "Hipercolesterolemia",
+      "id": "nefropatia-diabetica",
+      "name": "Nefropatía diabética",
+      "technicalName": "Nefropatía diabética",
       "description": "La hipercolesterolemia consiste en un nivel elevado de colesterol en sangre, especialmente del tipo LDL. Con el tiempo, el exceso de colesterol puede acumularse en las arterias y aumentar el riesgo de desarrollar enfermedades cardiovasculares.",
       "shortDescription": "Exceso de colesterol LDL que incrementa el riesgo de placas en las arterias y complicaciones cardíacas.",
       "causes": [
@@ -276,30 +320,41 @@
         "Tabaquismo",
         "Estrés crónico"
       ],
-      "ctaText": "Si sospechas niveles altos de colesterol, agenda una cita con el Dr. Gabriel Gómez Palacios para evaluar tu perfil lipídico y cuidar tu salud cardiovascular.",
+      "ctaText": "Si sospechas niveles altos de colesterol, agenda una cita con la Dra. Gloria Rodas Gallegos para evaluar tu perfil lipídico y cuidar tu salud cardiovascular.",
       "mexicoStats": "",
       "treatments": [],
-      "imageHome": "/images/diseases/hipercolesterolemia.jpg",
-      "imageIndividual": "/images/diseases/hipercolesterolemia.jpg",
-      "iconIndividual": "/images/diseases/icons/hipercolesterolemia.svg",
+      "imageHome": "/images/diseases/nefropatia-diabetica.jpg",
+      "imageIndividual": "/images/diseases/nefropatia-diabetica.jpg",
+      "iconIndividual": "",
       "metadata": {
         "title": "Tratamiento de Hipercolesterolemia en Tuxtla Gutiérrez, Chiapas",
-        "description": "La hipercolesterolemia eleva el riesgo de enfermedades cardiovasculares. Consulta al Dr. Gabriel Gómez Palacios para un control efectivo.",
-        "keywords": [],
+        "description": "La hipercolesterolemia eleva el riesgo de enfermedades cardiovasculares. Consulta al Dra. Gloria Rodas Gallegos para un control efectivo.",
+        "keywords": [
+          "Especialista en Hipercolesterolemia en Tuxtla Gutiérrez, Chiapas",
+          "Clínica de Hipercolesterolemia en Tuxtla Gutiérrez, Chiapas",
+          "Hospital de Hipercolesterolemia en Tuxtla Gutiérrez, Chiapas",
+          "Tratamiento para Hipercolesterolemia en Tuxtla Gutiérrez, Chiapas",
+          "Experto en Hipercolesterolemia en Tuxtla Gutiérrez, Chiapas",
+          "Centro de Hipercolesterolemia en Tuxtla Gutiérrez, Chiapas",
+          "Quién atiende Hipercolesterolemia en Tuxtla Gutiérrez, Chiapas",
+          "Médico para Hipercolesterolemia en Tuxtla Gutiérrez, Chiapas",
+          "Doctor que atiende Hipercolesterolemia en Tuxtla Gutiérrez, Chiapas",
+          "Consulta médica de Hipercolesterolemia en Tuxtla Gutiérrez, Chiapas"
+        ],
         "openGraph": {
-          "title": "Especialista en Hipercolesterolemia - Dr. Gabriel Gómez Palacios",
+          "title": "Especialista en Hipercolesterolemia - Dra. Gloria Rodas Gallegos",
           "description": "Controla tus niveles de colesterol y prevén complicaciones cardíacas con un manejo adecuado en Tuxtla Gutiérrez.",
-          "url": "https://urldr/enfermedades/hipercolesterolemia"
+          "url": "https://www.nefrologiarodas.com/enfermedades/nefropatia-diabetica"
         },
         "alternates": {
-          "canonical": "https://urldr/enfermedades/hipercolesterolemia"
+          "canonical": "https://www.nefrologiarodas.com/enfermedades/nefropatia-diabetica"
         }
       }
     },
     {
-      "id": "dislipidemias",
-      "name": "Dislipidemias",
-      "technicalName": "Dislipidemias",
+      "id": "pielonefritis",
+      "name": "Pielonefritis",
+      "technicalName": "Pielonefritis ",
       "description": "Las dislipidemias abarcan alteraciones en los niveles de lípidos en la sangre (colesterol total, LDL, HDL y triglicéridos). Este desequilibrio puede pasar inadvertido, pero eleva el riesgo de problemas cardiovasculares a largo plazo si no se corrige.",
       "shortDescription": "Desequilibrios en los niveles de colesterol y triglicéridos que comprometen la salud cardiovascular.",
       "causes": [
@@ -328,30 +383,41 @@
         "Estrés y hábitos no saludables",
         "Consumo de tabaco y alcohol"
       ],
-      "ctaText": "Si deseas mejorar tu perfil lipídico o tienes factores de riesgo, agenda tu consulta con el Dr. Gabriel Gómez Palacios para una evaluación integral y un plan personalizado.",
+      "ctaText": "Si deseas mejorar tu perfil lipídico o tienes factores de riesgo, agenda tu consulta con la Dra. Gloria Rodas Gallegos para una evaluación integral y un plan personalizado.",
       "mexicoStats": "",
       "treatments": [],
-      "imageHome": "/images/diseases/hipercolesterolemia.jpg",
-      "imageIndividual": "/images/diseases/hipercolesterolemia.jpg",
-      "iconIndividual": "/images/diseases/icons/dislipidemias.svg",
+      "imageHome": "/images/diseases/pielonefritis.jpg",
+      "imageIndividual": "/images/diseases/pielonefritis.jpg",
+      "iconIndividual": "",
       "metadata": {
         "title": "Tratamiento de Dislipidemias en Tuxtla Gutiérrez, Chiapas",
-        "description": "Las dislipidemias elevan el riesgo de complicaciones cardíacas. Conoce cómo controlarlas con el Dr. Gabriel Gómez Palacios.",
-        "keywords": [],
+        "description": "Las dislipidemias elevan el riesgo de complicaciones cardíacas. Conoce cómo controlarlas con la Dra. Gloria Rodas Gallegos.",
+        "keywords": [
+          "Especialista en Dislipidemias en Tuxtla Gutiérrez, Chiapas",
+          "Clínica de Dislipidemias en Tuxtla Gutiérrez, Chiapas",
+          "Hospital de Dislipidemias en Tuxtla Gutiérrez, Chiapas",
+          "Tratamiento para Dislipidemias en Tuxtla Gutiérrez, Chiapas",
+          "Experto en Dislipidemias en Tuxtla Gutiérrez, Chiapas",
+          "Centro de Dislipidemias en Tuxtla Gutiérrez, Chiapas",
+          "Quién atiende Dislipidemias en Tuxtla Gutiérrez, Chiapas",
+          "Médico para Dislipidemias en Tuxtla Gutiérrez, Chiapas",
+          "Doctor que atiende Dislipidemias en Tuxtla Gutiérrez, Chiapas",
+          "Consulta médica de Dislipidemias en Tuxtla Gutiérrez, Chiapas"
+        ],
         "openGraph": {
-          "title": "Especialista en Dislipidemias - Dr. Gabriel Gómez Palacios",
+          "title": "Especialista en Dislipidemias - Dra. Gloria Rodas Gallegos",
           "description": "Descubre cómo manejar tus niveles de colesterol y triglicéridos para proteger tu salud cardiovascular.",
-          "url": "https://urldr/enfermedades/dislipidemias"
+          "url": "https://www.nefrologiarodas.com/enfermedades/pielonefritis "
         },
         "alternates": {
-          "canonical": "https://urldr/enfermedades/dislipidemias"
+          "canonical": "https://www.nefrologiarodas.com/enfermedades/pielonefritis "
         }
       }
     },
     {
-      "id": "gastritis",
-      "name": "Gastritis",
-      "technicalName": "Gastritis",
+      "id": "nefrolitiasis",
+      "name": "Nefrolitiasis (Cálculos renales)",
+      "technicalName": "Nefrolitiasis",
       "description": "La gastritis es la inflamación de la mucosa que recubre el estómago. Puede presentarse de forma aguda o crónica y suele relacionarse con infección por Helicobacter pylori, uso prolongado de medicamentos, alimentos irritantes o alcohol.",
       "shortDescription": "Inflamación de la mucosa estomacal que causa ardor, dolor y molestias digestivas.",
       "causes": [
@@ -384,30 +450,41 @@
         "Embarazo (por presión intraabdominal)",
         "Antecedentes familiares de trastornos digestivos"
       ],
-      "ctaText": "Si sufres de acidez estomacal o dolores recurrentes, reserva una cita con el Dr. Gabriel Gómez Palacios para un diagnóstico y tratamiento oportuno.",
+      "ctaText": "Si sufres de acidez estomacal o dolores recurrentes, reserva una cita con la Dra. Gloria Rodas Gallegos para un diagnóstico y tratamiento oportuno.",
       "mexicoStats": "",
       "treatments": [],
-      "imageHome": "/images/diseases/gastritis.jpg",
-      "imageIndividual": "/images/diseases/gastritis.jpg",
-      "iconIndividual": "/images/diseases/icons/gastritis.svg",
+      "imageHome": "/images/diseases/nefrolitiasis.jpg",
+      "imageIndividual": "/images/diseases/nefrolitiasis.jpg",
+      "iconIndividual": "",
       "metadata": {
         "title": "Tratamiento de Gastritis en Tuxtla Gutiérrez, Chiapas",
-        "description": "La gastritis puede generar dolor y ardor estomacal persistente. Consulta al Dr. Gabriel Gómez Palacios para detectar y tratar sus causas.",
-        "keywords": [],
+        "description": "La gastritis puede generar dolor y ardor estomacal persistente. Consulta al Dra. Gloria Rodas Gallegos para detectar y tratar sus causas.",
+        "keywords": [
+          "Especialista en Gastritis en Tuxtla Gutiérrez, Chiapas",
+          "Clínica de Gastritis en Tuxtla Gutiérrez, Chiapas",
+          "Hospital de Gastritis en Tuxtla Gutiérrez, Chiapas",
+          "Tratamiento para Gastritis en Tuxtla Gutiérrez, Chiapas",
+          "Experto en Gastritis en Tuxtla Gutiérrez, Chiapas",
+          "Centro de Gastritis en Tuxtla Gutiérrez, Chiapas",
+          "Quién atiende Gastritis en Tuxtla Gutiérrez, Chiapas",
+          "Médico para Gastritis en Tuxtla Gutiérrez, Chiapas",
+          "Doctor que atiende Gastritis en Tuxtla Gutiérrez, Chiapas",
+          "Consulta médica de Gastritis en Tuxtla Gutiérrez, Chiapas"
+        ],
         "openGraph": {
-          "title": "Especialista en Gastritis - Dr. Gabriel Gómez Palacios",
+          "title": "Especialista en Gastritis - Dra. Gloria Rodas Gallegos",
           "description": "Aprende a manejar la gastritis y evita complicaciones digestivas con atención especializada en Tuxtla Gutiérrez.",
-          "url": "https://urldr/enfermedades/gastritis"
+          "url": "https://www.nefrologiarodas.com/enfermedades/nefrolitiasis"
         },
         "alternates": {
-          "canonical": "https://urldr/enfermedades/gastritis"
+          "canonical": "https://www.nefrologiarodas.com/enfermedades/nefrolitiasis"
         }
       }
     },
     {
-      "id": "reflujo-gastroesofagico",
-      "name": "Reflujo gastroesofágico (ERGE)",
-      "technicalName": "Reflujo Gastroesofágico (ERGE)",
+      "id": "enfermedad-renal-poliquistica",
+      "name": "Enfermedad renal poliquística (ERP)",
+      "technicalName": "Enfermedad renal poliquística (ERP)",
       "description": "El reflujo gastroesofágico ocurre cuando el contenido ácido del estómago regresa al esófago de forma recurrente. Esta situación provoca acidez, ardor y posibles complicaciones si no se trata.",
       "shortDescription": "Retorno del ácido estomacal al esófago, causando acidez, ardor y posibles complicaciones.",
       "causes": [
@@ -440,30 +517,41 @@
         "Embarazo (por presión intraabdominal)",
         "Antecedentes familiares de trastornos digestivos"
       ],
-      "ctaText": "Si sufres de acidez estomacal constante o regurgitación, consulta al Dr. Gabriel Gómez Palacios para un manejo integral del reflujo gastroesofágico.",
+      "ctaText": "Si sufres de acidez estomacal constante o regurgitación, consulta al Dra. Gloria Rodas Gallegos para un manejo integral del reflujo gastroesofágico.",
       "mexicoStats": "",
       "treatments": [],
-      "imageHome": "/images/diseases/gastritis.jpg",
-      "imageIndividual": "/images/diseases/gastritis.jpg",
-      "iconIndividual": "/images/diseases/icons/reflujo-gastroesofagico.svg",
+      "imageHome": "/images/diseases/enfermedad-renal-poliquistica.jpg",
+      "imageIndividual": "/images/diseases/enfermedad-renal-poliquistica.jpg",
+      "iconIndividual": "",
       "metadata": {
         "title": "Tratamiento de Reflujo Gastroesofágico (ERGE) en Tuxtla Gutiérrez, Chiapas",
-        "description": "El reflujo gastroesofágico causa ardor y malestar tras las comidas. Acude al Dr. Gabriel Gómez Palacios para evitar complicaciones mayores.",
-        "keywords": [],
+        "description": "El reflujo gastroesofágico causa ardor y malestar tras las comidas. Acude al Dra. Gloria Rodas Gallegos para evitar complicaciones mayores.",
+        "keywords": [
+          "Especialista en Enfermedad por Reflujo Gastroesofágico en Tuxtla Gutiérrez, Chiapas",
+          "Clínica de Enfermedad por Reflujo Gastroesofágico en Tuxtla Gutiérrez, Chiapas",
+          "Hospital de Enfermedad por Reflujo Gastroesofágico en Tuxtla Gutiérrez, Chiapas",
+          "Tratamiento para Enfermedad por Reflujo Gastroesofágico en Tuxtla Gutiérrez, Chiapas",
+          "Experto en Enfermedad por Reflujo Gastroesofágico en Tuxtla Gutiérrez, Chiapas",
+          "Centro de Enfermedad por Reflujo Gastroesofágico en Tuxtla Gutiérrez, Chiapas",
+          "Quién atiende Enfermedad por Reflujo Gastroesofágico en Tuxtla Gutiérrez, Chiapas",
+          "Médico para Enfermedad por Reflujo Gastroesofágico en Tuxtla Gutiérrez, Chiapas",
+          "Doctor que atiende Enfermedad por Reflujo Gastroesofágico en Tuxtla Gutiérrez, Chiapas",
+          "Consulta médica de Enfermedad por Reflujo Gastroesofágico en Tuxtla Gutiérrez, Chiapas"
+        ],
         "openGraph": {
-          "title": "Especialista en ERGE - Dr. Gabriel Gómez Palacios",
+          "title": "Especialista en ERGE - Dra. Gloria Rodas Gallegos",
           "description": "Conoce las causas y síntomas del reflujo gastroesofágico y evita daños esofágicos a largo plazo con un tratamiento adecuado.",
-          "url": "https://urldr/enfermedades/gastritis"
+          "url": "https://www.nefrologiarodas.com/enfermedades/enfermedad-renal-poliquistica"
         },
         "alternates": {
-          "canonical": "https://urldr/enfermedades/gastritis"
+          "canonical": "https://www.nefrologiarodas.com/enfermedades/enfermedad-renal-poliquistica"
         }
       }
     },
     {
-      "id": "sindrome-metabolico",
-      "name": "Síndrome Metabólico",
-      "technicalName": "Síndrome Metabólico",
+      "id": "hipertension-renovascular",
+      "name": "Hipertensión renovascular",
+      "technicalName": "Hipertensión renovascular",
       "description": "El síndrome metabólico es un conjunto de alteraciones que incluyen hipertensión arterial, hiperglucemia, triglicéridos elevados, bajo colesterol HDL y exceso de grasa abdominal, aumentando el riesgo de desarrollar enfermedades cardiovasculares y diabetes.",
       "shortDescription": "Conjunto de alteraciones que elevan el riesgo de diabetes y problemas cardiovasculares.",
       "causes": [
@@ -494,939 +582,34 @@
         "Estrés y malos hábitos de sueño",
         "Falta de controles médicos regulares"
       ],
-      "ctaText": "Si notas un aumento de peso difícil de controlar o alteraciones metabólicas, agenda tu cita con el Dr. Gabriel Gómez Palacios para un enfoque integral en Tuxtla Gutiérrez.",
+      "ctaText": "Si notas un aumento de peso difícil de controlar o alteraciones metabólicas, agenda tu cita con la Dra. Gloria Rodas Gallegos para un enfoque integral en Tuxtla Gutiérrez.",
       "mexicoStats": "",
       "treatments": [],
-      "imageHome": "/images/diseases/obesidad.jpg",
-      "imageIndividual": "/images/diseases/obesidad.jpg",
-      "iconIndividual": "/images/diseases/icons/sindrome-metabolico.svg",
+      "imageHome": "/images/diseases/hipertension-renovascular.jpg",
+      "imageIndividual": "/images/diseases/hipertension-renovascular.jpg",
+      "iconIndividual": "",
       "metadata": {
         "title": "Tratamiento de Síndrome Metabólico en Tuxtla Gutiérrez, Chiapas",
-        "description": "El síndrome metabólico combina factores de riesgo que incrementan la posibilidad de sufrir diabetes y cardiopatías. Consulta al Dr. Gabriel Gómez Palacios.",
-        "keywords": [],
+        "description": "El síndrome metabólico combina factores de riesgo que incrementan la posibilidad de sufrir diabetes y cardiopatías. Consulta al Dra. Gloria Rodas Gallegos.",
+        "keywords": [
+          "Especialista en Síndrome metabólico en Tuxtla, Chiapas",
+          "Clínica de Síndrome metabólico en Tuxtla, Chiapas",
+          "Hospital de Síndrome metabólico en Tuxtla, Chiapas",
+          "Tratamiento para Síndrome metabólico en Tuxtla, Chiapas",
+          "Experto en Síndrome metabólico en Tuxtla, Chiapas",
+          "Centro de Síndrome metabólico en Tuxtla, Chiapas",
+          "Quién atiende Síndrome metabólico en Tuxtla, Chiapas",
+          "Médico para Síndrome metabólico en Tuxtla, Chiapas",
+          "Doctor que atiende Síndrome metabólico en Tuxtla, Chiapas",
+          "Consulta médica de Síndrome metabólico en Tuxtla, Chiapas"
+        ],
         "openGraph": {
-          "title": "Especialista en Síndrome Metabólico - Dr. Gabriel Gómez Palacios",
+          "title": "Especialista en Síndrome Metabólico - Dra. Gloria Rodas Gallegos",
           "description": "Identifica y controla los factores del síndrome metabólico para mejorar tu salud a largo plazo.",
-          "url": "https://urldr/enfermedades/sindrome-metabolico"
+          "url": "https://www.nefrologiarodas.com/enfermedades/hipertension-renovascular"
         },
         "alternates": {
-          "canonical": "https://urldr/enfermedades/sindrome-metabolico"
-        }
-      }
-    },
-    {
-      "id": "obesidad",
-      "name": "Obesidad",
-      "technicalName": "Obesidad",
-      "description": "La obesidad se caracteriza por un exceso de grasa corporal que incrementa el riesgo de diversas enfermedades crónicas, como diabetes, problemas cardiovasculares y trastornos osteoarticulares. Puede estar asociada a factores genéticos, hormonales y de estilo de vida.",
-      "shortDescription": "Exceso de grasa corporal que eleva el riesgo de problemas de salud crónicos.",
-      "causes": [
-        "Dieta alta en azúcares, grasas saturadas y exceso calórico",
-        "Falta de actividad física",
-        "Predisposición genética",
-        "Estrés crónico y malos hábitos de sueño",
-        "Factores hormonales o metabólicos"
-      ],
-      "symptoms": [
-        "Presión arterial elevada",
-        "Aumento de la circunferencia de la cintura",
-        "Fatiga y resistencia a la insulina",
-        "Dificultad para la movilidad",
-        "Apnea del sueño y sudoración excesiva"
-      ],
-      "complications": [
-        "Enfermedades cardiovasculares",
-        "Diabetes mellitus tipo 2",
-        "Hígado graso no alcohólico",
-        "Artrosis y desgaste articular",
-        "Apnea obstructiva del sueño"
-      ],
-      "riskFactors": [
-        "Sedentarismo",
-        "Dieta inadecuada y alta en calorías",
-        "Antecedentes familiares de obesidad o diabetes",
-        "Estrés y malos hábitos de sueño",
-        "Falta de controles médicos regulares"
-      ],
-      "ctaText": "Si notas un aumento de peso difícil de controlar o alteraciones metabólicas, agenda tu cita con el Dr. Gabriel Gómez Palacios para un enfoque integral en Tuxtla Gutiérrez.",
-      "mexicoStats": "",
-      "treatments": [],
-      "imageHome": "/images/diseases/obesidad.jpg",
-      "imageIndividual": "/images/diseases/obesidad.jpg",
-      "iconIndividual": "/images/diseases/icons/obesidad.svg",
-      "metadata": {
-        "title": "Tratamiento de Obesidad en Tuxtla Gutiérrez, Chiapas",
-        "description": "La obesidad incrementa el riesgo de enfermedades crónicas. Recibe un plan de manejo integral con el Dr. Gabriel Gómez Palacios.",
-        "keywords": [],
-        "openGraph": {
-          "title": "Especialista en Obesidad - Dr. Gabriel Gómez Palacios",
-          "description": "Aprende a controlar tu peso y prevenir complicaciones asociadas a la obesidad con un abordaje médico adecuado.",
-          "url": "https://urldr/enfermedades/obesidad"
-        },
-        "alternates": {
-          "canonical": "https://urldr/enfermedades/obesidad"
-        }
-      }
-    },
-    {
-      "id": "anemia",
-      "name": "Anemia",
-      "technicalName": "Anemia",
-      "description": "La anemia consiste en la disminución de la capacidad de la sangre para transportar oxígeno, ya sea por escasez de glóbulos rojos o niveles bajos de hemoglobina. Puede surgir por deficiencias nutricionales, pérdidas de sangre o enfermedades crónicas.",
-      "shortDescription": "Disminución de glóbulos rojos o hemoglobina, afectando el transporte de oxígeno y causando fatiga.",
-      "causes": [
-        "Falta de hierro, ácido fólico o vitamina B12",
-        "Pérdidas de sangre (menstruaciones abundantes, úlceras, hemorragias)",
-        "Enfermedades crónicas",
-        "Procesos autoinmunitarios",
-        "Trastornos genéticos (talasemias)"
-      ],
-      "symptoms": [
-        "Fatiga y debilidad",
-        "Palidez en piel y mucosas",
-        "Falta de aliento incluso en esfuerzos leves",
-        "Latidos cardíacos acelerados",
-        "Mareos y dolor de cabeza"
-      ],
-      "complications": [
-        "Infecciones recurrentes",
-        "Sobreexigencia del corazón (posibles problemas cardíacos)",
-        "Retraso en crecimiento y desarrollo cognitivo en niños",
-        "Complicaciones en el embarazo",
-        "Disminución del rendimiento físico y mental"
-      ],
-      "riskFactors": [
-        "Dieta pobre en hierro y vitaminas",
-        "Pérdidas de sangre crónicas",
-        "Enfermedades crónicas (insuficiencia renal, artritis reumatoide)",
-        "Antecedentes familiares de anemia",
-        "Embarazo o crecimiento acelerado en la infancia"
-      ],
-      "ctaText": "Si padeces cansancio extremo o palidez constante, agenda una consulta con el Dr. Gabriel Gómez Palacios para detectar la causa de tu anemia y mejorar tu calidad de vida.",
-      "mexicoStats": "",
-      "treatments": [],
-      "imageHome": "/images/diseases/anemia.jpg",
-      "imageIndividual": "/images/diseases/anemia.jpg",
-      "iconIndividual": "/images/diseases/icons/anemia.svg",
-      "metadata": {
-        "title": "Tratamiento de Anemia en Tuxtla Gutiérrez, Chiapas",
-        "description": "La anemia reduce la oxigenación de los tejidos, causando fatiga y debilidad. Consulta al Dr. Gabriel Gómez Palacios para identificar su origen y tratarla oportunamente.",
-        "keywords": [],
-        "openGraph": {
-          "title": "Especialista en Anemia - Dr. Gabriel Gómez Palacios",
-          "description": "Descubre las causas de la anemia y cómo manejarla para recuperar tu energía y bienestar.",
-          "url": "https://urldr/enfermedades/anemia"
-        },
-        "alternates": {
-          "canonical": "https://urldr/enfermedades/anemia"
-        }
-      }
-    },
-    {
-      "id": "bronquitis",
-      "name": "Bronquitis",
-      "technicalName": "Bronquitis",
-      "description": "La bronquitis es la inflamación de los bronquios provocada por infecciones o exposición prolongada a irritantes como el humo de tabaco. Se manifiesta principalmente con tos, producción de moco y dificultad para respirar.",
-      "shortDescription": "Inflamación de los bronquios, con tos y dificultad respiratoria.",
-      "causes": [
-        "Infecciones virales o bacterianas",
-        "Irritantes crónicos: tabaco, polvo, humo de leña",
-        "Factores genéticos y alérgenos",
-        "Inmunodepresión o enfermedades crónicas"
-      ],
-      "symptoms": [
-        "Tos persistente (con o sin flema)",
-        "Dificultad para respirar o disnea",
-        "Opresión en el pecho o sibilancias",
-        "Fiebre y escalofríos en casos infecciosos",
-        "Fatiga que empeora con la actividad"
-      ],
-      "complications": [
-        "Insuficiencia respiratoria",
-        "Daño permanente en vías aéreas",
-        "Neumotórax (colapso pulmonar)",
-        "Crisis asmáticas severas",
-        "Infecciones secundarias"
-      ],
-      "riskFactors": [
-        "Tabaquismo activo o pasivo",
-        "Exposición a contaminantes o químicos",
-        "Edad extrema (niños o ancianos)",
-        "Enfermedades crónicas (diabetes, cardiopatías)",
-        "Inmunodepresión"
-      ],
-      "ctaText": "Si presentas tos persistente o dificultad para respirar, contacta al Dr. Gabriel Gómez Palacios para un diagnóstico y tratamiento que proteja tus pulmones.",
-      "mexicoStats": "",
-      "treatments": [],
-      "imageHome": "/images/diseases/infecciones-respiratorias.jpg",
-      "imageIndividual": "/images/diseases/infecciones-respiratorias.jpg",
-      "iconIndividual": "/images/diseases/icons/bronquitis.svg",
-      "metadata": {
-        "title": "Tratamiento de Bronquitis en Tuxtla Gutiérrez, Chiapas",
-        "description": "La bronquitis causa tos y malestar respiratorio. Acude al Dr. Gabriel Gómez Palacios para prevenir complicaciones y cuidar tu función pulmonar.",
-        "keywords": [],
-        "openGraph": {
-          "title": "Especialista en Bronquitis - Dr. Gabriel Gómez Palacios",
-          "description": "Descubre cómo tratar la bronquitis y reducir síntomas como tos persistente y disnea.",
-          "url": "https://urldr/enfermedades/bronquitis"
-        },
-        "alternates": {
-          "canonical": "https://urldr/enfermedades/bronquitis"
-        }
-      }
-    },
-    {
-      "id": "neumonia",
-      "name": "Neumonía",
-      "technicalName": "Neumonía",
-      "description": "La neumonía es la infección del tejido pulmonar que puede ser causada por bacterias, virus o, en menor medida, hongos. Los alvéolos se llenan de líquido o pus, dificultando la oxigenación de la sangre y generando fiebre, tos y malestar general.",
-      "shortDescription": "Infección pulmonar que inflama los alvéolos, dificultando la oxigenación y causando fiebre y tos.",
-      "causes": [
-        "Infecciones virales o bacterianas",
-        "Irritantes crónicos: tabaco, polvo, humo de leña",
-        "Factores genéticos y alérgenos",
-        "Inmunodepresión o enfermedades crónicas"
-      ],
-      "symptoms": [
-        "Tos persistente (con o sin flema)",
-        "Dificultad para respirar o disnea",
-        "Opresión en el pecho o sibilancias",
-        "Fiebre y escalofríos",
-        "Fatiga que empeora con la actividad"
-      ],
-      "complications": [
-        "Insuficiencia respiratoria",
-        "Daño permanente en vías aéreas",
-        "Neumotórax (colapso pulmonar)",
-        "Crisis asmáticas severas",
-        "Infecciones secundarias"
-      ],
-      "riskFactors": [
-        "Tabaquismo activo o pasivo",
-        "Exposición a contaminantes o químicos",
-        "Edad extrema (niños o ancianos)",
-        "Enfermedades crónicas (diabetes, cardiopatías)",
-        "Inmunodepresión"
-      ],
-      "ctaText": "Si presentas fiebre, tos persistente y dificultad para respirar, consulta al Dr. Gabriel Gómez Palacios para diagnosticar y tratar la neumonía adecuadamente.",
-      "mexicoStats": "",
-      "treatments": [],
-      "imageHome": "/images/diseases/infecciones-respiratorias.jpg",
-      "imageIndividual": "/images/diseases/infecciones-respiratorias.jpg",
-      "iconIndividual": "/images/diseases/icons/neumonia.svg",
-      "metadata": {
-        "title": "Tratamiento de Neumonía en Tuxtla Gutiérrez, Chiapas",
-        "description": "La neumonía puede ser grave si no se detecta a tiempo. Recibe atención especializada con el Dr. Gabriel Gómez Palacios.",
-        "keywords": [],
-        "openGraph": {
-          "title": "Especialista en Neumonía - Dr. Gabriel Gómez Palacios",
-          "description": "Conoce los síntomas y las causas de la neumonía, y evita complicaciones con un tratamiento oportuno en Tuxtla Gutiérrez.",
-          "url": "https://urldr/enfermedades/neumonia"
-        },
-        "alternates": {
-          "canonical": "https://urldr/enfermedades/neumonia"
-        }
-      }
-    },
-    {
-      "id": "epoc",
-      "name": "EPOC",
-      "technicalName": "Enfermedad Pulmonar Obstructiva Crónica (EPOC)",
-      "description": "La EPOC engloba la bronquitis crónica y el enfisema, ocasionando una limitación progresiva del flujo de aire en los pulmones. A menudo está vinculada al tabaquismo y se caracteriza por tos, producción de moco, dificultad respiratoria y empeoramiento gradual de la función pulmonar.",
-      "shortDescription": "Afección crónica que obstruye la respiración y empeora con el tiempo, asociada al tabaquismo.",
-      "causes": [
-        "Infecciones virales o bacterianas",
-        "Irritantes crónicos: tabaco, polvo, humo de leña",
-        "Factores genéticos y alérgenos",
-        "Inmunodepresión o enfermedades crónicas"
-      ],
-      "symptoms": [
-        "Tos persistente (con expectoración)",
-        "Dificultad cada vez mayor para respirar",
-        "Sibilancias y opresión en el pecho",
-        "Infecciones respiratorias frecuentes",
-        "Fatiga y limitación en actividades diarias"
-      ],
-      "complications": [
-        "Insuficiencia respiratoria crónica",
-        "Mayor riesgo de neumonías graves",
-        "Cambios irreversibles en la estructura pulmonar",
-        "Neumotórax espontáneo en casos avanzados",
-        "Problemas cardíacos asociados"
-      ],
-      "riskFactors": [
-        "Tabaquismo activo o pasivo",
-        "Exposición ocupacional a polvo o químicos",
-        "Edad avanzada",
-        "Asma crónica no controlada",
-        "Falta de atención médica temprana"
-      ],
-      "ctaText": "Si presentas disnea, tos crónica o antecedentes de tabaquismo, consulta al Dr. Gabriel Gómez Palacios para un diagnóstico y manejo adecuados de la EPOC.",
-      "mexicoStats": "",
-      "treatments": [],
-      "imageHome": "/images/diseases/infecciones-respiratorias.jpg",
-      "imageIndividual": "/images/diseases/infecciones-respiratorias.jpg",
-      "iconIndividual": "/images/diseases/icons/epoc.svg",
-      "metadata": {
-        "title": "Tratamiento de EPOC en Tuxtla Gutiérrez, Chiapas",
-        "description": "La EPOC obstruye la respiración y empeora con el tiempo. Recibe un control integral con el Dr. Gabriel Gómez Palacios.",
-        "keywords": [],
-        "openGraph": {
-          "title": "Especialista en EPOC - Dr. Gabriel Gómez Palacios",
-          "description": "Identifica los síntomas de EPOC y aprende cómo reducir su progresión para mejorar tu calidad de vida.",
-          "url": "https://urldr/enfermedades/epoc"
-        },
-        "alternates": {
-          "canonical": "https://urldr/enfermedades/epoc"
-        }
-      }
-    },
-    {
-      "id": "asma",
-      "name": "Asma",
-      "technicalName": "Asma",
-      "description": "El asma es un trastorno inflamatorio crónico de las vías respiratorias que provoca episodios de dificultad para respirar, tos, silbidos en el pecho y opresión torácica. Puede desencadenarse por alérgenos, infecciones respiratorias o factores ambientales.",
-      "shortDescription": "Afección inflamatoria de los bronquios, desencadenada por factores alérgicos o ambientales.",
-      "causes": [
-        "Infecciones respiratorias frecuentes",
-        "Exposición a alérgenos (polen, polvo, moho)",
-        "Tabaquismo activo o pasivo",
-        "Irritantes como químicos o humo",
-        "Predisposición genética"
-      ],
-      "symptoms": [
-        "Dificultad para respirar",
-        "Tos recurrente (a menudo empeora por la noche)",
-        "Silbidos o sibilancias al exhalar",
-        "Opresión en el pecho",
-        "Fatiga tras actividad física"
-      ],
-      "complications": [
-        "Crisis asmáticas graves",
-        "Limitación de la actividad diaria",
-        "Ausentismo escolar o laboral",
-        "Daño permanente en vías respiratorias (en casos severos)",
-        "Mayor susceptibilidad a infecciones respiratorias"
-      ],
-      "riskFactors": [
-        "Historia familiar de asma o alergias",
-        "Exposición a contaminantes ambientales",
-        "Tabaquismo",
-        "Obesidad",
-        "Infecciones pulmonares tempranas"
-      ],
-      "ctaText": "Si experimentas episodios de tos, sibilancias o sensación de opresión en el pecho, programa una cita con el Dr. Gabriel Gómez Palacios para controlar tu asma.",
-      "mexicoStats": "",
-      "treatments": [],
-      "imageHome": "/images/diseases/infecciones-respiratorias.jpg",
-      "imageIndividual": "/images/diseases/infecciones-respiratorias.jpg",
-      "iconIndividual": "/images/diseases/icons/asma.svg",
-      "metadata": {
-        "title": "Tratamiento de Asma en Tuxtla Gutiérrez, Chiapas",
-        "description": "El asma genera episodios de dificultad respiratoria. Consulta al Dr. Gabriel Gómez Palacios para un manejo adecuado y mejorar tu calidad de vida.",
-        "keywords": [],
-        "openGraph": {
-          "title": "Especialista en Asma - Dr. Gabriel Gómez Palacios",
-          "description": "Identifica los desencadenantes del asma y aprende a controlarlo con un plan personalizado.",
-          "url": "https://urldr/enfermedades/asma"
-        },
-        "alternates": {
-          "canonical": "https://urldr/enfermedades/asma"
-        }
-      }
-    },
-    {
-      "id": "lupus",
-      "name": "Lupus",
-      "technicalName": "Lupus",
-      "description": "El lupus es una enfermedad autoinmunitaria sistémica que puede afectar múltiples órganos (piel, articulaciones, riñones, corazón, cerebro), manifestándose a través de brotes inflamatorios. El sistema inmune ataca tejidos sanos por error, generando daño diverso y síntomas variables.",
-      "shortDescription": "Trastorno autoinmune sistémico que provoca inflamación y daños en múltiples órganos y tejidos.",
-      "causes": [
-        "Predisposición genética",
-        "Factores ambientales y virales",
-        "Desequilibrios hormonales",
-        "Estrés y estilo de vida"
-      ],
-      "symptoms": [
-        "Fiebre y fatiga crónica",
-        "Dolor articular y muscular",
-        "Erupciones cutáneas (especialmente en el rostro)",
-        "Inflamación de órganos internos (riñones, corazón)",
-        "Fotosensibilidad y caída del cabello"
-      ],
-      "complications": [
-        "Daño orgánico progresivo (riñones, SNC)",
-        "Artritis con deformidades articulares",
-        "Enfermedad cardiovascular",
-        "Trastornos oculares e infecciones frecuentes"
-      ],
-      "riskFactors": [
-        "Ser mujer (mayor incidencia)",
-        "Antecedentes familiares de lupus",
-        "Edad adulta joven",
-        "Estrés crónico",
-        "Exposición solar excesiva"
-      ],
-      "ctaText": "Si sospechas de lupus por dolores articulares o síntomas multisistémicos, agenda cita con el Dr. Gabriel Gómez Palacios para un diagnóstico oportuno.",
-      "mexicoStats": "",
-      "treatments": [],
-      "imageHome": "/images/diseases/lupus.jpg",
-      "imageIndividual": "/images/diseases/lupus.jpg",
-      "iconIndividual": "/images/diseases/icons/lupus.svg",
-      "metadata": {
-        "title": "Tratamiento de Lupus en Tuxtla Gutiérrez, Chiapas",
-        "description": "El lupus ataca diversos órganos del cuerpo. Recibe atención integral con el Dr. Gabriel Gómez Palacios y controla los brotes.",
-        "keywords": [],
-        "openGraph": {
-          "title": "Especialista en Lupus - Dr. Gabriel Gómez Palacios",
-          "description": "Conoce las manifestaciones del lupus y cómo abordar esta enfermedad autoinmune con un manejo multidisciplinario.",
-          "url": "https://urldr/enfermedades/lupus"
-        },
-        "alternates": {
-          "canonical": "https://urldr/enfermedades/lupus"
-        }
-      }
-    },
-    {
-      "id": "artritis-reumatoide",
-      "name": "Artritis Reumatoide",
-      "technicalName": "Artritis Reumatoide",
-      "description": "La artritis reumatoide es un trastorno inflamatorio crónico que afecta principalmente las articulaciones, generando dolor, inflamación y rigidez. Con el tiempo, puede ocasionar deformidades y daños en otros órganos si no se controla adecuadamente.",
-      "shortDescription": "Enfermedad autoinmune crónica que inflama las articulaciones y puede comprometer otros órganos.",
-      "causes": [
-        "Factores genéticos",
-        "Infecciones o alteraciones inmunitarias",
-        "Desequilibrios hormonales",
-        "Estrés crónico"
-      ],
-      "symptoms": [
-        "Dolor y rigidez articular",
-        "Inflamación de articulaciones pequeñas (manos, pies)",
-        "Fiebre y fatiga",
-        "Deformidades progresivas en fases avanzadas",
-        "Nódulos reumatoides"
-      ],
-      "complications": [
-        "Daño articular irreversible",
-        "Desgaste y deformidades óseas",
-        "Problemas oculares",
-        "Mayor riesgo cardiovascular",
-        "Osteoporosis"
-      ],
-      "riskFactors": [
-        "Ser mujer",
-        "Edad entre 30 y 50 años",
-        "Antecedentes familiares de enfermedades autoinmunes",
-        "Tabaquismo",
-        "Estrés crónico"
-      ],
-      "ctaText": "Si padeces dolor articular o rigidez prolongada, consulta al Dr. Gabriel Gómez Palacios. Un diagnóstico temprano mejora el pronóstico de la artritis reumatoide.",
-      "mexicoStats": "",
-      "treatments": [],
-      "imageHome": "/images/diseases/artritis-reumatoide.jpg",
-      "imageIndividual": "/images/diseases/artritis-reumatoide.jpg",
-      "iconIndividual": "/images/diseases/icons/artritis-reumatoide.svg",
-      "metadata": {
-        "title": "Tratamiento de Artritis Reumatoide en Tuxtla Gutiérrez, Chiapas",
-        "description": "La artritis reumatoide daña progresivamente las articulaciones. Recibe una evaluación integral con el Dr. Gabriel Gómez Palacios para controlar la inflamación.",
-        "keywords": [],
-        "openGraph": {
-          "title": "Especialista en Artritis Reumatoide - Dr. Gabriel Gómez Palacios",
-          "description": "Aprende a reconocer los síntomas y manejar la artritis reumatoide para mantener tu calidad de vida.",
-          "url": "https://urldr/enfermedades/artritis-reumatoide"
-        },
-        "alternates": {
-          "canonical": "https://urldr/enfermedades/artritis-reumatoide"
-        }
-      }
-    },
-    {
-      "id": "insuficiencia-cardiaca",
-      "name": "Insuficiencia Cardíaca",
-      "technicalName": "Insuficiencia Cardíaca",
-      "description": "La insuficiencia cardíaca se produce cuando el corazón pierde su capacidad de bombear sangre de forma eficaz, provocando fatiga, dificultad para respirar y retención de líquidos. Puede surgir como consecuencia de hipertensión, cardiopatías, infecciones u otros trastornos que dañan el músculo cardíaco.",
-      "shortDescription": "El corazón no bombea la sangre adecuadamente, ocasionando fatiga, disnea y retención de líquidos.",
-      "causes": [
-        "Enfermedad de las arterias coronarias",
-        "Hipertensión arterial no controlada",
-        "Cardiopatía valvular",
-        "Daños en el miocardio (miocardiopatías)",
-        "Infecciones y desequilibrios tiroideos"
-      ],
-      "symptoms": [
-        "Falta de aire (disnea) con el ejercicio o al acostarse",
-        "Fatiga y debilidad general",
-        "Hinchazón de tobillos, piernas y abdomen",
-        "Aumento rápido de peso por retención de líquidos",
-        "Tos persistente o sibilancias"
-      ],
-      "complications": [
-        "Edema pulmonar",
-        "Daño renal crónico",
-        "Arritmias cardíacas",
-        "Mayor riesgo de accidentes cerebrovasculares",
-        "Deterioro significativo de la calidad de vida"
-      ],
-      "riskFactors": [
-        "Hipertensión mal controlada",
-        "Cardiopatía isquémica",
-        "Valvulopatías",
-        "Diabetes mellitus",
-        "Tabaquismo",
-        "Obesidad"
-      ],
-      "ctaText": "Si presentas disnea, fatiga o hinchazón en piernas, solicita cita con el Dr. Gabriel Gómez Palacios para abordar la salud de tu corazón.",
-      "mexicoStats": "",
-      "treatments": [],
-      "imageHome": "/images/diseases/insuficiencia-cardiaca.jpg",
-      "imageIndividual": "/images/diseases/insuficiencia-cardiaca.jpg",
-      "iconIndividual": "/images/diseases/icons/insuficiencia-cardiaca.svg",
-      "metadata": {
-        "title": "Tratamiento de Insuficiencia Cardíaca en Tuxtla Gutiérrez, Chiapas",
-        "description": "La insuficiencia cardíaca afecta la capacidad de bombeo del corazón. Consulta al Dr. Gabriel Gómez Palacios para mejorar tu función cardiaca y calidad de vida.",
-        "keywords": [],
-        "openGraph": {
-          "title": "Especialista en Insuficiencia Cardíaca - Dr. Gabriel Gómez Palacios",
-          "description": "Aprende a controlar la insuficiencia cardíaca, reducir sus síntomas y prevenir complicaciones graves.",
-          "url": "https://urldr/enfermedades/insuficiencia-cardiaca"
-        },
-        "alternates": {
-          "canonical": "https://urldr/enfermedades/insuficiencia-cardiaca"
-        }
-      }
-    },
-    {
-      "id": "cardiopatia-isquemica",
-      "name": "Cardiopatía Isquémica",
-      "technicalName": "Cardiopatía Isquémica",
-      "description": "La cardiopatía isquémica se origina por la disminución del flujo sanguíneo en las arterias coronarias debido a la formación de placas de grasa (aterosclerosis). Puede manifestarse como angina de pecho o infarto agudo de miocardio y pone en riesgo la función cardíaca.",
-      "shortDescription": "Obstrucción de las arterias coronarias que limita el riego sanguíneo al corazón, con riesgo de infartos.",
-      "causes": [
-        "Aterosclerosis por acumulación de colesterol",
-        "Hipertensión arterial no controlada",
-        "Tabaquismo",
-        "Diabetes mellitus",
-        "Antecedentes familiares de enfermedad coronaria"
-      ],
-      "symptoms": [
-        "Dolor o presión en el pecho (angina)",
-        "Dificultad para respirar al mínimo esfuerzo",
-        "Sudoración excesiva",
-        "Náuseas",
-        "Palpitaciones o arritmias"
-      ],
-      "complications": [
-        "Infarto agudo del miocardio",
-        "Arritmias graves",
-        "Insuficiencia cardíaca",
-        "Muerte súbita cardíaca",
-        "Accidente cerebrovascular"
-      ],
-      "riskFactors": [
-        "Colesterol y triglicéridos elevados",
-        "Hipertensión",
-        "Obesidad",
-        "Estrés crónico",
-        "Sedentarismo"
-      ],
-      "ctaText": "Si presentas dolor en el pecho o factores de riesgo, consulta al Dr. Gabriel Gómez Palacios para evaluar y cuidar tu salud coronaria.",
-      "mexicoStats": "",
-      "treatments": [],
-      "imageHome": "/images/diseases/insuficiencia-cardiaca.jpg",
-      "imageIndividual": "/images/diseases/insuficiencia-cardiaca.jpg",
-      "iconIndividual": "/images/diseases/icons/cardiopatia-isquemica.svg",
-      "metadata": {
-        "title": "Tratamiento de Cardiopatía Isquémica en Tuxtla Gutiérrez, Chiapas",
-        "description": "La cardiopatía isquémica obstruye el flujo sanguíneo al corazón. Conoce cómo prevenir infartos y mejorar tu salud con el Dr. Gabriel Gómez Palacios.",
-        "keywords": [],
-        "openGraph": {
-          "title": "Especialista en Cardiopatía Isquémica - Dr. Gabriel Gómez Palacios",
-          "description": "Infórmate sobre la enfermedad de las arterias coronarias y recibe atención personalizada para evitar complicaciones cardíacas.",
-          "url": "https://urldr/enfermedades/cardiopatia-isquemica"
-        },
-        "alternates": {
-          "canonical": "https://urldr/enfermedades/cardiopatia-isquemica"
-        }
-      }
-    },
-    {
-      "id": "hepatitis-cronica",
-      "name": "Hepatitis Crónica",
-      "technicalName": "Hepatitis Crónica",
-      "description": "La hepatitis crónica implica una inflamación prolongada del hígado (más de seis meses) que puede ser causada por infecciones virales, enfermedades autoinmunes o factores tóxicos. Con el tiempo, puede evolucionar a cirrosis y otras complicaciones graves.",
-      "shortDescription": "Inflamación hepática a largo plazo que puede conducir a cirrosis y daño severo.",
-      "causes": [
-        "Virus de hepatitis B o C",
-        "Enfermedades autoinmunes",
-        "Consumo excesivo de alcohol",
-        "Obesidad y mala alimentación",
-        "Resistencia a la insulina",
-        "Medicamentos o tóxicos"
-      ],
-      "symptoms": [
-        "Cansancio crónico",
-        "Dolor leve en la parte superior derecha del abdomen",
-        "Ictericia (piel y ojos amarillos) en etapas avanzadas",
-        "Náuseas y falta de apetito",
-        "Orina oscura y heces claras",
-        "En hígado graso: habitualmente asintomático en fases tempranas"
-      ],
-      "complications": [
-        "Cirrosis",
-        "Insuficiencia hepática",
-        "Varices esofágicas y sangrados",
-        "Riesgo de cáncer de hígado",
-        "Ascitis"
-      ],
-      "riskFactors": [
-        "Contacto con sangre infectada (hepatitis)",
-        "Uso de drogas IV o falta de vacunación",
-        "Obesidad o síndrome metabólico",
-        "Historial familiar de enfermedades hepáticas",
-        "Consumo de medicamentos hepatotóxicos"
-      ],
-      "ctaText": "Si notas síntomas hepáticos o factores de riesgo, agenda una evaluación con el Dr. Gabriel Gómez Palacios en Tuxtla Gutiérrez para proteger tu salud hepática.",
-      "mexicoStats": "",
-      "treatments": [],
-      "imageHome": "/images/diseases/problemas-hepaticos.jpg",
-      "imageIndividual": "/images/diseases/problemas-hepaticos.jpg",
-      "iconIndividual": "/images/diseases/icons/hepatitis-cronica.svg",
-      "metadata": {
-        "title": "Tratamiento de Hepatitis Crónica en Tuxtla Gutiérrez, Chiapas",
-        "description": "La hepatitis crónica puede derivar en cirrosis si no se detecta. Consulta al Dr. Gabriel Gómez Palacios para un abordaje oportuno y especializado.",
-        "keywords": [],
-        "openGraph": {
-          "title": "Especialista en Hepatitis Crónica - Dr. Gabriel Gómez Palacios",
-          "description": "Aprende sobre la inflamación hepática de larga duración y las formas de evitar complicaciones mayores.",
-          "url": "https://urldr/enfermedades/hepatitis-cronica"
-        },
-        "alternates": {
-          "canonical": "https://urldr/enfermedades/hepatitis-cronica"
-        }
-      }
-    },
-    {
-      "id": "higado-graso-no-alcoholico",
-      "name": "Hígado Graso No Alcohólico",
-      "technicalName": "Hígado Graso No Alcohólico",
-      "description": "El hígado graso no alcohólico se caracteriza por la acumulación de grasa en las células hepáticas sin la intervención del alcohol, pudiendo evolucionar a una esteatohepatitis y, en casos avanzados, a cirrosis. A menudo se asocia a obesidad, resistencia a la insulina y dislipidemias.",
-      "shortDescription": "Acumulación de grasa en el hígado ajena al alcohol, con riesgo de inflamación y cirrosis.",
-      "causes": [
-        "Virus de hepatitis B o C",
-        "Enfermedades autoinmunes",
-        "Consumo excesivo de alcohol",
-        "Obesidad y mala alimentación",
-        "Resistencia a la insulina",
-        "Medicamentos o tóxicos"
-      ],
-      "symptoms": [
-        "Cansancio crónico",
-        "Dolor leve en la parte superior derecha del abdomen",
-        "Ictericia (piel y ojos amarillos) en etapas avanzadas",
-        "Náuseas y falta de apetito",
-        "Orina oscura y heces claras",
-        "En hígado graso: habitualmente asintomático en fases tempranas"
-      ],
-      "complications": [
-        "Esteatohepatitis no alcohólica",
-        "Cirrosis",
-        "Insuficiencia hepática",
-        "Riesgo de cáncer de hígado",
-        "Ascitis"
-      ],
-      "riskFactors": [
-        "Obesidad o síndrome metabólico",
-        "Resistencia a la insulina",
-        "Dieta rica en grasas y azúcares",
-        "Falta de ejercicio",
-        "Antecedentes familiares de enfermedades hepáticas"
-      ],
-      "ctaText": "Si te han detectado hígado graso o sospechas esta condición, visita al Dr. Gabriel Gómez Palacios para prevenir progresión a cirrosis.",
-      "mexicoStats": "",
-      "treatments": [],
-      "imageHome": "/images/diseases/problemas-hepaticos.jpg",
-      "imageIndividual": "/images/diseases/problemas-hepaticos.jpg",
-      "iconIndividual": "/images/diseases/icons/higado-graso-no-alcoholico.svg",
-      "metadata": {
-        "title": "Manejo de Hígado Graso No Alcohólico en Tuxtla Gutiérrez, Chiapas",
-        "description": "El hígado graso no alcohólico puede derivar en complicaciones severas. Recibe un seguimiento integral con el Dr. Gabriel Gómez Palacios.",
-        "keywords": [],
-        "openGraph": {
-          "title": "Especialista en Hígado Graso No Alcohólico - Dr. Gabriel Gómez Palacios",
-          "description": "Conoce cómo prevenir y manejar la acumulación de grasa en el hígado y evitar el daño progresivo.",
-          "url": "https://urldr/enfermedades/higado-graso-no-alcoholico"
-        },
-        "alternates": {
-          "canonical": "https://urldr/enfermedades/higado-graso-no-alcoholico"
-        }
-      }
-    },
-    {
-      "id": "infecciones-urinarias",
-      "name": "Infecciones Urinarias",
-      "technicalName": "Infecciones del Tracto Urinario",
-      "description": "Las infecciones urinarias son procesos infecciosos que afectan la uretra, la vejiga, los uréteres o los riñones, usualmente causados por bacterias como Escherichia coli. Pueden causar dolor o ardor al orinar, urgencia frecuente y, en casos avanzados, comprometer la función renal.",
-      "shortDescription": "Infecciones bacterianas que afectan el tracto urinario y provocan molestias al orinar.",
-      "causes": [
-        "Bacterias como Escherichia coli",
-        "Mala higiene o retención de orina",
-        "Hipertensión y diabetes mal controladas",
-        "Glomerulonefritis y enfermedades congénitas",
-        "Uso prolongado de ciertos fármacos"
-      ],
-      "symptoms": [
-        "Dolor o ardor al orinar",
-        "Ganas frecuentes de orinar con poca cantidad",
-        "Orina turbia o con olor fuerte",
-        "Fatiga y edema en enfermedad renal",
-        "Cambios en la frecuencia y apariencia de la orina"
-      ],
-      "complications": [
-        "Infección renal (pielonefritis)",
-        "Daño permanente al tracto urinario",
-        "Insuficiencia renal terminal (requerimiento de diálisis)",
-        "Mayor riesgo cardiovascular"
-      ],
-      "riskFactors": [
-        "Mujeres con infecciones frecuentes",
-        "Uso de sondas o catéteres urinarios",
-        "Hipertensión arterial",
-        "Diabetes mellitus",
-        "Enfermedades renales hereditarias"
-      ],
-      "ctaText": "Si experimentas molestias urinarias o sospechas deterioro renal, acude con el Dr. Gabriel Gómez Palacios para un diagnóstico y tratamiento oportuno.",
-      "mexicoStats": "",
-      "treatments": [],
-      "imageHome": "/images/diseases/infecciones-urinarias.jpg",
-      "imageIndividual": "/images/diseases/infecciones-urinarias.jpg",
-      "iconIndividual": "/images/diseases/icons/infecciones-urinarias.svg",
-      "metadata": {
-        "title": "Tratamiento de Infecciones Urinarias en Tuxtla Gutiérrez, Chiapas",
-        "description": "Las infecciones urinarias pueden provocar ardor y dolor al orinar. Consulta al Dr. Gabriel Gómez Palacios para evitar complicaciones renales.",
-        "keywords": [],
-        "openGraph": {
-          "title": "Especialista en Infecciones Urinarias - Dr. Gabriel Gómez Palacios",
-          "description": "Detecta y trata a tiempo las infecciones en el tracto urinario para prevenir daños mayores en tus riñones.",
-          "url": "https://urldr/enfermedades/infecciones-urinarias"
-        },
-        "alternates": {
-          "canonical": "https://urldr/enfermedades/infecciones-urinarias"
-        }
-      }
-    },
-    {
-      "id": "enfermedad-renal-cronica",
-      "name": "Enfermedad Renal Crónica",
-      "technicalName": "Enfermedad Renal Crónica (ERC)",
-      "description": "La enfermedad renal crónica se caracteriza por la pérdida progresiva y permanente de la función de los riñones. Con el paso del tiempo, los riñones pierden la capacidad de filtrar toxinas y mantener el equilibrio de líquidos y electrolitos, pudiendo requerir diálisis o trasplante en etapas avanzadas.",
-      "shortDescription": "Deterioro lento y persistente de la función renal, causando serios desequilibrios corporales.",
-      "causes": [
-        "Bacterias como Escherichia coli",
-        "Mala higiene o retención de orina",
-        "Hipertensión y diabetes mal controladas",
-        "Glomerulonefritis y enfermedades congénitas",
-        "Uso prolongado de ciertos fármacos"
-      ],
-      "symptoms": [
-        "Fatiga constante",
-        "Retención de líquidos y edema",
-        "Cambios en la frecuencia o apariencia de la orina",
-        "Pérdida de apetito o náuseas",
-        "Picazón en la piel y calambres musculares"
-      ],
-      "complications": [
-        "Insuficiencia renal terminal (requerimiento de diálisis o trasplante)",
-        "Mayor riesgo cardiovascular",
-        "Anemia y trastornos óseos",
-        "Desequilibrios electrolíticos",
-        "Aumento de la presión arterial"
-      ],
-      "riskFactors": [
-        "Hipertensión arterial",
-        "Diabetes mellitus",
-        "Antecedentes familiares de enfermedad renal",
-        "Consumo de medicamentos nefrotóxicos",
-        "Infecciones urinarias recurrentes"
-      ],
-      "ctaText": "Si presentas signos de deterioro renal o factores de riesgo, agenda una evaluación con el Dr. Gabriel Gómez Palacios para preservar tu función renal.",
-      "mexicoStats": "",
-      "treatments": [],
-      "imageHome": "/images/diseases/infecciones-urinarias.jpg",
-      "imageIndividual": "/images/diseases/infecciones-urinarias.jpg",
-      "iconIndividual": "/images/diseases/icons/enfermedad-renal-cronica.svg",
-      "metadata": {
-        "title": "Manejo de Enfermedad Renal Crónica en Tuxtla Gutiérrez, Chiapas",
-        "description": "La ERC afecta la capacidad de filtración de los riñones y puede requerir diálisis. Consulta al Dr. Gabriel Gómez Palacios para un manejo preventivo.",
-        "keywords": [],
-        "openGraph": {
-          "title": "Especialista en Enfermedad Renal Crónica - Dr. Gabriel Gómez Palacios",
-          "description": "Conoce cómo retrasar la progresión de la ERC y mantener tu calidad de vida con un tratamiento integral.",
-          "url": "https://urldr/enfermedades/enfermedad-renal-cronica"
-        },
-        "alternates": {
-          "canonical": "https://urldr/enfermedades/enfermedad-renal-cronica"
-        }
-      }
-    },
-    {
-      "id": "migrañas",
-      "name": "Migrañas",
-      "technicalName": "Migrañas",
-      "description": "Las migrañas son dolores de cabeza recurrentes e intensos, normalmente unilaterales y palpitantes, acompañados de náuseas, sensibilidad a la luz (fotofobia) o al sonido (fonofobia). Pueden afectar la calidad de vida si no se tratan adecuadamente.",
-      "shortDescription": "Cefaleas intensas y recurrentes, a menudo acompañadas de sensibilidad a la luz o sonido.",
-      "causes": [
-        "Factores genéticos y antecedentes familiares",
-        "Liberación anormal de sustancias inflamatorias",
-        "Estrés, alteraciones del sueño",
-        "Cambios hormonales",
-        "Uso excesivo de analgésicos (cefalea por rebote)"
-      ],
-      "symptoms": [
-        "Dolor de cabeza pulsátil o presión constante",
-        "Sensibilidad a la luz y al ruido",
-        "Náuseas o vómitos",
-        "Visión borrosa o aura",
-        "Irritabilidad y dificultad para concentrarse"
-      ],
-      "complications": [
-        "Migraña crónica",
-        "Afectaciones en la calidad de vida y productividad",
-        "Trastornos del sueño",
-        "Ansiedad y depresión",
-        "Dependencia de analgésicos"
-      ],
-      "riskFactors": [
-        "Estrés crónico",
-        "Alteraciones del sueño",
-        "Factores hormonales (menstruación, menopausia)",
-        "Dietas inadecuadas o ayunos prolongados",
-        "Exceso de estimulantes (café, chocolate)"
-      ],
-      "ctaText": "Si los dolores de cabeza afectan tu rutina, agenda una evaluación con el Dr. Gabriel Gómez Palacios y recupera tu calidad de vida.",
-      "mexicoStats": "",
-      "treatments": [],
-      "imageHome": "/images/diseases/migrañas.jpg",
-      "imageIndividual": "/images/diseases/migrañas.jpg",
-      "iconIndividual": "/images/diseases/icons/migrañas.svg",
-      "metadata": {
-        "title": "Tratamiento de Migrañas en Tuxtla Gutiérrez, Chiapas",
-        "description": "Las migrañas pueden interrumpir tus actividades diarias. Descubre cómo tratarlas con el Dr. Gabriel Gómez Palacios.",
-        "keywords": [],
-        "openGraph": {
-          "title": "Especialista en Migrañas - Dr. Gabriel Gómez Palacios",
-          "description": "Alivia el dolor intenso y recurrente de la migraña con un abordaje profesional en Tuxtla Gutiérrez.",
-          "url": "https://urldr/enfermedades/migrañas"
-        },
-        "alternates": {
-          "canonical": "https://urldr/enfermedades/migrañas"
-        }
-      }
-    },
-    {
-      "id": "cefaleas-cronicas",
-      "name": "Cefaleas Crónicas",
-      "technicalName": "Cefaleas Crónicas",
-      "description": "Las cefaleas crónicas se caracterizan por dolores de cabeza que se presentan quince o más días al mes, pudiendo tener distintas causas como la evolución de migrañas o cefaleas tensionales. Suelen impactar de forma significativa la vida diaria del paciente.",
-      "shortDescription": "Dolores de cabeza persistentes que limitan la vida diaria y pueden requerir manejo especializado.",
-      "causes": [
-        "Factores genéticos y antecedentes familiares",
-        "Liberación anormal de sustancias inflamatorias",
-        "Estrés, alteraciones del sueño",
-        "Cambios hormonales",
-        "Uso excesivo de analgésicos (cefalea por rebote)"
-      ],
-      "symptoms": [
-        "Dolor de cabeza pulsátil o presión constante",
-        "Sensibilidad a la luz y al ruido",
-        "Náuseas o vómitos",
-        "Visión borrosa o aura",
-        "Irritabilidad y dificultad para concentrarse"
-      ],
-      "complications": [
-        "Migraña crónica",
-        "Afectaciones en la calidad de vida y productividad",
-        "Trastornos del sueño",
-        "Ansiedad y depresión",
-        "Dependencia de analgésicos"
-      ],
-      "riskFactors": [
-        "Estrés crónico",
-        "Alteraciones del sueño",
-        "Factores hormonales (menstruación, menopausia)",
-        "Dietas inadecuadas o ayunos prolongados",
-        "Exceso de estimulantes (café, chocolate)"
-      ],
-      "ctaText": "Si los dolores de cabeza afectan tu rutina, agenda una evaluación con el Dr. Gabriel Gómez Palacios y recupera tu calidad de vida.",
-      "mexicoStats": "",
-      "treatments": [],
-      "imageHome": "/images/diseases/migrañas.jpg",
-      "imageIndividual": "/images/diseases/migrañas.jpg",
-      "iconIndividual": "/images/diseases/icons/cefaleas-cronicas.svg",
-      "metadata": {
-        "title": "Tratamiento de Cefaleas Crónicas en Tuxtla Gutiérrez, Chiapas",
-        "description": "Las cefaleas crónicas pueden afectar severamente tu día a día. Consulta al Dr. Gabriel Gómez Palacios para un manejo especializado.",
-        "keywords": [],
-        "openGraph": {
-          "title": "Especialista en Cefaleas Crónicas - Dr. Gabriel Gómez Palacios",
-          "description": "Controla el dolor de cabeza persistente con un enfoque adecuado que mejore tu calidad de vida.",
-          "url": "https://urldr/enfermedades/cefaleas-cronicas"
-        },
-        "alternates": {
-          "canonical": "https://urldr/enfermedades/cefaleas-cronicas"
-        }
-      }
-    },
-    {
-      "id": "osteoporosis",
-      "name": "Osteoporosis",
-      "technicalName": "Osteoporosis",
-      "description": "La osteoporosis es una enfermedad en la que disminuye la densidad y calidad ósea, volviendo a los huesos más frágiles y propensos a fracturas. A menudo avanza sin síntomas hasta que ocurre una fractura, lo que resalta la importancia de la prevención y el diagnóstico temprano.",
-      "shortDescription": "Pérdida de densidad ósea que incrementa el riesgo de fracturas, especialmente en cadera y columna.",
-      "causes": [
-        "Falta de calcio y vitamina D",
-        "Cambios hormonales (menopausia)",
-        "Sedentarismo",
-        "Tabaquismo y alcoholismo",
-        "Uso prolongado de ciertos fármacos (corticoides)"
-      ],
-      "symptoms": [
-        "Dolor de espalda (zona lumbar o dorsal)",
-        "Pérdida de estatura progresiva",
-        "Postura encorvada",
-        "Fracturas ante golpes mínimos",
-        "Generalmente asintomática al inicio"
-      ],
-      "complications": [
-        "Fracturas frecuentes (cadera, vértebras, muñecas)",
-        "Dolor crónico de espalda",
-        "Disminución de calidad de vida",
-        "Riesgo de inmovilidad y dependencia",
-        "Deformidades óseas"
-      ],
-      "riskFactors": [
-        "Dieta pobre en calcio y vitamina D",
-        "Menopausia y disminución de estrógenos",
-        "Sedentarismo prolongado",
-        "Historial familiar de osteoporosis",
-        "Consumo de tabaco y alcohol"
-      ],
-      "ctaText": "Si sospechas de disminución de masa ósea o tienes factores de riesgo, programa una consulta con el Dr. Gabriel Gómez Palacios para prevenir fracturas y proteger tu salud ósea.",
-      "mexicoStats": "",
-      "treatments": [],
-      "imageHome": "/images/diseases/osteoporosis.jpg",
-      "imageIndividual": "/images/diseases/osteoporosis.jpg",
-      "iconIndividual": "/images/diseases/icons/osteoporosis.svg",
-      "metadata": {
-        "title": "Tratamiento de Osteoporosis en Tuxtla Gutiérrez, Chiapas",
-        "description": "La osteoporosis hace que tus huesos se vuelvan frágiles. Consulta al Dr. Gabriel Gómez Palacios para prevenir fracturas y mantener tu fortaleza ósea.",
-        "keywords": [],
-        "openGraph": {
-          "title": "Especialista en Osteoporosis - Dr. Gabriel Gómez Palacios",
-          "description": "Conoce las medidas para fortalecer tus huesos y evitar fracturas derivadas de la osteoporosis.",
-          "url": "https://urldr/enfermedades/osteoporosis"
-        },
-        "alternates": {
-          "canonical": "https://urldr/enfermedades/osteoporosis"
+          "canonical": "https://www.nefrologiarodas.com/enfermedades/hipertension-renovascular"
         }
       }
     }

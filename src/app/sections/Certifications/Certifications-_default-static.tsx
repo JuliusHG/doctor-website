@@ -44,20 +44,20 @@ export default function CertificationsSection() {
   return (
     <section className="py-12 bg-gray-100">
       <div className="container mx-auto px-4">
-        <h2 className="text-5xl text-[#4C8D90] font-bold mb-8 text-center">{certifications.sectionTitle}</h2>
-        <div className="grid grid-cols-2 md:grid-cols-3 gap-8">
+        <h2 className="text-5xl text-dw-soft font-bold mb-8 text-center">{certifications.sectionTitle}</h2>
+        <div className="flex flex-row justify-around md:grid-cols-3 gap-8"> {/* <div className="grid grid-cols-2 md:grid-cols-3 gap-8"> */}
           {visibleItems.map((item, index) => (
             <div key={index} className="flex flex-col items-center h-full">
               <div className="flex items-center justify-center h-40 mb-4 w-full">
                 <Image
                   src={item.imagePath || "/placeholder.svg"}
                   alt={item.name}
-                  width={160}
-                  height={160}
+                  width={100}
+                  height={100}
                   className="object-contain max-h-full max-w-full"
                 />
               </div>
-              <h2 className="text-base font-bold">{item.nameTitle}</h2>
+              <h2 className="text-xl text-dw-soft font-extrabold">{item.nameTitle}</h2>
               <p className="text-center text-base">{item.name}</p>
             </div>
           ))}

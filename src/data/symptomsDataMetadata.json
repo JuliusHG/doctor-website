@@ -1,22 +1,22 @@
 {
   "sintomasMeta": {
     "main": {
-      "title": "Síntomas - Dr. Gabriel Gómez Palacios",
-      "description": "Información sobre síntomas tratados por el Dr. Gabriel Gómez Palacios en Tuxtla Gutiérrez.",
+      "title": "Síntomas - Dra. Gloria Rodas Gallegos",
+      "description": "Información sobre síntomas tratados por la Dra. Gloria Rodas Gallegos en Tuxtla Gutiérrez.",
       "openGraph": {
-        "title": "Síntomas tratados por Medicina Interna y Medicina Crítica",
-        "description": "Conozca los síntomas tratados por Medicina Interna y Medicina Crítica.",
-        "url": "https://url/sintomas"
+        "title": "Síntomas tratados por Nefrología",
+        "description": "Conozca los síntomas tratados por Nefrología.",
+        "url": "https://www.nefrologiarodas.com/sintomas"
       },
       "alternates": {
-        "canonical": "https://url/sintomas"
+        "canonical": "https://www.nefrologiarodas.com/sintomas"
       }
     }
   },
   "symptoms": [
     {
-      "id": "dolor-de-cabeza-o-cefalea",
-      "name": "Dolor de cabeza o cefalea",
+      "id": "hematuria",
+      "name": "Hematuria (Sangre en la orina)",
       "shortDescription": "Molestia o dolor en la cabeza, con intensidad y duración variables.",
       "description": "El dolor de cabeza, conocido médicamente como cefalea, es una manifestación de malestar que puede variar en intensidad y duración. Se genera cuando los receptores del dolor, presentes en los tejidos que rodean el cerebro, se activan por diversos factores como tensión muscular, alteraciones vasculares o estímulos de origen externo. Existen varios tipos de cefaleas, como la cefalea tensional y la migraña, cada una con características y detonantes específicos. Aun cuando la mayoría de los dolores de cabeza no representan un peligro grave, pueden afectar de forma significativa las actividades diarias y la calidad de vida si no se tratan de manera adecuada.",
       "causes": [
@@ -39,26 +39,26 @@
         "Limitaciones en la realización de actividades cotidianas"
       ],
       "ctaText": "Si presentas dolores de cabeza frecuentes o de intensidad elevada, es importante identificar la causa y recibir un tratamiento personalizado. Agenda tu cita para una evaluación integral y descubre cómo aliviar tu dolor de cabeza de manera segura y eficaz.",
-      "imageHome": "/images/symptoms/dolor-de-cabeza.jpg",
-      "imageIndividual": "/images/symptoms/dolor-de-cabeza.jpg",
-      "iconIndividual": "/images/symptoms/icons/dolor-de-cabeza.svg",
+      "imageHome": "/images/symptoms/hematuria.jpg",
+      "imageIndividual": "/images/symptoms/hematuria.jpg",
+      "iconIndividual": "",
       "metadata": {
         "title": "Tratamiento a Dolor de cabeza o cefalea en Tuxtla Gutiérrez, Chiapas",
-        "description": "El dolor de cabeza (cefalea) puede tener múltiples causas. Recibe atención personalizada con el Dr. Gabriel Gómez Palacios.",
+        "description": "El dolor de cabeza (cefalea) puede tener múltiples causas. Recibe atención personalizada con la Dra. Gloria Rodas Gallegos.",
         "keywords": [],
         "openGraph": {
-          "title": "Tratamiento a Dolor de cabeza o cefalea - Dr. Gabriel Gómez Palacios",
+          "title": "Tratamiento a dolor de cabeza o cefalea - Dra. Gloria Rodas Gallegos",
           "description": "Descubre las causas y abordajes para el dolor de cabeza, mejorando tu calidad de vida con atención médica en Tuxtla Gutiérrez.",
-          "url": "https://url/sintomas/dolor-de-cabeza-o-cefalea"
+          "url": "https://www.nefrologiarodas.com/sintomas/hematuria"
         },
         "alternates": {
-          "canonical": "https://url/sintomas/dolor-de-cabeza-o-cefalea"
+          "canonical": "https://www.nefrologiarodas.com/sintomas/hematuria"
         }
       }
     },
     {
-      "id": "dolor-en-el-pecho",
-      "name": "Dolor en el pecho",
+      "id": "proteinuria",
+      "name": "Proteinuria (presencia de proteínas en la orina)",
       "shortDescription": "Molestia torácica de intensidad y carácter variable, a menudo asociada al corazón u otros órganos.",
       "description": "El dolor en el pecho, conocido como dolor torácico, abarca cualquier molestia que se localice entre el cuello y la parte superior del abdomen. Puede variar en intensidad y características: opresivo, punzante o quemante. Sus orígenes pueden involucrar tanto al corazón como a otros órganos o estructuras, como los pulmones, músculos o costillas. Es un síntoma que no debe subestimarse, ya que en algunos casos puede estar relacionado con enfermedades cardíacas u otras afecciones graves.",
       "causes": [
@@ -78,26 +78,26 @@
         "Inquietud o pánico al desconocer el origen del dolor"
       ],
       "ctaText": "Si experimentas dolor en el pecho, es importante identificar su causa a tiempo. Agenda tu cita para recibir un diagnóstico confiable y un tratamiento adecuado que proteja tu salud cardiovascular.",
-      "imageHome": "/images/symptoms/dolor-en-el-pecho.jpg",
-      "imageIndividual": "/images/symptoms/dolor-en-el-pecho.jpg",
-      "iconIndividual": "/images/symptoms/icons/dolor-en-el-pecho.svg",
+      "imageHome": "/images/symptoms/proteinuria.jpg",
+      "imageIndividual": "/images/symptoms/proteinuria.jpg",
+      "iconIndividual": "",
       "metadata": {
         "title": "Tratamiento a Dolor en el pecho en Tuxtla Gutiérrez, Chiapas",
-        "description": "El dolor torácico puede estar relacionado con afecciones cardíacas o pulmonares. Consulta al Dr. Gabriel Gómez Palacios para un diagnóstico preciso.",
+        "description": "El dolor torácico puede estar relacionado con afecciones cardíacas o pulmonares. Consulta al Dra. Gloria Rodas Gallegos para un diagnóstico preciso.",
         "keywords": [],
         "openGraph": {
-          "title": "Tratamiento a Dolor en el pecho - Dr. Gabriel Gómez Palacios",
+          "title": "Tratamiento a Dolor en el pecho - Dra. Gloria Rodas Gallegos",
           "description": "Conoce las posibles causas del dolor torácico y evita complicaciones graves con atención médica en Tuxtla Gutiérrez.",
-          "url": "https://url/sintomas/dolor-en-el-pecho"
+          "url": "https://www.nefrologiarodas.com/sintomas/proteinuria"
         },
         "alternates": {
-          "canonical": "https://url/sintomas/dolor-en-el-pecho"
+          "canonical": "https://www.nefrologiarodas.com/sintomas/proteinuria"
         }
       }
     },
     {
-      "id": "fiebre",
-      "name": "Fiebre",
+      "id": "edema",
+      "name": "Edema (hinchazón)",
       "shortDescription": "Aumento de la temperatura corporal por encima de lo normal, señalando respuesta inmune.",
       "description": "La fiebre se define como un aumento de la temperatura corporal por encima de lo normal, generalmente superando los 37.5 a 38 grados centígrados, según la medición. Es un mecanismo de defensa del organismo que se activa en respuesta a infecciones, inflamaciones u otras alteraciones. Aunque en la mayoría de los casos es una señal de que el sistema inmune está combatiendo algún problema, una fiebre persistente o muy elevada puede ser indicio de una condición médica subyacente grave.",
       "causes": [
@@ -117,26 +117,26 @@
         "Riesgo de daños en órganos internos si no se trata oportunamente"
       ],
       "ctaText": "Si presentas fiebre persistente o muy alta, es fundamental buscar atención médica. Acude a consulta para determinar la causa y recibir un plan de tratamiento seguro que te ayude a controlar la temperatura y proteger tu salud.",
-      "imageHome": "/images/symptoms/fiebre.jpg",
-      "imageIndividual": "/images/symptoms/fiebre.jpg",
-      "iconIndividual": "/images/symptoms/icons/fiebre.svg",
+      "imageHome": "/images/symptoms/edema.jpg",
+      "imageIndividual": "/images/symptoms/edema.jpg",
+      "iconIndividual": "",
       "metadata": {
         "title": "Tratamiento a Fiebre en Tuxtla Gutiérrez, Chiapas",
-        "description": "La fiebre suele indicar una respuesta inmune activa. Recibe un diagnóstico oportuno con el Dr. Gabriel Gómez Palacios para descartar complicaciones.",
+        "description": "La fiebre suele indicar una respuesta inmune activa. Recibe un diagnóstico oportuno con la Dra. Gloria Rodas Gallegos para descartar complicaciones.",
         "keywords": [],
         "openGraph": {
-          "title": "Tratamiento a Fiebre - Dr. Gabriel Gómez Palacios",
+          "title": "Tratamiento a Fiebre - Dra. Gloria Rodas Gallegos",
           "description": "Controla la fiebre y sus causas, evitando problemas de salud mayores con atención especializada en Tuxtla Gutiérrez.",
-          "url": "https://url/sintomas/fiebre"
+          "url": "https://www.nefrologiarodas.com/sintomas/edema"
         },
         "alternates": {
-          "canonical": "https://url/sintomas/fiebre"
+          "canonical": "https://www.nefrologiarodas.com/sintomas/edema"
         }
       }
     },
     {
-      "id": "tos-persistente",
-      "name": "Tos persistente",
+      "id": "disminucion-de-la-produccion-de-orina",
+      "name": "Disminución de la producción de orina",
       "shortDescription": "Tos crónica que persiste por más de cuatro semanas, afectando la calidad de vida.",
       "description": "La tos persistente, o tos crónica, se refiere a aquella que dura más de cuatro semanas en adultos. Puede estar asociada a diversas afecciones, desde resfriados mal curados, alergias y asma, hasta enfermedades respiratorias más graves. La tos es un mecanismo de defensa natural que ayuda a expulsar secreciones o partículas extrañas de las vías aéreas, pero cuando se prolonga, puede indicar un problema de salud no resuelto y afectar significativamente la calidad de vida.",
       "causes": [
@@ -156,178 +156,20 @@
         "Dificultad para realizar actividades diarias"
       ],
       "ctaText": "Si padeces tos persistente que no mejora con el paso de los días, es fundamental acudir a consulta para determinar su origen y recibir un tratamiento efectivo. Juntos protegeremos tu salud respiratoria.",
-      "imageHome": "/images/symptoms/tos-persistente.jpg",
-      "imageIndividual": "/images/symptoms/tos-persistente.jpg",
-      "iconIndividual": "/images/symptoms/icons/tos-persistente.svg",
+      "imageHome": "/images/symptoms/disminucion-de-la-produccion-de-orina.jpg",
+      "imageIndividual": "/images/symptoms/disminucion-de-la-produccion-de-orina.jpg",
+      "iconIndividual": "",
       "metadata": {
         "title": "Tratamiento a Tos persistente en Tuxtla Gutiérrez, Chiapas",
-        "description": "La tos crónica puede indicar afecciones respiratorias subyacentes. Consulta al Dr. Gabriel Gómez Palacios para un diagnóstico y manejo oportunos.",
+        "description": "La tos crónica puede indicar afecciones respiratorias subyacentes. Consulta al Dra. Gloria Rodas Gallegos para un diagnóstico y manejo oportunos.",
         "keywords": [],
         "openGraph": {
-          "title": "Tratamiento a Tos persistente - Dr. Gabriel Gómez Palacios",
+          "title": "Tratamiento a Tos persistente - Dra. Gloria Rodas Gallegos",
           "description": "Resuelve la tos prolongada e identifica sus causas para proteger tu salud pulmonar en Tuxtla Gutiérrez.",
-          "url": "https://url/sintomas/tos-persistente"
+          "url": "https://www.nefrologiarodas.com/sintomas/disminucion-de-la-produccion-de-orina"
         },
         "alternates": {
-          "canonical": "https://url/sintomas/tos-persistente"
-        }
-      }
-    },
-    {
-      "id": "dificultad-para-respirar",
-      "name": "Dificultad para respirar (disnea)",
-      "shortDescription": "Sensación de falta de aire o respiración incompleta que puede indicar enfermedades subyacentes.",
-      "description": "La dificultad para respirar, conocida en términos médicos como disnea, es la sensación de no poder inhalar suficiente aire. Puede manifestarse como una opresión en el pecho, respiración acelerada o la imposibilidad de realizar actividades cotidianas sin agitarse. Sus causas van desde condiciones leves y pasajeras, como una congestión nasal, hasta padecimientos graves como neumonía, insuficiencia cardíaca o asma. Este síntoma no debe ser ignorado, pues puede indicar un problema de salud que requiere atención médica.",
-      "causes": [
-        "Infecciones respiratorias (bronquitis, neumonía)",
-        "Asma o enfermedad pulmonar obstructiva crónica",
-        "Problemas cardíacos (insuficiencia cardíaca)",
-        "Reacciones alérgicas graves",
-        "Estrés, ataques de pánico y ansiedad"
-      ],
-      "relatedConditions": [],
-      "managementTips": [],
-      "complications": [
-        "Alteraciones en los niveles de oxígeno en la sangre",
-        "Desgaste físico y fatiga crónica",
-        "Dificultad para dormir y conciliar el descanso",
-        "Aumento del riesgo de complicaciones cardíacas",
-        "Afectación de la calidad de vida y limitación de las actividades diarias"
-      ],
-      "ctaText": "Si presentas dificultad para respirar o cualquier sensación de falta de aire, te invito a agendar una consulta. Juntos determinaremos la causa y te brindaré el tratamiento necesario para recuperar tu salud y bienestar respiratorio.",
-      "imageHome": "/images/symptoms/dificultad-para-respirar.jpg",
-      "imageIndividual": "/images/symptoms/dificultad-para-respirar.jpg",
-      "iconIndividual": "/images/symptoms/icons/dificultad-para-respirar.svg",
-      "metadata": {
-        "title": "Tratamiento a Dificultad para respirar (disnea) en Tuxtla Gutiérrez, Chiapas",
-        "description": "La disnea puede estar ligada a problemas pulmonares o cardíacos. Consulta al Dr. Gabriel Gómez Palacios para un diagnóstico certero.",
-        "keywords": [],
-        "openGraph": {
-          "title": "Tratamiento a Dificultad para respirar (disnea) - Dr. Gabriel Gómez Palacios",
-          "description": "Identifica las causas de la disnea y recibe un manejo integral para mejorar tu respiración en Tuxtla Gutiérrez.",
-          "url": "https://url/sintomas/dificultad-para-respirar"
-        },
-        "alternates": {
-          "canonical": "https://url/sintomas/dificultad-para-respirar"
-        }
-      }
-    },
-    {
-      "id": "mareos-y-vertigo",
-      "name": "Mareos y vértigo",
-      "shortDescription": "Sensación de inestabilidad o giro que puede impactar el equilibrio y la movilidad diaria.",
-      "description": "Los mareos y el vértigo se presentan como sensaciones de inestabilidad que pueden alterar la capacidad de realizar actividades diarias con normalidad. Los mareos suelen describirse como desorientación o aturdimiento, mientras que el vértigo implica una percepción de movimiento giratorio, ya sea del entorno o del propio cuerpo. Sus causas pueden variar desde alteraciones del oído interno hasta problemas circulatorios o trastornos neurológicos.",
-      "causes": [
-        "Alteraciones en el oído interno (laberintitis, enfermedad de Ménière)",
-        "Problemas de circulación (hipotensión ortostática, insuficiencia vertebrobasilar)",
-        "Trastornos neurológicos (migrañas vestibulares, lesiones cerebrales)",
-        "Cambios bruscos en la posición corporal",
-        "Estrés, ansiedad y episodios de pánico",
-        "Deshidratación o bajos niveles de azúcar en la sangre"
-      ],
-      "relatedConditions": [],
-      "managementTips": [],
-      "complications": [
-        "Riesgo de caídas y lesiones por pérdida súbita del equilibrio",
-        "Restricción de las actividades diarias (manejar, caminar sin apoyo)",
-        "Ansiedad y temor a sufrir episodios en situaciones públicas",
-        "Empeoramiento de la calidad de vida y aislamiento social",
-        "Dificultad para concentrarse o realizar trabajos delicados"
-      ],
-      "ctaText": "Si presentas mareos o vértigo con frecuencia, te invito a acudir a consulta para determinar la causa y ofrecerte el tratamiento adecuado. Juntos cuidaremos tu equilibrio y tu bienestar para que recuperes tu calidad de vida.",
-      "imageHome": "/images/symptoms/mareos-y-vertigo.jpg",
-      "imageIndividual": "/images/symptoms/mareos-y-vertigo.jpg",
-      "iconIndividual": "/images/symptoms/icons/mareos-y-vertigo.svg",
-      "metadata": {
-        "title": "Tratamiento a Mareos y vértigo en Tuxtla Gutiérrez, Chiapas",
-        "description": "Los mareos y el vértigo pueden indicar problemas del oído interno o circulación. Recibe un diagnóstico con el Dr. Gabriel Gómez Palacios.",
-        "keywords": [],
-        "openGraph": {
-          "title": "Tratamiento a Mareos y vértigo - Dr. Gabriel Gómez Palacios",
-          "description": "Descubre las causas de la inestabilidad y obtén un enfoque integral para restablecer tu equilibrio en Tuxtla Gutiérrez.",
-          "url": "https://url/sintomas/mareos-y-vertigo"
-        },
-        "alternates": {
-          "canonical": "https://url/sintomas/mareos-y-vertigo"
-        }
-      }
-    },
-    {
-      "id": "fatiga-y-cansancio-cronico",
-      "name": "Fatiga y cansancio crónico",
-      "shortDescription": "Sensación persistente de agotamiento que no mejora con descanso y afecta las actividades diarias.",
-      "description": "La fatiga y el cansancio crónico son sensaciones persistentes de agotamiento físico o mental que pueden interferir de manera significativa con las actividades diarias y la calidad de vida. Se trata de un estado continuo de falta de energía que no mejora con el descanso y puede provocar dificultad para concentrarse, alteraciones del estado de ánimo y merma en el desempeño de las tareas diarias. En algunos casos, puede asociarse con el llamado síndrome de fatiga crónica, pero la evaluación médica es fundamental para distinguir la causa específica.",
-      "causes": [
-        "Trastornos del sueño (insomnio, apnea del sueño)",
-        "Desórdenes hormonales o metabólicos (hipotiroidismo, diabetes)",
-        "Enfermedades crónicas (anemia, enfermedades renales o cardíacas)",
-        "Estrés, ansiedad y depresión",
-        "Falta de ejercicio físico o rutina diaria irregular",
-        "Alimentación inadecuada y deshidratación"
-      ],
-      "relatedConditions": [],
-      "managementTips": [],
-      "complications": [
-        "Bajo rendimiento laboral y académico",
-        "Afectaciones en las relaciones interpersonales por irritabilidad o desánimo",
-        "Riesgo de depresión y trastornos de ansiedad",
-        "Mayor susceptibilidad a infecciones y enfermedades oportunistas",
-        "Alteraciones del sueño y mayor somnolencia diurna"
-      ],
-      "ctaText": "Soy el Dr. Gabriel Gómez Palacios, especialista en medicina interna y medicina crítica en Tuxtla Gutiérrez, Chiapas. Si experimentas fatiga y cansancio crónico que persisten a pesar de descansar o modificar tus hábitos, te invito a programar una consulta para identificar el origen de estos síntomas.",
-      "imageHome": "/images/symptoms/fatiga-y-cansancio-cronico.jpg",
-      "imageIndividual": "/images/symptoms/fatiga-y-cansancio-cronico.jpg",
-      "iconIndividual": "/images/symptoms/icons/fatiga-y-cansancio-cronico.svg",
-      "metadata": {
-        "title": "Tratamiento a Fatiga y cansancio crónico en Tuxtla Gutiérrez, Chiapas",
-        "description": "La fatiga persistente puede tener múltiples causas médicas. Acércate al Dr. Gabriel Gómez Palacios para recuperar tu energía.",
-        "keywords": [],
-        "openGraph": {
-          "title": "Tratamiento a Fatiga y cansancio crónico - Dr. Gabriel Gómez Palacios",
-          "description": "Identifica los factores que originan tu cansancio continuo y optimiza tu calidad de vida en Tuxtla Gutiérrez.",
-          "url": "https://url/sintomas/fatiga-y-cansancio-cronico"
-        },
-        "alternates": {
-          "canonical": "https://url/sintomas/fatiga-y-cansancio-cronico"
-        }
-      }
-    },
-    {
-      "id": "palpitaciones",
-      "name": "Palpitaciones",
-      "shortDescription": "Latidos cardíacos fuertes o irregulares que pueden asociarse a ansiedad o problemas cardiacos.",
-      "description": "Las palpitaciones se sienten como latidos fuertes, rápidos o irregulares del corazón. Pueden presentarse como episodios esporádicos o persistentes, acompañados de sensaciones de opresión en el pecho, mareos o ansiedad. Si bien en muchos casos están relacionadas con estados emocionales o consumo de estimulantes, también pueden ser un signo de trastornos del ritmo cardíaco u otras afecciones que requieren evaluación médica.",
-      "causes": [
-        "Estrés, ansiedad o ataques de pánico",
-        "Consumo excesivo de cafeína o nicotina",
-        "Deshidratación o desequilibrios electrolíticos",
-        "Enfermedades cardíacas o arritmias",
-        "Hipertiroidismo y otros desórdenes hormonales"
-      ],
-      "relatedConditions": [],
-      "managementTips": [],
-      "complications": [
-        "Riesgo de complicaciones cardíacas (fibrilación auricular, insuficiencia cardíaca)",
-        "Mareos, desmayos o caídas súbitas",
-        "Deterioro de la calidad de vida por la ansiedad que generan",
-        "Falta de oxigenación adecuada en el organismo",
-        "Problemas de sueño y fatiga crónica"
-      ],
-      "ctaText": "Soy el Doctor Gabriel Gómez Palacios, médico internista y especialista en medicina crítica en Tuxtla Gutiérrez, Chiapas. Si experimentas palpitaciones con frecuencia o notas que tu ritmo cardíaco es irregular, acude a consulta para recibir una evaluación completa.",
-      "imageHome": "/images/symptoms/palpitaciones.jpg",
-      "imageIndividual": "/images/symptoms/palpitaciones.jpg",
-      "iconIndividual": "/images/symptoms/icons/palpitaciones.svg",
-      "metadata": {
-        "title": "Tratamiento a Palpitaciones en Tuxtla Gutiérrez, Chiapas",
-        "description": "Las palpitaciones cardíacas pueden reflejar estrés o afecciones cardiacas. Consulta al Dr. Gabriel Gómez Palacios para un diagnóstico oportuno.",
-        "keywords": [],
-        "openGraph": {
-          "title": "Tratamiento a Palpitaciones - Dr. Gabriel Gómez Palacios",
-          "description": "Identifica la causa de tus palpitaciones y recibe atención especializada para proteger tu corazón en Tuxtla Gutiérrez.",
-          "url": "https://url/sintomas/palpitaciones"
-        },
-        "alternates": {
-          "canonical": "https://url/sintomas/palpitaciones"
+          "canonical": "https://www.nefrologiarodas.com/sintomas/disminucion-de-la-produccion-de-orina"
         }
       }
     }

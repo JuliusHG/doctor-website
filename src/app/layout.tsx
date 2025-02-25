@@ -55,6 +55,7 @@ export default async function RootLayout({
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(metadataJson.locationSchema) }}
         />
+        <meta name="google-site-verification" content="gtWVXwlFv5DLfjlFhgVr0YTAnLTIsZZP9SvIJub6cFs" />
       </head>
       <body>
         {HeaderComponent && <HeaderComponent />}

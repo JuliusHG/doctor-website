@@ -38,8 +38,15 @@ export default function PurposeSection() {
   const { purpose } = content
 
   return (
-    <section className="py-16 bg-gray-50">
-      <div className="container mx-auto px-4">
+    <section className="py-16 bg-gray-50 relative">
+      <div
+        className="absolute inset-0 bg-cover bg-center"
+        style={{
+          backgroundImage: `url(${purpose.sectionBackground})`,
+          opacity: 0.1,
+        }}
+      ></div>
+      <div className="container mx-auto px-4 relative z-10">
         <h2 className="text-5xl text-dw-dark font-bold mb-4 text-center">{purpose.sectionTitle}</h2>
         <p className="text-xl text-gray-600 mb-12 text-center">{purpose.sectionSubtitle}</p>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -89,6 +96,7 @@ export default function PurposeSection() {
     </section>
   )
 }
+
 
 
 

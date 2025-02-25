@@ -30,10 +30,10 @@ export default async function ContactPage() {
           MapPin={MapPin}
           Clock={Clock}
           Phone={Phone}
-          googleMapsLink={doctorInfo.googleMapsLink}
+          googleMapsLink={doctorInfo.googleMapsEmbedLink}
         />
       </section>
-      {/* <ReturnButton href="/" label="Volver al Inicio" /> */}
+      <ReturnButton href="/" label="Volver al Inicio" />
     </main>
   )
 }

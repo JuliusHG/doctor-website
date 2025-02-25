@@ -23,7 +23,7 @@ export default function DiseasesPage() {
       <TitleSection title={sectionTitle} subtitle={sectionSubtitle} />
       <section className="py-16">
         <div className="container mx-auto px-4">
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-16">
             {diseasesData.diseases.map((disease) => (
               <Link href={`/enfermedades/${disease.id}`} key={disease.id} className="block">
                 <div className="bg-white rounded-lg overflow-hidden transition-transform duration-300 hover:scale-105">
@@ -34,7 +34,14 @@ export default function DiseasesPage() {
                     height={300}
                     className="w-full h-48 object-cover"
                   />
-                  <div className="p-6">
+                  {/* <Image
+                    src={disease.iconIndividual || "/placeholder.svg"}
+                    alt={disease.name}
+                    width={300}
+                    height={200}
+                    className="w-full h-32 object-contain"
+                  /> */}
+                  <div className="p-6 mb-16">
                     <h3 className="text-2xl text-dw-dark font-semibold mb-2">{disease.name}</h3>
                     <p className="text-gray-600">{disease.shortDescription}</p>
                   </div>

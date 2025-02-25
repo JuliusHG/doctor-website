@@ -8,7 +8,7 @@
     "display": true
   },
   "Hero": {
-    "component": "Hero-cleener-home2.tsx",
+    "component": "Hero-creote-slider.tsx",
     "display": true
   },
   "Certifications": {
@@ -24,7 +24,7 @@
     "display": true
   },
   "Services": {
-    "component": "Services-cleener.tsx",
+    "component": "Services2.tsx",
     "display": true
   },
   "CallToAction": {
@@ -60,7 +60,7 @@
     "display": false
   },
   "GeneralCallToAction": {
-    "component": "GeneralCallToAction-cleener.tsx",
+    "component": "GeneralCallToAction-cleener-vertical.tsx",
     "display": true
   },
   "Footer": {

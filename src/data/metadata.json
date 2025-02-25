@@ -1,29 +1,22 @@
 {
-  "title": "Dr. Gabriel Gómez Palacios",
-  "description": "Especialista en Medicina Interna y Medicina Crítica.",
+  "title": "Dra. Gloria Rodas Gallegos",
+  "description": "Especialista en Nefrología",
   "keywords": [
-    "alergología pediátrica",
-    "inmunología pediátrica",
-    "especialista",
-    "tuxtla gutierrez",
-    "chiapas",
-    "alergias infantiles",
-    "asma",
-    "dermatitis atópica"
+    "nefrología"
   ],
   "author": "Guia Salud Mx",
   "language": "es",
   "openGraph": {
-    "title": "Dr. Gabriel Gómez Palacios - Medicina Interna y Medicina Crítica",
-    "description": "Atención especializada en Medicina Interna y Medicina Crítica en Tuxtla Gutiérrez. Tratamientos avanzados y personalizados.",
-    "url": "https://www.alergologadramartharuiz.com",
-    "siteName": "Consultorio Dr. Gabriel Gómez Palacios",
+    "title": "Dra. Gloria Rodas Gallegos - Nefrología",
+    "description": "Atención especializada en Nefrología en Tuxtla Gutiérrez. Tratamientos avanzados y personalizados.",
+    "url": "https://www.nefrologiarodas.com",
+    "siteName": "Consultorio Dra. Gloria Rodas Gallegos",
     "images": [
       {
-        "url": "https://www.alergologadramartharuiz.com/og-image.jpg",
+        "url": "https://www.nefrologiarodas.com/og-image.jpg",
         "width": 1200,
         "height": 630,
-        "alt": "Dr. Gabriel Gómez Palacios en su consultorio"
+        "alt": "Dra. Gloria Rodas Gallegos en su consultorio"
       }
     ],
     "locale": "es_MX",
@@ -31,8 +24,8 @@
   },
   "twitter": {
     "card": "summary_large_image",
-    "site": "@DrGabrielGomezP",
-    "creator": "@DrGabrielGomezP"
+    "site": "",
+    "creator": ""
   },
   "robots": {
     "index": true,
@@ -53,7 +46,7 @@
   },
   "manifest": "/site.webmanifest",
   "alternates": {
-    "canonical": "https://www.alergologadramartharuiz.com"
+    "canonical": "https://www.nefrologiarodas.com"
   },
   "verification": {
     "google": "google-site-verification-code",
@@ -63,9 +56,9 @@
   "locationSchema": {
     "@context": "https://schema.org",
     "@type": "MedicalBusiness",
-    "name": "Consultorio Dr. Gabriel Gómez Palacios",
-    "description": "Especialista en Medicina Interna y Medicina Crítica.",
-    "url": "https://www.alergologadramartharuiz.com",
+    "name": "Consultorio Dra. Gloria Rodas Gallegos",
+    "description": "Especialista en Nefrología.",
+    "url": "https://www.nefrologiarodas.com",
     "telephone": "+52-442-129-7416",
     "address": {
       "@type": "PostalAddress",
@@ -89,55 +82,55 @@
       }
     ],
     "sameAs": [
-      "https://www.facebook.com/xxxxxxxxxxxx"
+      "https://www.facebook.com/dragloriarodasnefrologa"
     ]
   },
   "serviciosMeta": {
-    "title": "Servicios - Dr. Gabriel Gómez Palacios",
-    "description": "Servicios de Medicina Interna y Medicina Crítica ofrecidos por el Dr. Gabriel Gómez Palacios en Tuxtla Gutiérrez.",
+    "title": "Servicios - Dra. Gloria Rodas Gallegos",
+    "description": "Servicios de Nefrología ofrecidos por la Dra. Gloria Rodas Gallegos en Tuxtla Gutiérrez.",
     "openGraph": {
-      "title": "Servicios de Medicina Interna y Medicina Crítica",
-      "description": "Tratamientos especializados en Medicina Interna y Medicina Crítica.",
-      "url": "https://www.alergologadramartharuiz.com/servicios"
+      "title": "Servicios de Nefrología",
+      "description": "Tratamientos especializados en Nefrología.",
+      "url": "https://www.nefrologiarodas.com/servicios"
     },
     "alternates": {
-      "canonical": "https://www.alergologadramartharuiz.com/servicios"
+      "canonical": "https://www.nefrologiarodas.com/servicios"
     }
   },
   "enfermedadesMeta": {
-    "title": "Enfermedades Tratadas - Dr. Gabriel Gómez Palacios",
-    "description": "Información sobre las enfermedades relacionadas con Medicina Interna y Medicina Crítica tratadas por el Dr. Gabriel Gómez Palacios en Tuxtla Gutiérrez.",
+    "title": "Enfermedades Tratadas - Dra. Gloria Rodas Gallegos",
+    "description": "Información sobre las enfermedades relacionadas con Nefrología tratadas por la Dra. Gloria Rodas Gallegos en Tuxtla Gutiérrez.",
     "openGraph": {
-      "title": "Enfermedades relacionadas con Medicina Interna y Medicina Crítica",
+      "title": "Enfermedades relacionadas con Nefrología",
       "description": "Conozca las enfermedades que tratamos",
-      "url": "https://www.alergologadramartharuiz.com/enfermedades"
+      "url": "https://www.nefrologiarodas.com/enfermedades"
     },
     "alternates": {
-      "canonical": "https://www.alergologadramartharuiz.com/enfermedades"
+      "canonical": "https://www.nefrologiarodas.com/enfermedades"
     }
   },
   "sintomasMeta": {
-    "title": "Síntomas - Dr. Gabriel Gómez Palacios",
-    "description": "Guía de síntomas comunes. Consulte al Dr. Gabriel Gómez Palacios en Tuxtla Gutiérrez.",
+    "title": "Síntomas - Dra. Gloria Rodas Gallegos",
+    "description": "Guía de síntomas comunes. Consulte al Dra. Gloria Rodas Gallegos en Tuxtla Gutiérrez.",
     "openGraph": {
       "title": "Síntomas",
-      "description": "Identifique los síntomas relacionados con Medicina Interna y Medicina Crítica.",
-      "url": "https://www.alergologadramartharuiz.com/sintomas"
+      "description": "Identifique los síntomas relacionados con Nefrología.",
+      "url": "https://www.nefrologiarodas.com/sintomas"
     },
     "alternates": {
-      "canonical": "https://www.alergologadramartharuiz.com/sintomas"
+      "canonical": "https://www.nefrologiarodas.com/sintomas"
     }
   },
   "contactoMeta": {
-    "title": "Contacto - Dr. Gabriel Gómez Palacios",
-    "description": "Contacte al Dr. Gabriel Gómez Palacios, especialista en Medicina Interna y Medicina Crítica en Santiago de Querétaro.",
+    "title": "Contacto - Dra. Gloria Rodas Gallegos",
+    "description": "Contacte al Dra. Gloria Rodas Gallegos, especialista en Nefrología en Tuxtla Gutiérrez.",
     "openGraph": {
-      "title": "Contacte al Dr. Gabriel Gómez Palacios",
-      "description": "Agende una cita con nuestro especialista en Medicina Interna y Medicina Crítica.",
-      "url": "https://www.alergologadramartharuiz.com/contacto"
+      "title": "Contacte al Dra. Gloria Rodas Gallegos",
+      "description": "Agende una cita con nuestro especialista en Nefrología.",
+      "url": "https://www.nefrologiarodas.com/contacto"
     },
     "alternates": {
-      "canonical": "https://www.alergologadramartharuiz.com/contacto"
+      "canonical": "https://www.nefrologiarodas.com/contacto"
     }
   }
 }
