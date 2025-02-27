@@ -383,12 +383,14 @@ export interface SiteContent {
   footer: {
     backgroundImage: string
     logoFooter: string
+    topSeparator: string
   }
   generalCallToAction: {
     sectionBackground: string
     foregroundImage: string
     foregroundImagePercent: number
     title: string
+    subtitle: string
     description: string
     price1: string
     price2: string

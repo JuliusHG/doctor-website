@@ -15,11 +15,26 @@ interface PurposeItem {
 const getIcon = (iconName: string) => {
   switch (iconName) {
     case "Target":
-      return <Target className="w-12 h-12 text-dw-dark mb-4" />
+      return (
+        <div className="relative inline-flex justify-center items-center mb-4 w-12 h-12">
+          <Target className="w-12 h-12 text-dw-dark" />
+          <div className="absolute w-3 h-3 rounded-full bg-dw-soft animate-orbit" />
+        </div>
+      )
     case "Heart":
-      return <Heart className="w-12 h-12 text-dw-dark mb-4" />
+      return (
+        <div className="relative inline-flex justify-center items-center mb-4 w-12 h-12">
+          <Heart className="w-12 h-12 text-dw-dark" />
+          <div className="absolute w-3 h-3 rounded-full bg-dw-soft animate-orbit" />
+        </div>
+      )
     case "Scale":
-      return <Scale className="w-12 h-12 text-dw-dark mb-4" />
+      return (
+        <div className="relative inline-flex justify-center items-center mb-4 w-12 h-12">
+          <Scale className="w-12 h-12 text-dw-dark" />
+          <div className="absolute w-3 h-3 rounded-full bg-dw-soft animate-orbit" />
+        </div>
+      )
     default:
       return null
   }

@@ -11,31 +11,24 @@ export default function ButtonWhatsapp({ whatsapp, text, defaultText, className 
   return (
     <Link
       href={`https://wa.me/${whatsapp}`}
-      className={`bg-dw-soft hover:bg-dark text-white font-bold py-2 px-4 rounded-full transition duration-300 ${className}`}
+      className={`
+        ${className}
+        bg-dw-soft
+        text-white
+        hover:bg-white
+        hover:text-blue-300
+        font-bold
+        text-center
+        py-2
+        px-4
+        hover:bg-white
+        hover:text-blue-300
+        rounded-tl-none rounded-br-none rounded-tr-xl rounded-bl-xl
+        hover:rounded-tl-xl hover:rounded-br-xl hover:rounded-tr-none hover:rounded-bl-none
+        transition-all duration-300
+        `}
     >
       {text || defaultText}
     </Link>
   )
 }
-
-
-
-
-/* import Link from "next/link"
-
-interface ButtonWhatsappProps {
-  whatsapp: string
-  text?: string
-  defaultText: string
-}
-
-export default function ButtonWhatsapp({ whatsapp, text, defaultText }: ButtonWhatsappProps) {
-  return (
-    <Link
-      href={`https://wa.me/${whatsapp}`}
-      className="bg-green-600 hover:bg-green-700 text-white font-bold py-2 px-4 rounded-sm transition duration-300"
-    >
-      {text || defaultText}
-    </Link>
-  )
-} */

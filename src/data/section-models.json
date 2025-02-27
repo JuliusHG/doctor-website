@@ -96,6 +96,11 @@
       "description": null
     },
     {
+      "file": "Experience-cleener-light.tsx",
+      "imagePath": null,
+      "description": null
+    },
+    {
       "file": "Experience-cripar-home1.tsx",
       "imagePath": "Experience-cripar-home1.jpg",
       "description": null
@@ -114,6 +119,11 @@
     },
     {
       "file": "Purpose-cleener.tsx",
+      "imagePath": null,
+      "description": null
+    },
+    {
+      "file": "Purpose-creote-home14.tsx",
       "imagePath": null,
       "description": null
     },
@@ -143,6 +153,11 @@
     },
     {
       "file": "Services-cleener.tsx",
+      "imagePath": null,
+      "description": null
+    },
+    {
+      "file": "Services-creote-home14.tsx",
       "imagePath": null,
       "description": null
     },
@@ -261,6 +276,11 @@
       "description": null
     },
     {
+      "file": "GeneralCallToAction-creote-drimage.tsx",
+      "imagePath": null,
+      "description": null
+    },
+    {
       "file": "GeneralCallToAction.tsx",
       "imagePath": null,
       "description": null
@@ -281,6 +301,11 @@
   "Footer": [
     {
       "file": "Footer-cleener.tsx",
+      "imagePath": null,
+      "description": null
+    },
+    {
+      "file": "Footer-creote-home3.tsx",
       "imagePath": null,
       "description": null
     },

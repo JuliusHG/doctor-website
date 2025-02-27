@@ -58,6 +58,15 @@ const config: Config = {
         "dw-softer": "#95D5EB",
         "dw-white": "#FFFFFF"
       },
+      keyframes: {
+        orbit: {
+          "0%": { transform: "translate(-25%, -30%) rotate(0deg) translateX(40px) rotate(0deg)" },
+          "100%": { transform: "translate(-25%, -30%) rotate(360deg) translateX(40px) rotate(-360deg)" },
+        },
+      },
+      animation: {
+        orbit: "orbit 3s linear infinite",
+      },
       borderRadius: {
         lg: "var(--radius)",
         md: "calc(var(--radius) - 2px)",

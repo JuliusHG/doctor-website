@@ -74,17 +74,17 @@
     "slides": [
       {
         "heroSlideImage": "/images/hero-slider/slider-1.jpg",
-        "title": "Desempeño y productividad",
-        "subtitle": "Soluciones para tu consultorio",
-        "description": "Nos preocupamos por optimizar la eficiencia y operatividad de tu consultorio.",
+        "title": "Tus riñones son valiosos",
+        "subtitle": "No esperes mucho",
+        "description": "Agenda una consulta con la Dra. Gloria Rodas si comienzas a sospechar síntomas relacionados.",
         "alignment": "left",
         "mobileOffset": "20%"
       },
       {
         "heroSlideImage": "/images/hero-slider/slider-2.jpg",
-        "title": "Excelencia para profesionales médicos",
-        "subtitle": "Equipo para tu consultorio",
-        "description": "Proveemos las mejores herramientas de la industria para los profesionales médicos.",
+        "title": "Dra. Gloria Rodas Gallegos",
+        "subtitle": "Especialista en Nefrología",
+        "description": "Soy tu mejor opción para el cuidado de tu sistema renal.",
         "alignment": "left",
         "mobileOffset": "20%"
       },
@@ -98,7 +98,7 @@
       }
     ],
     "autoplayDelay": 5000,
-    "transitionEffect": "slide",
+    "transitionEffect": "fade",
     "transitionSpeed": 500
   },
   "navMenu": [
@@ -426,17 +426,19 @@
     "additionalInfo": "Trabajo con las principales aseguradoras. Si no ves tu seguro listado, por favor contáctame para verificar la cobertura."
   },
   "footer": {
-    "backgroundImage": "",
-    "logoFooter": "/images/logos/logo_drgloriarodas_bco.png"
+    "backgroundImage": "/images/footer/footer-bg-creote.jpg",
+    "logoFooter": "/images/logos/logo_drgloriarodas_bco.png",
+    "topSeparator": "/assets/footer-separator-creote.png"
   },
   "generalCallToAction": {
     "sectionBackground": "/images/cta_DraGloria_bg.jpg",
     "foregroundImage": "/images/cta_DraGloria.png",
     "foregroundImagePercent": 100,
-    "title": "Cuida tu salud",
-    "description": "Contáctame hoy para brindarte una consulta personalizada.",
-    "price1": "Costo de Consulta: $800 MXN",
-    "price2": "Consulta + Electrocardiograma: $1,000 mxn"
+    "title": "Contáctame hoy para brindarte una consulta personalizada",
+    "subtitle": "Cuida tu salud",
+    "description": "Costo de consulta: $800 MXN",
+    "price1": "",
+    "price2": ""
   },
   "contact": {
     "page": {
