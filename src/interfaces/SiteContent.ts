@@ -192,7 +192,7 @@ export interface SiteContent {
       metadata: {
         title: string
         description: string
-        keywords: string[]
+        keywords?: string[]
         openGraph: {
           title: string
           description: string
@@ -256,7 +256,7 @@ export interface SiteContent {
       metadata: {
         title: string
         description: string
-        keywords: string[]
+        keywords?: string[]
         openGraph: {
           title: string
           description: string
@@ -327,7 +327,7 @@ export interface SiteContent {
       metadata: {
         title: string
         description: string
-        keywords: string[]
+        keywords?: string[]
         openGraph: {
           title: string
           description: string
