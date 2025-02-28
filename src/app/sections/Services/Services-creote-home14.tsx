@@ -52,7 +52,7 @@ export default function ServicesSection() {
           {displayedServices.map((service) => (
             <div key={service.id} className="bg-dw-darker rounded-lg overflow-hidden group relative flex flex-col h-full">
                 <div>
-                    <h3 className="text-white/90 text-2xl text-center font-semibold my-6">{service.title}</h3>
+                    <h3 className="text-white/90 text-2xl text-center font-bold my-6">{service.title}</h3>
                     <p className="text-white/90 text-base text-center mb-6 line-clamp-4 px-16">{service.shortDescription}</p>
                 </div>
                 <div className="relative h-64 overflow-hidden px-4">

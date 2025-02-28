@@ -205,7 +205,7 @@
         "label": "Pacientes atendidos"
       },
       {
-        "icon": "/images/icons/procedimientos.svg",
+        "icon": "/images/icons/surgeries.svg",
         "value": "500+",
         "label": "Procedimientos/Cirugías realizadas"
       }
@@ -368,7 +368,7 @@
       },
       {
         "name": "Transferencia Bancaria",
-        "iconPath": "/images/payment/bank-transfer.svg",
+        "iconPath": "/images/payment/transferencia.svg",
         "visible": true
       },
       {

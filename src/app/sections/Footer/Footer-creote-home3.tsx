@@ -37,7 +37,7 @@ export default function Footer() {
   return (
     <div className="relative w-full">
       {/* PNG Separator at the top of the footer */}
-      <div className="w-full overflow-hidden">
+      {/* <div className="w-full overflow-hidden">
         <Image
           src={footer.topSeparator || "/placeholder.svg"}
           alt="Footer separator"
@@ -45,7 +45,7 @@ export default function Footer() {
           height={140}
           className="w-full h-auto object-cover"
         />
-      </div>
+      </div> */}
 
       <footer className="bg-dw-dark text-white pt-8 pb-8 md:pt-12 md:pb-10 relative">
         <div className="absolute inset-0 z-0">

@@ -52,7 +52,7 @@ const config: Config = {
         navy: {
           600: "#1a365d",
         },
-        "dw-dark": "#325A68",
+        "dw-dark": "#3C3C44",
         "dw-darker": "#1E363E",
         "dw-soft": "#6DC5E4",
         "dw-softer": "#95D5EB",

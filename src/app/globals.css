@@ -9,15 +9,15 @@
   --background-start-rgb: 255, 255, 255;
   --background-end-rgb: 255, 255, 255;
   
-  /* Custom color variables */
---dw-dark: 200 28% 30%;
+/* Custom color variables */
+--dw-dark: 240 7% 25%;
 --dw-darker: 197 34% 18%;
 --dw-soft: 196 68% 66%;
 --dw-softer: 196 68% 75%;
 --dw-white: 0 0% 100%;
 
 /* Filter values for SVGs */
---filter-dw-dark: invert(32%) sepia(15%) saturate(1024%) hue-rotate(152deg) brightness(94%) contrast(89%);
+--filter-dw-dark: invert(22%) sepia(8%) saturate(634%) hue-rotate(202deg) brightness(94%) contrast(87%);
 --filter-dw-darker: invert(18%) sepia(23%) saturate(669%) hue-rotate(155deg) brightness(94%) contrast(90%);
 --filter-dw-soft: invert(80%) sepia(10%) saturate(1095%) hue-rotate(157deg) brightness(93%) contrast(90%);
 --filter-dw-softer: invert(87%) sepia(8%) saturate(523%) hue-rotate(157deg) brightness(103%) contrast(95%);

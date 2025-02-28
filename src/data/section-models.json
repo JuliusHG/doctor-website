@@ -74,6 +74,11 @@
   ],
   "AboutUs": [
     {
+      "file": "About2-creote-home14.tsx",
+      "imagePath": null,
+      "description": null
+    },
+    {
       "file": "AboutUs-2.tsx",
       "imagePath": "AboutUs-2.jpg",
       "description": null

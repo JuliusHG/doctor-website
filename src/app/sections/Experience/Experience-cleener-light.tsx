@@ -53,7 +53,7 @@ export default function ExperienceSection() {
                   alt={item.label}
                   width={64}
                   height={64}
-                  className="transition-all duration-500 ease-in-out filter-dw-dark"
+                  className="transition-all duration-500 ease-in-out filter-dw-soft"
                 />
                 {/* Hover effect (commented out for future use)
                 <div className="absolute inset-0 transition-opacity duration-500 ease-in-out opacity-0 group-hover:opacity-100">

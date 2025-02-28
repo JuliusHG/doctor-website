@@ -16,7 +16,7 @@
     "display": false
   },
   "AboutUs": {
-    "component": "AboutUs-2.tsx",
+    "component": "About2-creote-home14.tsx",
     "display": true
   },
   "Experience": {
@@ -29,7 +29,7 @@
   },
   "CallToAction": {
     "component": "CallToAction-_default.tsx",
-    "display": true
+    "display": false
   },
   "Purpose": {
     "component": "Purpose-creote-home14.tsx",
