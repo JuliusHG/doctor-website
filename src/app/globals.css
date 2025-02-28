@@ -16,13 +16,6 @@
 --dw-softer: 196 68% 75%;
 --dw-white: 0 0% 100%;
 
-/* Filter values for SVGs */
---filter-dw-dark: invert(22%) sepia(8%) saturate(634%) hue-rotate(202deg) brightness(94%) contrast(87%);
---filter-dw-darker: invert(18%) sepia(23%) saturate(669%) hue-rotate(155deg) brightness(94%) contrast(90%);
---filter-dw-soft: invert(80%) sepia(10%) saturate(1095%) hue-rotate(157deg) brightness(93%) contrast(90%);
---filter-dw-softer: invert(87%) sepia(8%) saturate(523%) hue-rotate(157deg) brightness(103%) contrast(95%);
---filter-dw-white: invert(100%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(100%) contrast(100%);
-
 }
 
 body {
@@ -97,5 +90,22 @@ h6 {
   body {
     @apply bg-background text-foreground;
   }
+}
+
+/* Filter values for SVGs */
+.filter-dw-dark {
+  filter: invert(22%) sepia(8%) saturate(634%) hue-rotate(202deg) brightness(94%) contrast(87%);
+}
+.filter-dw-darker {
+  filter: invert(18%) sepia(23%) saturate(669%) hue-rotate(155deg) brightness(94%) contrast(90%);
+}
+.filter-dw-soft {
+  filter: invert(80%) sepia(10%) saturate(1095%) hue-rotate(157deg) brightness(93%) contrast(90%);
+}
+.filter-dw-softer {
+  filter: invert(87%) sepia(8%) saturate(523%) hue-rotate(157deg) brightness(103%) contrast(95%);
+}
+.filter-dw-white {
+  filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(100%) contrast(100%);
 }
 

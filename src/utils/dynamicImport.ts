@@ -1,12 +1,12 @@
 import { cache } from "react"
-import fs from "fs/promises"
-import path from "path"
 
 // Function to get selected sections
 async function getSelectedSections() {
-  const filePath = path.join(process.cwd(), "data", "selected-sections.json")
-  const fileContents = await fs.readFile(filePath, "utf8")
-  return JSON.parse(fileContents)
+  const response = await fetch("/api/selected-sections", { next: { revalidate: 60 } })
+  if (!response.ok) {
+    throw new Error("Failed to fetch selected sections")
+  }
+  return response.json()
 }
 
 // Cache the result of getSelectedSections
@@ -24,7 +24,7 @@ export async function dynamicImport(sectionType: string) {
 
   const [folder, filename] = componentFile.split("/")
   try {
-    const module = await import(`../components/${folder}/${filename}`)
+    const module = await import(`@/src/app/components/${folder}/${filename}`)
     return module.default
   } catch (error) {
     console.error(`Error importing component ${componentFile}:`, error)

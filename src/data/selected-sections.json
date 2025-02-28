@@ -20,7 +20,7 @@
     "display": true
   },
   "Experience": {
-    "component": "Experience-cleener-light.tsx",
+    "component": "Experience.tsx",
     "display": true
   },
   "Services": {
@@ -37,10 +37,10 @@
   },
   "Testimonials": {
     "component": "Testimonials-cleener.tsx",
-    "display": true
+    "display": false
   },
   "Symptoms": {
-    "component": "Symptoms-cleener.tsx",
+    "component": "Symptoms-creote-home14.tsx",
     "display": true
   },
   "PhotosGallery": {
@@ -48,7 +48,7 @@
     "display": false
   },
   "Diseases": {
-    "component": "Diseases-cleener.tsx",
+    "component": "Diseases-creote.tsx",
     "display": true
   },
   "PaymentMethods": {

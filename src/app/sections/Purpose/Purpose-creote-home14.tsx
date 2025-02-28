@@ -3,6 +3,7 @@
 import { useState, useEffect } from "react"
 import { Target, Heart, Scale } from "lucide-react"
 import type { SiteContent } from "../../../interfaces/SiteContent"
+import { cn } from "@/src/utils"
 
 type PurposeContent = Pick<SiteContent, "purpose">
 
@@ -66,11 +67,29 @@ export default function PurposeSection() {
   const { purpose } = content
 
   return (
-    <section className="py-16 bg-gray-50">
-      <div className="container mx-auto px-4">
+    <section className="py-16 bg-gray-50 relative overflow-hidden">
+      <div className="absolute inset-0 flex items-center justify-center overflow-hidden pointer-events-none">
+        <span
+          className={cn(
+            "text-[20vw] md:text-[40vw] font-bold leading-none",
+            "text-transparent bg-clip-text capitalize select-none",
+            "absolute whitespace-nowrap",
+          )}
+          style={{
+            WebkitTextStroke: "1px hsl(var(--dw-soft))",
+            opacity: 0.1,
+            transform: "translateY(-50%)",
+            color: "transparent",
+            zIndex: 0,
+          }}
+        >
+          {purpose.sectionTitle}
+        </span>
+      </div>
+      <div className="container mx-auto px-4 relative z-10">
         <h3 className="text-lg text-dw-soft font-bold uppercase mb-2 text-center">{purpose.sectionTitle}</h3>
         <h2 className="text-5xl text-dw-dark font-bold mb-2 text-center">{purpose.sectionSubtitle}</h2>
-        <p className="text-gray-500 mb-12 text-center px-96">{purpose.sectionText}</p>
+        <p className="text-gray-500 mb-12 text-center max-w-3xl mx-auto">{purpose.sectionText}</p>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {purpose.entities.map((item: PurposeItem, index: number) => (
             <div key={index} className="flex flex-col items-center text-center p-6 bg-white rounded-lg">

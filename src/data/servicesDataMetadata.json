@@ -17,55 +17,48 @@
     {
       "id": "hemodialisis",
       "title": "Hemodiálisis",
-      "description": "La paracentesis consiste en la extracción de líquido acumulado en la cavidad abdominal (ascitis) mediante una aguja estéril o catéter. Se emplea en pacientes con enfermedades hepáticas, renales o cancerígenas que cursan con retención de líquido.",
-      "shortDescription": "Procedimiento para extraer líquido (ascitis) de la cavidad abdominal.",
+      "description": "La hemodiálisis es un procedimiento médico que filtra la sangre para eliminar toxinas, excesos de líquidos y desechos cuando los riñones no pueden cumplir esta función. Es un tratamiento vital para pacientes con insuficiencia renal crónica o aguda, y su objetivo es mejorar la calidad de vida y prevenir complicaciones graves.",
+      "shortDescription": "Filtra la sangre para eliminar toxinas y líquidos en pacientes con insuficiencia renal.",
       "imageHome": "/images/services/hemodialisis.jpg",
       "imageIndividual": "/images/services/hemodialisis.jpg",
       "iconIndividual": "",
       "benefits": [
-        "Alivio de molestias y reducción de la presión abdominal",
-        "Mejoría en la respiración",
-        "Prevención de complicaciones asociadas al exceso de líquido"
+        "Mejora la calidad de vida al eliminar síntomas como fatiga y dificultad para respirar",
+        "Mantiene equilibrados los niveles de electrolitos y la presión arterial",
+        "Procedimiento disponible en centros especializados, con personal capacitado"
       ],
       "process": [
-        "Diagnóstica: se extrae una pequeña muestra de líquido para analizar la causa",
-        "Terapéutica: se retira un volumen mayor de líquido para disminuir síntomas"
+        "Hemodiálisis convencional: se realiza en un centro médico especializado unas tres veces por semana, con sesiones de 3 a 5 horas."
       ],
       "types": [
-        "Paracentesis Diagnóstica",
-        "Paracentesis Terapéutica"
+        "Hemodiálisis convencional"
       ],
-      "painful": "Se efectúa con anestesia local, por lo que la molestia es mínima.",
-      "forWhat": "Permite diagnosticar infecciones y la naturaleza del líquido, además de aliviar la presión abdominal.",
-      "myths": [],
-      "hospitalOrAmbulatory": "Generalmente ambulatorio, salvo casos complejos",
-      "procedureTime": "15 a 30 minutos, según el volumen extraído",
-      "anesthesia": "Local",
-      "recoveryTime": "La mayoría retoma actividades ligeras el mismo día",
+      "painful": "Generalmente no es dolorosa; el paciente puede sentir una ligera molestia al canalizar la fístula o el catéter.",
+      "forWhat": [
+        "Eliminar toxinas y desechos acumulados en la sangre",
+        "Controlar los niveles de electrolitos (potasio, sodio, etc.)",
+        "Regular la presión arterial y el equilibrio de líquidos en el cuerpo"
+      ],
+      "myths": [
+        "Mito 1: “La hemodiálisis cura la insuficiencia renal” (Realidad: no la cura, pero mantiene la función corporal)",
+        "Mito 2: “Es extremadamente dolorosa” (Realidad: el procedimiento es bien tolerado y seguro)"
+      ],
+      "hospitalOrAmbulatory": "Generalmente se realiza en un centro especializado con supervisión médica continua",
+      "procedureTime": "3 a 5 horas por sesión, aproximadamente tres veces por semana",
+      "anesthesia": "No se requiere anestesia general, solo local para la fístula en algunos casos",
+      "recoveryTime": "El paciente puede continuar sus actividades cotidianas el mismo día, aunque puede sentir cansancio post-sesión",
       "postProcedureRecommendations": [
-        "Reposo relativo",
-        "Controlar la herida",
-        "Vigilar signos de infección o sangrado"
+        "Mantener limpia y vigilada la fístula o el acceso vascular",
+        "Seguir una dieta adecuada y el plan de líquidos indicado",
+        "Cumplir con los medicamentos prescritos"
       ],
-      "ctaText": "Soy el Doctor Gabriel Gómez Palacios y ofrezco paracentesis en Tuxtla Gutiérrez, Chiapas. Te invito a agendar tu consulta si necesitas realizarte este procedimiento o deseas resolver dudas sobre su utilidad.",
+      "ctaText": "Si tú o un ser querido enfrentan problemas renales, es crucial buscar atención médica especializada. Soy la Dra. Gloria Rodas Gallegos, nefróloga con amplia experiencia en el diagnóstico y tratamiento.",
       "metadata": {
-        "title": "Paracentesis en Tuxtla Gutiérrez, Chiapas",
-        "description": "La paracentesis extrae líquido abdominal (ascitis) para diagnóstico o alivio. Consulta al Dra. Gloria Rodas Gallegos.",
-        "keywords": [
-          "Especialista en paracentesis en Tuxtla Gutiérrez, Chiapas",
-          "Dónde puedo realizarme paracentesis en Tuxtla Gutiérrez, Chiapas",
-          "Precio de paracentesis en Tuxtla Gutiérrez, Chiapas",
-          "Para qué sirve paracentesis",
-          "Experto en paracentesis en Tuxtla Gutiérrez, Chiapas",
-          "Cuidados después de paracentesis",
-          "Quién realiza paracentesis en Tuxtla Gutiérrez, Chiapas",
-          "Ventajas y beneficios de paracentesis",
-          "Tiempo de recuperación de paracentesis",
-          "Tipos de paracentesis"
-        ],
+        "title": "Hemodiálisis en Tuxtla Gutiérrez, Chiapas",
+        "description": "La hemodiálisis filtra la sangre cuando los riñones no funcionan. Acude con la Dra. Gloria Rodas Gallegos para un tratamiento seguro y personalizado.",
         "openGraph": {
-          "title": "Paracentesis - Dra. Gloria Rodas Gallegos",
-          "description": "Alivia la acumulación de líquido en el abdomen y prevén complicaciones con un procedimiento seguro en Tuxtla Gutiérrez.",
+          "title": "Hemodiálisis - Dra. Gloria Rodas Gallegos",
+          "description": "Conoce cómo la hemodiálisis ayuda a pacientes con insuficiencia renal y mejora su calidad de vida en Tuxtla Gutiérrez.",
           "url": "https://www.nefrologiarodas.com/servicios/hemodialisis"
         },
         "alternates": {
@@ -76,55 +69,50 @@
     {
       "id": "dialisis-peritoneal",
       "title": "Diálisis peritoneal",
-      "description": "La toracocentesis es la extracción de líquido o aire de la cavidad pleural mediante aguja o catéter. Se practica en casos de derrame pleural, infecciones pulmonares o neumotórax.",
-      "shortDescription": "Extracción de líquido o aire pleural para aliviar la dificultad respiratoria.",
+      "description": "La diálisis peritoneal utiliza el revestimiento del abdomen (peritoneo) como filtro natural para eliminar toxinas y excesos de líquidos de la sangre. A diferencia de la hemodiálisis, este procedimiento puede realizarse en casa, ofreciendo mayor flexibilidad y comodidad para el paciente con insuficiencia renal.",
+      "shortDescription": "Filtra la sangre a través del peritoneo, permitiendo un tratamiento domiciliario más flexible.",
       "imageHome": "/images/services/dialisis-peritoneal.jpg",
       "imageIndividual": "/images/services/dialisis-peritoneal.jpg",
       "iconIndividual": "",
       "benefits": [
-        "Alivio de la presión en los pulmones",
-        "Mejoría en la respiración",
-        "Diagnóstico del origen del derrame pleural"
+        "Mayor flexibilidad y comodidad al realizarse en casa",
+        "Menos restricciones dietéticas comparado con la hemodiálisis",
+        "Permite continuar con actividades diarias y viajar más fácilmente"
       ],
       "process": [
-        "Toracocentesis diagnóstica: se obtiene muestra de líquido para su análisis",
-        "Toracocentesis terapéutica: se retira mayor cantidad de líquido o aire"
+        "DPAC (Diálisis Peritoneal Ambulatoria Continua): se realizan intercambios manuales varias veces al día",
+        "DPA (Diálisis Peritoneal Automatizada): el paciente se conecta a una cicladora durante la noche"
       ],
       "types": [
-        "Diagnóstica",
-        "Terapéutica"
+        "Diálisis Peritoneal Ambulatoria Continua (DPAC)",
+        "Diálisis Peritoneal Automatizada (DPA)"
       ],
-      "painful": "Se realiza con anestesia local; la molestia suele ser mínima.",
-      "forWhat": "Alivia la dificultad respiratoria y determina las causas de derrame pleural o neumotórax.",
-      "myths": [],
-      "hospitalOrAmbulatory": "Generalmente ambulatorio, salvo casos complejos",
-      "procedureTime": "15 a 45 minutos, según la cantidad de líquido o aire",
-      "anesthesia": "Local",
-      "recoveryTime": "Recuperación breve con observación posterior",
+      "painful": "Con el entrenamiento adecuado, el procedimiento es seguro y generalmente bien tolerado.",
+      "forWhat": [
+        "Eliminar toxinas y desechos de la sangre",
+        "Controlar niveles de potasio y sodio",
+        "Regular la presión arterial y el equilibrio de líquidos"
+      ],
+      "myths": [
+        "Mito 1: “La diálisis peritoneal es menos efectiva que la hemodiálisis” (Realidad: ambas opciones pueden ser igualmente efectivas)",
+        "Mito 2: “Es muy complicada para hacer en casa” (Realidad: con la capacitación adecuada, es sencilla y segura)"
+      ],
+      "hospitalOrAmbulatory": "Puede realizarse en el hogar después de un entrenamiento inicial; revisiones médicas periódicas",
+      "procedureTime": "Los intercambios pueden variar de 20 a 30 minutos, varias veces al día o automatizados en la noche",
+      "anesthesia": "Local para colocar el catéter peritoneal; no se requiere para los intercambios diarios",
+      "recoveryTime": "Rápido, permitiendo retomar actividades cotidianas",
       "postProcedureRecommendations": [
-        "Reposo moderado",
-        "Evitar esfuerzos intensos",
-        "Vigilar la herida por signos de infección o fuga de aire"
+        "Mantener el área del catéter limpia y libre de infecciones",
+        "Cumplir con los controles médicos y laboratoriales",
+        "Seguir indicaciones dietéticas y de fluidos"
       ],
-      "ctaText": "Soy el Doctor Gabriel Gómez Palacios. Si presentas acumulación de líquido en el tórax o complicaciones respiratorias, agenda tu toracocentesis en Tuxtla Gutiérrez, Chiapas. Juntos buscaremos la causa y la solución más adecuada.",
+      "ctaText": "Soy la Dra. Gloria Rodas Gallegos, nefróloga en Tuxtla Gutiérrez, Chiapas, y estoy aquí para brindarte un tratamiento seguro y personalizado.",
       "metadata": {
-        "title": "Toracocentesis en Tuxtla Gutiérrez, Chiapas",
-        "description": "La toracocentesis extrae líquido o aire de la cavidad pleural. Consulta al Dra. Gloria Rodas Gallegos para aliviar tu dificultad respiratoria.",
-        "keywords": [
-          "Especialista en toracocentesis en Tuxtla Gutiérrez, Chiapas",
-          "Dónde puedo realizarme toracocentesis en Tuxtla Gutiérrez, Chiapas",
-          "Precio de toracocentesis en Tuxtla Gutiérrez, Chiapas",
-          "Para qué sirve toracocentesis",
-          "Experto en toracocentesis en Tuxtla Gutiérrez, Chiapas",
-          "Cuidados después de toracocentesis",
-          "Quién realiza toracocentesis en Tuxtla Gutiérrez, Chiapas",
-          "Ventajas y beneficios de toracocentesis",
-          "Tiempo de recuperación de toracocentesis",
-          "Tipos de toracocentesis"
-        ],
+        "title": "Diálisis Peritoneal en Tuxtla Gutiérrez, Chiapas",
+        "description": "Realiza tu tratamiento renal de forma más flexible en casa con la diálisis peritoneal. Consulta a la Dra. Gloria Rodas Gallegos.",
         "openGraph": {
-          "title": "Toracocentesis - Dra. Gloria Rodas Gallegos",
-          "description": "Diagnostica y alivia derrames pleurales o neumotórax con un procedimiento seguro en Tuxtla Gutiérrez.",
+          "title": "Diálisis Peritoneal - Dra. Gloria Rodas Gallegos",
+          "description": "Descubre los beneficios de la diálisis peritoneal y cómo puede ajustarse a tu estilo de vida en Tuxtla Gutiérrez.",
           "url": "https://www.nefrologiarodas.com/servicios/dialisis-peritoneal"
         },
         "alternates": {
@@ -135,55 +123,50 @@
     {
       "id": "transplante-renal",
       "title": "Transplante renal",
-      "description": "La punción lumbar consiste en extraer líquido cefalorraquídeo del espacio subaracnoideo en la región lumbar. Se utiliza para diagnosticar meningitis, esclerosis múltiple y otros trastornos del sistema nervioso.",
-      "shortDescription": "Extracción de líquido cefalorraquídeo para evaluar trastornos neurológicos.",
+      "description": "El trasplante renal es un procedimiento quirúrgico que reemplaza un riñón enfermo con uno sano, proveniente de un donante vivo o fallecido. Es una opción para pacientes con insuficiencia renal terminal, ya que puede restaurar la función renal y mejorar significativamente la calidad de vida.",
+      "shortDescription": "Reemplazo quirúrgico de un riñón enfermo por uno sano para tratar insuficiencia renal terminal.",
       "imageHome": "/images/services/transplante-renal.jpg",
       "imageIndividual": "/images/services/transplante-renal.jpg",
       "iconIndividual": "",
       "benefits": [
-        "Diagnóstico preciso de infecciones y afecciones neurológicas",
-        "Posibilidad de administrar fármacos en el espacio espinal",
-        "Alivio de la presión intracraneal en casos específicos"
+        "Mejora significativa de la calidad de vida",
+        "Elimina la necesidad de diálisis",
+        "Mayor libertad para viajar y realizar actividades diarias"
       ],
       "process": [
-        "Diagnóstica: evaluación de infecciones o condiciones neurológicas",
-        "Terapéutica: aplicación de medicamentos o reducción de presión"
+        "Trasplante de donante vivo: el órgano proviene de un familiar o amigo compatible",
+        "Trasplante de donante fallecido: el órgano se obtiene de un donante que ha fallecido recientemente"
       ],
       "types": [
-        "Punción lumbar diagnóstica",
-        "Punción lumbar terapéutica"
+        "Donante vivo",
+        "Donante fallecido"
       ],
-      "painful": "Se realiza con anestesia local; puede haber ligera presión o molestia en la región lumbar.",
-      "forWhat": "Permite analizar el líquido cefalorraquídeo y diagnosticar afecciones del sistema nervioso central.",
-      "myths": [],
-      "hospitalOrAmbulatory": "Ambulatorio, con reposo posterior",
-      "procedureTime": "Entre 20 y 30 minutos",
-      "anesthesia": "Local",
-      "recoveryTime": "Reposo unas horas tras el procedimiento",
+      "painful": "Se realiza bajo anestesia general; el postoperatorio conlleva dolor moderado que se controla con analgésicos.",
+      "forWhat": [
+        "Restaurar la función renal en pacientes con insuficiencia renal terminal",
+        "Eliminar la necesidad de diálisis",
+        "Mejorar la esperanza y calidad de vida del paciente"
+      ],
+      "myths": [
+        "Mito 1: “El trasplante renal cura definitivamente la enfermedad” (Realidad: requiere medicación inmunosupresora de por vida)",
+        "Mito 2: “Cualquier persona puede ser donante” (Realidad: se requiere compatibilidad y criterios médicos rigurosos)"
+      ],
+      "hospitalOrAmbulatory": "Procedimiento quirúrgico hospitalario con seguimiento postoperatorio",
+      "procedureTime": "3 a 5 horas, dependiendo de la complejidad",
+      "anesthesia": "General",
+      "recoveryTime": "Varias semanas para la recuperación inicial; seguimiento estricto a largo plazo",
       "postProcedureRecommendations": [
-        "Hidratación abundante",
-        "Evitar esfuerzos",
-        "Vigilar aparición de dolor de cabeza o fiebre"
+        "Tomar medicación inmunosupresora según lo indicado",
+        "Acudir a revisiones y análisis de sangre regulares",
+        "Vigilar signos de rechazo o infección"
       ],
-      "ctaText": "Soy el Doctor Gabriel Gómez Palacios, y estoy disponible en Tuxtla Gutiérrez, Chiapas para realizar punciones lumbares. Agenda tu cita para un diagnóstico certero y un manejo adecuado de enfermedades del sistema nervioso central.",
+      "ctaText": "Agenda tu consulta hoy mismo y juntos trabajaremos por tu salud y bienestar.",
       "metadata": {
-        "title": "Punción lumbar en Tuxtla Gutiérrez, Chiapas",
-        "description": "La punción lumbar ayuda a diagnosticar meningitis y otros trastornos neurológicos. Consulta al Dra. Gloria Rodas Gallegos.",
-        "keywords": [
-          "Especialista en punción lumbar en Tuxtla Gutiérrez, Chiapas",
-          "Dónde puedo realizarme punción lumbar en Tuxtla Gutiérrez, Chiapas",
-          "Precio de punción lumbar en Tuxtla Gutiérrez, Chiapas",
-          "Para qué sirve punción lumbar",
-          "Experto en punción lumbar en Tuxtla Gutiérrez, Chiapas",
-          "Cuidados después de punción lumbar",
-          "Quién realiza punción lumbar en Tuxtla Gutiérrez, Chiapas",
-          "Ventajas y beneficios de punción lumbar",
-          "Tiempo de recuperación de punción lumbar",
-          "Tipos de punción lumbar"
-      ],
+        "title": "Trasplante Renal en Tuxtla Gutiérrez, Chiapas",
+        "description": "El trasplante renal puede restaurar la función del riñón y mejorar drásticamente tu calidad de vida. Consulta a la Dra. Gloria Rodas Gallegos.",
         "openGraph": {
-          "title": "Punción lumbar - Dra. Gloria Rodas Gallegos",
-          "description": "Obtén un diagnóstico preciso de infecciones o afecciones neurológicas con una punción lumbar en Tuxtla Gutiérrez.",
+          "title": "Trasplante Renal - Dra. Gloria Rodas Gallegos",
+          "description": "Infórmate sobre el procedimiento, sus beneficios y cuidados tras un trasplante renal. Atención en Tuxtla Gutiérrez.",
           "url": "https://www.nefrologiarodas.com/servicios/transplante-renal"
         },
         "alternates": {
@@ -194,55 +177,47 @@
     {
       "id": "biopsia-renal",
       "title": "Biopsia renal",
-      "description": "La inserción de un catéter venoso central consiste en colocar un tubo delgado en una vena de gran calibre para administrar medicamentos, nutrientes o medir la presión venosa central. Es fundamental en cuidados críticos y tratamientos prolongados.",
-      "shortDescription": "Colocación de un acceso venoso para administrar fármacos o nutrientes a largo plazo.",
+      "description": "La biopsia renal consiste en tomar una pequeña muestra de tejido del riñón para analizarla en el laboratorio. Es esencial para diagnosticar y clasificar enfermedades renales, determinar la gravedad del daño y guiar la elección del tratamiento.",
+      "shortDescription": "Extracción de una muestra de tejido renal para diagnosticar enfermedades y orientar el tratamiento.",
       "imageHome": "/images/services/biopsia-renal.jpg",
       "imageIndividual": "/images/services/biopsia-renal.jpg",
       "iconIndividual": "",
       "benefits": [
-        "Acceso venoso seguro y duradero",
-        "Administración continua de medicamentos",
-        "Reducción de pinchazos repetidos"
+        "Permite un diagnóstico preciso de enfermedades renales",
+        "Ayuda a personalizar la terapia según la causa específica",
+        "Procedimiento relativamente rápido y mínimamente invasivo"
       ],
       "process": [
-        "Catéter venoso central temporal: uso corto en urgencias",
-        "Catéter venoso central de larga duración: uso prolongado (quimioterapias, nutrición parenteral)"
+        "Biopsia percutánea: se introduce una aguja guiada por ultrasonido o tomografía",
+        "Biopsia abierta: se realiza mediante una pequeña incisión quirúrgica"
       ],
       "types": [
-        "Temporal",
-        "Larga duración"
+        "Biopsia percutánea",
+        "Biopsia abierta"
       ],
-      "painful": "Puede haber incomodidad durante la colocación; se realiza con anestesia local o sedación leve.",
-      "forWhat": "Garantiza un acceso venoso confiable y continuo para tratamientos intravenosos prolongados.",
+      "painful": "Generalmente se practica bajo anestesia local; la molestia es mínima.",
+      "forWhat": [
+        "Diagnosticar enfermedades glomerulares como glomerulonefritis",
+        "Evaluar el daño renal en diabetes o lupus",
+        "Determinar la causa de proteinuria o hematuria"
+      ],
       "myths": [],
-      "hospitalOrAmbulatory": "Generalmente en entorno hospitalario",
-      "procedureTime": "20 a 40 minutos",
-      "anesthesia": "Local o sedación leve",
-      "recoveryTime": "Corto, con vigilancia de la inserción",
+      "hospitalOrAmbulatory": "Suele realizarse de forma ambulatoria con observación posterior",
+      "procedureTime": "30 a 60 minutos, incluyendo preparación",
+      "anesthesia": "Local, sedación leve en algunos casos",
+      "recoveryTime": "Reposo de unas horas; se recomienda evitar esfuerzos físicos los días siguientes",
       "postProcedureRecommendations": [
-        "Mantener el sitio de inserción limpio",
-        "Seguir cuidados de enfermería",
-        "Vigilar signos de infección"
+        "Permanecer en observación para vigilar sangrado",
+        "Beber líquidos suficientes",
+        "Seguir recomendaciones sobre reposo y cuidados de la herida"
       ],
-      "ctaText": "Soy el Doctor Gabriel Gómez Palacios. Si requieres la inserción de un catéter venoso central en Tuxtla Gutiérrez, Chiapas, agenda tu cita para recibir un servicio seguro y profesional.",
+      "ctaText": "Como nefróloga especialista en Chiapas, estoy aquí para guiarte en cada paso. Agenda tu consulta hoy mismo y cuida la salud de tus riñones con confianza.",
       "metadata": {
-        "title": "Inserción de catéter venoso central en Tuxtla Gutiérrez, Chiapas",
-        "description": "Coloca un catéter venoso central para tratamientos prolongados. Consulta al Dra. Gloria Rodas Gallegos.",
-        "keywords": [
-          "Especialista en catéter venoso central en Tuxtla Gutiérrez, Chiapas",
-          "Dónde puedo realizarme catéter venoso central en Tuxtla Gutiérrez, Chiapas",
-          "Precio de catéter venoso central en Tuxtla Gutiérrez, Chiapas",
-          "Para qué sirve catéter venoso central",
-          "Experto en catéter venoso central en Tuxtla Gutiérrez, Chiapas",
-          "Cuidados después de catéter venoso central",
-          "Quién realiza catéter venoso central en Tuxtla Gutiérrez, Chiapas",
-          "Ventajas y beneficios de catéter venoso central",
-          "Tiempo de recuperación de catéter venoso central",
-          "Tipos de catéter venoso central"
-        ],
+        "title": "Biopsia Renal en Tuxtla Gutiérrez, Chiapas",
+        "description": "La biopsia renal diagnostica enfermedades renales y orienta tratamientos. Consulta a la Dra. Gloria Rodas Gallegos para una atención especializada.",
         "openGraph": {
-          "title": "Inserción de catéter venoso central - Dra. Gloria Rodas Gallegos",
-          "description": "Accede a vías venosas profundas de forma segura y confiable con un procedimiento especializado en Tuxtla Gutiérrez.",
+          "title": "Biopsia Renal - Dra. Gloria Rodas Gallegos",
+          "description": "Descubre cómo una biopsia renal puede ayudar a identificar la causa del daño en los riñones y guiar tu tratamiento.",
           "url": "https://www.nefrologiarodas.com/servicios/biopsia-renal"
         },
         "alternates": {
@@ -253,54 +228,51 @@
     {
       "id": "control-metabolico-y-nutricional",
       "title": "Control metabólico y nutricional",
-      "description": "La gasometría arterial analiza los niveles de oxígeno, dióxido de carbono y el equilibrio ácido-base en la sangre. Se realiza con una muestra de sangre de una arteria, generalmente la radial en la muñeca.",
-      "shortDescription": "Prueba para evaluar oxigenación y equilibrio ácido-base en la sangre arterial.",
+      "description": "El control metabólico y nutricional es un enfoque integral para regular el metabolismo y mejorar la salud a través de una alimentación balanceada y hábitos de vida saludables. Es especialmente importante en enfermedades crónicas como diabetes, hipertensión, obesidad y patologías renales, ya que previene complicaciones y mejora la calidad de vida.",
+      "shortDescription": "Regula el metabolismo y fomenta hábitos de vida saludables para prevenir y controlar enfermedades crónicas.",
       "imageHome": "/images/services/control-metabolico.jpg",
       "imageIndividual": "/images/services/control-metabolico.jpg",
       "iconIndividual": "",
       "benefits": [
-        "Información precisa sobre la función respiratoria",
-        "Detección de desequilibrios ácido-base",
-        "Diagnóstico de problemas pulmonares o metabólicos"
+        "Mejor control de enfermedades crónicas como diabetes e hipertensión",
+        "Disminución del riesgo de complicaciones renales",
+        "Plan de alimentación personalizado y sostenible a largo plazo"
       ],
       "process": [
-        "Gasometría arterial en reposo",
-        "Gasometría arterial con ejercicio (en casos específicos)"
+        "Evaluación médica: revisión de parámetros como glucosa, colesterol, presión arterial y función renal",
+        "Plan de alimentación personalizado: diseñado por especialista en nutrición",
+        "Monitoreo constante: ajustes en dieta y estilo de vida",
+        "Educación nutricional: formación en hábitos alimenticios y su impacto"
       ],
-      "types": [
-        "En reposo",
-        "Con ejercicio"
+      "types": [],
+      "painful": "No es un procedimiento invasivo; se basa en cambios de estilo de vida y revisiones médicas.",
+      "forWhat": [
+        "Regular niveles de glucosa y colesterol",
+        "Controlar la presión arterial",
+        "Prevenir progresión de enfermedades renales",
+        "Mejorar el peso y la composición corporal"
       ],
-      "painful": "Puede sentirse un pinchazo o leve molestia al extraer sangre de la arteria.",
-      "forWhat": "Ayuda a diagnosticar problemas de oxigenación y a valorar el estado metabólico del paciente.",
-      "myths": [],
-      "hospitalOrAmbulatory": "Generalmente ambulatorio",
-      "procedureTime": "5 a 10 minutos",
-      "anesthesia": "No requiere, ocasionalmente anestesia local",
-      "recoveryTime": "Inmediato, con presión en la zona para evitar hematoma",
+      "myths": [
+        "Mito 1: “Una dieta saludable es aburrida y restrictiva”",
+        "Mito 2: “Solo es necesario para personas con enfermedades graves”",
+        "Mito 3: “Es muy costoso y complicado”"
+      ],
+      "hospitalOrAmbulatory": "Se maneja en consultas ambulatorias con seguimiento regular",
+      "procedureTime": "Varía según cada paciente; se realizan consultas periódicas",
+      "anesthesia": "No aplica",
+      "recoveryTime": "N/A, se trata de un proceso continuo",
       "postProcedureRecommendations": [
-        "Presionar la zona de punción para prevenir sangrado",
-        "Monitorizar hematomas o dolor"
+        "Cumplir con el plan nutricional y de ejercicio recomendado",
+        "Realizar controles médicos frecuentes",
+        "Mantener un estilo de vida activo y equilibrado"
       ],
-      "ctaText": "Soy el Doctor Gabriel Gómez Palacios y realizo gasometrías arteriales en Tuxtla Gutiérrez, Chiapas. Si necesitas evaluar tu función respiratoria, agenda tu cita para recibir resultados confiables y un seguimiento puntual.",
+      "ctaText": "¿Quieres tomar el control de tu salud y prevenir complicaciones? Realizar estudios de rutina es importante, especialmente si tienes diabetes o hipertensión. Acude a una cita para valorar tu salud renal.",
       "metadata": {
-        "title": "Gasometría arterial en Tuxtla Gutiérrez, Chiapas",
-        "description": "La gasometría arterial determina oxigenación y equilibrio ácido-base. Consulta al Dra. Gloria Rodas Gallegos.",
-        "keywords": [
-          "Especialista en gasometría arterial en Tuxtla Gutiérrez, Chiapas",
-          "Dónde puedo realizarme gasometría arterial en Tuxtla Gutiérrez, Chiapas",
-          "Precio de gasometría arterial en Tuxtla Gutiérrez, Chiapas",
-          "Para qué sirve gasometría arterial",
-          "Experto en gasometría arterial en Tuxtla Gutiérrez, Chiapas",
-          "Cuidados después de gasometría arterial",
-          "Quién realiza gasometría arterial en Tuxtla Gutiérrez, Chiapas",
-          "Ventajas y beneficios de gasometría arterial",
-          "Tiempo de recuperación de gasometría arterial",
-          "Tipos de gasometría arterial"
-        ],
+        "title": "Control Metabólico y Nutricional en Tuxtla Gutiérrez, Chiapas",
+        "description": "Un plan integral de alimentación y estilo de vida para regular el metabolismo y prevenir complicaciones renales. Consulta a la Dra. Gloria Rodas Gallegos.",
         "openGraph": {
-          "title": "Gasometría arterial - Dra. Gloria Rodas Gallegos",
-          "description": "Obtén una medición precisa de tus gases sanguíneos y detecta problemas respiratorios o metabólicos a tiempo.",
+          "title": "Control Metabólico y Nutricional - Dra. Gloria Rodas Gallegos",
+          "description": "Adopta hábitos saludables y optimiza tu estado metabólico para mejorar tu calidad de vida y proteger tus riñones.",
           "url": "https://www.nefrologiarodas.com/servicios/control-metabolico-y-nutricional"
         },
         "alternates": {
@@ -311,53 +283,50 @@
     {
       "id": "seguimiento-de-hipertension-arterial",
       "title": "Seguimiento de hipertensión arterial",
-      "description": "El electrocardiograma (ECG) registra la actividad eléctrica del corazón mediante electrodos en la piel. Detecta arritmias, bloqueos de arterias coronarias y otros trastornos cardíacos.",
-      "shortDescription": "Registro de la actividad eléctrica del corazón para detectar arritmias y anomalías.",
+      "description": "El seguimiento de hipertensión arterial consiste en monitorear y controlar los niveles de presión arterial de forma continua. Este proceso es fundamental para prevenir complicaciones graves como enfermedades cardiovasculares, accidentes cerebrovasculares o daños renales, que pueden presentarse incluso sin síntomas evidentes.",
+      "shortDescription": "Monitoreo y control continuo de la presión arterial para prevenir complicaciones severas.",
       "imageHome": "/images/services/seguimiento-de-hipertension-arterial.jpg",
       "imageIndividual": "/images/services/seguimiento-de-hipertension-arterial.jpg",
       "iconIndividual": "",
       "benefits": [
-        "Evaluación rápida y segura de la función cardíaca",
-        "Prevención de eventos coronarios",
-        "Detección de arritmias y bloqueos"
+        "Detección temprana de variaciones peligrosas de presión arterial",
+        "Reducción del riesgo de eventos cardiovasculares",
+        "Permite ajustar de forma precisa los medicamentos y el estilo de vida"
       ],
       "process": [
-        "ECG en reposo",
-        "ECG de esfuerzo",
-        "Holter de 24 horas"
+        "Monitoreo Ambulatorio de Presión Arterial (MAPA): uso de un dispositivo portátil durante 24 horas",
+        "Monitoreo Domiciliario: el paciente registra sus valores en casa con un tensiómetro adecuado"
       ],
       "types": [
-        "Electrocardiograma en reposo",
-        "Electrocardiograma de esfuerzo",
-        "Holter"
+        "MAPA (Monitoreo Ambulatorio de Presión Arterial)",
+        "Monitoreo Domiciliario"
       ],
-      "painful": "No es doloroso; se colocan electrodos de manera superficial.",
-      "forWhat": "Diagnosticar irregularidades del ritmo, signos de infarto previo o alteraciones de conducción.",
-      "myths": [],
-      "hospitalOrAmbulatory": "Ambulatorio",
-      "procedureTime": "5 a 10 minutos",
-      "anesthesia": "No requiere",
-      "recoveryTime": "Inmediato; sin limitaciones",
-      "postProcedureRecommendations": [],
-      "ctaText": "Soy el Doctor Gabriel Gómez Palacios. Te ofrezco un electrocardiograma en Tuxtla Gutiérrez, Chiapas para evaluar la salud de tu corazón de forma rápida y confiable.",
+      "painful": "No es invasivo; solo requiere colocación del manguito en el brazo.",
+      "forWhat": [
+        "Evaluar la efectividad del tratamiento antihipertensivo",
+        "Identificar patrones anormales de presión arterial",
+        "Prevenir daños en órganos como corazón, cerebro y riñones"
+      ],
+      "myths": [
+        "Mito 1: “Si me siento bien, no necesito controlar mi presión”",
+        "Mito 2: “El monitoreo en casa no es confiable”"
+      ],
+      "hospitalOrAmbulatory": "Generalmente ambulatorio; el paciente puede realizar el monitoreo en casa",
+      "procedureTime": "El MAPA se realiza por 24 horas; el monitoreo domiciliario es periódico",
+      "anesthesia": "No aplica",
+      "recoveryTime": "N/A, no existe periodo de recuperación para el monitoreo",
+      "postProcedureRecommendations": [
+        "Anotar las lecturas regularmente",
+        "Evitar cambios bruscos de actividad durante las mediciones",
+        "Llevar los registros a cada consulta médica"
+      ],
+      "ctaText": "Si necesitas un seguimiento especializado de tu presión arterial, no dudes en agendar una consulta conmigo. Juntos podemos diseñar un plan personalizado para cuidar tu salud cardiovascular.",
       "metadata": {
-        "title": "Electrocardiograma en Tuxtla Gutiérrez, Chiapas",
-        "description": "Registra la actividad eléctrica del corazón y detecta trastornos cardíacos. Consulta al Dra. Gloria Rodas Gallegos.",
-        "keywords": [
-          "Especialista en electrocardiograma en Tuxtla Gutiérrez, Chiapas",
-          "Dónde puedo realizarme electrocardiograma en Tuxtla Gutiérrez, Chiapas",
-          "Precio de electrocardiograma en Tuxtla Gutiérrez, Chiapas",
-          "Para qué sirve electrocardiograma",
-          "Experto en electrocardiograma en Tuxtla Gutiérrez, Chiapas",
-          "Cuidados después de electrocardiograma",
-          "Quién realiza electrocardiograma en Tuxtla Gutiérrez, Chiapas",
-          "Ventajas y beneficios de electrocardiograma",
-          "Tiempo de recuperación de electrocardiograma",
-          "Tipos de electrocardiograma"
-        ],
+        "title": "Seguimiento de Hipertensión Arterial en Tuxtla Gutiérrez, Chiapas",
+        "description": "Monitorea tu presión arterial de forma continua para prevenir complicaciones. Consulta con la Dra. Gloria Rodas Gallegos para un plan personalizado.",
         "openGraph": {
-          "title": "Electrocardiograma - Dra. Gloria Rodas Gallegos",
-          "description": "Obtén un diagnóstico rápido de tu función cardíaca y prevén complicaciones coronarias en Tuxtla Gutiérrez.",
+          "title": "Seguimiento de Hipertensión Arterial - Dra. Gloria Rodas Gallegos",
+          "description": "Prevén daños a largo plazo por hipertensión arterial con un monitoreo constante y un control efectivo en Tuxtla Gutiérrez.",
           "url": "https://www.nefrologiarodas.com/servicios/seguimiento-de-hipertension-arterial"
         },
         "alternates": {

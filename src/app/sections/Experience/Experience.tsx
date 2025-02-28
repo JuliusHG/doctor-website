@@ -3,6 +3,7 @@
 import { useState, useEffect } from "react"
 import Image from "next/image"
 import type { SiteContent } from "@/src/interfaces/SiteContent"
+import { cn } from "@/src/utils"
 
 type ExperienceContent = Pick<SiteContent, "experience">
 
@@ -47,13 +48,9 @@ export default function ExperienceSection() {
               key={index}
               className="flex flex-col items-center p-6 bg-white rounded-lg transition-transform duration-300 hover:scale-105"
             >
-              <Image
-                src={item.icon || "/placeholder.svg"}
-                alt={item.label}
-                width={48}
-                height={48}
-                className="w-12 h-12 filter-dw-dark"
-              />
+              <div className={cn("w-12 h-12 relative", "filter-dw-soft")}>
+                <Image src={item.icon || "/placeholder.svg"} alt={item.label} layout="fill" objectFit="contain" />
+              </div>
               <p className="text-4xl font-bold mt-4 mb-2 text-dw-dark">{item.value}</p>
               <p className="text-dw-dark text-center">{item.label}</p>
             </div>

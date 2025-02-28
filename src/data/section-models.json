@@ -184,6 +184,11 @@
       "description": null
     },
     {
+      "file": "Symptoms-creote-home14.tsx",
+      "imagePath": null,
+      "description": null
+    },
+    {
       "file": "Symptoms-itechie-home5.tsx",
       "imagePath": "Symptoms-itechie-home5.jpg",
       "description": null
@@ -202,6 +207,11 @@
     },
     {
       "file": "Diseases-cleener.tsx",
+      "imagePath": null,
+      "description": null
+    },
+    {
+      "file": "Diseases-creote.tsx",
       "imagePath": null,
       "description": null
     },

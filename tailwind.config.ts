@@ -1,4 +1,5 @@
 import type { Config } from "tailwindcss"
+import { hexColors } from "./src/config/colors"
 
 const config: Config = {
   darkMode: ["class"],
@@ -16,6 +17,12 @@ const config: Config = {
         "nunito-sans": ["var(--font-nunito-sans)", "sans-serif"],
       },
       colors: {
+        ...hexColors,
+        "dw-dark": "hsl(var(--dw-dark) / <alpha-value>)",
+        "dw-darker": "hsl(var(--dw-darker) / <alpha-value>)",
+        "dw-soft": "hsl(var(--dw-soft) / <alpha-value>)",
+        "dw-softer": "hsl(var(--dw-softer) / <alpha-value>)",
+        "dw-white": "hsl(var(--dw-white) / <alpha-value>)",
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
         ring: "hsl(var(--ring))",
@@ -52,11 +59,6 @@ const config: Config = {
         navy: {
           600: "#1a365d",
         },
-        "dw-dark": "#3C3C44",
-        "dw-darker": "#1E363E",
-        "dw-soft": "#6DC5E4",
-        "dw-softer": "#95D5EB",
-        "dw-white": "#FFFFFF"
       },
       keyframes: {
         orbit: {

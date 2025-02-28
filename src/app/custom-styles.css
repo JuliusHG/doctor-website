@@ -12,7 +12,7 @@
     @apply absolute -top-9 left-[5%] w-5 h-5 bg-dw-soft rounded-[0%_50%_50%_50%] -rotate-[45deg];
   }
 
-  .filter-dw-dark {
+  /* .filter-dw-dark {
     filter: var(--filter-dw-dark);
   }
   
@@ -22,4 +22,74 @@
   
   .filter-dw-soft {
     filter: var(--filter-dw-soft);
+  } */
+
+  /* ANIMATIONS FOR "FALLING CURTAIN" IN Symptoms-creote-home14.tsx */
+
+  @keyframes overlay-fall {
+    0% {
+      clip-path: polygon(0 0, 100% 0, 75% 1%, 25% 1%);
+      transform: translateY(-100%);
+    }
+    100% {
+      clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+      transform: translateY(0);
+    }
   }
+  
+  @keyframes overlay-retract {
+    0% {
+      clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+      transform: translateY(0);
+    }
+    100% {
+      clip-path: polygon(0 0, 100% 0, 75% 1%, 25% 1%);
+      transform: translateY(-100%);
+    }
+  }
+  
+  @keyframes button-fall {
+    0% {
+      transform: translate(-50%, -100%);
+      opacity: 0;
+    }
+    100% {
+      transform: translate(-50%, -50%);
+      opacity: 1;
+    }
+  }
+  
+  @keyframes button-retract {
+    0% {
+      transform: translate(-50%, -50%);
+      opacity: 1;
+    }
+    100% {
+      transform: translate(-50%, -100%);
+      opacity: 0;
+    }
+  }
+  
+  .overlay-animation {
+    animation: overlay-retract 0.5s ease-in-out forwards;
+  }
+  
+  .button-animation {
+    opacity: 0;
+    transform: translate(-50%, -100%);
+  }
+  
+  .group-curtain:hover .overlay-animation {
+    animation: overlay-fall 0.5s ease-in-out forwards;
+  }
+  
+  .group-curtain:hover .button-animation {
+    animation: button-fall 0.3s ease-in-out forwards;
+    animation-delay: 0.2s;
+  }
+  
+  .group-curtain:not(:hover) .button-animation {
+    animation: button-retract 0.2s ease-in-out forwards;
+  }
+  
+  

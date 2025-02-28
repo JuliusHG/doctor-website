@@ -1,5 +1,5 @@
 import type React from "react"
-import { importSection, getSelectedSections } from "@/src/app/utils/sectionsImports"
+import { importSection, getSelectedSections } from "@/src/utils/sectionsImports"
 
 export default async function Home() {
   const selectedSections = await getSelectedSections()

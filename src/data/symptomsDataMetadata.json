@@ -17,38 +17,36 @@
     {
       "id": "hematuria",
       "name": "Hematuria (Sangre en la orina)",
-      "shortDescription": "Molestia o dolor en la cabeza, con intensidad y duración variables.",
-      "description": "El dolor de cabeza, conocido médicamente como cefalea, es una manifestación de malestar que puede variar en intensidad y duración. Se genera cuando los receptores del dolor, presentes en los tejidos que rodean el cerebro, se activan por diversos factores como tensión muscular, alteraciones vasculares o estímulos de origen externo. Existen varios tipos de cefaleas, como la cefalea tensional y la migraña, cada una con características y detonantes específicos. Aun cuando la mayoría de los dolores de cabeza no representan un peligro grave, pueden afectar de forma significativa las actividades diarias y la calidad de vida si no se tratan de manera adecuada.",
+      "shortDescription": "Presencia de sangre en la orina, visible o detectada por análisis (microscópica).",
+      "description": "La hematuria es la presencia de sangre en la orina, ya sea visible (hematuria macroscópica) o detectable sólo mediante análisis de laboratorio (hematuria microscópica). Este síntoma puede ser un indicador de diversas condiciones médicas, desde infecciones urinarias hasta problemas renales más graves.",
       "causes": [
-        "Tensión muscular en la cabeza y cuello",
-        "Factores hormonales, especialmente en mujeres",
-        "Estrés, ansiedad o depresión",
-        "Falta de sueño o cambios en el patrón de descanso",
-        "Deshidratación y alimentación inadecuada",
-        "Cambios ambientales, como luces intensas o ruidos fuertes",
-        "Exposición prolongada a pantallas (teléfonos, computadoras)",
-        "Uso excesivo de analgésicos (cefalea por rebote)"
+        "Infecciones urinarias o renales",
+        "Cálculos renales o vesicales",
+        "Traumatismos en la zona abdominal o pélvica",
+        "Enfermedades renales como la glomerulonefritis",
+        "Cáncer de vejiga, riñón o próstata",
+        "Ejercicio físico intenso",
+        "Trastornos de coagulación sanguínea"
       ],
       "relatedConditions": [],
       "managementTips": [],
       "complications": [
-        "Afectación en la productividad laboral o académica",
-        "Cambios de humor y problemas para concentrarse",
-        "Dependencia de analgésicos y riesgo de cefalea crónica",
-        "Problemas para conciliar el sueño o insomnio crónico",
-        "Limitaciones en la realización de actividades cotidianas"
+        "Anemia debido a la pérdida crónica de sangre",
+        "Daño renal irreversible",
+        "Propagación de infecciones a otros órganos",
+        "Avance de enfermedades subyacentes, como el cáncer"
       ],
-      "ctaText": "Si presentas dolores de cabeza frecuentes o de intensidad elevada, es importante identificar la causa y recibir un tratamiento personalizado. Agenda tu cita para una evaluación integral y descubre cómo aliviar tu dolor de cabeza de manera segura y eficaz.",
+      "ctaText": "Si notas sangre en tu orina, es crucial que busques atención médica inmediata. La hematuria puede ser un signo de condiciones graves que requieren diagnóstico y tratamiento oportunos.",
       "imageHome": "/images/symptoms/hematuria.jpg",
       "imageIndividual": "/images/symptoms/hematuria.jpg",
       "iconIndividual": "",
       "metadata": {
-        "title": "Tratamiento a Dolor de cabeza o cefalea en Tuxtla Gutiérrez, Chiapas",
-        "description": "El dolor de cabeza (cefalea) puede tener múltiples causas. Recibe atención personalizada con la Dra. Gloria Rodas Gallegos.",
+        "title": "Tratamiento de Hematuria en Tuxtla Gutiérrez, Chiapas",
+        "description": "La hematuria puede indicar infecciones, cálculos o problemas renales serios. Consulta con la Dra. Gloria Rodas Gallegos para un diagnóstico oportuno.",
         "keywords": [],
         "openGraph": {
-          "title": "Tratamiento a dolor de cabeza o cefalea - Dra. Gloria Rodas Gallegos",
-          "description": "Descubre las causas y abordajes para el dolor de cabeza, mejorando tu calidad de vida con atención médica en Tuxtla Gutiérrez.",
+          "title": "Tratamiento de Hematuria - Dra. Gloria Rodas Gallegos",
+          "description": "Descubre las causas de la hematuria y recibe atención especializada para evitar complicaciones en Tuxtla Gutiérrez.",
           "url": "https://www.nefrologiarodas.com/sintomas/hematuria"
         },
         "alternates": {
@@ -59,35 +57,35 @@
     {
       "id": "proteinuria",
       "name": "Proteinuria (presencia de proteínas en la orina)",
-      "shortDescription": "Molestia torácica de intensidad y carácter variable, a menudo asociada al corazón u otros órganos.",
-      "description": "El dolor en el pecho, conocido como dolor torácico, abarca cualquier molestia que se localice entre el cuello y la parte superior del abdomen. Puede variar en intensidad y características: opresivo, punzante o quemante. Sus orígenes pueden involucrar tanto al corazón como a otros órganos o estructuras, como los pulmones, músculos o costillas. Es un síntoma que no debe subestimarse, ya que en algunos casos puede estar relacionado con enfermedades cardíacas u otras afecciones graves.",
+      "shortDescription": "Exceso de proteínas en la orina, posible señal de daño renal o de vías urinarias.",
+      "description": "La proteinuria es la presencia anormal de proteínas en la orina, un signo que puede indicar problemas en los riñones o en otras partes del sistema urinario. En condiciones normales, los riñones filtran los desechos de la sangre, pero retienen proteínas esenciales. Cuando este filtro se daña, las proteínas pueden escaparse a la orina.",
       "causes": [
-        "Enfermedad coronaria (angina o infarto)",
-        "Problemas pulmonares (neumonía, pleuritis)",
-        "Reflujo gastroesofágico o espasmos esofágicos",
-        "Lesiones musculares o costales",
-        "Estrés, ansiedad o ataques de pánico"
+        "Enfermedades renales como la glomerulonefritis o el síndrome nefrótico",
+        "Diabetes mal controlada",
+        "Hipertensión arterial no tratada",
+        "Infecciones urinarias recurrentes",
+        "Preeclampsia en mujeres embarazadas",
+        "Ejercicio físico intenso o fiebre alta (proteinuria transitoria)"
       ],
       "relatedConditions": [],
       "managementTips": [],
       "complications": [
-        "Riesgo de complicaciones cardíacas en caso de infarto no diagnosticado",
-        "Deterioro de la función respiratoria",
-        "Estrés emocional y limitaciones en la actividad física",
-        "Dolor crónico si no se identifica la causa",
-        "Inquietud o pánico al desconocer el origen del dolor"
+        "Daño renal progresivo e irreversible",
+        "Insuficiencia renal crónica",
+        "Mayor riesgo de enfermedades cardiovasculares",
+        "Empeoramiento de condiciones subyacentes como la diabetes o la hipertensión"
       ],
-      "ctaText": "Si experimentas dolor en el pecho, es importante identificar su causa a tiempo. Agenda tu cita para recibir un diagnóstico confiable y un tratamiento adecuado que proteja tu salud cardiovascular.",
+      "ctaText": "Si detectas proteinuria en algún examen o presentas síntomas renales, consulta de inmediato. Un diagnóstico temprano puede marcar la diferencia en tu salud.",
       "imageHome": "/images/symptoms/proteinuria.jpg",
       "imageIndividual": "/images/symptoms/proteinuria.jpg",
       "iconIndividual": "",
       "metadata": {
-        "title": "Tratamiento a Dolor en el pecho en Tuxtla Gutiérrez, Chiapas",
-        "description": "El dolor torácico puede estar relacionado con afecciones cardíacas o pulmonares. Consulta al Dra. Gloria Rodas Gallegos para un diagnóstico preciso.",
+        "title": "Tratamiento de Proteinuria en Tuxtla Gutiérrez, Chiapas",
+        "description": "La proteinuria puede indicar daño renal. Recibe atención especializada con la Dra. Gloria Rodas Gallegos para proteger tu función renal.",
         "keywords": [],
         "openGraph": {
-          "title": "Tratamiento a Dolor en el pecho - Dra. Gloria Rodas Gallegos",
-          "description": "Conoce las posibles causas del dolor torácico y evita complicaciones graves con atención médica en Tuxtla Gutiérrez.",
+          "title": "Tratamiento de Proteinuria - Dra. Gloria Rodas Gallegos",
+          "description": "Descubre las causas y complicaciones de la proteinuria, y obtén un plan de tratamiento adecuado en Tuxtla Gutiérrez.",
           "url": "https://www.nefrologiarodas.com/sintomas/proteinuria"
         },
         "alternates": {
@@ -98,35 +96,35 @@
     {
       "id": "edema",
       "name": "Edema (hinchazón)",
-      "shortDescription": "Aumento de la temperatura corporal por encima de lo normal, señalando respuesta inmune.",
-      "description": "La fiebre se define como un aumento de la temperatura corporal por encima de lo normal, generalmente superando los 37.5 a 38 grados centígrados, según la medición. Es un mecanismo de defensa del organismo que se activa en respuesta a infecciones, inflamaciones u otras alteraciones. Aunque en la mayoría de los casos es una señal de que el sistema inmune está combatiendo algún problema, una fiebre persistente o muy elevada puede ser indicio de una condición médica subyacente grave.",
+      "shortDescription": "Hinchazón causada por la acumulación anormal de líquido en los tejidos.",
+      "description": "El edema es la acumulación anormal de líquido en los tejidos del cuerpo, lo que provoca hinchazón en áreas como piernas, pies, brazos o incluso el rostro. Este síntoma puede ser leve o severo y suele ser un indicador de problemas en el sistema circulatorio, renal o cardíaco.",
       "causes": [
-        "Infecciones virales o bacterianas",
-        "Reacciones adversas a medicamentos",
-        "Enfermedades autoinmunes o inflamatorias",
-        "Golpe de calor por exposición prolongada a altas temperaturas",
-        "Vacunaciones recientes y otras reacciones del sistema inmune"
+        "Enfermedades renales, como insuficiencia renal o síndrome nefrótico",
+        "Problemas cardíacos, como insuficiencia cardíaca congestiva",
+        "Cirrosis hepática u otras enfermedades del hígado",
+        "Reacciones alérgicas o inflamatorias",
+        "Embarazo (cambios hormonales y presión sobre las venas)",
+        "Uso prolongado de ciertos medicamentos (antihipertensivos o antiinflamatorios)"
       ],
       "relatedConditions": [],
       "managementTips": [],
       "complications": [
-        "Deshidratación por sudoración excesiva",
-        "Desorientación o convulsiones en casos de fiebre muy alta",
-        "Deterioro en personas con enfermedades crónicas",
-        "Pérdida del apetito y debilidad general",
-        "Riesgo de daños en órganos internos si no se trata oportunamente"
+        "Dificultad para moverse o caminar debido a la hinchazón",
+        "Úlceras en la piel por la presión constante",
+        "Infecciones en las áreas afectadas",
+        "Empeoramiento de enfermedades subyacentes (cardíacas o renales)"
       ],
-      "ctaText": "Si presentas fiebre persistente o muy alta, es fundamental buscar atención médica. Acude a consulta para determinar la causa y recibir un plan de tratamiento seguro que te ayude a controlar la temperatura y proteger tu salud.",
+      "ctaText": "No ignores este síntoma; tu salud podría estar en riesgo. Agenda una consulta hoy mismo para recibir la atención que necesitas.",
       "imageHome": "/images/symptoms/edema.jpg",
       "imageIndividual": "/images/symptoms/edema.jpg",
       "iconIndividual": "",
       "metadata": {
-        "title": "Tratamiento a Fiebre en Tuxtla Gutiérrez, Chiapas",
-        "description": "La fiebre suele indicar una respuesta inmune activa. Recibe un diagnóstico oportuno con la Dra. Gloria Rodas Gallegos para descartar complicaciones.",
+        "title": "Tratamiento de Edema (hinchazón) en Tuxtla Gutiérrez, Chiapas",
+        "description": "El edema puede ser señal de problemas renales, cardíacos o hepáticos. Consulta a la Dra. Gloria Rodas Gallegos para un diagnóstico adecuado.",
         "keywords": [],
         "openGraph": {
-          "title": "Tratamiento a Fiebre - Dra. Gloria Rodas Gallegos",
-          "description": "Controla la fiebre y sus causas, evitando problemas de salud mayores con atención especializada en Tuxtla Gutiérrez.",
+          "title": "Tratamiento de Edema - Dra. Gloria Rodas Gallegos",
+          "description": "Conoce las causas del edema y evita complicaciones con un tratamiento eficaz en Tuxtla Gutiérrez.",
           "url": "https://www.nefrologiarodas.com/sintomas/edema"
         },
         "alternates": {
@@ -137,35 +135,35 @@
     {
       "id": "disminucion-de-la-produccion-de-orina",
       "name": "Disminución de la producción de orina",
-      "shortDescription": "Tos crónica que persiste por más de cuatro semanas, afectando la calidad de vida.",
-      "description": "La tos persistente, o tos crónica, se refiere a aquella que dura más de cuatro semanas en adultos. Puede estar asociada a diversas afecciones, desde resfriados mal curados, alergias y asma, hasta enfermedades respiratorias más graves. La tos es un mecanismo de defensa natural que ayuda a expulsar secreciones o partículas extrañas de las vías aéreas, pero cuando se prolonga, puede indicar un problema de salud no resuelto y afectar significativamente la calidad de vida.",
+      "shortDescription": "Cantidad anormalmente baja de orina (menos de 400 ml en 24 horas), indicando posible falla renal.",
+      "description": "La disminución en la producción de orina, conocida médicamente como oliguria, se refiere a la expulsión de una cantidad anormalmente baja de orina. Este síntoma puede ser un indicador de que los riñones no están funcionando correctamente o de que existe un problema en el tracto urinario.",
       "causes": [
-        "Infecciones respiratorias recurrentes o mal tratadas",
-        "Asma, bronquitis crónica o alergias",
-        "Reflujo gastroesofágico",
-        "Tabaquismo y exposición a contaminantes",
-        "Enfermedades cardíacas o pulmonares subyacentes"
+        "Deshidratación severa por falta de ingesta de líquidos o pérdida excesiva",
+        "Insuficiencia renal aguda o crónica",
+        "Obstrucciones en las vías urinarias (cálculos, tumores)",
+        "Infecciones graves que afectan los riñones o el tracto urinario",
+        "Problemas cardíacos como insuficiencia cardíaca congestiva",
+        "Reacciones adversas a medicamentos (diuréticos o antiinflamatorios)"
       ],
       "relatedConditions": [],
       "managementTips": [],
       "complications": [
-        "Irritación de la garganta y cuerdas vocales",
-        "Fatiga y alteraciones del sueño",
-        "Dolor muscular o torácico por la fuerza de la tos",
-        "Deterioro de la capacidad pulmonar en casos graves",
-        "Dificultad para realizar actividades diarias"
+        "Acumulación de toxinas en el cuerpo por falta de filtración renal",
+        "Daño renal irreversible",
+        "Desequilibrios electrolíticos peligrosos",
+        "Edema pulmonar o hinchazón en otras partes del cuerpo"
       ],
-      "ctaText": "Si padeces tos persistente que no mejora con el paso de los días, es fundamental acudir a consulta para determinar su origen y recibir un tratamiento efectivo. Juntos protegeremos tu salud respiratoria.",
+      "ctaText": "Si notas una disminución significativa en la cantidad de orina que produces, busca atención médica inmediata. Puede ser señal de una condición grave que requiere diagnóstico y tratamiento urgentes.",
       "imageHome": "/images/symptoms/disminucion-de-la-produccion-de-orina.jpg",
       "imageIndividual": "/images/symptoms/disminucion-de-la-produccion-de-orina.jpg",
       "iconIndividual": "",
       "metadata": {
-        "title": "Tratamiento a Tos persistente en Tuxtla Gutiérrez, Chiapas",
-        "description": "La tos crónica puede indicar afecciones respiratorias subyacentes. Consulta al Dra. Gloria Rodas Gallegos para un diagnóstico y manejo oportunos.",
+        "title": "Tratamiento de Oliguria (disminución de orina) en Tuxtla Gutiérrez, Chiapas",
+        "description": "La reducción de orina puede indicar un problema renal o urinario serio. Consulta con la Dra. Gloria Rodas Gallegos para una evaluación inmediata.",
         "keywords": [],
         "openGraph": {
-          "title": "Tratamiento a Tos persistente - Dra. Gloria Rodas Gallegos",
-          "description": "Resuelve la tos prolongada e identifica sus causas para proteger tu salud pulmonar en Tuxtla Gutiérrez.",
+          "title": "Tratamiento de Disminución de Orina - Dra. Gloria Rodas Gallegos",
+          "description": "Descubre las causas de la producción baja de orina y cómo abordar este síntoma para proteger tu salud renal en Tuxtla Gutiérrez.",
           "url": "https://www.nefrologiarodas.com/sintomas/disminucion-de-la-produccion-de-orina"
         },
         "alternates": {

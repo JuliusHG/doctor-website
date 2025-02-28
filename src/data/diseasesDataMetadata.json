@@ -18,65 +18,45 @@
       "id": "falla-renal-aguda",
       "name": "Falla renal aguda",
       "technicalName": "Falla renal aguda",
-      "description": "La hipertensión arterial es una condición crónica caracterizada por una elevación persistente de la presión de la sangre en las arterias. Esto fuerza al corazón a bombear con mayor esfuerzo y, con el tiempo, puede dañar diversos órganos y aumentar el riesgo de complicaciones cardiovasculares y cerebrovasculares.",
-      "shortDescription": "Elevación persistente de la presión arterial, incrementando el riesgo de daños cardiovasculares.",
+      "description": "La falla renal aguda es una condición en la que los riñones pierden de manera repentina su capacidad para filtrar los desechos de la sangre. Esto puede provocar la acumulación de toxinas y líquidos en el cuerpo, afectando el equilibrio de electrolitos y generando complicaciones graves si no se trata a tiempo. Es una emergencia médica que requiere atención inmediata.",
+      "shortDescription": "Pérdida repentina de la función renal que provoca acumulación de toxinas y fluidos, requiriendo atención médica urgente.",
       "causes": [
-        "Genética y antecedentes familiares",
-        "Consumo excesivo de sal",
-        "Dieta alta en grasas saturadas y alimentos procesados",
-        "Falta de actividad física regular",
-        "Consumo excesivo de alcohol",
-        "Estrés crónico",
-        "Sobrepeso u obesidad"
+        "Prerrenal: Disminución del flujo sanguíneo hacia los riñones (deshidratación, hemorragias, problemas cardíacos).",
+        "Renal: Daño directo al tejido renal (infecciones, inflamaciones, ciertos medicamentos).",
+        "Posrenal: Obstrucción en las vías urinarias (cálculos renales, tumores)."
       ],
       "symptoms": [
-        "Dolor de cabeza constante",
-        "Mareos o sensación de inestabilidad",
-        "Visión borrosa",
-        "Zumbido en los oídos",
-        "Cansancio o fatiga inusual"
+        "Disminución en la producción de orina.",
+        "Hinchazón en piernas, tobillos o alrededor de los ojos.",
+        "Fatiga y confusión.",
+        "Náuseas y dificultad para respirar.",
+        "Dolor en la zona lumbar."
       ],
       "complications": [
-        "Enfermedad coronaria (infartos)",
-        "Insuficiencia cardiaca",
-        "Daño renal crónico",
-        "Accidentes cerebrovasculares",
-        "Deterioro de la visión",
-        "Problemas circulatorios en extremidades"
+        "Retención de líquidos (edema pulmonar).",
+        "Alteraciones en los niveles de potasio (arritmias).",
+        "Daño renal permanente (diálisis o trasplante).",
+        "Mayor riesgo de infecciones."
       ],
       "riskFactors": [
-        "Edad mayor de cuarenta años",
-        "Antecedentes familiares de presión alta",
-        "Alimentación poco saludable",
-        "Sedentarismo",
-        "Consumo de tabaco",
-        "Exceso de peso",
-        "Estrés mal gestionado"
+        "Edad avanzada.",
+        "Enfermedades crónicas como diabetes o hipertensión.",
+        "Uso prolongado de medicamentos nefrotóxicos.",
+        "Deshidratación severa.",
+        "Antecedentes de enfermedades renales."
       ],
-      "ctaText": "Si presentas síntomas o deseas prevenir complicaciones, agenda una cita con la Dra. Gloria Rodas Gallegos en Tuxtla Gutiérrez, Chiapas, para un control integral de tu presión arterial.",
+      "ctaText": "Si usted o un familiar presenta síntomas como disminución en la producción de orina, hinchazón o fatiga extrema, no espere más y agenda tu consulta hoy mismo.",
       "mexicoStats": "",
       "treatments": [],
       "imageHome": "/images/diseases/falla-renal-aguda.jpg",
       "imageIndividual": "/images/diseases/falla-renal-aguda.jpg",
       "iconIndividual": "",
       "metadata": {
-        "title": "Tratamiento de Hipertensión Arterial en Tuxtla Gutiérrez, Chiapas",
-        "description": "La hipertensión arterial implica una elevación persistente de la presión sanguínea. Consulta al Dra. Gloria Rodas Gallegos para un control integral y prevenir complicaciones.",
-        "keywords": [
-          "Especialista en Hipertensión arterial en Tuxtla Gutiérrez, Chiapas",
-          "Clínica de Hipertensión arterial en Tuxtla Gutiérrez, Chiapas",
-          "Hospital de Hipertensión arterial en Tuxtla Gutiérrez, Chiapas",
-          "Tratamiento para Hipertensión arterial en Tuxtla Gutiérrez, Chiapas",
-          "Experto en Hipertensión arterial en Tuxtla Gutiérrez, Chiapas",
-          "Centro de Hipertensión arterial en Tuxtla Gutiérrez, Chiapas",
-          "Quién atiende Hipertensión arterial en Tuxtla Gutiérrez, Chiapas",
-          "Médico para Hipertensión arterial en Tuxtla Gutiérrez, Chiapas",
-          "Doctor que atiende Hipertensión arterial en Tuxtla Gutiérrez, Chiapas",
-          "Consulta médica de Hipertensión arterial en Tuxtla Gutiérrez, Chiapas"
-        ],
+        "title": "Tratamiento de Falla Renal Aguda en Tuxtla Gutiérrez, Chiapas",
+        "description": "La falla renal aguda es una emergencia médica que requiere atención inmediata. Consulte con la Dra. Gloria Rodas Gallegos para un diagnóstico y tratamiento oportuno.",
         "openGraph": {
-          "title": "Especialista en Hipertensión Arterial - Dra. Gloria Rodas Gallegos",
-          "description": "Conoce las causas, síntomas y complicaciones de la hipertensión arterial, y obtén un tratamiento completo en Tuxtla Gutiérrez.",
+          "title": "Especialista en Falla Renal Aguda - Dra. Gloria Rodas Gallegos",
+          "description": "Conoce las causas, síntomas y complicaciones de la falla renal aguda y recibe atención especializada en Tuxtla Gutiérrez.",
           "url": "https://www.nefrologiarodas.com/enfermedades/falla-renal-aguda"
         },
         "alternates": {
@@ -88,63 +68,49 @@
       "id": "enfermedad-renal-cronica",
       "name": "Enfermedad renal crónica",
       "technicalName": "Enfermedad renal crónica (ERC)",
-      "description": "La diabetes mellitus tipo 2 es un trastorno metabólico crónico en el que el cuerpo desarrolla resistencia a la insulina o no produce suficiente insulina, elevando los niveles de azúcar en la sangre. Con un manejo adecuado, se pueden evitar complicaciones de salud a largo plazo.",
-      "shortDescription": "Trastorno crónico de la regulación del azúcar en la sangre por resistencia a la insulina o producción insuficiente.",
+      "description": "La insuficiencia renal crónica (ERC) es una enfermedad progresiva en la que los riñones pierden gradualmente su capacidad para filtrar los desechos y excesos de líquidos de la sangre. A diferencia de la insuficiencia renal aguda, esta condición se desarrolla a lo largo de meses o años y, en etapas avanzadas, puede requerir tratamientos como diálisis o trasplante renal.",
+      "shortDescription": "Pérdida progresiva de la función renal que puede llevar a diálisis o trasplante si no se trata adecuadamente.",
       "causes": [
-        "Predisposición genética y antecedentes familiares",
-        "Sobrepeso u obesidad",
-        "Alimentación elevada en azúcares y grasas",
-        "Falta de actividad física",
-        "Factores hormonales y metabólicos"
+        "Diabetes mellitus: Niveles altos de glucosa dañan los vasos sanguíneos renales.",
+        "Hipertensión arterial: La presión alta daña las estructuras renales.",
+        "Enfermedades glomerulares: Daños en los glomérulos.",
+        "Infecciones recurrentes: Como la pielonefritis crónica.",
+        "Obstrucciones prolongadas: Cálculos renales o problemas en las vías urinarias."
       ],
       "symptoms": [
-        "Sed excesiva y micción frecuente",
-        "Fatiga constante",
-        "Hambre excesiva",
-        "Visión borrosa",
-        "Pérdida de peso inexplicable",
-        "Infecciones frecuentes (piel, encías, vías urinarias)"
+        "Fatiga y debilidad constante.",
+        "Hinchazón en piernas, tobillos o pies.",
+        "Dificultad para respirar.",
+        "Náuseas y pérdida de apetito.",
+        "Cambios en la frecuencia y cantidad de orina.",
+        "Picazón en la piel y calambres musculares."
       ],
       "complications": [
-        "Enfermedad cardiovascular",
-        "Daño renal",
-        "Neuropatía periférica",
-        "Retinopatía (posible ceguera)",
-        "Infecciones graves",
-        "Úlceras en pies y riesgo de amputaciones"
+        "Enfermedades cardiovasculares.",
+        "Anemia severa.",
+        "Daño óseo (desequilibrios de calcio y fósforo).",
+        "Acumulación de toxinas que afectan el sistema nervioso.",
+        "Necesidad de diálisis o trasplante renal."
       ],
       "riskFactors": [
-        "Sedentarismo",
-        "Dieta desequilibrada",
-        "Obesidad o sobrepeso",
-        "Edad mayor de cuarenta años",
-        "Antecedentes familiares de diabetes",
-        "Hipertensión arterial y colesterol elevado"
+        "Diabetes no controlada.",
+        "Hipertensión arterial mal manejada.",
+        "Antecedentes familiares de enfermedades renales.",
+        "Obesidad y sedentarismo.",
+        "Consumo excesivo de medicamentos nefrotóxicos."
       ],
-      "ctaText": "Si presentas síntomas o riesgo de diabetes tipo 2, agenda una cita con la Dra. Gloria Rodas Gallegos para un plan integral de control y prevención de complicaciones.",
+      "ctaText": "Si usted presenta síntomas como fatiga constante, hinchazón en las piernas o cambios en la orina, no ignore estas señales. La insuficiencia renal crónica es una condición que requiere atención especializada.",
       "mexicoStats": "",
       "treatments": [],
       "imageHome": "/images/diseases/enfermedad-renal-cronica.jpg",
       "imageIndividual": "/images/diseases/enfermedad-renal-cronica.jpg",
       "iconIndividual": "",
       "metadata": {
-        "title": "Tratamiento de Diabetes Mellitus Tipo 2 en Tuxtla Gutiérrez, Chiapas",
-        "description": "La diabetes mellitus tipo 2 puede manejarse con cambios de estilo de vida y medicación adecuada. Conoce más con la Dra. Gloria Rodas Gallegos.",
-        "keywords": [
-          "Especialista en Diabetes mellitus tipo 2 en Tuxtla Gutiérrez, Chiapas",
-          "Clínica de Diabetes mellitus tipo 2 en Tuxtla Gutiérrez, Chiapas",
-          "Hospital de Diabetes mellitus tipo 2 en Tuxtla Gutiérrez, Chiapas",
-          "Tratamiento para Diabetes mellitus tipo 2 en Tuxtla Gutiérrez, Chiapas",
-          "Experto en Diabetes mellitus tipo 2 en Tuxtla Gutiérrez, Chiapas",
-          "Centro de Diabetes mellitus tipo 2 en Tuxtla Gutiérrez, Chiapas",
-          "Quién atiende Diabetes mellitus tipo 2 en Tuxtla Gutiérrez, Chiapas",
-          "Médico para Diabetes mellitus tipo 2 en Tuxtla Gutiérrez, Chiapas",
-          "Doctor que atiende Diabetes mellitus tipo 2 en Tuxtla Gutiérrez, Chiapas",
-          "Consulta médica de Diabetes mellitus tipo 2 en Tuxtla Gutiérrez, Chiapas"
-        ],
+        "title": "Tratamiento de Enfermedad Renal Crónica en Tuxtla Gutiérrez, Chiapas",
+        "description": "La insuficiencia renal crónica se desarrolla de manera progresiva y puede requerir diálisis. Consulte con la Dra. Gloria Rodas Gallegos para un manejo integral.",
         "openGraph": {
-          "title": "Especialista en Diabetes Tipo 2 - Dra. Gloria Rodas Gallegos",
-          "description": "Descubre cómo prevenir y controlar la diabetes tipo 2 a través de un manejo integral en Tuxtla Gutiérrez.",
+          "title": "Especialista en Enfermedad Renal Crónica - Dra. Gloria Rodas Gallegos",
+          "description": "Conoce las causas, síntomas y complicaciones de la ERC y recibe una atención completa en Tuxtla Gutiérrez.",
           "url": "https://www.nefrologiarodas.com/enfermedades/enfermedad-renal-cronica"
         },
         "alternates": {
@@ -156,62 +122,46 @@
       "id": "glomerulonefritis",
       "name": "Glomerulonefritis",
       "technicalName": "Glomerulonefritis",
-      "description": "El hipotiroidismo ocurre cuando la glándula tiroides produce una cantidad insuficiente de hormonas tiroideas, ocasionando una ralentización de los procesos metabólicos. Esto provoca síntomas como cansancio, aumento de peso y sensibilidad al frío.",
-      "shortDescription": "Producción insuficiente de hormonas tiroideas, ralentizando el metabolismo y disminuyendo la energía.",
+      "description": "La glomerulonefritis es una enfermedad que afecta los glomérulos, las pequeñas estructuras de los riñones encargadas de filtrar la sangre. Cuando estos se inflaman o dañan, los riñones pierden su capacidad para eliminar desechos y excesos de líquidos del cuerpo. Esta condición puede presentarse de forma aguda (repentina) o crónica (progresiva), y requiere atención médica especializada para su manejo.",
+      "shortDescription": "Inflamación de los glomérulos que dificulta la filtración de la sangre, generando retención de desechos y líquidos.",
       "causes": [
-        "Trastornos autoinmunitarios (tiroiditis de Hashimoto)",
-        "Cirugías o tratamientos de la glándula tiroides",
-        "Falta de yodo en la alimentación",
-        "Medicamentos que interfieren en la función tiroidea",
-        "Alteraciones en la hipófisis o el hipotálamo"
+        "Infecciones (faringitis estreptocócica, infecciones virales).",
+        "Enfermedades autoinmunes (lupus, vasculitis).",
+        "Problemas genéticos (formas hereditarias).",
+        "Otras condiciones médicas (diabetes, hipertensión no controlada)."
       ],
       "symptoms": [
-        "Cansancio crónico",
-        "Aumento de peso",
-        "Intolerancia al frío",
-        "Cabello frágil y piel reseca",
-        "Estreñimiento",
-        "Ritmo cardíaco lento",
-        "Cambios de ánimo o depresión"
+        "Sangre en la orina (hematuria).",
+        "Orina espumosa (proteinuria).",
+        "Hinchazón en el rostro, piernas o pies (edema).",
+        "Presión arterial alta.",
+        "Fatiga y debilidad.",
+        "Disminución en la producción de orina."
       ],
       "complications": [
-        "Bocio (agrandamiento de la tiroides)",
-        "Problemas cardiacos",
-        "Trastornos de fertilidad",
-        "Colesterol alto",
-        "Mixedema (forma grave de hipotiroidismo)"
+        "Insuficiencia renal aguda o crónica.",
+        "Enfermedades cardiovasculares (por hipertensión).",
+        "Síndrome nefrótico (pérdida excesiva de proteínas).",
+        "Daño renal permanente (posible diálisis o trasplante)."
       ],
       "riskFactors": [
-        "Ser mujer y mayor de cuarenta años",
-        "Antecedentes familiares de enfermedades tiroideas",
-        "Trastornos autoinmunitarios",
-        "Falta de yodo en la dieta",
-        "Exposición a radiación en cuello"
+        "Antecedentes de infecciones recientes.",
+        "Enfermedades autoinmunes.",
+        "Consumo excesivo de medicamentos que afectan los riñones.",
+        "Antecedentes familiares de enfermedades renales."
       ],
-      "ctaText": "Si presentas síntomas de hipotiroidismo, consulta al Dra. Gloria Rodas Gallegos en Tuxtla Gutiérrez para un diagnóstico oportuno y un manejo adecuado de tu función tiroidea.",
+      "ctaText": "Como nefróloga con experiencia, estoy comprometida a brindarle un diagnóstico preciso y un tratamiento personalizado. Agenda tu cita hoy mismo y cuida la salud de tus riñones.",
       "mexicoStats": "",
       "treatments": [],
       "imageHome": "/images/diseases/glomerulonefritis.jpg",
       "imageIndividual": "/images/diseases/glomerulonefritis.jpg",
       "iconIndividual": "",
       "metadata": {
-        "title": "Tratamiento de Hipotiroidismo en Tuxtla Gutiérrez, Chiapas",
-        "description": "El hipotiroidismo desacelera tu metabolismo y puede ocasionar múltiples molestias. Visita al Dra. Gloria Rodas Gallegos para un control efectivo.",
-        "keywords": [
-          "Especialista en Hipotiroidismo en Tuxtla Gutiérrez, Chiapas",
-          "Clínica de Hipotiroidismo en Tuxtla Gutiérrez, Chiapas",
-          "Hospital de Hipotiroidismo en Tuxtla Gutiérrez, Chiapas",
-          "Tratamiento para Hipotiroidismo en Tuxtla Gutiérrez, Chiapas",
-          "Experto en Hipotiroidismo en Tuxtla Gutiérrez, Chiapas",
-          "Centro de Hipotiroidismo en Tuxtla Gutiérrez, Chiapas",
-          "Quién atiende Hipotiroidismo en Tuxtla Gutiérrez, Chiapas",
-          "Médico para Hipotiroidismo en Tuxtla Gutiérrez, Chiapas",
-          "Doctor que atiende Hipotiroidismo en Tuxtla Gutiérrez, Chiapas",
-          "Consulta médica de Hipotiroidismo en Tuxtla Gutiérrez, Chiapas"
-        ],
+        "title": "Tratamiento de Glomerulonefritis en Tuxtla Gutiérrez, Chiapas",
+        "description": "La glomerulonefritis afecta los glomérulos y puede ser aguda o crónica. Consulte con la Dra. Gloria Rodas Gallegos para un diagnóstico oportuno y tratamiento especializado.",
         "openGraph": {
-          "title": "Especialista en Hipotiroidismo - Dra. Gloria Rodas Gallegos",
-          "description": "Conoce causas y síntomas del hipotiroidismo y recibe atención especializada en Tuxtla Gutiérrez.",
+          "title": "Especialista en Glomerulonefritis - Dra. Gloria Rodas Gallegos",
+          "description": "Identifica las causas y síntomas de la glomerulonefritis para prevenir complicaciones renales mayores. Recibe atención en Tuxtla Gutiérrez.",
           "url": "https://www.nefrologiarodas.com/enfermedades/glomerulonefritis"
         },
         "alternates": {
@@ -223,62 +173,48 @@
       "id": "sindrome-nefrotico",
       "name": "Síndrome nefrótico",
       "technicalName": "Síndrome nefrótico",
-      "description": "El hipertiroidismo aparece cuando la glándula tiroides produce hormonas tiroideas en exceso, acelerando el metabolismo y provocando síntomas como palpitaciones, nerviosismo y pérdida de peso.",
-      "shortDescription": "Exceso de producción de hormonas tiroideas que acelera el metabolismo y desencadena diversas molestias.",
+      "description": "El síndrome nefrótico es un trastorno renal que se caracteriza por la pérdida excesiva de proteínas a través de la orina, niveles bajos de proteínas en la sangre, hinchazón en diferentes partes del cuerpo (edema) y niveles elevados de colesterol y triglicéridos. Esta condición ocurre debido a un daño en los glomérulos, las estructuras de los riñones encargadas de filtrar la sangre.",
+      "shortDescription": "Pérdida excesiva de proteínas en la orina con edema y niveles elevados de colesterol, ocasionado por daño en los glomérulos.",
       "causes": [
-        "Enfermedad de Graves (autoinmunitaria)",
-        "Bocio multinodular tóxico",
-        "Adenoma tóxico de la tiroides",
-        "Tiroiditis con liberación de hormonas",
-        "Consumo excesivo de yodo"
+        "Enfermedades glomerulares (glomeruloesclerosis segmentaria y focal, nefropatía membranosa).",
+        "Diabetes mellitus (daño renal por hiperglucemia).",
+        "Infecciones (VIH, hepatitis B, malaria).",
+        "Enfermedades autoinmunes (lupus).",
+        "Uso de ciertos medicamentos."
       ],
       "symptoms": [
-        "Pérdida de peso rápida",
-        "Frecuencia cardíaca acelerada",
-        "Sensación de calor y sudoración excesiva",
-        "Temblores en las manos",
-        "Ansiedad e irritabilidad",
-        "Insomnio",
-        "Diarrea o evacuaciones frecuentes"
+        "Hinchazón en párpados, piernas, pies y abdomen.",
+        "Orina espumosa (proteinuria).",
+        "Fatiga y debilidad.",
+        "Aumento de peso por retención de líquidos.",
+        "Pérdida de apetito.",
+        "Elevación de colesterol y triglicéridos."
       ],
       "complications": [
-        "Problemas cardíacos (arritmias)",
-        "Crisis tiroidea grave",
-        "Descalcificación ósea y osteoporosis",
-        "Alteraciones oculares (enfermedad de Graves)",
-        "Problemas de fertilidad"
+        "Coágulos sanguíneos (pérdida de proteínas anticoagulantes).",
+        "Infecciones frecuentes (pérdida de anticuerpos).",
+        "Desnutrición y anemia.",
+        "Hipertensión arterial.",
+        "Daño renal progresivo (insuficiencia renal)."
       ],
       "riskFactors": [
-        "Antecedentes familiares de hipertiroidismo",
-        "Ser mujer en edad adulta",
-        "Otros trastornos autoinmunitarios",
-        "Exceso de yodo en la dieta",
-        "Uso de fármacos que alteren la función tiroidea"
+        "Enfermedades crónicas (diabetes, lupus).",
+        "Infecciones virales o bacterianas.",
+        "Antecedentes familiares de enfermedades renales.",
+        "Uso prolongado de medicamentos nefrotóxicos."
       ],
-      "ctaText": "Si detectas signos de hipertiroidismo, agenda tu valoración con la Dra. Gloria Rodas Gallegos para un abordaje integral de tu salud tiroidea.",
+      "ctaText": "Si usted presenta síntomas como hinchazón en el rostro o piernas, orina espumosa o fatiga constante, no ignore estas señales. Agenda tu cita hoy mismo.",
       "mexicoStats": "",
       "treatments": [],
       "imageHome": "/images/diseases/sindrome-nefrotico.jpg",
       "imageIndividual": "/images/diseases/sindrome-nefrotico.jpg",
       "iconIndividual": "",
       "metadata": {
-        "title": "Tratamiento de Hipertiroidismo en Tuxtla Gutiérrez, Chiapas",
-        "description": "El hipertiroidismo acelera tu metabolismo y puede generar palpitaciones y nerviosismo. Consulta al Dra. Gloria Rodas Gallegos para un manejo adecuado.",
-        "keywords": [
-          "Especialista en Hipertiroidismo en Tuxtla Gutiérrez, Chiapas",
-          "Clínica de Hipertiroidismo en Tuxtla Gutiérrez, Chiapas",
-          "Hospital de Hipertiroidismo en Tuxtla Gutiérrez, Chiapas",
-          "Tratamiento para Hipertiroidismo en Tuxtla Gutiérrez, Chiapas",
-          "Experto en Hipertiroidismo en Tuxtla Gutiérrez, Chiapas",
-          "Centro de Hipertiroidismo en Tuxtla Gutiérrez, Chiapas",
-          "Quién atiende Hipertiroidismo en Tuxtla Gutiérrez, Chiapas",
-          "Médico para Hipertiroidismo en Tuxtla Gutiérrez, Chiapas",
-          "Doctor que atiende Hipertiroidismo en Tuxtla Gutiérrez, Chiapas",
-          "Consulta médica de Hipertiroidismo en Tuxtla Gutiérrez, Chiapas"
-        ],
+        "title": "Tratamiento de Síndrome Nefrótico en Tuxtla Gutiérrez, Chiapas",
+        "description": "El síndrome nefrótico implica pérdida excesiva de proteínas, edema y colesterol alto. Consulte con la Dra. Gloria Rodas Gallegos para una atención oportuna.",
         "openGraph": {
-          "title": "Especialista en Hipertiroidismo - Dra. Gloria Rodas Gallegos",
-          "description": "Descubre los síntomas y factores de riesgo del hipertiroidismo y recibe atención en Tuxtla Gutiérrez.",
+          "title": "Especialista en Síndrome Nefrótico - Dra. Gloria Rodas Gallegos",
+          "description": "Conoce las causas y síntomas del síndrome nefrótico para evitar complicaciones renales severas. Recibe atención en Tuxtla Gutiérrez.",
           "url": "https://www.nefrologiarodas.com/enfermedades/sindrome-nefrotico"
         },
         "alternates": {
@@ -290,60 +226,47 @@
       "id": "nefropatia-diabetica",
       "name": "Nefropatía diabética",
       "technicalName": "Nefropatía diabética",
-      "description": "La hipercolesterolemia consiste en un nivel elevado de colesterol en sangre, especialmente del tipo LDL. Con el tiempo, el exceso de colesterol puede acumularse en las arterias y aumentar el riesgo de desarrollar enfermedades cardiovasculares.",
-      "shortDescription": "Exceso de colesterol LDL que incrementa el riesgo de placas en las arterias y complicaciones cardíacas.",
+      "description": "La nefropatía diabética es una complicación grave de la diabetes mellitus que afecta los riñones. Ocurre cuando los niveles altos de glucosa en la sangre dañan los vasos sanguíneos de los glomérulos, las estructuras encargadas de filtrar los desechos. Con el tiempo, esto puede llevar a una pérdida progresiva de la función renal y, en casos avanzados, a insuficiencia renal crónica.",
+      "shortDescription": "Daño renal por niveles altos de glucosa en sangre, que afecta gradualmente la función de filtrado y puede llevar a insuficiencia renal.",
       "causes": [
-        "Dieta rica en grasas saturadas y trans",
-        "Predisposición genética",
-        "Falta de actividad física",
-        "Sobrepeso u obesidad",
-        "Condiciones médicas como hipotiroidismo",
-        "Tabaco y alcohol en exceso"
+        "Diabetes mellitus mal controlada (tipo 1 y 2).",
+        "Hipertensión arterial no controlada.",
+        "Antecedentes familiares de enfermedad renal.",
+        "Tabaquismo y obesidad."
       ],
       "symptoms": [
-        "Generalmente asintomática en fases iniciales",
-        "Dolores en el pecho en etapas avanzadas",
-        "Xantomas (depósitos de grasa en piel o tendones)"
+        "Hinchazón en piernas, tobillos o pies (edema).",
+        "Fatiga y debilidad constante.",
+        "Náuseas y pérdida de apetito.",
+        "Dificultad para concentrarse.",
+        "Aumento de la necesidad de orinar (especialmente de noche).",
+        "Presión arterial alta."
       ],
       "complications": [
-        "Formación de placas de ateroma",
-        "Enfermedades coronarias e infartos",
-        "Accidentes cerebrovasculares",
-        "Hipertensión arterial secundaria",
-        "Arteriosclerosis prematura"
+        "Insuficiencia renal crónica (posible diálisis o trasplante).",
+        "Enfermedades cardiovasculares (infartos, accidentes cerebrovasculares).",
+        "Anemia (disminución de eritropoyetina).",
+        "Desequilibrios electrolíticos."
       ],
       "riskFactors": [
-        "Edad avanzada",
-        "Antecedentes familiares de enfermedades cardiovasculares",
-        "Dieta inadecuada (exceso de grasas, azúcares, sal)",
-        "Estilo de vida sedentario",
-        "Tabaquismo",
-        "Estrés crónico"
+        "Diabetes de larga evolución sin control adecuado.",
+        "Hipertensión arterial no tratada.",
+        "Niveles elevados de colesterol y triglicéridos.",
+        "Tabaquismo y consumo excesivo de alcohol.",
+        "Antecedentes familiares de enfermedad renal."
       ],
-      "ctaText": "Si sospechas niveles altos de colesterol, agenda una cita con la Dra. Gloria Rodas Gallegos para evaluar tu perfil lipídico y cuidar tu salud cardiovascular.",
+      "ctaText": "Agenda tu cita hoy mismo y cuida la salud de tus riñones. La nefropatía diabética es una condición que requiere atención especializada.",
       "mexicoStats": "",
       "treatments": [],
       "imageHome": "/images/diseases/nefropatia-diabetica.jpg",
       "imageIndividual": "/images/diseases/nefropatia-diabetica.jpg",
       "iconIndividual": "",
       "metadata": {
-        "title": "Tratamiento de Hipercolesterolemia en Tuxtla Gutiérrez, Chiapas",
-        "description": "La hipercolesterolemia eleva el riesgo de enfermedades cardiovasculares. Consulta al Dra. Gloria Rodas Gallegos para un control efectivo.",
-        "keywords": [
-          "Especialista en Hipercolesterolemia en Tuxtla Gutiérrez, Chiapas",
-          "Clínica de Hipercolesterolemia en Tuxtla Gutiérrez, Chiapas",
-          "Hospital de Hipercolesterolemia en Tuxtla Gutiérrez, Chiapas",
-          "Tratamiento para Hipercolesterolemia en Tuxtla Gutiérrez, Chiapas",
-          "Experto en Hipercolesterolemia en Tuxtla Gutiérrez, Chiapas",
-          "Centro de Hipercolesterolemia en Tuxtla Gutiérrez, Chiapas",
-          "Quién atiende Hipercolesterolemia en Tuxtla Gutiérrez, Chiapas",
-          "Médico para Hipercolesterolemia en Tuxtla Gutiérrez, Chiapas",
-          "Doctor que atiende Hipercolesterolemia en Tuxtla Gutiérrez, Chiapas",
-          "Consulta médica de Hipercolesterolemia en Tuxtla Gutiérrez, Chiapas"
-        ],
+        "title": "Tratamiento de Nefropatía Diabética en Tuxtla Gutiérrez, Chiapas",
+        "description": "La nefropatía diabética afecta a quienes padecen diabetes mal controlada. Acude con la Dra. Gloria Rodas Gallegos para frenar su progresión y proteger tu función renal.",
         "openGraph": {
-          "title": "Especialista en Hipercolesterolemia - Dra. Gloria Rodas Gallegos",
-          "description": "Controla tus niveles de colesterol y prevén complicaciones cardíacas con un manejo adecuado en Tuxtla Gutiérrez.",
+          "title": "Especialista en Nefropatía Diabética - Dra. Gloria Rodas Gallegos",
+          "description": "Conoce las causas y síntomas de la nefropatía diabética y cómo prevenir la insuficiencia renal. Atención especializada en Tuxtla Gutiérrez.",
           "url": "https://www.nefrologiarodas.com/enfermedades/nefropatia-diabetica"
         },
         "alternates": {
@@ -355,58 +278,47 @@
       "id": "pielonefritis",
       "name": "Pielonefritis",
       "technicalName": "Pielonefritis ",
-      "description": "Las dislipidemias abarcan alteraciones en los niveles de lípidos en la sangre (colesterol total, LDL, HDL y triglicéridos). Este desequilibrio puede pasar inadvertido, pero eleva el riesgo de problemas cardiovasculares a largo plazo si no se corrige.",
-      "shortDescription": "Desequilibrios en los niveles de colesterol y triglicéridos que comprometen la salud cardiovascular.",
+      "description": "La pielonefritis es una infección renal que afecta directamente a los riñones, causando inflamación y dolor. Esta condición puede ser aguda o crónica y, si no se trata adecuadamente, puede llevar a complicaciones graves. Los riñones son órganos vitales que filtran los desechos de la sangre, por lo que cualquier infección en esta zona requiere atención médica inmediata.",
+      "shortDescription": "Infección renal que provoca inflamación, dolor y posibles complicaciones graves si no se trata de forma oportuna.",
       "causes": [
-        "Herencia o predisposición genética",
-        "Dieta rica en grasas y azúcares refinados",
-        "Obesidad y sobrepeso",
-        "Sedentarismo",
-        "Alcohol en exceso",
-        "Trastornos hormonales o tiroideos"
+        "Bacterias ascendentes desde el tracto urinario inferior (E. coli).",
+        "Obstrucciones en el tracto urinario (cálculos).",
+        "Condiciones que debilitan el sistema inmunológico.",
+        "Uso prolongado de catéteres urinarios."
       ],
       "symptoms": [
-        "Generalmente silenciosas en fases iniciales",
-        "Dolor torácico por mala circulación en etapas avanzadas",
-        "Depósitos grasos en ojos o tendones (xantomas)"
+        "Dolor intenso en la parte baja de la espalda o costados.",
+        "Fiebre alta y escalofríos.",
+        "Náuseas y vómitos.",
+        "Dolor o ardor al orinar.",
+        "Orina turbia o con mal olor.",
+        "Fatiga y malestar general."
       ],
       "complications": [
-        "Mayor riesgo de infartos y accidentes cerebrovasculares",
-        "Arteriosclerosis",
-        "Hipertensión arterial secundaria",
-        "Daños en hígado o páncreas por triglicéridos altos"
+        "Daño renal permanente.",
+        "Sepsis (infección generalizada).",
+        "Abscesos renales.",
+        "Insuficiencia renal crónica."
       ],
       "riskFactors": [
-        "Historia familiar de dislipidemias",
-        "Alimentación desequilibrada",
-        "Sedentarismo",
-        "Estrés y hábitos no saludables",
-        "Consumo de tabaco y alcohol"
+        "Ser mujer (anatomía del tracto urinario).",
+        "Infecciones urinarias recurrentes.",
+        "Diabetes o enfermedades inmunodepresoras.",
+        "Uso prolongado de catéteres urinarios.",
+        "Embarazo."
       ],
-      "ctaText": "Si deseas mejorar tu perfil lipídico o tienes factores de riesgo, agenda tu consulta con la Dra. Gloria Rodas Gallegos para una evaluación integral y un plan personalizado.",
+      "ctaText": "Si experimentas alguno de los síntomas mencionados, no dudes en buscar atención médica inmediata. Conmigo especialista en nefrología en Chiapas.",
       "mexicoStats": "",
       "treatments": [],
       "imageHome": "/images/diseases/pielonefritis.jpg",
       "imageIndividual": "/images/diseases/pielonefritis.jpg",
       "iconIndividual": "",
       "metadata": {
-        "title": "Tratamiento de Dislipidemias en Tuxtla Gutiérrez, Chiapas",
-        "description": "Las dislipidemias elevan el riesgo de complicaciones cardíacas. Conoce cómo controlarlas con la Dra. Gloria Rodas Gallegos.",
-        "keywords": [
-          "Especialista en Dislipidemias en Tuxtla Gutiérrez, Chiapas",
-          "Clínica de Dislipidemias en Tuxtla Gutiérrez, Chiapas",
-          "Hospital de Dislipidemias en Tuxtla Gutiérrez, Chiapas",
-          "Tratamiento para Dislipidemias en Tuxtla Gutiérrez, Chiapas",
-          "Experto en Dislipidemias en Tuxtla Gutiérrez, Chiapas",
-          "Centro de Dislipidemias en Tuxtla Gutiérrez, Chiapas",
-          "Quién atiende Dislipidemias en Tuxtla Gutiérrez, Chiapas",
-          "Médico para Dislipidemias en Tuxtla Gutiérrez, Chiapas",
-          "Doctor que atiende Dislipidemias en Tuxtla Gutiérrez, Chiapas",
-          "Consulta médica de Dislipidemias en Tuxtla Gutiérrez, Chiapas"
-        ],
+        "title": "Tratamiento de Pielonefritis en Tuxtla Gutiérrez, Chiapas",
+        "description": "La pielonefritis es una infección que puede afectar gravemente los riñones. Consulte con la Dra. Gloria Rodas Gallegos para recibir tratamiento oportuno.",
         "openGraph": {
-          "title": "Especialista en Dislipidemias - Dra. Gloria Rodas Gallegos",
-          "description": "Descubre cómo manejar tus niveles de colesterol y triglicéridos para proteger tu salud cardiovascular.",
+          "title": "Especialista en Pielonefritis - Dra. Gloria Rodas Gallegos",
+          "description": "Descubre cómo prevenir y tratar la infección renal (pielonefritis) para evitar complicaciones mayores. Atención en Tuxtla Gutiérrez.",
           "url": "https://www.nefrologiarodas.com/enfermedades/pielonefritis "
         },
         "alternates": {
@@ -418,62 +330,47 @@
       "id": "nefrolitiasis",
       "name": "Nefrolitiasis (Cálculos renales)",
       "technicalName": "Nefrolitiasis",
-      "description": "La gastritis es la inflamación de la mucosa que recubre el estómago. Puede presentarse de forma aguda o crónica y suele relacionarse con infección por Helicobacter pylori, uso prolongado de medicamentos, alimentos irritantes o alcohol.",
-      "shortDescription": "Inflamación de la mucosa estomacal que causa ardor, dolor y molestias digestivas.",
+      "description": "La nefrolitiasis, comúnmente conocida como cálculos renales, es una condición en la que se forman depósitos sólidos de minerales y sales en los riñones. Estos cálculos pueden variar en tamaño, desde granos de arena hasta piedras más grandes, y pueden causar dolor intenso al moverse a través del tracto urinario. Si no se tratan, pueden obstruir el flujo de orina y provocar complicaciones graves.",
+      "shortDescription": "Formación de depósitos sólidos (cálculos) en los riñones, que pueden generar dolor intenso y obstruir el flujo urinario.",
       "causes": [
-        "Infección por Helicobacter pylori",
-        "Uso crónico de AINEs o analgésicos",
-        "Consumo excesivo de alcohol o tabaco",
-        "Obesidad y comidas copiosas",
-        "Hernia hiatal",
-        "Estrés crónico"
+        "Deshidratación o ingesta insuficiente de líquidos.",
+        "Dieta alta en sodio, proteínas o azúcares.",
+        "Condiciones médicas (gota, infecciones urinarias recurrentes).",
+        "Factores genéticos o antecedentes familiares de cálculos renales."
       ],
       "symptoms": [
-        "Dolor o ardor en la parte superior del abdomen",
-        "Náuseas, vómitos y eructos",
-        "Acidez o pirosis",
-        "Regurgitación de alimentos o ácidos",
-        "Dificultad al tragar en casos severos"
+        "Dolor agudo en la parte baja de la espalda o el costado (cólico renal).",
+        "Dolor que se irradia hacia la parte inferior del abdomen o la ingle.",
+        "Sangre en la orina (hematuria).",
+        "Náuseas y vómitos.",
+        "Dolor o dificultad al orinar.",
+        "Orina turbia o con olor fuerte."
       ],
       "complications": [
-        "Úlceras y erosiones en mucosa gástrica o esofágica",
-        "Hemorragias digestivas",
-        "Esofagitis erosiva",
-        "Esófago de Barrett",
-        "Mayor riesgo de cáncer gástrico o esofágico"
+        "Infecciones urinarias recurrentes.",
+        "Daño renal permanente por obstrucción.",
+        "Pérdida de la función renal en casos severos.",
+        "Formación de cálculos más grandes."
       ],
       "riskFactors": [
-        "Estrés físico o emocional constante",
-        "Malos hábitos alimenticios",
-        "Obesidad o sobrepeso",
-        "Exceso de alcohol y tabaco",
-        "Embarazo (por presión intraabdominal)",
-        "Antecedentes familiares de trastornos digestivos"
+        "Ingesta insuficiente de agua.",
+        "Dieta rica en sodio, azúcares o proteínas animales.",
+        "Obesidad o sobrepeso.",
+        "Enfermedades como diabetes, hipertensión o gota.",
+        "Antecedentes familiares de nefrolitiasis."
       ],
-      "ctaText": "Si sufres de acidez estomacal o dolores recurrentes, reserva una cita con la Dra. Gloria Rodas Gallegos para un diagnóstico y tratamiento oportuno.",
+      "ctaText": "Como especialista en nefrología en Chiapas, estoy aquí para brindarte un diagnóstico preciso y un tratamiento efectivo. Agenda tu cita hoy mismo y cuida de la salud de tus riñones.",
       "mexicoStats": "",
       "treatments": [],
       "imageHome": "/images/diseases/nefrolitiasis.jpg",
       "imageIndividual": "/images/diseases/nefrolitiasis.jpg",
       "iconIndividual": "",
       "metadata": {
-        "title": "Tratamiento de Gastritis en Tuxtla Gutiérrez, Chiapas",
-        "description": "La gastritis puede generar dolor y ardor estomacal persistente. Consulta al Dra. Gloria Rodas Gallegos para detectar y tratar sus causas.",
-        "keywords": [
-          "Especialista en Gastritis en Tuxtla Gutiérrez, Chiapas",
-          "Clínica de Gastritis en Tuxtla Gutiérrez, Chiapas",
-          "Hospital de Gastritis en Tuxtla Gutiérrez, Chiapas",
-          "Tratamiento para Gastritis en Tuxtla Gutiérrez, Chiapas",
-          "Experto en Gastritis en Tuxtla Gutiérrez, Chiapas",
-          "Centro de Gastritis en Tuxtla Gutiérrez, Chiapas",
-          "Quién atiende Gastritis en Tuxtla Gutiérrez, Chiapas",
-          "Médico para Gastritis en Tuxtla Gutiérrez, Chiapas",
-          "Doctor que atiende Gastritis en Tuxtla Gutiérrez, Chiapas",
-          "Consulta médica de Gastritis en Tuxtla Gutiérrez, Chiapas"
-        ],
+        "title": "Tratamiento de Nefrolitiasis (Cálculos Renales) en Tuxtla Gutiérrez, Chiapas",
+        "description": "La formación de cálculos renales puede causar dolor intenso y complicaciones. Consulte con la Dra. Gloria Rodas Gallegos para un tratamiento adecuado.",
         "openGraph": {
-          "title": "Especialista en Gastritis - Dra. Gloria Rodas Gallegos",
-          "description": "Aprende a manejar la gastritis y evita complicaciones digestivas con atención especializada en Tuxtla Gutiérrez.",
+          "title": "Especialista en Cálculos Renales - Dra. Gloria Rodas Gallegos",
+          "description": "Conoce las causas y síntomas de la nefrolitiasis y recibe atención especializada para prevenir daños renales en Tuxtla Gutiérrez.",
           "url": "https://www.nefrologiarodas.com/enfermedades/nefrolitiasis"
         },
         "alternates": {
@@ -485,62 +382,46 @@
       "id": "enfermedad-renal-poliquistica",
       "name": "Enfermedad renal poliquística (ERP)",
       "technicalName": "Enfermedad renal poliquística (ERP)",
-      "description": "El reflujo gastroesofágico ocurre cuando el contenido ácido del estómago regresa al esófago de forma recurrente. Esta situación provoca acidez, ardor y posibles complicaciones si no se trata.",
-      "shortDescription": "Retorno del ácido estomacal al esófago, causando acidez, ardor y posibles complicaciones.",
+      "description": "La enfermedad renal poliquística (ERP) es un trastorno genético caracterizado por el crecimiento de múltiples quistes en los riñones. Estos quistes, llenos de líquido, pueden aumentar de tamaño con el tiempo y afectar la función renal, llevando eventualmente a insuficiencia renal. La ERP es una de las causas más comunes de enfermedad renal crónica y puede estar asociada con complicaciones en otros órganos, como el hígado y el corazón.",
+      "shortDescription": "Trastorno genético con crecimiento de múltiples quistes renales que comprometen progresivamente la función de los riñones.",
       "causes": [
-        "Infección por Helicobacter pylori",
-        "Uso crónico de AINEs o analgésicos",
-        "Consumo excesivo de alcohol o tabaco",
-        "Obesidad y comidas copiosas",
-        "Hernia hiatal",
-        "Estrés crónico"
+        "Mutaciones genéticas heredadas (autosómica dominante o recesiva).",
+        "Crecimiento anormal de quistes en los riñones.",
+        "Otras condiciones médicas que agravan la formación de quistes."
       ],
       "symptoms": [
-        "Dolor o ardor en la parte superior del abdomen",
-        "Náuseas, vómitos y eructos",
-        "Acidez o pirosis",
-        "Regurgitación de alimentos o ácidos",
-        "Dificultad al tragar en casos severos"
+        "Dolor en la espalda o costados.",
+        "Presión arterial alta (hipertensión).",
+        "Sangre en la orina (hematuria).",
+        "Infecciones urinarias recurrentes.",
+        "Sensación de pesadez o hinchazón abdominal.",
+        "Fatiga y debilidad."
       ],
       "complications": [
-        "Úlceras y erosiones en mucosa gástrica o esofágica",
-        "Hemorragias digestivas",
-        "Esofagitis erosiva",
-        "Esófago de Barrett",
-        "Mayor riesgo de cáncer gástrico o esofágico"
+        "Insuficiencia renal crónica o terminal.",
+        "Quistes en hígado u otros órganos.",
+        "Aneurismas cerebrales (posibles hemorragias).",
+        "Problemas cardíacos (valvulopatías).",
+        "Complicaciones durante el embarazo."
       ],
       "riskFactors": [
-        "Estrés físico o emocional constante",
-        "Malos hábitos alimenticios",
-        "Obesidad o sobrepeso",
-        "Exceso de alcohol y tabaco",
-        "Embarazo (por presión intraabdominal)",
-        "Antecedentes familiares de trastornos digestivos"
+        "Antecedentes familiares de ERP.",
+        "Edad avanzada.",
+        "Forma autosómica dominante.",
+        "Presencia de otras condiciones como hipertensión o diabetes."
       ],
-      "ctaText": "Si sufres de acidez estomacal constante o regurgitación, consulta al Dra. Gloria Rodas Gallegos para un manejo integral del reflujo gastroesofágico.",
+      "ctaText": "Soy la Dra. Gloria Rodas Gallegos estoy comprometida con el diagnóstico y tratamiento de esta condición. Agenda tu cita hoy mismo y toma el control de tu salud renal.",
       "mexicoStats": "",
       "treatments": [],
       "imageHome": "/images/diseases/enfermedad-renal-poliquistica.jpg",
       "imageIndividual": "/images/diseases/enfermedad-renal-poliquistica.jpg",
       "iconIndividual": "",
       "metadata": {
-        "title": "Tratamiento de Reflujo Gastroesofágico (ERGE) en Tuxtla Gutiérrez, Chiapas",
-        "description": "El reflujo gastroesofágico causa ardor y malestar tras las comidas. Acude al Dra. Gloria Rodas Gallegos para evitar complicaciones mayores.",
-        "keywords": [
-          "Especialista en Enfermedad por Reflujo Gastroesofágico en Tuxtla Gutiérrez, Chiapas",
-          "Clínica de Enfermedad por Reflujo Gastroesofágico en Tuxtla Gutiérrez, Chiapas",
-          "Hospital de Enfermedad por Reflujo Gastroesofágico en Tuxtla Gutiérrez, Chiapas",
-          "Tratamiento para Enfermedad por Reflujo Gastroesofágico en Tuxtla Gutiérrez, Chiapas",
-          "Experto en Enfermedad por Reflujo Gastroesofágico en Tuxtla Gutiérrez, Chiapas",
-          "Centro de Enfermedad por Reflujo Gastroesofágico en Tuxtla Gutiérrez, Chiapas",
-          "Quién atiende Enfermedad por Reflujo Gastroesofágico en Tuxtla Gutiérrez, Chiapas",
-          "Médico para Enfermedad por Reflujo Gastroesofágico en Tuxtla Gutiérrez, Chiapas",
-          "Doctor que atiende Enfermedad por Reflujo Gastroesofágico en Tuxtla Gutiérrez, Chiapas",
-          "Consulta médica de Enfermedad por Reflujo Gastroesofágico en Tuxtla Gutiérrez, Chiapas"
-        ],
+        "title": "Tratamiento de Enfermedad Renal Poliquística (ERP) en Tuxtla Gutiérrez, Chiapas",
+        "description": "La enfermedad renal poliquística es un trastorno genético que puede llevar a la insuficiencia renal. Consulte con la Dra. Gloria Rodas Gallegos para un manejo integral.",
         "openGraph": {
-          "title": "Especialista en ERGE - Dra. Gloria Rodas Gallegos",
-          "description": "Conoce las causas y síntomas del reflujo gastroesofágico y evita daños esofágicos a largo plazo con un tratamiento adecuado.",
+          "title": "Especialista en Enfermedad Renal Poliquística - Dra. Gloria Rodas Gallegos",
+          "description": "Descubre cómo detectar y controlar la enfermedad renal poliquística antes de que progrese a etapas graves. Atención en Tuxtla Gutiérrez.",
           "url": "https://www.nefrologiarodas.com/enfermedades/enfermedad-renal-poliquistica"
         },
         "alternates": {
@@ -552,60 +433,45 @@
       "id": "hipertension-renovascular",
       "name": "Hipertensión renovascular",
       "technicalName": "Hipertensión renovascular",
-      "description": "El síndrome metabólico es un conjunto de alteraciones que incluyen hipertensión arterial, hiperglucemia, triglicéridos elevados, bajo colesterol HDL y exceso de grasa abdominal, aumentando el riesgo de desarrollar enfermedades cardiovasculares y diabetes.",
-      "shortDescription": "Conjunto de alteraciones que elevan el riesgo de diabetes y problemas cardiovasculares.",
+      "description": "La hipertensión renovascular es un tipo de presión arterial alta causada por el estrechamiento o bloqueo de las arterias que suministran sangre a los riñones (arterias renales). Esta condición reduce el flujo sanguíneo hacia los riñones, lo que activa mecanismos que aumentan la presión arterial en todo el cuerpo. Si no se trata, puede llevar a daño renal y complicaciones cardiovasculares.",
+      "shortDescription": "Presión arterial alta provocada por estrechamiento de las arterias renales, que reduce el flujo sanguíneo hacia los riñones.",
       "causes": [
-        "Dieta alta en azúcares, grasas saturadas y exceso calórico",
-        "Falta de actividad física",
-        "Predisposición genética",
-        "Estrés crónico y malos hábitos de sueño",
-        "Factores hormonales o metabólicos"
+        "Aterosclerosis (acumulación de placa en arterias renales).",
+        "Displasia fibromuscular (estrechamiento anormal de arterias).",
+        "Otras causas (coágulos, traumatismos, inflamación de arterias)."
       ],
       "symptoms": [
-        "Presión arterial elevada",
-        "Aumento de la circunferencia de la cintura",
-        "Fatiga y resistencia a la insulina",
-        "Dificultad para la movilidad",
-        "Apnea del sueño y sudoración excesiva"
+        "Presión arterial alta difícil de controlar.",
+        "Disminución en la función renal.",
+        "Hinchazón en piernas o pies.",
+        "Fatiga y confusión.",
+        "Zumbido en los oídos o visión borrosa."
       ],
       "complications": [
-        "Enfermedades cardiovasculares",
-        "Diabetes mellitus tipo 2",
-        "Hígado graso no alcohólico",
-        "Artrosis y desgaste articular",
-        "Apnea obstructiva del sueño"
+        "Insuficiencia renal crónica.",
+        "Enfermedades cardiovasculares (infartos, accidentes cerebrovasculares).",
+        "Daño permanente a los riñones (diálisis).",
+        "Hipertensión maligna."
       ],
       "riskFactors": [
-        "Sedentarismo",
-        "Dieta inadecuada y alta en calorías",
-        "Antecedentes familiares de obesidad o diabetes",
-        "Estrés y malos hábitos de sueño",
-        "Falta de controles médicos regulares"
+        "Edad avanzada.",
+        "Tabaquismo y obesidad.",
+        "Niveles altos de colesterol.",
+        "Diabetes mellitus.",
+        "Antecedentes de enfermedades cardiovasculares."
       ],
-      "ctaText": "Si notas un aumento de peso difícil de controlar o alteraciones metabólicas, agenda tu cita con la Dra. Gloria Rodas Gallegos para un enfoque integral en Tuxtla Gutiérrez.",
+      "ctaText": "No dejes que tu salud renal espere. Estoy lista para ayudarte. ¡Agenda tu cita hoy y toma el control de tu salud!",
       "mexicoStats": "",
       "treatments": [],
       "imageHome": "/images/diseases/hipertension-renovascular.jpg",
       "imageIndividual": "/images/diseases/hipertension-renovascular.jpg",
       "iconIndividual": "",
       "metadata": {
-        "title": "Tratamiento de Síndrome Metabólico en Tuxtla Gutiérrez, Chiapas",
-        "description": "El síndrome metabólico combina factores de riesgo que incrementan la posibilidad de sufrir diabetes y cardiopatías. Consulta al Dra. Gloria Rodas Gallegos.",
-        "keywords": [
-          "Especialista en Síndrome metabólico en Tuxtla, Chiapas",
-          "Clínica de Síndrome metabólico en Tuxtla, Chiapas",
-          "Hospital de Síndrome metabólico en Tuxtla, Chiapas",
-          "Tratamiento para Síndrome metabólico en Tuxtla, Chiapas",
-          "Experto en Síndrome metabólico en Tuxtla, Chiapas",
-          "Centro de Síndrome metabólico en Tuxtla, Chiapas",
-          "Quién atiende Síndrome metabólico en Tuxtla, Chiapas",
-          "Médico para Síndrome metabólico en Tuxtla, Chiapas",
-          "Doctor que atiende Síndrome metabólico en Tuxtla, Chiapas",
-          "Consulta médica de Síndrome metabólico en Tuxtla, Chiapas"
-        ],
+        "title": "Tratamiento de Hipertensión Renovascular en Tuxtla Gutiérrez, Chiapas",
+        "description": "La hipertensión renovascular surge por obstrucciones en las arterias renales. Consulta con la Dra. Gloria Rodas Gallegos para un diagnóstico certero y tratamiento eficaz.",
         "openGraph": {
-          "title": "Especialista en Síndrome Metabólico - Dra. Gloria Rodas Gallegos",
-          "description": "Identifica y controla los factores del síndrome metabólico para mejorar tu salud a largo plazo.",
+          "title": "Especialista en Hipertensión Renovascular - Dra. Gloria Rodas Gallegos",
+          "description": "Descubre las causas, síntomas y complicaciones de la hipertensión renovascular y recibe atención especializada en Tuxtla Gutiérrez.",
           "url": "https://www.nefrologiarodas.com/enfermedades/hipertension-renovascular"
         },
         "alternates": {

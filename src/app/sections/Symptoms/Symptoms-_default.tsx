@@ -28,15 +28,16 @@ export default function SymptomsSection() {
   }
 
   // Limit to 6 symptoms for the home page
-  const displayedSymptoms = content.symptomsDataMetadata.symptoms.slice(0, 6)
+  const displayedSymptoms = content.symptomsDataMetadata.symptoms.slice(0, 3)
 
   return (
-    <section className="py-16 bg-gray-50">
+    <section className="py-16 bg-gray-200">
       <div className="container mx-auto px-4">
-        <h2 className="text-3xl font-bold mb-12 text-center">{content.symptoms.sectionTitle}</h2>
+        <h2 className="text-lg text-dw-soft font-bold uppercase mb-4 text-center">{content.symptoms.sectionTitle}</h2>
+        <h3 className="text-4xl text-dw-dark font-extrabold mb-12 text-center">{content.symptoms.sectionSubtitle}</h3>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {displayedSymptoms.map((symptom) => (
-            <div key={symptom.id} className="bg-white p-6 rounded-lg shadow-md flex items-start">
+            <div key={symptom.id} className="bg-white p-6 rounded-lg flex items-start">
               <Stethoscope className="w-6 h-6 text-pink-500 mr-4 flex-shrink-0 mt-1" />
               <div>
                 <h3 className="text-xl font-semibold mb-2">{symptom.name}</h3>

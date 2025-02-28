@@ -6,6 +6,7 @@ import TitleSection from "../sections/common/TitleSection"
 import ReturnButton from "../sections/common/ReturnButton"
 import diseasesData from "../../data/diseasesDataMetadata.json"
 import siteContent from "../../data/site-content.json"
+import { ArrowRight } from "lucide-react"
 
 export const metadata: Metadata = {
   title: diseasesData.enfermedadesMeta.main.title,
@@ -16,7 +17,7 @@ export const metadata: Metadata = {
 
 export default function DiseasesPage() {
   const { backgroundImage, pageTitle, sectionTitle, sectionSubtitle } = siteContent.diseasesSection.page
-  
+
   return (
     <main>
       <IntroSection backgroundImage={backgroundImage} text={pageTitle} />
@@ -27,23 +28,23 @@ export default function DiseasesPage() {
             {diseasesData.diseases.map((disease) => (
               <Link href={`/enfermedades/${disease.id}`} key={disease.id} className="block">
                 <div className="bg-white rounded-lg overflow-hidden transition-transform duration-300 hover:scale-105">
-                  <Image
-                    src={disease.imageHome || "/placeholder.svg"}
-                    alt={disease.name}
-                    width={400}
-                    height={300}
-                    className="w-full h-48 object-cover"
-                  />
-                  {/* <Image
-                    src={disease.iconIndividual || "/placeholder.svg"}
-                    alt={disease.name}
-                    width={300}
-                    height={200}
-                    className="w-full h-32 object-contain"
-                  /> */}
-                  <div className="p-6 mb-16">
-                    <h3 className="text-2xl text-dw-dark font-semibold mb-2">{disease.name}</h3>
-                    <p className="text-gray-600">{disease.shortDescription}</p>
+                  <div className="aspect-[4/3] relative">
+                    <Image
+                      src={disease.imageHome || "/placeholder.svg"}
+                      alt={disease.name}
+                      fill
+                      className="object-cover"
+                    />
+                  </div>
+                  <div className="p-6 h-56 text-center flex flex-col">
+                    <h3 className="text-2xl text-dw-dark font-extrabold mb-2 h-24 overflow-hidden">{disease.name}</h3>
+                    <p className="text-gray-600 mb-2 h-64 overflow-hidden">{disease.shortDescription}</p>
+                    <div className="mt-4 flex justify-center">
+                      <button className="bg-dw-dark text-white px-4 py-2 rounded-full flex items-center">
+                        {siteContent.diseasesSection.linkText}
+                        <ArrowRight className="ml-1 h-4 w-4" />
+                      </button>
+                    </div>
                   </div>
                 </div>
               </Link>
@@ -53,9 +54,6 @@ export default function DiseasesPage() {
       </section>
       <div className="container mx-auto px-4 py-8 flex justify-between">
         <ReturnButton href="/" label="Volver al Inicio" />
-        {/*<Link href="#" className="bg-blue-600 text-white px-6 py-3 rounded-full hover:bg-blue-700 transition-colors">
-          {buttonText}
-        </Link>*/}
       </div>
     </main>
   )

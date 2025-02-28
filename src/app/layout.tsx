@@ -2,10 +2,11 @@ import "./globals.css"
 import type React from "react"
 import { metadata as baseMetadata } from "../interfaces/metadata"
 import metadataJson from "../data/metadata.json"
-import { importSection, getSelectedSections } from "@/src/app/utils/sectionsImports"
+import { importSection, getSelectedSections } from "@/src/utils/sectionsImports"
 import { teko, nunitoSans } from "@/fonts"
 import FloatingButtons from "./sections/common/FloatingButtons"
 import { Toaster } from "@/components/ui/toaster"
+import { Suspense } from "react"
 
 // Extend the base metadata with favicon information
 export const metadata = {
@@ -24,11 +25,30 @@ export const metadata = {
   },
 }
 
-export default async function RootLayout({
+export default function RootLayout({
   children,
 }: {
   children: React.ReactNode
 }) {
+  return (
+    <html lang={metadataJson.language} className={`${teko.variable} ${nunitoSans.variable}`}>
+      <head>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(metadataJson.locationSchema) }}
+        />
+        <meta name="google-site-verification" content="gtWVXwlFv5DLfjlFhgVr0YTAnLTIsZZP9SvIJub6cFs" />
+      </head>
+      <body>
+        <Suspense fallback={<div>Loading...</div>}>
+          <LayoutContent>{children}</LayoutContent>
+        </Suspense>
+      </body>
+    </html>
+  )
+}
+
+async function LayoutContent({ children }: { children: React.ReactNode }) {
   const selectedSections = await getSelectedSections()
   console.log("Selected sections:", selectedSections)
 
@@ -49,22 +69,13 @@ export default async function RootLayout({
   console.log("Footer component:", FooterComponent)
 
   return (
-    <html lang={metadataJson.language} className={`${teko.variable} ${nunitoSans.variable}`}>
-      <head>
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(metadataJson.locationSchema) }}
-        />
-        <meta name="google-site-verification" content="gtWVXwlFv5DLfjlFhgVr0YTAnLTIsZZP9SvIJub6cFs" />
-      </head>
-      <body>
-        {HeaderComponent && <HeaderComponent />}
-        <main>{children}</main>
-        <Toaster />
-        {FooterComponent && <FooterComponent />}
-        <FloatingButtons />
-      </body>
-    </html>
+    <>
+      {HeaderComponent && <HeaderComponent />}
+      <main>{children}</main>
+      <Toaster />
+      {FooterComponent && <FooterComponent />}
+      <FloatingButtons />
+    </>
   )
 }
 
